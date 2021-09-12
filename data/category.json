@@ -2,67 +2,67 @@
   {
     "_id": "1",
     "name": "Books",
-    "imageUrl": "https://data-polahub.herokuapp.com/images/logo.png",
+    "imageUrl": "https://data-polahub.herokuapp.com/images/icons/PresentationChart.js",
     "isCategory": true
   },
   {
     "_id": "2",
     "name": "Business",
-    "imageUrl": "https://data-polahub.herokuapp.com/images/logo.png",
+    "imageUrl": "https://data-polahub.herokuapp.com/images/icons/PresentationChart.js",
     "isCategory": true
   },
   {
     "_id": "3",
     "name": "Crypto & Stock",
-    "imageUrl": "https://data-polahub.herokuapp.com/images/logo.png",
+    "imageUrl": "https://data-polahub.herokuapp.com/images/icons/PresentationChart.js",
     "isCategory": false
   },
   {
     "_id": "4",
     "name": "Education",
-    "imageUrl": "https://data-polahub.herokuapp.com/images/logo.png",
+    "imageUrl": "https://data-polahub.herokuapp.com/images/icons/PresentationChart.js",
     "isCategory": true
   },
   {
     "_id": "5",
     "name": "Entertaiment",
-    "imageUrl": "https://data-polahub.herokuapp.com/images/logo.png",
+    "imageUrl": "https://data-polahub.herokuapp.com/images/icons/PresentationChart.js",
     "isCategory": true
   },
   {
     "_id": "6",
     "name": "Finance",
-    "imageUrl": "https://data-polahub.herokuapp.com/images/logo.png",
+    "imageUrl": "https://data-polahub.herokuapp.com/images/icons/PresentationChart.js",
     "isCategory": true
   },
   {
     "_id": "7",
     "name": "Food & Drink",
-    "imageUrl": "https://data-polahub.herokuapp.com/images/logo.png",
+    "imageUrl": "https://data-polahub.herokuapp.com/images/icons/PresentationChart.js",
     "isCategory": true
   },
   {
     "_id": "asd1293uasdads1",
     "name": "Health & Fitness",
-    "imageUrl": "https://data-polahub.herokuapp.com/images/logo.png",
+    "imageUrl": "https://data-polahub.herokuapp.com/images/icons/PresentationChart.js",
     "isCategory": true
   },
   {
     "_id": "asd1293uasdads1",
     "name": "Lifestyle",
-    "imageUrl": "https://data-polahub.herokuapp.com/images/logo.png",
+    "imageUrl": "https://data-polahub.herokuapp.com/images/icons/PresentationChart.js",
     "isCategory": true
   },
   {
     "_id": "asd1293uasdads1",
     "name": "Medical",
-    "imageUrl": "https://data-polahub.herokuapp.com/images/logo.png",
+    "imageUrl": "https://data-polahub.herokuapp.com/images/icons/PresentationChart.js",
     "isCategory": true
   },
   {
     "_id": "asd1293uasdads1",
     "name": "Music",
-    "imageUrl": "https://data-polahub.herokuapp.com/images/logo.png",
+    "imageUrl": "https://data-polahub.herokuapp.com/images/icons/PresentationChart.js",
     "isCategory": true
   },
   {
