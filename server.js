@@ -3,7 +3,7 @@ var app = express();
 var path = require('path');
 var fs = require('fs');
 const port = 3000;
-var CHARACTERS_JSON = path.join(__dirname, 'data/categories.json');
+var CHARACTERS_JSON = path.join(__dirname, 'data/category.json');
 
 app.get('/', function (req, res) {
   res.sendfile('public/index.html');
