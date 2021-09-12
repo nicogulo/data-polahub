@@ -1,0 +1,155 @@
+{
+  "categories": [
+    {
+      "_id": "asd1293uasdads1",
+      "name": "Tokopedia",
+      "imageUrl": "assets/images/hero.png",
+      "items": [
+        {
+          "_id": "1",
+          "name": "Books",
+          "imageUrl": "assets/images/logo.png",
+          "isCategory": true
+        },
+        {
+          "_id": "2",
+          "name": "Business",
+          "imageUrl": "assets/images/icons/book.svg",
+          "isCategory": true
+        },
+        {
+          "_id": "3",
+          "name": "Crypto & Stock",
+          "imageUrl": "assets/images/icons/book.svg",
+          "isCategory": false
+        },
+        {
+          "_id": "4",
+          "name": "Education",
+          "imageUrl": "assets/images/icons/book.svg",
+          "isCategory": true
+        },
+        {
+          "_id": "5",
+          "name": "Entertaiment",
+          "imageUrl": "assets/images/icons/book.svg",
+          "isCategory": true
+        },
+        {
+          "_id": "6",
+          "name": "Finance",
+          "imageUrl": "assets/images/icons/book.svg",
+          "isCategory": true
+        },
+        {
+          "_id": "7",
+          "name": "Food & Drink",
+          "imageUrl": "assets/images/icons/book.svg",
+          "isCategory": true
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Health & Fitness",
+          "imageUrl": "assets/images/icons/book.svg",
+          "isCategory": true
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Lifestyle",
+          "imageUrl": "assets/images/icons/book.svg",
+          "isCategory": true
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Medical",
+          "imageUrl": "assets/images/icons/book.svg",
+          "isCategory": true
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Music",
+          "imageUrl": "assets/images/icons/book.svg",
+          "isCategory": true
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Lifestyle",
+          "imageUrl": "assets/images/icons/book.svg",
+          "isCategory": true
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Navigation",
+          "imageUrl": "assets/images/icons/book.svg",
+          "isCategory": true
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "News",
+          "imageUrl": "assets/images/icons/book.svg",
+          "isCategory": true
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Photo & Video",
+          "imageUrl": "assets/images/icons/book.svg",
+          "isCategory": true
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Productivity",
+          "imageUrl": "assets/images/icons/book.svg",
+          "isCategory": true
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "References",
+          "imageUrl": "assets/images/icons/book.svg",
+          "isCategory": true
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Photo & Video",
+          "imageUrl": "assets/images/icons/book.svg",
+          "isCategory": true
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Shopping",
+          "imageUrl": "assets/images/icons/book.svg",
+          "isCategory": true
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Super App",
+          "imageUrl": "assets/images/icons/book.svg",
+          "isCategory": true
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Social Networking",
+          "imageUrl": "assets/images/icons/book.svg",
+          "isCategory": true
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Sports",
+          "imageUrl": "assets/images/icons/book.svg",
+          "isCategory": true
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Travel",
+          "imageUrl": "assets/images/icons/book.svg",
+          "isCategory": true
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Utilities",
+          "imageUrl": "assets/images/icons/book.svg",
+          "isCategory": true
+        }
+      ]
+    }
+  ]
+}
