@@ -9,7 +9,7 @@ app.get('/', function (req, res) {
   res.sendfile('public/index.html');
 });
 
-app.get('/api/menu', function (req, res) {
+app.get('/api/data', function (req, res) {
   fs.readFile(CHARACTERS_JSON, function (err, data) {
     if (err) process.exit(1);
     res.setHeader('Access-Control-Allow-Origin', '*');
