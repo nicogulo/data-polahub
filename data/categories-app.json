@@ -2,13 +2,148 @@
   {
     "_id": "1",
     "name": "Tokopedia",
+    "type": "Marketplace",
     "imageUrl": "https://data-polahub.herokuapp.com/images/tokped.png",
     "isCategory": true
   },
   {
     "_id": "2",
     "name": "Bank Jago",
+    "type": "Digital Bank",
     "imageUrl": "https://data-polahub.herokuapp.com/images/jago.png",
+    "isCategory": true
+  },
+  {
+    "_id": "3",
+    "name": "Video",
+    "type": "Video Streaming",
+    "imageUrl": "https://data-polahub.herokuapp.com/images/video.png",
+    "isCategory": true
+  },
+  {
+    "_id": "4",
+    "name": "BCA Mobile",
+    "type": "Mobile Banking",
+    "imageUrl": "https://data-polahub.herokuapp.com/images/bca.png",
+    "isCategory": true
+  },
+  {
+    "_id": "5",
+    "name": "Webtoon",
+    "type": "Comic",
+    "imageUrl": "https://data-polahub.herokuapp.com/images/webtoon.png",
+    "isCategory": true
+  },
+  {
+    "_id": "6",
+    "name": "Camera360",
+    "type": "Photography",
+    "imageUrl": "https://data-polahub.herokuapp.com/images/camera.png",
+    "isCategory": true
+  },
+  {
+    "_id": "7",
+    "name": "JOOX",
+    "type": "Music Streaming",
+    "imageUrl": "https://data-polahub.herokuapp.com/images/joox.png",
+    "isCategory": true
+  },
+  {
+    "_id": "8",
+    "name": "HaloDoc",
+    "type": "Medical",
+    "imageUrl": "https://data-polahub.herokuapp.com/images/halodoc.png",
+    "isCategory": true
+  },
+  {
+    "_id": "9",
+    "name": "Gofood",
+    "type": "Food",
+    "imageUrl": "https://data-polahub.herokuapp.com/images/gofood.png",
+    "isCategory": true
+  },
+  {
+    "_id": "10",
+    "name": "BABE",
+    "type": "Indonesia News",
+    "imageUrl": "https://data-polahub.herokuapp.com/images/babe.png",
+    "isCategory": true
+  },
+  {
+    "_id": "11",
+    "name": "Ruangguru",
+    "type": "Online Learning",
+    "imageUrl": "https://data-polahub.herokuapp.com/images/ruangguru.png",
+    "isCategory": true
+  },
+  {
+    "_id": "12",
+    "name": "Fore",
+    "type": "Coffee",
+    "imageUrl": "https://data-polahub.herokuapp.com/images/fore.png",
+    "isCategory": true
+  },
+  {
+    "_id": "13",
+    "name": "J&T Express",
+    "type": "Logistic",
+    "imageUrl": "https://data-polahub.herokuapp.com/images/jnt.png",
+    "isCategory": true
+  },
+  {
+    "_id": "14",
+    "name": "PeduliLindungi",
+    "type": "COVID-19",
+    "imageUrl": "https://data-polahub.herokuapp.com/images/peduli.png",
+    "isCategory": true
+  },
+  {
+    "_id": "16",
+    "name": "Tiket.com",
+    "type": "Travel",
+    "imageUrl": "https://data-polahub.herokuapp.com/images/tiket.png",
+    "isCategory": true
+  },
+  {
+    "_id": "17",
+    "name": "Bibit",
+    "type": "Mutual FUnd",
+    "imageUrl": "https://data-polahub.herokuapp.com/images/bibit.png",
+    "isCategory": true
+  },
+  {
+    "_id": "18",
+    "name": "Tantan",
+    "type": "Dating",
+    "imageUrl": "https://data-polahub.herokuapp.com/images/tantan.png",
+    "isCategory": true
+  },
+  {
+    "_id": "19",
+    "name": "Muslim Pro",
+    "type": "Muslim App",
+    "imageUrl": "https://data-polahub.herokuapp.com/images/muslim.png",
+    "isCategory": true
+  },
+  {
+    "_id": "20",
+    "name": "TikTok",
+    "type": "Social Media",
+    "imageUrl": "https://data-polahub.herokuapp.com/images/tiktok.png",
+    "isCategory": true
+  },
+  {
+    "_id": "21",
+    "name": "MyTelkomsel",
+    "type": "Provider",
+    "imageUrl": "https://data-polahub.herokuapp.com/images/telkomsel.png",
+    "isCategory": true
+  },
+  {
+    "_id": "22",
+    "name": "KitaBisa",
+    "type": "Donation",
+    "imageUrl": "https://data-polahub.herokuapp.com/images/kitabisa.png",
     "isCategory": true
   }
 ]
