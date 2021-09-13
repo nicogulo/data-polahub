@@ -1,0 +1,14 @@
+[
+  {
+    "_id": "1",
+    "name": "Tokopedia",
+    "imageUrl": "https://data-polahub.herokuapp.com/images/tokped.png",
+    "isCategory": true
+  },
+  {
+    "_id": "2",
+    "name": "Bank Jago",
+    "imageUrl": "https://data-polahub.herokuapp.com/images/jago.png",
+    "isCategory": true
+  }
+]
