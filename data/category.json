@@ -75,7 +75,7 @@
   {
     "_id": "asd1293uasdads1",
     "name": "News",
-    "imageUrl": "https://data-polahub.herokuapp.com/images/icons/active/hastag-up.svg",
+    "imageUrl": "https://data-polahub.herokuapp.com/images/icons/active/hashtag-up.svg",
     "isCategory": true
   },
   {
@@ -87,7 +87,7 @@
   {
     "_id": "asd1293uasdads1",
     "name": "Productivity",
-    "imageUrl": "https://data-polahub.herokuapp.com/images/icons/active/task-squarel.svg",
+    "imageUrl": "https://data-polahub.herokuapp.com/images/icons/active/task-square.svg",
     "isCategory": true
   },
   {
