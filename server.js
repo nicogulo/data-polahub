@@ -3,14 +3,14 @@ var app = express();
 var path = require('path');
 var fs = require('fs');
 const port = 3000;
-var CHARACTERS_JSON = path.join(__dirname, 'data/category.json');
+var CATEGORY_JSON = path.join(__dirname, 'data/category.json');
 
 app.get('/', function (req, res) {
   res.sendfile('public/index.html');
 });
 
 app.get('/api/data', function (req, res) {
-  fs.readFile(CHARACTERS_JSON, function (err, data) {
+  fs.readFile(CATEGORY_JSON, function (err, data) {
     if (err) process.exit(1);
     res.setHeader('Access-Control-Allow-Origin', '*');
     res.json(JSON.parse(data));
