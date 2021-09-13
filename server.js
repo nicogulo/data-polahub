@@ -18,7 +18,7 @@ app.get('/api/data', function (req, res) {
   });
 });
 
-app.get('/api/data', function (req, res) {
+app.get('/api/data-app', function (req, res) {
   fs.readFile(CATEGORY_APP_JSON, function (err, data) {
     if (err) process.exit(1);
     res.setHeader('Access-Control-Allow-Origin', '*');
