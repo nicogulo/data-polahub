@@ -4,6 +4,7 @@ var path = require('path');
 var fs = require('fs');
 const port = 3000;
 var CATEGORY_JSON = path.join(__dirname, 'data/category.json');
+var CATEGORY_APP_JSON = path.join(__dirname, 'data/categories-app.json');
 
 app.get('/', function (req, res) {
   res.sendfile('public/index.html');
@@ -11,6 +12,14 @@ app.get('/', function (req, res) {
 
 app.get('/api/data', function (req, res) {
   fs.readFile(CATEGORY_JSON, function (err, data) {
+    if (err) process.exit(1);
+    res.setHeader('Access-Control-Allow-Origin', '*');
+    res.json(JSON.parse(data));
+  });
+});
+
+app.get('/api/data', function (req, res) {
+  fs.readFile(CATEGORY_APP_JSON, function (err, data) {
     if (err) process.exit(1);
     res.setHeader('Access-Control-Allow-Origin', '*');
     res.json(JSON.parse(data));
