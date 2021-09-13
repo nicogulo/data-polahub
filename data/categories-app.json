@@ -5,7 +5,7 @@
     "type": "Marketplace",
     "imageUrl": "https://data-polahub.herokuapp.com/images/tokped.png",
     "isCategory": true,
-    "color": "#64d33c"
+    "color": "64d33c"
   },
   {
     "_id": "2",
@@ -13,7 +13,7 @@
     "type": "Digital Bank",
     "imageUrl": "https://data-polahub.herokuapp.com/images/jago.png",
     "isCategory": true,
-    "color": "#64d33c"
+    "color": "64d33c"
   },
   {
     "_id": "3",
