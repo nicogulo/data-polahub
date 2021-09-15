@@ -3,6 +3,7 @@
     "_id": "1",
     "name": "Tokopedia",
     "type": "Marketplace",
+    "category": "",
     "imageUrl": "https://data-polahub.herokuapp.com/images/tokped.png",
     "isCategory": true,
     "color": "rgba(99, 211, 59, 0.16"
@@ -11,14 +12,16 @@
     "_id": "2",
     "name": "Bank Jago",
     "type": "Digital Bank",
+    "category": "Finance",
     "imageUrl": "https://data-polahub.herokuapp.com/images/jago.png",
     "isCategory": true,
     "color": "rgba(244, 191, 0, 0.16)"
   },
   {
     "_id": "3",
-    "name": "Video",
+    "name": "Vidio",
     "type": "Video Streaming",
+    "category": "Entertaiment",
     "imageUrl": "https://data-polahub.herokuapp.com/images/video.png",
     "isCategory": true,
     "color": "rgba(249, 54, 90, 0.16)"
@@ -27,6 +30,7 @@
     "_id": "4",
     "name": "BCA Mobile",
     "type": "Mobile Banking",
+    "category": "Finance",
     "imageUrl": "https://data-polahub.herokuapp.com/images/bca.png",
     "isCategory": true,
     "color": "rgba(0, 179, 249, 0.16)"
@@ -35,6 +39,7 @@
     "_id": "5",
     "name": "Webtoon",
     "type": "Comic",
+    "category": "Book",
     "imageUrl": "https://data-polahub.herokuapp.com/images/webtoon.png",
     "isCategory": true,
     "color": "rgba(99, 211, 59, 0.16)"
@@ -43,6 +48,7 @@
     "_id": "6",
     "name": "Camera360",
     "type": "Photography",
+    "category": "Photo & Video",
     "imageUrl": "https://data-polahub.herokuapp.com/images/camera.png",
     "isCategory": true,
     "color": "rgba(244, 191, 0, 0.16)"
@@ -51,6 +57,7 @@
     "_id": "7",
     "name": "JOOX",
     "type": "Music Streaming",
+    "category": "Music",
     "imageUrl": "https://data-polahub.herokuapp.com/images/joox.png",
     "isCategory": true,
     "color": "rgba(99, 211, 59, 0.16)"
@@ -59,6 +66,7 @@
     "_id": "8",
     "name": "HaloDoc",
     "type": "Medical",
+    "category": "Medical",
     "imageUrl": "https://data-polahub.herokuapp.com/images/halodoc.png",
     "isCategory": true,
     "color": " rgba(249, 54, 90, 0.16)"
@@ -67,6 +75,7 @@
     "_id": "9",
     "name": "Gofood",
     "type": "Food",
+    "category": "Food & Drink",
     "imageUrl": "https://data-polahub.herokuapp.com/images/gofood.png",
     "isCategory": true,
     "color": "rgba(249, 54, 90, 0.16"
@@ -75,6 +84,7 @@
     "_id": "10",
     "name": "BABE",
     "type": "Indonesia News",
+    "category": "News",
     "imageUrl": "https://data-polahub.herokuapp.com/images/babe.png",
     "isCategory": true,
     "color": "rgba(244, 102, 0, 0.16)"
@@ -83,6 +93,7 @@
     "_id": "11",
     "name": "Ruangguru",
     "type": "Online Learning",
+    "category": "Education",
     "imageUrl": "https://data-polahub.herokuapp.com/images/ruangguru.png",
     "isCategory": true,
     "color": "rgba(0, 179, 249, 0.16)"
@@ -91,6 +102,7 @@
     "_id": "12",
     "name": "Fore",
     "type": "Coffee",
+    "category": "Food & Drink",
     "imageUrl": "https://data-polahub.herokuapp.com/images/fore.png",
     "isCategory": true,
     "color": "rgba(99, 211, 59, 0.16)"
@@ -99,6 +111,7 @@
     "_id": "13",
     "name": "J&T Express",
     "type": "Logistic",
+    "category": "Business",
     "imageUrl": "https://data-polahub.herokuapp.com/images/jnt.png",
     "isCategory": true,
     "color": "rgba(249, 54, 90, 0.16)"
@@ -107,6 +120,7 @@
     "_id": "14",
     "name": "PeduliLindungi",
     "type": "COVID-19",
+    "category": "Health & Fitness",
     "imageUrl": "https://data-polahub.herokuapp.com/images/peduli.png",
     "isCategory": true,
     "color": "rgba(0, 179, 249, 0.16)"
@@ -115,6 +129,7 @@
     "_id": "16",
     "name": "Tiket.com",
     "type": "Travel",
+    "category": "Travel",
     "imageUrl": "https://data-polahub.herokuapp.com/images/tiket.png",
     "isCategory": true,
     "color": "rgba(244, 191, 0, 0.16)"
@@ -123,6 +138,7 @@
     "_id": "17",
     "name": "Bibit",
     "type": "Mutual FUnd",
+    "category": "Crypto & Stock",
     "imageUrl": "https://data-polahub.herokuapp.com/images/bibit.png",
     "isCategory": true,
     "color": "rgba(99, 211, 59, 0.16)"
@@ -131,6 +147,7 @@
     "_id": "18",
     "name": "Tantan",
     "type": "Dating",
+    "category": "",
     "imageUrl": "https://data-polahub.herokuapp.com/images/tantan.png",
     "isCategory": true,
     "color": "rgba(244, 102, 0, 0.16)"
@@ -139,6 +156,7 @@
     "_id": "19",
     "name": "Muslim Pro",
     "type": "Muslim App",
+    "category": "",
     "imageUrl": "https://data-polahub.herokuapp.com/images/muslim.png",
     "isCategory": true,
     "color": "rgba(99, 211, 59, 0.16)"
@@ -147,6 +165,7 @@
     "_id": "20",
     "name": "TikTok",
     "type": "Social Media",
+    "category": "Social Networking",
     "imageUrl": "https://data-polahub.herokuapp.com/images/tiktok.png",
     "isCategory": true,
     "color": "rgba(249, 54, 90, 0.16)"
@@ -155,6 +174,7 @@
     "_id": "21",
     "name": "MyTelkomsel",
     "type": "Provider",
+    "category": "",
     "imageUrl": "https://data-polahub.herokuapp.com/images/telkomsel.png",
     "isCategory": true,
     "color": "rgba(249, 54, 90, 0.16)"
@@ -163,6 +183,7 @@
     "_id": "22",
     "name": "KitaBisa",
     "type": "Donation",
+    "category": "Lifestyle",
     "imageUrl": "https://data-polahub.herokuapp.com/images/kitabisa.png",
     "isCategory": true,
     "color": "rgba(0, 179, 249, 0.16)"
