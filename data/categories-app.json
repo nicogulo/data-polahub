@@ -3,7 +3,7 @@
     "_id": "1",
     "name": "Tokopedia",
     "type": "Marketplace",
-    "category": "",
+    "category": "Shopping",
     "imageUrl": "https://data-polahub.herokuapp.com/images/tokped.png",
     "isCategory": true,
     "color": "rgba(99, 211, 59, 0.16"
@@ -39,7 +39,7 @@
     "_id": "5",
     "name": "Webtoon",
     "type": "Comic",
-    "category": "Book",
+    "category": "Books",
     "imageUrl": "https://data-polahub.herokuapp.com/images/webtoon.png",
     "isCategory": true,
     "color": "rgba(99, 211, 59, 0.16)"
