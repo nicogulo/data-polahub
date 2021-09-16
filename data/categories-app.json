@@ -1,14 +1,5 @@
 [
   {
-    "_id": "0",
-    "name": null,
-    "type": null,
-    "category": "All Category",
-    "imageUrl": null,
-    "isCategory": false,
-    "color": "rgba(99, 211, 59, 0.16"
-  },
-  {
     "_id": "1",
     "name": "Tokopedia",
     "type": "Marketplace",
