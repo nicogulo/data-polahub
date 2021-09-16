@@ -1,5 +1,11 @@
 [
   {
+    "_id": "0",
+    "name": "All Categories",
+    "imageUrl": "https://data-polahub.herokuapp.com/images/icons/categories/mrnu.svg",
+    "isCategory": true
+  },
+  {
     "_id": "1",
     "name": "Books",
     "imageUrl": "https://data-polahub.herokuapp.com/images/icons/categories/book.svg",
