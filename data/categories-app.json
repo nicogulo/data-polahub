@@ -342,10 +342,10 @@
     "category": "Shopping",
     "imageUrl": [
       {
-        "icon": "https://data-polahub.herokuapp.com/images/shoppe.png"
+        "icon": "https://data-polahub.herokuapp.com/images/shopee.png"
       },
       {
-        "card": "https://data-polahub.herokuapp.com/images/card/shoppe.png"
+        "card": "https://data-polahub.herokuapp.com/images/card/shopee.png"
       }
     ],
     "isCategory": true,
