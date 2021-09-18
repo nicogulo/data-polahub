@@ -77,12 +77,8 @@
       },
       {
         "pattern": [
-          {
-            "1": "https://data-polahub.herokuapp.com/images/pattern/webtoon/1.png"
-          },
-          {
-            "2": "https://data-polahub.herokuapp.com/images/pattern/webtoon/2.png"
-          }
+          "https://data-polahub.herokuapp.com/images/pattern/webtoon/1.png",
+          "https://data-polahub.herokuapp.com/images/pattern/webtoon/2.png"
         ]
       }
     ],
