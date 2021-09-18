@@ -76,7 +76,14 @@
         "card": "https://data-polahub.herokuapp.com/images/card/webtoon.png"
       },
       {
-        "pattern": "https://data-polahub.herokuapp.com/images/pattern/webtoon/1.png"
+        "pattern": [
+          {
+            "1": "https://data-polahub.herokuapp.com/images/pattern/webtoon/1.png"
+          },
+          {
+            "2": "https://data-polahub.herokuapp.com/images/pattern/webtoon/2.png"
+          }
+        ]
       }
     ],
     "isCategory": true,
