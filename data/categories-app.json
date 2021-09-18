@@ -67,7 +67,7 @@
     "_id": "5",
     "name": "Webtoon",
     "type": "Comic",
-    "category": "Books",
+    "category": "Entertaiment",
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/webtoon.png"
@@ -275,7 +275,7 @@
     "_id": "19",
     "name": "Muslim Pro",
     "type": "Muslim App",
-    "category": "",
+    "category": "References",
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/muslim.png"
