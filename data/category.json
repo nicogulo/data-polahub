@@ -1,136 +1,144 @@
 [
   {
     "_id": "1",
-    "name": "Books",
+    "name": "Coming Soon",
     "imageUrl": "https://data-polahub.herokuapp.com/images/icons/categories/book.svg",
-    "isCategory": true
+    "isNew": true,
+    "statue": "Dec"
   },
   {
     "_id": "2",
-    "name": "Business",
-    "imageUrl": "https://data-polahub.herokuapp.com/images/icons/categories/briefcase.svg",
-    "isCategory": true
+    "name": "Books",
+    "imageUrl": "https://data-polahub.herokuapp.com/images/icons/categories/book.svg",
+    "isNew": true
   },
   {
     "_id": "3",
-    "name": "Crypto & Stock",
-    "imageUrl": "https://data-polahub.herokuapp.com/images/icons/categories/ethereum-(eth).svg",
-    "isCategory": false
+    "name": "Business",
+    "imageUrl": "https://data-polahub.herokuapp.com/images/icons/categories/briefcase.svg",
+    "isNew": true
   },
   {
     "_id": "4",
-    "name": "Education",
-    "imageUrl": "https://data-polahub.herokuapp.com/images/icons/categories/teacher.svg",
-    "isCategory": true
+    "name": "Crypto & Stock",
+    "imageUrl": "https://data-polahub.herokuapp.com/images/icons/categories/ethereum-(eth).svg",
+    "isNew": false
   },
   {
     "_id": "5",
-    "name": "Entertaiment",
-    "imageUrl": "https://data-polahub.herokuapp.com/images/icons/categories/monitor-mobbile.svg",
-    "isCategory": true
+    "name": "Education",
+    "imageUrl": "https://data-polahub.herokuapp.com/images/icons/categories/teacher.svg",
+    "isNew": true
   },
   {
     "_id": "6",
-    "name": "Finance",
-    "imageUrl": "https://data-polahub.herokuapp.com/images/icons/categories/wallet.svg",
-    "isCategory": true
+    "name": "Entertaiment",
+    "imageUrl": "https://data-polahub.herokuapp.com/images/icons/categories/monitor-mobbile.svg",
+    "isNew": true
   },
   {
     "_id": "7",
+    "name": "Finance",
+    "imageUrl": "https://data-polahub.herokuapp.com/images/icons/categories/wallet.svg",
+    "isNew": true
+  },
+  {
+    "_id": "8",
     "name": "Food & Drink",
     "imageUrl": "https://data-polahub.herokuapp.com/images/icons/categories/coffee.svg",
-    "isCategory": true
+    "isNew": true
+  },
+  {
+    "_id": "asd1293uasdads1",
+    "name": "Gojek Product",
+    "imageUrl": "https://data-polahub.herokuapp.com/images/icons/categories/heart.svg",
+    "isNew": true
   },
   {
     "_id": "asd1293uasdads1",
     "name": "Health & Fitness",
     "imageUrl": "https://data-polahub.herokuapp.com/images/icons/categories/heart.svg",
-    "isCategory": true
+    "isNew": true
   },
   {
     "_id": "asd1293uasdads1",
     "name": "Lifestyle",
     "imageUrl": "https://data-polahub.herokuapp.com/images/icons/categories/glass.svg",
-    "isCategory": true
+    "isNew": true
   },
   {
     "_id": "asd1293uasdads1",
     "name": "Medical",
     "imageUrl": "https://data-polahub.herokuapp.com/images/icons/categories/milk.svg",
-    "isCategory": true
+    "isNew": true
   },
   {
     "_id": "asd1293uasdads1",
     "name": "Music",
     "imageUrl": "https://data-polahub.herokuapp.com/images/icons/categories/music.svg",
-    "isCategory": true
+    "isNew": true
   },
 
   {
     "_id": "asd1293uasdads1",
     "name": "Navigation",
     "imageUrl": "https://data-polahub.herokuapp.com/images/icons/categories/map.svg",
-    "isCategory": true
+    "isNew": true
   },
   {
     "_id": "asd1293uasdads1",
     "name": "News",
     "imageUrl": "https://data-polahub.herokuapp.com/images/icons/categories/hashtag-up.svg",
-    "isCategory": true
+    "isNew": true
   },
   {
     "_id": "asd1293uasdads1",
     "name": "Photo & Video",
     "imageUrl": "https://data-polahub.herokuapp.com/images/icons/categories/camera.svg",
-    "isCategory": true
+    "isNew": true
   },
   {
     "_id": "asd1293uasdads1",
     "name": "Productivity",
     "imageUrl": "https://data-polahub.herokuapp.com/images/icons/categories/task-square.svg",
-    "isCategory": true
+    "isNew": true
   },
   {
     "_id": "asd1293uasdads1",
     "name": "References",
     "imageUrl": "https://data-polahub.herokuapp.com/images/icons/categories/search-normal.svg",
-    "isCategory": true
+    "isNew": true
   },
 
   {
     "_id": "asd1293uasdads1",
     "name": "Shopping",
     "imageUrl": "https://data-polahub.herokuapp.com/images/icons/categories/bag.svg",
-    "isCategory": true
-  },
-  {
-    "_id": "asd1293uasdads1",
-    "name": "Super App",
-    "imageUrl": "https://data-polahub.herokuapp.com/images/icons/categories/thorchain-(rune).svg",
-    "isCategory": true
+    "isNew": true
   },
   {
     "_id": "asd1293uasdads1",
     "name": "Social Networking",
     "imageUrl": "https://data-polahub.herokuapp.com/images/icons/categories/messages.svg",
-    "isCategory": true
+    "isNew": true
   },
+
   {
     "_id": "asd1293uasdads1",
     "name": "Sports",
     "imageUrl": "https://data-polahub.herokuapp.com/images/icons/categories/weight.svg",
-    "isCategory": true
+    "isNew": true
   },
   {
     "_id": "asd1293uasdads1",
     "name": "Travel",
     "imageUrl": "https://data-polahub.herokuapp.com/images/icons/categories/airplane.svg",
-    "isCategory": true
+    "isNew": true
   },
   {
     "_id": "asd1293uasdads1",
     "name": "Utilities",
     "imageUrl": "https://data-polahub.herokuapp.com/images/icons/categories/box.svg",
-    "isCategory": true
+    "isNew": true
   }
 ]
