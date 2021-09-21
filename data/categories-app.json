@@ -337,7 +337,7 @@
   },
   {
     "_id": "5",
-    "name": "Webtoon",
+    "name": "Line Webtoon",
     "type": "Comic",
     "category": "Entertaiment",
     "imageUrl": [
@@ -573,11 +573,191 @@
         "pattern": [
           {
             "id": 1,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/telkomsel/1.png"
+            "name": "https://data-polahub.herokuapp.com/images/pattern/joox/1.png"
           },
           {
             "id": 2,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/telkomsel/2.png"
+            "name": "https://data-polahub.herokuapp.com/images/pattern/joox/2.png"
+          },
+          {
+            "id": 3,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/joox/3.png"
+          },
+          {
+            "id": 4,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/joox/4.png"
+          },
+          {
+            "id": 5,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/joox/5.png"
+          },
+          {
+            "id": 6,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/joox/6.png"
+          },
+          {
+            "id": 7,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/joox/7.png"
+          },
+          {
+            "id": 8,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/joox/8.png"
+          },
+          {
+            "id": 9,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/joox/9.png"
+          },
+          {
+            "id": 10,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/joox/10.png"
+          },
+          {
+            "id": 11,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/joox/11.png"
+          },
+          {
+            "id": 12,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/joox/12.png"
+          },
+          {
+            "id": 13,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/joox/13.png"
+          },
+          {
+            "id": 14,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/joox/14.png"
+          },
+          {
+            "id": 15,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/joox/15.png"
+          },
+          {
+            "id": 16,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/joox/16.png"
+          },
+          {
+            "id": 17,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/joox/17.png"
+          },
+          {
+            "id": 18,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/joox/18.png"
+          },
+          {
+            "id": 19,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/joox/19.png"
+          },
+          {
+            "id": 20,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/joox/20.png"
+          },
+          {
+            "id": 21,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/joox/21.png"
+          },
+          {
+            "id": 22,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/joox/22.png"
+          },
+          {
+            "id": 23,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/joox/23.png"
+          },
+          {
+            "id": 24,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/joox/24.png"
+          },
+          {
+            "id": 25,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/joox/25.png"
+          },
+          {
+            "id": 26,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/joox/26.png"
+          },
+          {
+            "id": 27,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/joox/27.png"
+          },
+          {
+            "id": 28,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/joox/28.png"
+          },
+          {
+            "id": 29,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/joox/29.png"
+          },
+          {
+            "id": 30,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/joox/30.png"
+          },
+          {
+            "id": 31,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/joox/31.png"
+          },
+          {
+            "id": 32,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/joox/32.png"
+          },
+          {
+            "id": 33,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/joox/33.png"
+          },
+          {
+            "id": 34,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/joox/34.png"
+          },
+          {
+            "id": 35,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/joox/35.png"
+          },
+          {
+            "id": 36,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/joox/36.png"
+          },
+          {
+            "id": 37,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/joox/37.png"
+          },
+          {
+            "id": 38,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/joox/38.png"
+          },
+          {
+            "id": 39,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/joox/39.png"
+          },
+          {
+            "id": 40,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/joox/40.png"
+          },
+          {
+            "id": 41,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/joox/41.png"
+          },
+          {
+            "id": 42,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/joox/42.png"
+          },
+          {
+            "id": 43,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/joox/43.png"
+          },
+          {
+            "id": 44,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/joox/44.png"
+          },
+          {
+            "id": 45,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/joox/45.png"
+          },
+          {
+            "id": 46,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/joox/46.png"
+          },
+          {
+            "id": 47,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/joox/47.png"
           }
         ]
       }
@@ -627,10 +807,10 @@
     "_id": "9",
     "name": "Gofood",
     "type": "Food",
-    "category": "Food & Drink",
+    "category": [{ "name": "Food & Drink" }, { "name": "Gojek Product" }],
     "imageUrl": [
       {
-        "icon": "https://data-polahub.herokuapp.com/images/gofood.png"
+        "icon": "https://data-polahub.herokuapp.com/images/gojek.png"
       },
       {
         "card": "https://data-polahub.herokuapp.com/images/card/gofood.png"
@@ -639,11 +819,215 @@
         "pattern": [
           {
             "id": 1,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/telkomsel/1.png"
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gofood/1.png"
           },
           {
             "id": 2,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/telkomsel/2.png"
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gofood/2.png"
+          },
+          {
+            "id": 3,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gofood/3.png"
+          },
+          {
+            "id": 4,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gofood/4.png"
+          },
+          {
+            "id": 5,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gofood/5.png"
+          },
+          {
+            "id": 6,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gofood/6.png"
+          },
+          {
+            "id": 7,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gofood/7.png"
+          },
+          {
+            "id": 8,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gofood/8.png"
+          },
+          {
+            "id": 9,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gofood/9.png"
+          },
+          {
+            "id": 10,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gofood/10.png"
+          },
+          {
+            "id": 11,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gofood/11.png"
+          },
+          {
+            "id": 12,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gofood/12.png"
+          },
+          {
+            "id": 13,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gofood/13.png"
+          },
+          {
+            "id": 14,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gofood/14.png"
+          },
+          {
+            "id": 15,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gofood/15.png"
+          },
+          {
+            "id": 16,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gofood/16.png"
+          },
+          {
+            "id": 17,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gofood/17.png"
+          },
+          {
+            "id": 18,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gofood/18.png"
+          },
+          {
+            "id": 19,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gofood/19.png"
+          },
+          {
+            "id": 20,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gofood/20.png"
+          },
+          {
+            "id": 21,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gofood/21.png"
+          },
+          {
+            "id": 22,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gofood/22.png"
+          },
+          {
+            "id": 23,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gofood/23.png"
+          },
+          {
+            "id": 24,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gofood/24.png"
+          },
+          {
+            "id": 25,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gofood/25.png"
+          },
+          {
+            "id": 26,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gofood/26.png"
+          },
+          {
+            "id": 27,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gofood/27.png"
+          },
+          {
+            "id": 28,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gofood/28.png"
+          },
+          {
+            "id": 29,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gofood/29.png"
+          },
+          {
+            "id": 30,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gofood/30.png"
+          },
+          {
+            "id": 31,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gofood/31.png"
+          },
+          {
+            "id": 32,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gofood/32.png"
+          },
+          {
+            "id": 33,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gofood/33.png"
+          },
+          {
+            "id": 34,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gofood/34.png"
+          },
+          {
+            "id": 35,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gofood/35.png"
+          },
+          {
+            "id": 36,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gofood/36.png"
+          },
+          {
+            "id": 37,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gofood/37.png"
+          },
+          {
+            "id": 38,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gofood/38.png"
+          },
+          {
+            "id": 39,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gofood/39.png"
+          },
+          {
+            "id": 40,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gofood/40.png"
+          },
+          {
+            "id": 41,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gofood/41.png"
+          },
+          {
+            "id": 42,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gofood/42.png"
+          },
+          {
+            "id": 43,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gofood/43.png"
+          },
+          {
+            "id": 44,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gofood/44.png"
+          },
+          {
+            "id": 45,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gofood/45.png"
+          },
+          {
+            "id": 46,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gofood/46.png"
+          },
+          {
+            "id": 47,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gofood/47.png"
+          },
+          {
+            "id": 48,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gofood/48.png"
+          },
+          {
+            "id": 49,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gofood/49.png"
+          },
+          {
+            "id": 50,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gofood/50.png"
+          },
+          {
+            "id": 51,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gofood/51.png"
+          },
+          {
+            "id": 52,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gofood/52.png"
+          },
+          {
+            "id": 53,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gofood/53.png"
           }
         ]
       }
@@ -2528,7 +2912,7 @@
     "appstore": "https://apps.apple.com/id/app/campaign-forchange/id1153928765",
     "playstore": "https://play.google.com/store/apps/details?id=paratu.com.apps.campaign&hl=en_US&gl=US",
     "country": "Indonesia",
-    "color": "rgba(244, 102, 0, 0.16)"
+    "color": "rgba(0, 179, 249, 0.16)"
   },
   {
     "_id": "25",
@@ -2725,11 +3109,377 @@
       }
     ],
     "isCategory": true,
-    "provider": "PT. Unitokopo Teknologi",
-    "copyright": "© 2017 PT. Unitokopo Teknologi",
-    "appstore": "https://apps.apple.com/id/app/campaign-forchange/id1153928765",
-    "playstore": "https://play.google.com/store/apps/details?id=paratu.com.apps.campaign&hl=en_US&gl=US",
+    "provider": "PT Go-jek Indonesia",
+    "copyright": "© PT Aplikasi Karya Anak Bangsa",
+    "appstore": "https://apps.apple.com/id/app/gojek/id944875099",
+    "playstore": "https://play.google.com/store/apps/details?id=com.gojek.app&hl=in&gl=US",
     "country": "Indonesia",
-    "color": "rgba(244, 102, 0, 0.16)"
+    "color": "rgba(99, 211, 59, 0.16)"
+  },
+  {
+    "_id": "26",
+    "name": "GoPay Plus",
+    "type": "Digital Wallet",
+    "category": [
+      {
+        "name": "Finance"
+      },
+      { "name": "Gojek Product" }
+    ],
+    "imageUrl": [
+      {
+        "icon": "https://data-polahub.herokuapp.com/images/gojek.png"
+      },
+      {
+        "card": "https://data-polahub.herokuapp.com/images/card/gopay.png"
+      },
+      {
+        "pattern": [
+          {
+            "id": 1,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/1.png"
+          },
+          {
+            "id": 2,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/2.png"
+          },
+          {
+            "id": 3,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/3.png"
+          },
+          {
+            "id": 4,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/4.png"
+          },
+          {
+            "id": 5,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/5.png"
+          },
+          {
+            "id": 6,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/6.png"
+          },
+          {
+            "id": 7,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/7.png"
+          },
+          {
+            "id": 8,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/8.png"
+          },
+          {
+            "id": 9,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/9.png"
+          },
+          {
+            "id": 10,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/10.png"
+          },
+          {
+            "id": 11,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/11.png"
+          },
+          {
+            "id": 12,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/12.png"
+          },
+          {
+            "id": 13,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/13.png"
+          },
+          {
+            "id": 14,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/14.png"
+          },
+          {
+            "id": 15,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/15.png"
+          },
+          {
+            "id": 16,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/16.png"
+          },
+          {
+            "id": 17,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/17.png"
+          },
+          {
+            "id": 18,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/18.png"
+          },
+          {
+            "id": 19,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/19.png"
+          },
+          {
+            "id": 20,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/20.png"
+          },
+          {
+            "id": 21,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/21.png"
+          },
+          {
+            "id": 22,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/22.png"
+          },
+          {
+            "id": 23,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/23.png"
+          },
+          {
+            "id": 24,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/24.png"
+          },
+          {
+            "id": 25,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/25.png"
+          },
+          {
+            "id": 26,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/26.png"
+          },
+          {
+            "id": 27,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/27.png"
+          },
+          {
+            "id": 28,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/28.png"
+          },
+          {
+            "id": 29,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/29.png"
+          },
+          {
+            "id": 30,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/30.png"
+          },
+          {
+            "id": 31,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/31.png"
+          },
+          {
+            "id": 32,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/32.png"
+          },
+          {
+            "id": 33,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/33.png"
+          },
+          {
+            "id": 34,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/34.png"
+          },
+          {
+            "id": 35,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/35.png"
+          },
+          {
+            "id": 36,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/36.png"
+          },
+          {
+            "id": 37,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/37.png"
+          },
+          {
+            "id": 38,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/38.png"
+          },
+          {
+            "id": 39,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/39.png"
+          },
+          {
+            "id": 40,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/40.png"
+          },
+          {
+            "id": 41,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/41.png"
+          },
+          {
+            "id": 42,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/42.png"
+          },
+          {
+            "id": 43,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/43.png"
+          },
+          {
+            "id": 44,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/44.png"
+          },
+          {
+            "id": 45,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/45.png"
+          },
+          {
+            "id": 46,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/46.png"
+          },
+          {
+            "id": 47,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/47.png"
+          },
+          {
+            "id": 48,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/48.png"
+          },
+          {
+            "id": 49,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/49.png"
+          },
+          {
+            "id": 50,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/50.png"
+          },
+          {
+            "id": 51,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/51.png"
+          },
+          {
+            "id": 52,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/52.png"
+          },
+          {
+            "id": 53,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/53.png"
+          },
+          {
+            "id": 54,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/54.png"
+          },
+          {
+            "id": 55,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/55.png"
+          },
+          {
+            "id": 56,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/56.png"
+          },
+          {
+            "id": 57,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/57.png"
+          },
+          {
+            "id": 58,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/58.png"
+          },
+          {
+            "id": 59,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/59.png"
+          },
+          {
+            "id": 60,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/60.png"
+          },
+          {
+            "id": 61,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/61.png"
+          },
+          {
+            "id": 62,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/62.png"
+          },
+          {
+            "id": 63,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/63.png"
+          },
+          {
+            "id": 64,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/64.png"
+          },
+          {
+            "id": 65,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/65.png"
+          },
+          {
+            "id": 66,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/66.png"
+          },
+          {
+            "id": 67,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/67.png"
+          },
+          {
+            "id": 68,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/68.png"
+          },
+          {
+            "id": 69,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/69.png"
+          },
+          {
+            "id": 70,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/70.png"
+          },
+          {
+            "id": 71,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/71.png"
+          },
+          {
+            "id": 72,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/72.png"
+          },
+          {
+            "id": 73,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/73.png"
+          },
+          {
+            "id": 74,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/74.png"
+          },
+          {
+            "id": 75,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/75.png"
+          },
+          {
+            "id": 76,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/76.png"
+          },
+          {
+            "id": 77,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/77.png"
+          },
+          {
+            "id": 78,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/78.png"
+          },
+          {
+            "id": 79,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/79.png"
+          },
+          {
+            "id": 80,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/80.png"
+          },
+          {
+            "id": 81,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/81.png"
+          },
+          {
+            "id": 82,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/82.png"
+          },
+          {
+            "id": 83,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/83.png"
+          },
+          {
+            "id": 84,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/84.png"
+          }
+        ]
+      }
+    ],
+    "isCategory": true,
+    "provider": "PT Go-jek Indonesia",
+    "copyright": "© PT Aplikasi Karya Anak Bangsa",
+    "appstore": "https://apps.apple.com/id/app/gojek/id944875099",
+    "playstore": "https://play.google.com/store/apps/details?id=com.gojek.app&hl=in&gl=US",
+    "country": "Indonesia",
+    "color": "rgba(0, 179, 249, 0.16)"
   }
 ]
