@@ -339,7 +339,7 @@
     "_id": "5",
     "name": "Webtoon",
     "type": "Comic",
-    "category": ["Entertaiment", "Utilities"],
+    "category": "Entertaiment",
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/webtoon.png"
