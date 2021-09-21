@@ -328,18 +328,18 @@
       }
     ],
     "isCategory": true,
-    "provider": "",
-    "copyright": "",
-    "appstore": "",
-    "playstore": "",
-    "country": "",
+    "provider": "PT Bank Central Asia Tbk.",
+    "copyright": "© 2012 PT. Bank Central Asia Tbk",
+    "appstore": "https://apps.apple.com/id/app/bca-mobile/id551587254",
+    "playstore": "https://play.google.com/store/apps/details?id=com.bca&hl=in&gl=US",
+    "country": "Indonesia",
     "color": "rgba(0, 179, 249, 0.16)"
   },
   {
     "_id": "5",
     "name": "Webtoon",
     "type": "Comic",
-    "category": [{ "name": "Entertaiment" }, { "name": "utilities" }],
+    "category": "Entertaiment",
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/webtoon.png"
@@ -517,11 +517,11 @@
       }
     ],
     "isCategory": true,
-    "provider": "",
-    "copyright": "",
-    "appstore": "",
-    "playstore": "",
-    "country": "",
+    "provider": "Webtoon Entertaiment INC.",
+    "copyright": "© Webtoon Entertaiment",
+    "appstore": "https://apps.apple.com/us/app/webtoon-comics/id894546091",
+    "playstore": "https://play.google.com/store/apps/details?id=com.naver.linewebtoon&hl=in&gl=US",
+    "country": "South Korea",
     "color": "rgba(99, 211, 59, 0.16)"
   },
   {
@@ -770,11 +770,11 @@
       }
     ],
     "isCategory": true,
-    "provider": "",
-    "copyright": "",
-    "appstore": "",
-    "playstore": "",
-    "country": "",
+    "provider": "PT MP GAMES",
+    "copyright": "© 2015 Mainspring Technology ",
+    "appstore": "https://apps.apple.com/id/app/babe-baca-berita-indonesia/id1015234796",
+    "playstore": "https://play.google.com/store/search?q=babe&c=apps&hl=in&gl=US",
+    "country": "Indonesia",
     "color": "rgba(244, 102, 0, 0.16)"
   },
   {
@@ -984,11 +984,11 @@
       }
     ],
     "isCategory": true,
-    "provider": "",
-    "copyright": "",
-    "appstore": "",
-    "playstore": "",
-    "country": "",
+    "provider": "PT Fore Kopi Indonesia",
+    "copyright": "© PT Fore Kopi Indonesia",
+    "appstore": "https://apps.apple.com/id/app/fore-coffee/id1438745141",
+    "playstore": "https://play.google.com/store/apps/details?id=coffee.fore2.fore&hl=in&gl=US",
+    "country": "Indonesia",
     "color": "rgba(99, 211, 59, 0.16)"
   },
   {
@@ -1258,10 +1258,10 @@
       }
     ],
     "isCategory": true,
-    "provider": "",
-    "copyright": "",
-    "appstore": "",
-    "playstore": "",
+    "provider": "Kementrian Komunikasi dan informatika Republik Indonesia",
+    "copyright": "© 2020 PT. Telkom Indonesia",
+    "appstore": "https://apps.apple.com/id/app/pedulilindungi/id1504600374",
+    "playstore": "https://play.google.com/store/apps/details?id=com.telkom.tracencare&hl=in&gl=US",
     "country": "",
     "color": "rgba(0, 179, 249, 0.16)"
   },
@@ -1722,11 +1722,11 @@
       }
     ],
     "isCategory": true,
-    "provider": "",
-    "copyright": "",
-    "appstore": "",
-    "playstore": "",
-    "country": "",
+    "provider": "Bitsmedia Pte Ltd",
+    "copyright": "© 2010-2021 Copyright Bitsmedia Pte Ltd",
+    "appstore": "https://apps.apple.com/us/app/muslim-pro-quran-athan-azan/id388389451",
+    "playstore": "https://play.google.com/store/apps/details?id=com.bitsmedia.android.muslimpro&hl=in&gl=US",
+    "country": "Indonesia",
     "color": "rgba(99, 211, 59, 0.16)"
   },
   {
@@ -2019,11 +2019,11 @@
       }
     ],
     "isCategory": true,
-    "provider": "",
-    "copyright": "",
-    "appstore": "",
-    "playstore": "",
-    "country": "",
+    "provider": "TikTok Pte. Ltd.",
+    "copyright": "© 2017 Bytedance Inc.",
+    "appstore": "https://apps.apple.com/id/app/tiktok/id1235601864?l=id",
+    "playstore": "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically&hl=in&gl=US",
+    "country": "China",
     "color": "rgba(249, 54, 90, 0.16)"
   },
   {
@@ -2180,11 +2180,11 @@
       }
     ],
     "isCategory": true,
-    "provider": "",
-    "copyright": "",
-    "appstore": "",
-    "playstore": "",
-    "country": "",
+    "provider": "PT Telekomunikasi Selular",
+    "copyright": "© Telkomsel",
+    "appstore": "https://apps.apple.com/id/app/mytelkomsel/id651412430",
+    "playstore": "https://play.google.com/store/apps/details?id=com.telkomsel.telkomselcm&hl=in&gl=US",
+    "country": "Indonesia",
     "color": "rgba(249, 54, 90, 0.16)"
   },
   {
@@ -2251,6 +2251,565 @@
     "appstore": "",
     "playstore": "",
     "country": "",
+    "color": "rgba(244, 102, 0, 0.16)"
+  },
+  {
+    "_id": "24",
+    "name": "Campaign #ForChange",
+    "type": "Social",
+    "category": "Social Networking",
+    "imageUrl": [
+      {
+        "icon": "https://data-polahub.herokuapp.com/images/campaign.png"
+      },
+      {
+        "card": "https://data-polahub.herokuapp.com/images/card/campaign.png"
+      },
+      {
+        "pattern": [
+          {
+            "id": 1,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/1.png"
+          },
+          {
+            "id": 2,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/2.png"
+          },
+          {
+            "id": 3,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/3.png"
+          },
+          {
+            "id": 4,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/4.png"
+          },
+          {
+            "id": 5,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/5.png"
+          },
+          {
+            "id": 6,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/6.png"
+          },
+          {
+            "id": 7,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/7.png"
+          },
+          {
+            "id": 8,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/8.png"
+          },
+          {
+            "id": 9,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/9.png"
+          },
+          {
+            "id": 10,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/10.png"
+          },
+          {
+            "id": 11,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/11.png"
+          },
+          {
+            "id": 12,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/12.png"
+          },
+          {
+            "id": 13,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/13.png"
+          },
+          {
+            "id": 14,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/14.png"
+          },
+          {
+            "id": 15,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/15.png"
+          },
+          {
+            "id": 16,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/16.png"
+          },
+          {
+            "id": 17,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/17.png"
+          },
+          {
+            "id": 18,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/18.png"
+          },
+          {
+            "id": 19,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/19.png"
+          },
+          {
+            "id": 20,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/20.png"
+          },
+          {
+            "id": 21,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/21.png"
+          },
+          {
+            "id": 22,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/22.png"
+          },
+          {
+            "id": 23,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/23.png"
+          },
+          {
+            "id": 24,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/24.png"
+          },
+          {
+            "id": 25,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/25.png"
+          },
+          {
+            "id": 26,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/26.png"
+          },
+          {
+            "id": 27,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/27.png"
+          },
+          {
+            "id": 28,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/28.png"
+          },
+          {
+            "id": 29,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/29.png"
+          },
+          {
+            "id": 30,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/30.png"
+          },
+          {
+            "id": 31,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/31.png"
+          },
+          {
+            "id": 32,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/32.png"
+          },
+          {
+            "id": 33,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/33.png"
+          },
+          {
+            "id": 34,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/34.png"
+          },
+          {
+            "id": 35,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/35.png"
+          },
+          {
+            "id": 36,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/36.png"
+          },
+          {
+            "id": 37,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/37.png"
+          },
+          {
+            "id": 38,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/38.png"
+          },
+          {
+            "id": 39,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/39.png"
+          },
+          {
+            "id": 40,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/40.png"
+          },
+          {
+            "id": 41,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/41.png"
+          },
+          {
+            "id": 42,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/42.png"
+          },
+          {
+            "id": 43,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/43.png"
+          },
+          {
+            "id": 44,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/44.png"
+          },
+          {
+            "id": 45,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/45.png"
+          },
+          {
+            "id": 46,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/46.png"
+          },
+          {
+            "id": 47,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/47.png"
+          },
+          {
+            "id": 48,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/48.png"
+          },
+          {
+            "id": 49,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/49.png"
+          },
+          {
+            "id": 50,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/50.png"
+          },
+          {
+            "id": 51,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/51.png"
+          },
+          {
+            "id": 52,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/52.png"
+          },
+          {
+            "id": 53,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/53.png"
+          },
+          {
+            "id": 54,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/54.png"
+          },
+          {
+            "id": 55,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/55.png"
+          },
+          {
+            "id": 56,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/56.png"
+          },
+          {
+            "id": 57,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/57.png"
+          },
+          {
+            "id": 58,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/58.png"
+          },
+          {
+            "id": 59,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/59.png"
+          },
+          {
+            "id": 60,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/60.png"
+          },
+          {
+            "id": 61,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/61.png"
+          },
+          {
+            "id": 62,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/62.png"
+          },
+          {
+            "id": 63,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/63.png"
+          }
+        ]
+      }
+    ],
+    "isCategory": true,
+    "provider": "PT. Unitokopo Teknologi",
+    "copyright": "© 2017 PT. Unitokopo Teknologi",
+    "appstore": "https://apps.apple.com/id/app/campaign-forchange/id1153928765",
+    "playstore": "https://play.google.com/store/apps/details?id=paratu.com.apps.campaign&hl=en_US&gl=US",
+    "country": "Indonesia",
+    "color": "rgba(244, 102, 0, 0.16)"
+  },
+  {
+    "_id": "24",
+    "name": "GoRide",
+    "type": "Ride Hailing",
+    "category": [
+      {
+        "name": "Travel"
+      },
+      { "name": "Gojek Product" }
+    ],
+    "imageUrl": [
+      {
+        "icon": "https://data-polahub.herokuapp.com/images/campaign.png"
+      },
+      {
+        "card": "https://data-polahub.herokuapp.com/images/card/campaign.png"
+      },
+      {
+        "pattern": [
+          {
+            "id": 1,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/1.png"
+          },
+          {
+            "id": 2,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/2.png"
+          },
+          {
+            "id": 3,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/3.png"
+          },
+          {
+            "id": 4,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/4.png"
+          },
+          {
+            "id": 5,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/5.png"
+          },
+          {
+            "id": 6,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/6.png"
+          },
+          {
+            "id": 7,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/7.png"
+          },
+          {
+            "id": 8,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/8.png"
+          },
+          {
+            "id": 9,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/9.png"
+          },
+          {
+            "id": 10,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/10.png"
+          },
+          {
+            "id": 11,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/11.png"
+          },
+          {
+            "id": 12,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/12.png"
+          },
+          {
+            "id": 13,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/13.png"
+          },
+          {
+            "id": 14,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/14.png"
+          },
+          {
+            "id": 15,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/15.png"
+          },
+          {
+            "id": 16,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/16.png"
+          },
+          {
+            "id": 17,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/17.png"
+          },
+          {
+            "id": 18,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/18.png"
+          },
+          {
+            "id": 19,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/19.png"
+          },
+          {
+            "id": 20,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/20.png"
+          },
+          {
+            "id": 21,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/21.png"
+          },
+          {
+            "id": 22,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/22.png"
+          },
+          {
+            "id": 23,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/23.png"
+          },
+          {
+            "id": 24,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/24.png"
+          },
+          {
+            "id": 25,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/25.png"
+          },
+          {
+            "id": 26,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/26.png"
+          },
+          {
+            "id": 27,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/27.png"
+          },
+          {
+            "id": 28,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/28.png"
+          },
+          {
+            "id": 29,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/29.png"
+          },
+          {
+            "id": 30,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/30.png"
+          },
+          {
+            "id": 31,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/31.png"
+          },
+          {
+            "id": 32,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/32.png"
+          },
+          {
+            "id": 33,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/33.png"
+          },
+          {
+            "id": 34,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/34.png"
+          },
+          {
+            "id": 35,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/35.png"
+          },
+          {
+            "id": 36,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/36.png"
+          },
+          {
+            "id": 37,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/37.png"
+          },
+          {
+            "id": 38,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/38.png"
+          },
+          {
+            "id": 39,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/39.png"
+          },
+          {
+            "id": 40,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/40.png"
+          },
+          {
+            "id": 41,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/41.png"
+          },
+          {
+            "id": 42,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/42.png"
+          },
+          {
+            "id": 43,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/43.png"
+          },
+          {
+            "id": 44,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/44.png"
+          },
+          {
+            "id": 45,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/45.png"
+          },
+          {
+            "id": 46,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/46.png"
+          },
+          {
+            "id": 47,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/47.png"
+          },
+          {
+            "id": 48,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/48.png"
+          },
+          {
+            "id": 49,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/49.png"
+          },
+          {
+            "id": 50,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/50.png"
+          },
+          {
+            "id": 51,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/51.png"
+          },
+          {
+            "id": 52,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/52.png"
+          },
+          {
+            "id": 53,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/53.png"
+          },
+          {
+            "id": 54,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/54.png"
+          },
+          {
+            "id": 55,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/55.png"
+          },
+          {
+            "id": 56,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/56.png"
+          },
+          {
+            "id": 57,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/57.png"
+          },
+          {
+            "id": 58,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/58.png"
+          },
+          {
+            "id": 59,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/59.png"
+          },
+          {
+            "id": 60,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/60.png"
+          },
+          {
+            "id": 61,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/61.png"
+          },
+          {
+            "id": 62,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/62.png"
+          },
+          {
+            "id": 63,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/63.png"
+          }
+        ]
+      }
+    ],
+    "isCategory": true,
+    "provider": "PT. Unitokopo Teknologi",
+    "copyright": "© 2017 PT. Unitokopo Teknologi",
+    "appstore": "https://apps.apple.com/id/app/campaign-forchange/id1153928765",
+    "playstore": "https://play.google.com/store/apps/details?id=paratu.com.apps.campaign&hl=en_US&gl=US",
+    "country": "Indonesia",
     "color": "rgba(244, 102, 0, 0.16)"
   }
 ]
