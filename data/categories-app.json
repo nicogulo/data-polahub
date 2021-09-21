@@ -25,6 +25,11 @@
       }
     ],
     "isCategory": true,
+    "provider": "",
+    "copyright": "",
+    "appstore": "",
+    "playstore": "",
+    "country": "",
     "color": "rgba(99, 211, 59, 0.16"
   },
   {
@@ -53,6 +58,11 @@
       }
     ],
     "isCategory": true,
+    "provider": "",
+    "copyright": "",
+    "appstore": "",
+    "playstore": "",
+    "country": "",
     "color": "rgba(244, 191, 0, 0.16)"
   },
   {
@@ -81,6 +91,11 @@
       }
     ],
     "isCategory": true,
+    "provider": "",
+    "copyright": "",
+    "appstore": "",
+    "playstore": "",
+    "country": "",
     "color": "rgba(249, 54, 90, 0.16)"
   },
   {
@@ -313,13 +328,18 @@
       }
     ],
     "isCategory": true,
+    "provider": "",
+    "copyright": "",
+    "appstore": "",
+    "playstore": "",
+    "country": "",
     "color": "rgba(0, 179, 249, 0.16)"
   },
   {
     "_id": "5",
     "name": "Webtoon",
     "type": "Comic",
-    "category": "Entertaiment",
+    "category": ["Entertaiment", "Utilities"],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/webtoon.png"
@@ -497,6 +517,11 @@
       }
     ],
     "isCategory": true,
+    "provider": "",
+    "copyright": "",
+    "appstore": "",
+    "playstore": "",
+    "country": "",
     "color": "rgba(99, 211, 59, 0.16)"
   },
   {
@@ -525,6 +550,11 @@
       }
     ],
     "isCategory": true,
+    "provider": "",
+    "copyright": "",
+    "appstore": "",
+    "playstore": "",
+    "country": "",
     "color": "rgba(244, 191, 0, 0.16)"
   },
   {
@@ -553,6 +583,11 @@
       }
     ],
     "isCategory": true,
+    "provider": "",
+    "copyright": "",
+    "appstore": "",
+    "playstore": "",
+    "country": "",
     "color": "rgba(99, 211, 59, 0.16)"
   },
   {
@@ -581,6 +616,11 @@
       }
     ],
     "isCategory": true,
+    "provider": "",
+    "copyright": "",
+    "appstore": "",
+    "playstore": "",
+    "country": "",
     "color": " rgba(249, 54, 90, 0.16)"
   },
   {
@@ -609,6 +649,11 @@
       }
     ],
     "isCategory": true,
+    "provider": "",
+    "copyright": "",
+    "appstore": "",
+    "playstore": "",
+    "country": "",
     "color": "rgba(249, 54, 90, 0.16"
   },
   {
@@ -725,6 +770,11 @@
       }
     ],
     "isCategory": true,
+    "provider": "",
+    "copyright": "",
+    "appstore": "",
+    "playstore": "",
+    "country": "",
     "color": "rgba(244, 102, 0, 0.16)"
   },
   {
@@ -753,6 +803,11 @@
       }
     ],
     "isCategory": true,
+    "provider": "",
+    "copyright": "",
+    "appstore": "",
+    "playstore": "",
+    "country": "",
     "color": "rgba(0, 179, 249, 0.16)"
   },
   {
@@ -929,6 +984,11 @@
       }
     ],
     "isCategory": true,
+    "provider": "",
+    "copyright": "",
+    "appstore": "",
+    "playstore": "",
+    "country": "",
     "color": "rgba(99, 211, 59, 0.16)"
   },
   {
@@ -957,6 +1017,11 @@
       }
     ],
     "isCategory": true,
+    "provider": "",
+    "copyright": "",
+    "appstore": "",
+    "playstore": "",
+    "country": "",
     "color": "rgba(249, 54, 90, 0.16)"
   },
   {
@@ -1193,6 +1258,11 @@
       }
     ],
     "isCategory": true,
+    "provider": "",
+    "copyright": "",
+    "appstore": "",
+    "playstore": "",
+    "country": "",
     "color": "rgba(0, 179, 249, 0.16)"
   },
   {
@@ -1221,6 +1291,11 @@
       }
     ],
     "isCategory": true,
+    "provider": "",
+    "copyright": "",
+    "appstore": "",
+    "playstore": "",
+    "country": "",
     "color": "rgba(244, 191, 0, 0.16)"
   },
   {
@@ -1457,6 +1532,11 @@
       }
     ],
     "isCategory": true,
+    "provider": "PT Bibit Tumbuh Bersama",
+    "copyright": "© 2021 PT Bibit Tumbuh Bersama",
+    "appstore": "https://apps.apple.com/id/app/bibit-investasi-reksadana/id1445856964",
+    "playstore": "https://play.google.com/store/apps/details?id=com.bibit.bibitid&hl=in&gl=US",
+    "country": "Indonesia",
     "color": "rgba(99, 211, 59, 0.16)"
   },
   {
@@ -1485,6 +1565,11 @@
       }
     ],
     "isCategory": true,
+    "provider": "",
+    "copyright": "",
+    "appstore": "",
+    "playstore": "",
+    "country": "",
     "color": "rgba(244, 102, 0, 0.16)"
   },
   {
@@ -1637,6 +1722,11 @@
       }
     ],
     "isCategory": true,
+    "provider": "",
+    "copyright": "",
+    "appstore": "",
+    "playstore": "",
+    "country": "",
     "color": "rgba(99, 211, 59, 0.16)"
   },
   {
@@ -1929,6 +2019,11 @@
       }
     ],
     "isCategory": true,
+    "provider": "",
+    "copyright": "",
+    "appstore": "",
+    "playstore": "",
+    "country": "",
     "color": "rgba(249, 54, 90, 0.16)"
   },
   {
@@ -2085,6 +2180,11 @@
       }
     ],
     "isCategory": true,
+    "provider": "",
+    "copyright": "",
+    "appstore": "",
+    "playstore": "",
+    "country": "",
     "color": "rgba(249, 54, 90, 0.16)"
   },
   {
@@ -2113,6 +2213,11 @@
       }
     ],
     "isCategory": true,
+    "provider": "",
+    "copyright": "",
+    "appstore": "",
+    "playstore": "",
+    "country": "",
     "color": "rgba(0, 179, 249, 0.16)"
   },
   {
@@ -2141,6 +2246,11 @@
       }
     ],
     "isCategory": true,
+    "provider": "",
+    "copyright": "",
+    "appstore": "",
+    "playstore": "",
+    "country": "",
     "color": "rgba(244, 102, 0, 0.16)"
   }
 ]
