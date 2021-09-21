@@ -2531,7 +2531,7 @@
     "color": "rgba(244, 102, 0, 0.16)"
   },
   {
-    "_id": "24",
+    "_id": "25",
     "name": "GoRide",
     "type": "Ride Hailing",
     "category": [
@@ -2542,264 +2542,184 @@
     ],
     "imageUrl": [
       {
-        "icon": "https://data-polahub.herokuapp.com/images/campaign.png"
+        "icon": "https://data-polahub.herokuapp.com/images/gojek.png"
       },
       {
-        "card": "https://data-polahub.herokuapp.com/images/card/campaign.png"
+        "card": "https://data-polahub.herokuapp.com/images/card/goride.png"
       },
       {
         "pattern": [
           {
             "id": 1,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/1.png"
+            "name": "https://data-polahub.herokuapp.com/images/pattern/goride/1.png"
           },
           {
             "id": 2,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/2.png"
+            "name": "https://data-polahub.herokuapp.com/images/pattern/goride/2.png"
           },
           {
             "id": 3,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/3.png"
+            "name": "https://data-polahub.herokuapp.com/images/pattern/goride/3.png"
           },
           {
             "id": 4,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/4.png"
+            "name": "https://data-polahub.herokuapp.com/images/pattern/goride/4.png"
           },
           {
             "id": 5,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/5.png"
+            "name": "https://data-polahub.herokuapp.com/images/pattern/goride/5.png"
           },
           {
             "id": 6,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/6.png"
+            "name": "https://data-polahub.herokuapp.com/images/pattern/goride/6.png"
           },
           {
             "id": 7,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/7.png"
+            "name": "https://data-polahub.herokuapp.com/images/pattern/goride/7.png"
           },
           {
             "id": 8,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/8.png"
+            "name": "https://data-polahub.herokuapp.com/images/pattern/goride/8.png"
           },
           {
             "id": 9,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/9.png"
+            "name": "https://data-polahub.herokuapp.com/images/pattern/goride/9.png"
           },
           {
             "id": 10,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/10.png"
+            "name": "https://data-polahub.herokuapp.com/images/pattern/goride/10.png"
           },
           {
             "id": 11,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/11.png"
+            "name": "https://data-polahub.herokuapp.com/images/pattern/goride/11.png"
           },
           {
             "id": 12,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/12.png"
+            "name": "https://data-polahub.herokuapp.com/images/pattern/goride/12.png"
           },
           {
             "id": 13,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/13.png"
+            "name": "https://data-polahub.herokuapp.com/images/pattern/goride/13.png"
           },
           {
             "id": 14,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/14.png"
+            "name": "https://data-polahub.herokuapp.com/images/pattern/goride/14.png"
           },
           {
             "id": 15,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/15.png"
+            "name": "https://data-polahub.herokuapp.com/images/pattern/goride/15.png"
           },
           {
             "id": 16,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/16.png"
+            "name": "https://data-polahub.herokuapp.com/images/pattern/goride/16.png"
           },
           {
             "id": 17,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/17.png"
+            "name": "https://data-polahub.herokuapp.com/images/pattern/goride/17.png"
           },
           {
             "id": 18,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/18.png"
+            "name": "https://data-polahub.herokuapp.com/images/pattern/goride/18.png"
           },
           {
             "id": 19,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/19.png"
+            "name": "https://data-polahub.herokuapp.com/images/pattern/goride/19.png"
           },
           {
             "id": 20,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/20.png"
+            "name": "https://data-polahub.herokuapp.com/images/pattern/goride/20.png"
           },
           {
             "id": 21,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/21.png"
+            "name": "https://data-polahub.herokuapp.com/images/pattern/goride/21.png"
           },
           {
             "id": 22,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/22.png"
+            "name": "https://data-polahub.herokuapp.com/images/pattern/goride/22.png"
           },
           {
             "id": 23,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/23.png"
+            "name": "https://data-polahub.herokuapp.com/images/pattern/goride/23.png"
           },
           {
             "id": 24,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/24.png"
+            "name": "https://data-polahub.herokuapp.com/images/pattern/goride/24.png"
           },
           {
             "id": 25,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/25.png"
+            "name": "https://data-polahub.herokuapp.com/images/pattern/goride/25.png"
           },
           {
             "id": 26,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/26.png"
+            "name": "https://data-polahub.herokuapp.com/images/pattern/goride/26.png"
           },
           {
             "id": 27,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/27.png"
+            "name": "https://data-polahub.herokuapp.com/images/pattern/goride/27.png"
           },
           {
             "id": 28,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/28.png"
+            "name": "https://data-polahub.herokuapp.com/images/pattern/goride/28.png"
           },
           {
             "id": 29,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/29.png"
+            "name": "https://data-polahub.herokuapp.com/images/pattern/goride/29.png"
           },
           {
             "id": 30,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/30.png"
+            "name": "https://data-polahub.herokuapp.com/images/pattern/goride/30.png"
           },
           {
             "id": 31,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/31.png"
+            "name": "https://data-polahub.herokuapp.com/images/pattern/goride/31.png"
           },
           {
             "id": 32,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/32.png"
+            "name": "https://data-polahub.herokuapp.com/images/pattern/goride/32.png"
           },
           {
             "id": 33,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/33.png"
+            "name": "https://data-polahub.herokuapp.com/images/pattern/goride/33.png"
           },
           {
             "id": 34,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/34.png"
+            "name": "https://data-polahub.herokuapp.com/images/pattern/goride/34.png"
           },
           {
             "id": 35,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/35.png"
+            "name": "https://data-polahub.herokuapp.com/images/pattern/goride/35.png"
           },
           {
             "id": 36,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/36.png"
+            "name": "https://data-polahub.herokuapp.com/images/pattern/goride/36.png"
           },
           {
             "id": 37,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/37.png"
+            "name": "https://data-polahub.herokuapp.com/images/pattern/goride/37.png"
           },
           {
             "id": 38,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/38.png"
+            "name": "https://data-polahub.herokuapp.com/images/pattern/goride/38.png"
           },
           {
             "id": 39,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/39.png"
+            "name": "https://data-polahub.herokuapp.com/images/pattern/goride/39.png"
           },
           {
             "id": 40,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/40.png"
+            "name": "https://data-polahub.herokuapp.com/images/pattern/goride/40.png"
           },
           {
             "id": 41,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/41.png"
+            "name": "https://data-polahub.herokuapp.com/images/pattern/goride/41.png"
           },
           {
             "id": 42,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/42.png"
+            "name": "https://data-polahub.herokuapp.com/images/pattern/goride/42.png"
           },
           {
             "id": 43,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/43.png"
-          },
-          {
-            "id": 44,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/44.png"
-          },
-          {
-            "id": 45,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/45.png"
-          },
-          {
-            "id": 46,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/46.png"
-          },
-          {
-            "id": 47,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/47.png"
-          },
-          {
-            "id": 48,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/48.png"
-          },
-          {
-            "id": 49,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/49.png"
-          },
-          {
-            "id": 50,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/50.png"
-          },
-          {
-            "id": 51,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/51.png"
-          },
-          {
-            "id": 52,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/52.png"
-          },
-          {
-            "id": 53,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/53.png"
-          },
-          {
-            "id": 54,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/54.png"
-          },
-          {
-            "id": 55,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/55.png"
-          },
-          {
-            "id": 56,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/56.png"
-          },
-          {
-            "id": 57,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/57.png"
-          },
-          {
-            "id": 58,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/58.png"
-          },
-          {
-            "id": 59,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/59.png"
-          },
-          {
-            "id": 60,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/60.png"
-          },
-          {
-            "id": 61,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/61.png"
-          },
-          {
-            "id": 62,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/62.png"
-          },
-          {
-            "id": 63,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/63.png"
+            "name": "https://data-polahub.herokuapp.com/images/pattern/goride/43.png"
           }
         ]
       }
