@@ -25,17 +25,17 @@
       }
     ],
     "isCategory": true,
-    "provider": "",
-    "copyright": "",
-    "appstore": "",
-    "playstore": "",
+    "provider": "PT Tokopedia",
+    "copyright": "© PT Tokopedia 2009",
+    "appstore": "https://apps.apple.com/us/app/tokopedia/id1001394201",
+    "playstore": "https://play.google.com/store/apps/details?id=com.tokopedia.tkpd&hl=in&gl=US",
     "country": "",
     "color": "rgba(99, 211, 59, 0.16"
   },
   {
     "_id": "2",
-    "name": "Bank Jago",
-    "type": "Digital Bank",
+    "name": "Jago",
+    "type": "Mobile Banking",
     "category": "Finance",
     "imageUrl": [
       {
@@ -58,11 +58,11 @@
       }
     ],
     "isCategory": true,
-    "provider": "",
-    "copyright": "",
-    "appstore": "",
-    "playstore": "",
-    "country": "",
+    "provider": "PT. Bank Artos Indonesia Tbk",
+    "copyright": "© PT Bank Jago TBK.",
+    "appstore": "https://apps.apple.com/id/app/jago/id1539402234?l=id",
+    "playstore": "https://play.google.com/store/apps/details?id=com.jago.digitalBanking&hl=in&gl=US",
+    "country": "Indonesia",
     "color": "rgba(244, 191, 0, 0.16)"
   },
   {
@@ -337,7 +337,7 @@
   },
   {
     "_id": "5",
-    "name": "Line Webtoon",
+    "name": "LINE WEBTOON",
     "type": "Comic",
     "category": "Entertaiment",
     "imageUrl": [
@@ -550,12 +550,214 @@
       }
     ],
     "isCategory": true,
-    "provider": "",
-    "copyright": "",
-    "appstore": "",
-    "playstore": "",
-    "country": "",
+    "provider": "Xu Hao",
+    "copyright": "© PinGuo Inc.",
+    "appstore": "https://apps.apple.com/id/app/camera360-selfie-sticker-cam/id443354861?l=id",
+    "playstore": "https://play.google.com/store/apps/details?id=vStudio.Android.Camera360&hl=in&gl=US",
+    "country": "China",
     "color": "rgba(244, 191, 0, 0.16)"
+  },
+  {
+    "_id": "26",
+    "name": "Gojek App",
+    "type": " ",
+    "category": [
+      {
+        "name": "Super App"
+      },
+      { "name": "Gojek Product" }
+    ],
+    "imageUrl": [
+      {
+        "icon": "https://data-polahub.herokuapp.com/images/gojek.png"
+      },
+      {
+        "card": "https://data-polahub.herokuapp.com/images/card/gojek.png"
+      },
+      {
+        "pattern": [
+          {
+            "id": 1,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/1.png"
+          },
+          {
+            "id": 2,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/2.png"
+          },
+          {
+            "id": 3,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/3.png"
+          },
+          {
+            "id": 4,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/4.png"
+          },
+          {
+            "id": 5,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/5.png"
+          },
+          {
+            "id": 6,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/6.png"
+          },
+          {
+            "id": 7,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/7.png"
+          },
+          {
+            "id": 8,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/8.png"
+          },
+          {
+            "id": 9,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/9.png"
+          },
+          {
+            "id": 10,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/10.png"
+          },
+          {
+            "id": 11,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/11.png"
+          },
+          {
+            "id": 12,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/12.png"
+          },
+          {
+            "id": 13,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/13.png"
+          },
+          {
+            "id": 14,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/14.png"
+          },
+          {
+            "id": 15,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/15.png"
+          },
+          {
+            "id": 16,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/16.png"
+          },
+          {
+            "id": 17,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/17.png"
+          },
+          {
+            "id": 18,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/18.png"
+          },
+          {
+            "id": 19,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/19.png"
+          },
+          {
+            "id": 20,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/20.png"
+          },
+          {
+            "id": 21,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/21.png"
+          },
+          {
+            "id": 22,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/22.png"
+          },
+          {
+            "id": 23,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/23.png"
+          },
+          {
+            "id": 24,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/24.png"
+          },
+          {
+            "id": 25,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/25.png"
+          },
+          {
+            "id": 26,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/26.png"
+          },
+          {
+            "id": 27,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/27.png"
+          },
+          {
+            "id": 28,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/28.png"
+          },
+          {
+            "id": 29,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/29.png"
+          },
+          {
+            "id": 30,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/30.png"
+          },
+          {
+            "id": 31,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/31.png"
+          },
+          {
+            "id": 32,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/32.png"
+          },
+          {
+            "id": 33,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/33.png"
+          },
+          {
+            "id": 34,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/34.png"
+          },
+          {
+            "id": 35,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/35.png"
+          },
+          {
+            "id": 36,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/36.png"
+          },
+          {
+            "id": 37,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/37.png"
+          },
+          {
+            "id": 38,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/38.png"
+          },
+          {
+            "id": 39,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/39.png"
+          },
+          {
+            "id": 40,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/40.png"
+          },
+          {
+            "id": 41,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/41.png"
+          },
+          {
+            "id": 42,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/42.png"
+          },
+          {
+            "id": 43,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/43.png"
+          }
+        ]
+      }
+    ],
+    "isCategory": true,
+    "provider": "PT Go-jek Indonesia",
+    "copyright": "© PT Aplikasi Karya Anak Bangsa",
+    "appstore": "https://apps.apple.com/id/app/gojek/id944875099",
+    "playstore": "https://play.google.com/store/apps/details?id=com.gojek.app&hl=in&gl=US",
+    "country": "Indonesia",
+    "color": "rgba(0, 179, 249, 0.16)"
   },
   {
     "_id": "7",
@@ -763,11 +965,11 @@
       }
     ],
     "isCategory": true,
-    "provider": "",
-    "copyright": "",
-    "appstore": "",
-    "playstore": "",
-    "country": "",
+    "provider": "Tencent Mobility Limited",
+    "copyright": "© Tencent. All Rights Reserved",
+    "appstore": "https://apps.apple.com/id/app/joox-music-sing-karaoke/id914406371",
+    "playstore": "https://play.google.com/store/apps/details?id=com.tencent.ibg.joox&hl=in&gl=US",
+    "country": "China",
     "color": "rgba(99, 211, 59, 0.16)"
   },
   {
@@ -805,8 +1007,8 @@
   },
   {
     "_id": "9",
-    "name": "Gofood",
-    "type": "Food",
+    "name": "GoFood",
+    "type": "F&B Delivery",
     "category": [{ "name": "Food & Drink" }, { "name": "Gojek Product" }],
     "imageUrl": [
       {
@@ -1033,16 +1235,16 @@
       }
     ],
     "isCategory": true,
-    "provider": "",
-    "copyright": "",
-    "appstore": "",
-    "playstore": "",
-    "country": "",
+    "provider": "PT Go-jek Indonesia",
+    "copyright": "© PT Aplikasi Karya Anak Bangsa",
+    "appstore": "https://apps.apple.com/id/app/gojek/id944875099",
+    "playstore": "https://play.google.com/store/apps/details?id=com.gojek.app&hl=in&gl=US",
+    "country": "Indonesia",
     "color": "rgba(249, 54, 90, 0.16"
   },
   {
     "_id": "10",
-    "name": "BABE",
+    "name": "BaBe News",
     "type": "Indonesia News",
     "category": "News",
     "imageUrl": [
@@ -1196,8 +1398,8 @@
   },
   {
     "_id": "12",
-    "name": "Fore",
-    "type": "Coffee",
+    "name": "Fore Coffee",
+    "type": "Coffee Delivery",
     "category": "Food & Drink",
     "imageUrl": [
       {
@@ -1377,7 +1579,7 @@
   },
   {
     "_id": "13",
-    "name": "J&T Express",
+    "name": "J&T",
     "type": "Logistic",
     "category": "Business",
     "imageUrl": [
@@ -1646,7 +1848,7 @@
     "copyright": "© 2020 PT. Telkom Indonesia",
     "appstore": "https://apps.apple.com/id/app/pedulilindungi/id1504600374",
     "playstore": "https://play.google.com/store/apps/details?id=com.telkom.tracencare&hl=in&gl=US",
-    "country": "",
+    "country": "Indonesia",
     "color": "rgba(0, 179, 249, 0.16)"
   },
   {
@@ -2597,16 +2799,16 @@
       }
     ],
     "isCategory": true,
-    "provider": "",
-    "copyright": "",
-    "appstore": "",
-    "playstore": "",
-    "country": "",
+    "provider": "PT Kita Bisa Indonesia",
+    "copyright": "© PT Kita Bisa Indonesia",
+    "appstore": "https://apps.apple.com/id/app/kitabisa-zakat-donasi/id1458307938",
+    "playstore": "https://play.google.com/store/apps/details?id=com.kitabisa.android&hl=in&gl=US",
+    "country": "Indonesia",
     "color": "rgba(0, 179, 249, 0.16)"
   },
   {
     "_id": "23",
-    "name": "Shoppe",
+    "name": "Shopee",
     "type": "Marketplace",
     "category": "Shopping",
     "imageUrl": [
@@ -3117,7 +3319,7 @@
     "color": "rgba(99, 211, 59, 0.16)"
   },
   {
-    "_id": "26",
+    "_id": "27",
     "name": "GoPay Plus",
     "type": "Digital Wallet",
     "category": [
