@@ -3,11 +3,7 @@
     "_id": "1",
     "name": "Tokopedia",
     "type": "Marketplace",
-    "category": [
-      {
-        "name": "Shopping"
-      }
-    ],
+    "category": ["Shopping"],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/tokped.png"
@@ -1341,12 +1337,7 @@
     "_id": "26",
     "name": "Gojek App",
     "type": " ",
-    "category": [
-      {
-        "name": "Super App"
-      },
-      { "name": "Gojek Product" }
-    ],
+    "category": ["Super App", "Gojek Product"],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/gojek.png"
