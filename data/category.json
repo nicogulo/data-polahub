@@ -5,7 +5,7 @@
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/calendar.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/calendar.svg",
     "isNew": false,
-    "statue": "Dec"
+    "status": "Dec"
   },
   {
     "_id": "2",
