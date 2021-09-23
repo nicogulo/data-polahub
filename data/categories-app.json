@@ -3,7 +3,11 @@
     "_id": "1",
     "name": "Tokopedia",
     "type": "Marketplace",
-    "category": "Shopping",
+    "category": [
+      {
+        "name": "Shopping"
+      }
+    ],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/tokped.png"
@@ -36,7 +40,11 @@
     "_id": "2",
     "name": "Jago",
     "type": "Mobile Banking",
-    "category": "Finance",
+    "category": [
+      {
+        "name": "Finance"
+      }
+    ],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/jago.png"
@@ -69,7 +77,11 @@
     "_id": "3",
     "name": "Vidio",
     "type": "Video Streaming",
-    "category": "Entertaiment",
+    "category": [
+      {
+        "name": "Entertaiment"
+      }
+    ],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/video.png"
@@ -102,7 +114,11 @@
     "_id": "4",
     "name": "BCA Mobile",
     "type": "Mobile Banking",
-    "category": "Finance",
+    "category": [
+      {
+        "name": "Finance"
+      }
+    ],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/bca.png"
@@ -339,7 +355,11 @@
     "_id": "5",
     "name": "LINE WEBTOON",
     "type": "Comic",
-    "category": "Entertaiment",
+    "category": [
+      {
+        "name": "Entertaiment"
+      }
+    ],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/webtoon.png"
@@ -528,7 +548,11 @@
     "_id": "6",
     "name": "Camera360",
     "type": "Photography",
-    "category": "Photo & Video",
+    "category": [
+      {
+        "name": "Photo & Video"
+      }
+    ],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/camera.png"
@@ -763,7 +787,11 @@
     "_id": "7",
     "name": "JOOX",
     "type": "Music Streaming",
-    "category": "Music",
+    "category": [
+      {
+        "name": "Music"
+      }
+    ],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/joox.png"
@@ -976,7 +1004,11 @@
     "_id": "8",
     "name": "HaloDoc",
     "type": "Medical",
-    "category": "Medical",
+    "category": [
+      {
+        "name": "Medical"
+      }
+    ],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/halodoc.png"
@@ -1246,7 +1278,11 @@
     "_id": "10",
     "name": "BaBe News",
     "type": "Indonesia News",
-    "category": "News",
+    "category": [
+      {
+        "name": "News"
+      }
+    ],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/babe.png"
@@ -1367,7 +1403,11 @@
     "_id": "11",
     "name": "Ruangguru",
     "type": "Online Learning",
-    "category": "Education",
+    "category": [
+      {
+        "name": "Education"
+      }
+    ],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/ruangguru.png"
@@ -1400,7 +1440,11 @@
     "_id": "12",
     "name": "Fore Coffee",
     "type": "Coffee Delivery",
-    "category": "Food & Drink",
+    "category": [
+      {
+        "name": "Food & Drink"
+      }
+    ],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/fore.png"
@@ -1581,7 +1625,11 @@
     "_id": "13",
     "name": "J&T",
     "type": "Logistic",
-    "category": "Business",
+    "category": [
+      {
+        "name": "Business"
+      }
+    ],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/jnt.png"
@@ -1614,7 +1662,11 @@
     "_id": "14",
     "name": "PeduliLindungi",
     "type": "COVID-19",
-    "category": "Health & Fitness",
+    "category": [
+      {
+        "name": "Health & Fitness"
+      }
+    ],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/peduli.png"
@@ -1855,7 +1907,11 @@
     "_id": "16",
     "name": "Tiket.com",
     "type": "Travel",
-    "category": "Travel",
+    "category": [
+      {
+        "name": "Travel"
+      }
+    ],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/tiket.png"
@@ -1888,7 +1944,11 @@
     "_id": "17",
     "name": "Bibit",
     "type": "Mutual FUnd",
-    "category": "Crypto & Stock",
+    "category": [
+      {
+        "name": "Crypto & Stock"
+      }
+    ],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/bibit.png"
@@ -2496,7 +2556,11 @@
     "_id": "19",
     "name": "Muslim Pro",
     "type": "Muslim App",
-    "category": "References",
+    "category": [
+      {
+        "name": "References"
+      }
+    ],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/muslim.png"
@@ -2653,7 +2717,11 @@
     "_id": "20",
     "name": "TikTok",
     "type": "Social Media",
-    "category": "Social Networking",
+    "category": [
+      {
+        "name": "Social Networking"
+      }
+    ],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/tiktok.png"
@@ -2950,7 +3018,11 @@
     "_id": "21",
     "name": "MyTelkomsel",
     "type": "Provider",
-    "category": "",
+    "category": [
+      {
+        "name": " "
+      }
+    ],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/telkomsel.png"
@@ -3111,7 +3183,11 @@
     "_id": "22",
     "name": "KitaBisa",
     "type": "Donation",
-    "category": "Lifestyle",
+    "category": [
+      {
+        "name": "Lifestyle"
+      }
+    ],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/kitabisa.png"
@@ -3144,7 +3220,11 @@
     "_id": "23",
     "name": "Shopee",
     "type": "Marketplace",
-    "category": "Shopping",
+    "category": [
+      {
+        "name": "Shopping"
+      }
+    ],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/shopee.png"
@@ -3177,7 +3257,11 @@
     "_id": "24",
     "name": "Campaign #ForChange",
     "type": "Social",
-    "category": "Social Networking",
+    "category": [
+      {
+        "name": "Social Networking"
+      }
+    ],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/campaign.png"
@@ -3656,7 +3740,11 @@
     "_id": "18",
     "name": "Tantan",
     "type": "Dating",
-    "category": "",
+    "category": [
+      {
+        "name": " "
+      }
+    ],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/tantan.png"
