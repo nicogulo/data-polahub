@@ -392,11 +392,7 @@
     "_id": "2",
     "name": "Jago",
     "type": "Mobile Banking",
-    "category": [
-      {
-        "name": "Finance"
-      }
-    ],
+    "category": ["Finance"],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/jago.png"
@@ -429,11 +425,7 @@
     "_id": "3",
     "name": "Vidio",
     "type": "Video Streaming",
-    "category": [
-      {
-        "name": "Entertaiment"
-      }
-    ],
+    "category": ["Entertaiment"],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/video.png"
@@ -466,11 +458,7 @@
     "_id": "4",
     "name": "BCA Mobile",
     "type": "Mobile Banking",
-    "category": [
-      {
-        "name": "Finance"
-      }
-    ],
+    "category": ["Finance"],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/bca.png"
@@ -707,11 +695,7 @@
     "_id": "5",
     "name": "LINE WEBTOON",
     "type": "Comic",
-    "category": [
-      {
-        "name": "Entertaiment"
-      }
-    ],
+    "category": ["Entertaiment"],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/webtoon.png"
@@ -900,11 +884,7 @@
     "_id": "6",
     "name": "Camera360",
     "type": "Photography",
-    "category": [
-      {
-        "name": "Photo & Video"
-      }
-    ],
+    "category": ["Photo & Video"],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/camera.png"
@@ -1534,11 +1514,7 @@
     "_id": "7",
     "name": "JOOX",
     "type": "Music Streaming",
-    "category": [
-      {
-        "name": "Music"
-      }
-    ],
+    "category": ["Music"],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/joox.png"
@@ -1751,11 +1727,7 @@
     "_id": "8",
     "name": "HaloDoc",
     "type": "Medical",
-    "category": [
-      {
-        "name": "Medical"
-      }
-    ],
+    "category": ["Medical"],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/halodoc.png"
@@ -1788,7 +1760,7 @@
     "_id": "9",
     "name": "GoFood",
     "type": "F&B Delivery",
-    "category": [{ "name": "Food & Drink" }, { "name": "Gojek Product" }],
+    "category": ["Food & Drink", "Gojek Product"],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/gojek.png"
@@ -2025,11 +1997,7 @@
     "_id": "10",
     "name": "BaBe News",
     "type": "Indonesia News",
-    "category": [
-      {
-        "name": "News"
-      }
-    ],
+    "category": ["News"],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/babe.png"
@@ -2150,11 +2118,7 @@
     "_id": "11",
     "name": "Ruangguru",
     "type": "Online Learning",
-    "category": [
-      {
-        "name": "Education"
-      }
-    ],
+    "category": ["Education"],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/ruangguru.png"
@@ -2187,11 +2151,7 @@
     "_id": "12",
     "name": "Fore Coffee",
     "type": "Coffee Delivery",
-    "category": [
-      {
-        "name": "Food & Drink"
-      }
-    ],
+    "category": ["Food & Drink"],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/fore.png"
@@ -2372,11 +2332,7 @@
     "_id": "13",
     "name": "J&T",
     "type": "Logistic",
-    "category": [
-      {
-        "name": "Business"
-      }
-    ],
+    "category": ["Business"],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/jnt.png"
@@ -2409,11 +2365,7 @@
     "_id": "14",
     "name": "PeduliLindungi",
     "type": "COVID-19",
-    "category": [
-      {
-        "name": "Health & Fitness"
-      }
-    ],
+    "category": ["Health & Fitness"],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/peduli.png"
@@ -2654,11 +2606,7 @@
     "_id": "16",
     "name": "Tiket.com",
     "type": "Travel",
-    "category": [
-      {
-        "name": "Travel"
-      }
-    ],
+    "category": ["Travel"],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/tiket.png"
@@ -2691,11 +2639,7 @@
     "_id": "17",
     "name": "Bibit",
     "type": "Mutual FUnd",
-    "category": [
-      {
-        "name": "Crypto & Stock"
-      }
-    ],
+    "category": ["Crypto & Stock"],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/bibit.png"
@@ -2936,12 +2880,7 @@
     "_id": "27",
     "name": "GoPay Plus",
     "type": "Digital Wallet",
-    "category": [
-      {
-        "name": "Finance"
-      },
-      { "name": "Gojek Product" }
-    ],
+    "category": ["Finance", "Gojek Product"],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/gojek.png"
@@ -3303,11 +3242,7 @@
     "_id": "19",
     "name": "Muslim Pro",
     "type": "Muslim App",
-    "category": [
-      {
-        "name": "References"
-      }
-    ],
+    "category": ["References"],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/muslim.png"
@@ -3464,11 +3399,7 @@
     "_id": "20",
     "name": "TikTok",
     "type": "Social Media",
-    "category": [
-      {
-        "name": "Social Networking"
-      }
-    ],
+    "category": ["Social Networking"],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/tiktok.png"
@@ -3765,11 +3696,7 @@
     "_id": "21",
     "name": "MyTelkomsel",
     "type": "Provider",
-    "category": [
-      {
-        "name": " "
-      }
-    ],
+    "category": [],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/telkomsel.png"
@@ -3930,11 +3857,7 @@
     "_id": "22",
     "name": "KitaBisa",
     "type": "Donation",
-    "category": [
-      {
-        "name": "Lifestyle"
-      }
-    ],
+    "category": ["Lifestyle"],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/kitabisa.png"
@@ -4215,11 +4138,7 @@
     "_id": "23",
     "name": "Shopee",
     "type": "Marketplace",
-    "category": [
-      {
-        "name": "Shopping"
-      }
-    ],
+    "category": ["Shopping"],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/shopee.png"
@@ -4252,11 +4171,7 @@
     "_id": "24",
     "name": "Campaign #ForChange",
     "type": "Social",
-    "category": [
-      {
-        "name": "Social Networking"
-      }
-    ],
+    "category": ["Social Networking"],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/campaign.png"
@@ -4533,12 +4448,7 @@
     "_id": "25",
     "name": "GoRide",
     "type": "Ride Hailing",
-    "category": [
-      {
-        "name": "Travel"
-      },
-      { "name": "Gojek Product" }
-    ],
+    "category": ["Travel", "Gojek Product"],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/gojek.png"
@@ -4735,11 +4645,7 @@
     "_id": "18",
     "name": "Tantan",
     "type": "Dating",
-    "category": [
-      {
-        "name": " "
-      }
-    ],
+    "category": [],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/tantan.png"
@@ -4772,11 +4678,7 @@
     "_id": "28",
     "name": "Amartha",
     "type": "P2P Lending",
-    "category": [
-      {
-        "name": "Finance"
-      }
-    ],
+    "category": ["Finance"],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/amartha.png"
