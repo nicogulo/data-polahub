@@ -19,11 +19,367 @@
         "pattern": [
           {
             "id": 1,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/telkomsel/1.png"
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/1.png"
           },
           {
             "id": 2,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/telkomsel/2.png"
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/2.png"
+          },
+          {
+            "id": 3,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/3.png"
+          },
+          {
+            "id": 4,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/4.png"
+          },
+          {
+            "id": 5,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/5.png"
+          },
+          {
+            "id": 6,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/6.png"
+          },
+          {
+            "id": 7,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/7.png"
+          },
+          {
+            "id": 8,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/8.png"
+          },
+          {
+            "id": 9,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/9.png"
+          },
+          {
+            "id": 10,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/10.png"
+          },
+          {
+            "id": 11,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/11.png"
+          },
+          {
+            "id": 12,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/12.png"
+          },
+          {
+            "id": 13,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/13.png"
+          },
+          {
+            "id": 14,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/14.png"
+          },
+          {
+            "id": 15,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/15.png"
+          },
+          {
+            "id": 16,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/16.png"
+          },
+          {
+            "id": 17,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/17.png"
+          },
+          {
+            "id": 18,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/18.png"
+          },
+          {
+            "id": 19,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/19.png"
+          },
+          {
+            "id": 20,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/20.png"
+          },
+          {
+            "id": 21,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/21.png"
+          },
+          {
+            "id": 22,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/22.png"
+          },
+          {
+            "id": 23,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/23.png"
+          },
+          {
+            "id": 24,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/24.png"
+          },
+          {
+            "id": 25,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/25.png"
+          },
+          {
+            "id": 26,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/26.png"
+          },
+          {
+            "id": 27,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/27.png"
+          },
+          {
+            "id": 28,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/28.png"
+          },
+          {
+            "id": 29,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/29.png"
+          },
+          {
+            "id": 30,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/30.png"
+          },
+          {
+            "id": 31,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/31.png"
+          },
+          {
+            "id": 32,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/32.png"
+          },
+          {
+            "id": 33,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/33.png"
+          },
+          {
+            "id": 34,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/34.png"
+          },
+          {
+            "id": 35,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/35.png"
+          },
+          {
+            "id": 36,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/36.png"
+          },
+          {
+            "id": 37,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/37.png"
+          },
+          {
+            "id": 38,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/38.png"
+          },
+          {
+            "id": 39,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/39.png"
+          },
+          {
+            "id": 40,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/40.png"
+          },
+          {
+            "id": 41,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/41.png"
+          },
+          {
+            "id": 42,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/42.png"
+          },
+          {
+            "id": 43,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/43.png"
+          },
+          {
+            "id": 44,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/44.png"
+          },
+          {
+            "id": 45,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/45.png"
+          },
+          {
+            "id": 46,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/46.png"
+          },
+          {
+            "id": 47,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/47.png"
+          },
+          {
+            "id": 48,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/48.png"
+          },
+          {
+            "id": 49,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/49.png"
+          },
+          {
+            "id": 50,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/50.png"
+          },
+          {
+            "id": 51,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/51.png"
+          },
+          {
+            "id": 52,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/52.png"
+          },
+          {
+            "id": 53,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/53.png"
+          },
+          {
+            "id": 54,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/54.png"
+          },
+          {
+            "id": 55,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/55.png"
+          },
+          {
+            "id": 56,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/56.png"
+          },
+          {
+            "id": 57,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/57.png"
+          },
+          {
+            "id": 58,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/58.png"
+          },
+          {
+            "id": 59,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/59.png"
+          },
+          {
+            "id": 60,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/60.png"
+          },
+          {
+            "id": 61,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/61.png"
+          },
+          {
+            "id": 62,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/62.png"
+          },
+          {
+            "id": 63,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/63.png"
+          },
+          {
+            "id": 64,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/64.png"
+          },
+          {
+            "id": 65,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/65.png"
+          },
+          {
+            "id": 66,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/66.png"
+          },
+          {
+            "id": 67,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/67.png"
+          },
+          {
+            "id": 68,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/68.png"
+          },
+          {
+            "id": 69,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/69.png"
+          },
+          {
+            "id": 70,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/70.png"
+          },
+          {
+            "id": 71,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/71.png"
+          },
+          {
+            "id": 72,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/72.png"
+          },
+          {
+            "id": 73,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/73.png"
+          },
+          {
+            "id": 74,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/74.png"
+          },
+          {
+            "id": 75,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/75.png"
+          },
+          {
+            "id": 76,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/76.png"
+          },
+          {
+            "id": 77,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/77.png"
+          },
+          {
+            "id": 78,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/78.png"
+          },
+          {
+            "id": 79,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/79.png"
+          },
+          {
+            "id": 80,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/80.png"
+          },
+          {
+            "id": 81,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/81.png"
+          },
+          {
+            "id": 82,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/82.png"
+          },
+          {
+            "id": 83,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/83.png"
+          },
+          {
+            "id": 84,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/84.png"
+          },
+          {
+            "id": 85,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/85.png"
+          },
+          {
+            "id": 86,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/86.png"
+          },
+          {
+            "id": 87,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/87.png"
+          },
+          {
+            "id": 88,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/88.png"
+          },
+          {
+            "id": 89,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/89.png"
+          },
+          {
+            "id": 90,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/90.png"
+          },
+          {
+            "id": 91,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/91.png"
           }
         ]
       }
@@ -564,11 +920,411 @@
         "pattern": [
           {
             "id": 1,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/telkomsel/1.png"
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/1.png"
           },
           {
             "id": 2,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/telkomsel/2.png"
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/2.png"
+          },
+          {
+            "id": 3,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/3.png"
+          },
+          {
+            "id": 4,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/4.png"
+          },
+          {
+            "id": 5,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/5.png"
+          },
+          {
+            "id": 6,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/6.png"
+          },
+          {
+            "id": 7,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/7.png"
+          },
+          {
+            "id": 8,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/8.png"
+          },
+          {
+            "id": 9,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/9.png"
+          },
+          {
+            "id": 10,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/10.png"
+          },
+          {
+            "id": 11,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/11.png"
+          },
+          {
+            "id": 12,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/12.png"
+          },
+          {
+            "id": 13,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/13.png"
+          },
+          {
+            "id": 14,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/14.png"
+          },
+          {
+            "id": 15,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/15.png"
+          },
+          {
+            "id": 16,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/16.png"
+          },
+          {
+            "id": 17,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/17.png"
+          },
+          {
+            "id": 18,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/18.png"
+          },
+          {
+            "id": 19,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/19.png"
+          },
+          {
+            "id": 20,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/20.png"
+          },
+          {
+            "id": 21,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/21.png"
+          },
+          {
+            "id": 22,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/22.png"
+          },
+          {
+            "id": 23,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/23.png"
+          },
+          {
+            "id": 24,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/24.png"
+          },
+          {
+            "id": 25,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/25.png"
+          },
+          {
+            "id": 26,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/26.png"
+          },
+          {
+            "id": 27,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/27.png"
+          },
+          {
+            "id": 28,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/28.png"
+          },
+          {
+            "id": 29,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/29.png"
+          },
+          {
+            "id": 30,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/30.png"
+          },
+          {
+            "id": 31,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/31.png"
+          },
+          {
+            "id": 32,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/32.png"
+          },
+          {
+            "id": 33,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/33.png"
+          },
+          {
+            "id": 34,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/34.png"
+          },
+          {
+            "id": 35,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/35.png"
+          },
+          {
+            "id": 36,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/36.png"
+          },
+          {
+            "id": 37,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/37.png"
+          },
+          {
+            "id": 38,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/38.png"
+          },
+          {
+            "id": 39,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/39.png"
+          },
+          {
+            "id": 40,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/40.png"
+          },
+          {
+            "id": 41,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/41.png"
+          },
+          {
+            "id": 42,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/42.png"
+          },
+          {
+            "id": 43,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/43.png"
+          },
+          {
+            "id": 44,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/44.png"
+          },
+          {
+            "id": 45,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/45.png"
+          },
+          {
+            "id": 46,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/46.png"
+          },
+          {
+            "id": 47,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/47.png"
+          },
+          {
+            "id": 48,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/48.png"
+          },
+          {
+            "id": 49,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/49.png"
+          },
+          {
+            "id": 50,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/50.png"
+          },
+          {
+            "id": 51,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/51.png"
+          },
+          {
+            "id": 52,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/52.png"
+          },
+          {
+            "id": 53,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/53.png"
+          },
+          {
+            "id": 54,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/54.png"
+          },
+          {
+            "id": 55,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/55.png"
+          },
+          {
+            "id": 56,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/56.png"
+          },
+          {
+            "id": 57,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/57.png"
+          },
+          {
+            "id": 58,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/58.png"
+          },
+          {
+            "id": 59,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/59.png"
+          },
+          {
+            "id": 60,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/60.png"
+          },
+          {
+            "id": 61,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/61.png"
+          },
+          {
+            "id": 62,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/62.png"
+          },
+          {
+            "id": 63,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/63.png"
+          },
+          {
+            "id": 64,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/64.png"
+          },
+          {
+            "id": 65,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/65.png"
+          },
+          {
+            "id": 66,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/66.png"
+          },
+          {
+            "id": 67,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/67.png"
+          },
+          {
+            "id": 68,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/68.png"
+          },
+          {
+            "id": 69,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/69.png"
+          },
+          {
+            "id": 70,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/70.png"
+          },
+          {
+            "id": 71,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/71.png"
+          },
+          {
+            "id": 72,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/72.png"
+          },
+          {
+            "id": 73,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/73.png"
+          },
+          {
+            "id": 74,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/74.png"
+          },
+          {
+            "id": 75,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/75.png"
+          },
+          {
+            "id": 76,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/76.png"
+          },
+          {
+            "id": 77,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/77.png"
+          },
+          {
+            "id": 78,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/78.png"
+          },
+          {
+            "id": 79,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/79.png"
+          },
+          {
+            "id": 80,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/80.png"
+          },
+          {
+            "id": 81,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/81.png"
+          },
+          {
+            "id": 82,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/82.png"
+          },
+          {
+            "id": 83,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/83.png"
+          },
+          {
+            "id": 84,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/84.png"
+          },
+          {
+            "id": 85,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/85.png"
+          },
+          {
+            "id": 86,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/86.png"
+          },
+          {
+            "id": 87,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/87.png"
+          },
+          {
+            "id": 88,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/88.png"
+          },
+          {
+            "id": 89,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/89.png"
+          },
+          {
+            "id": 90,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/90.png"
+          },
+          {
+            "id": 91,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/91.png"
+          },
+          {
+            "id": 92,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/92.png"
+          },
+          {
+            "id": 93,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/93.png"
+          },
+          {
+            "id": 94,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/94.png"
+          },
+          {
+            "id": 95,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/95.png"
+          },
+          {
+            "id": 96,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/96.png"
+          },
+          {
+            "id": 97,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/97.png"
+          },
+          {
+            "id": 98,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/98.png"
+          },
+          {
+            "id": 99,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/99.png"
+          },
+          {
+            "id": 100,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/100.png"
+          },
+          {
+            "id": 101,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/101.png"
+          },
+          {
+            "id": 102,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/camera/102.png"
           }
         ]
       }
@@ -3199,11 +3955,259 @@
         "pattern": [
           {
             "id": 1,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/telkomsel/1.png"
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/1.png"
           },
           {
             "id": 2,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/telkomsel/2.png"
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/2.png"
+          },
+          {
+            "id": 3,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/3.png"
+          },
+          {
+            "id": 4,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/4.png"
+          },
+          {
+            "id": 5,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/5.png"
+          },
+          {
+            "id": 6,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/6.png"
+          },
+          {
+            "id": 7,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/7.png"
+          },
+          {
+            "id": 8,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/8.png"
+          },
+          {
+            "id": 9,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/9.png"
+          },
+          {
+            "id": 10,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/10.png"
+          },
+          {
+            "id": 11,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/11.png"
+          },
+          {
+            "id": 12,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/12.png"
+          },
+          {
+            "id": 13,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/13.png"
+          },
+          {
+            "id": 14,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/14.png"
+          },
+          {
+            "id": 15,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/15.png"
+          },
+          {
+            "id": 16,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/16.png"
+          },
+          {
+            "id": 17,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/17.png"
+          },
+          {
+            "id": 18,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/18.png"
+          },
+          {
+            "id": 19,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/19.png"
+          },
+          {
+            "id": 20,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/20.png"
+          },
+          {
+            "id": 21,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/21.png"
+          },
+          {
+            "id": 22,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/22.png"
+          },
+          {
+            "id": 23,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/23.png"
+          },
+          {
+            "id": 24,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/24.png"
+          },
+          {
+            "id": 25,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/25.png"
+          },
+          {
+            "id": 26,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/26.png"
+          },
+          {
+            "id": 27,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/27.png"
+          },
+          {
+            "id": 28,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/28.png"
+          },
+          {
+            "id": 29,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/29.png"
+          },
+          {
+            "id": 30,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/30.png"
+          },
+          {
+            "id": 31,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/31.png"
+          },
+          {
+            "id": 32,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/32.png"
+          },
+          {
+            "id": 33,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/33.png"
+          },
+          {
+            "id": 34,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/34.png"
+          },
+          {
+            "id": 35,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/35.png"
+          },
+          {
+            "id": 36,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/36.png"
+          },
+          {
+            "id": 37,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/37.png"
+          },
+          {
+            "id": 38,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/38.png"
+          },
+          {
+            "id": 39,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/39.png"
+          },
+          {
+            "id": 40,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/40.png"
+          },
+          {
+            "id": 41,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/41.png"
+          },
+          {
+            "id": 42,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/42.png"
+          },
+          {
+            "id": 43,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/43.png"
+          },
+          {
+            "id": 44,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/44.png"
+          },
+          {
+            "id": 45,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/45.png"
+          },
+          {
+            "id": 46,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/46.png"
+          },
+          {
+            "id": 47,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/47.png"
+          },
+          {
+            "id": 48,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/48.png"
+          },
+          {
+            "id": 49,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/49.png"
+          },
+          {
+            "id": 50,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/50.png"
+          },
+          {
+            "id": 51,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/51.png"
+          },
+          {
+            "id": 52,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/52.png"
+          },
+          {
+            "id": 53,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/53.png"
+          },
+          {
+            "id": 54,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/54.png"
+          },
+          {
+            "id": 55,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/55.png"
+          },
+          {
+            "id": 56,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/56.png"
+          },
+          {
+            "id": 57,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/57.png"
+          },
+          {
+            "id": 58,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/58.png"
+          },
+          {
+            "id": 59,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/59.png"
+          },
+          {
+            "id": 60,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/60.png"
+          },
+          {
+            "id": 61,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/61.png"
+          },
+          {
+            "id": 62,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/62.png"
+          },
+          {
+            "id": 63,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/63.png"
+          },
+          {
+            "id": 64,
+            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/64.png"
           }
         ]
       }
