@@ -4,7 +4,7 @@
     "name": "Coming Soon",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/calendar.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/calendar.svg",
-    "isNew": true,
+    "isNew": false,
     "statue": "Dec"
   },
   {
@@ -12,49 +12,49 @@
     "name": "Books",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/book.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/book.svg",
-    "isNew": true
+    "isNew": false
   },
   {
     "_id": "3",
     "name": "Business",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/briefcase.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/briefcase.svg",
-    "isNew": true
+    "isNew": false
   },
   {
     "_id": "4",
     "name": "Crypto & Stock",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/ethereum-(eth).svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/ethereum-(eth).svg",
-    "isNew": false
+    "isNew": true
   },
   {
     "_id": "5",
     "name": "Education",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/teacher.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/teacher.svg",
-    "isNew": true
+    "isNew": false
   },
   {
     "_id": "6",
     "name": "Entertaiment",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/monitor-mobbile.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/monitor-mobbile.svg",
-    "isNew": true
+    "isNew": false
   },
   {
     "_id": "7",
     "name": "Finance",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/wallet.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/wallet.svg",
-    "isNew": true
+    "isNew": false
   },
   {
     "_id": "8",
     "name": "Food & Drink",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/coffee.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/coffee.svg",
-    "isNew": true
+    "isNew": false
   },
   {
     "_id": "asd1293uasdads1",
@@ -68,28 +68,28 @@
     "name": "Health & Fitness",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/heart.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/heart.svg",
-    "isNew": true
+    "isNew": false
   },
   {
     "_id": "asd1293uasdads1",
     "name": "Lifestyle",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/glass.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/glass.svg",
-    "isNew": true
+    "isNew": false
   },
   {
     "_id": "asd1293uasdads1",
     "name": "Medical",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/milk.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/milk.svg",
-    "isNew": true
+    "isNew": false
   },
   {
     "_id": "asd1293uasdads1",
     "name": "Music",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/music.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/music.svg",
-    "isNew": true
+    "isNew": false
   },
 
   {
@@ -97,35 +97,35 @@
     "name": "Navigation",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/map.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/map.svg",
-    "isNew": true
+    "isNew": false
   },
   {
     "_id": "asd1293uasdads1",
     "name": "News",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/hashtag-up.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/hashtag-up.svg",
-    "isNew": true
+    "isNew": false
   },
   {
     "_id": "asd1293uasdads1",
     "name": "Photo & Video",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/camera.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/camera.svg",
-    "isNew": true
+    "isNew": false
   },
   {
     "_id": "asd1293uasdads1",
     "name": "Productivity",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/task-square.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/task-square.svg",
-    "isNew": true
+    "isNew": false
   },
   {
     "_id": "asd1293uasdads1",
     "name": "References",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/search-normal.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/search-normal.svg",
-    "isNew": true
+    "isNew": false
   },
 
   {
@@ -133,14 +133,14 @@
     "name": "Shopping",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/bag.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/bag.svg",
-    "isNew": true
+    "isNew": false
   },
   {
     "_id": "asd1293uasdads1",
     "name": "Social Networking",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/messages.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/messages.svg",
-    "isNew": true
+    "isNew": false
   },
 
   {
@@ -148,20 +148,20 @@
     "name": "Sports",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/weight.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/weight.svg",
-    "isNew": true
+    "isNew": false
   },
   {
     "_id": "asd1293uasdads1",
     "name": "Travel",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/airplane.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/airplane.svg",
-    "isNew": true
+    "isNew": false
   },
   {
     "_id": "asd1293uasdads1",
     "name": "Utilities",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/box.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/box.svg",
-    "isNew": true
+    "isNew": false
   }
 ]
