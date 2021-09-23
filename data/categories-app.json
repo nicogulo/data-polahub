@@ -4880,11 +4880,11 @@
       }
     ],
     "isCategory": true,
-    "provider": "",
-    "copyright": "",
-    "appstore": "",
-    "playstore": "",
-    "country": "",
+    "provider": "PT. Amartha Mikro Fintek",
+    "copyright": "© 2021 PT. Amartha Mikro Fintek",
+    "appstore": "https://apps.apple.com/us/app/amartha-fintech-p2p-lending/id1473584695",
+    "playstore": "https://play.google.com/store/apps/details?id=com.amartha.investor&hl=in&gl=US",
+    "country": "Indonesia",
     "color": "rgba(117, 67, 223, 0.08)"
   }
 ]
