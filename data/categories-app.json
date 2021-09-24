@@ -392,7 +392,7 @@
     "_id": "2",
     "name": "Jago",
     "type": "Mobile Banking",
-    "category": ["Finance"],
+    "category": ["Coming Soon", "Finance"],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/jago.png"
@@ -416,7 +416,7 @@
     "_id": "3",
     "name": "Vidio",
     "type": "Video Streaming",
-    "category": ["Entertaiment"],
+    "category": ["Coming Soon", "Entertaiment"],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/video.png"
@@ -1709,7 +1709,7 @@
     "_id": "8",
     "name": "HaloDoc",
     "type": "Medical",
-    "category": ["Medical"],
+    "category": ["Coming Soon", "Medical"],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/halodoc.png"
@@ -2091,7 +2091,7 @@
     "_id": "11",
     "name": "Ruangguru",
     "type": "Online Learning",
-    "category": ["Education"],
+    "category": ["Coming Soon", "Education"],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/ruangguru.png"
@@ -2296,7 +2296,7 @@
     "_id": "13",
     "name": "J&T",
     "type": "Logistic",
-    "category": ["Business"],
+    "category": ["Coming Soon", "Business"],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/jnt.png"
@@ -2561,7 +2561,7 @@
     "_id": "16",
     "name": "Tiket.com",
     "type": "Travel",
-    "category": ["Travel"],
+    "category": ["Coming Soon", "Travel"],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/tiket.png"
