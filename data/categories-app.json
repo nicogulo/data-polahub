@@ -401,16 +401,7 @@
         "card": "https://data-polahub.herokuapp.com/images/card/jago.png"
       },
       {
-        "pattern": [
-          {
-            "id": 1,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/telkomsel/1.png"
-          },
-          {
-            "id": 2,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/telkomsel/2.png"
-          }
-        ]
+        "pattern": []
       }
     ],
     "isCategory": true,
@@ -434,16 +425,7 @@
         "card": "https://data-polahub.herokuapp.com/images/card/video.png"
       },
       {
-        "pattern": [
-          {
-            "id": 1,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/telkomsel/1.png"
-          },
-          {
-            "id": 2,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/telkomsel/2.png"
-          }
-        ]
+        "pattern": []
       }
     ],
     "isCategory": true,
@@ -1736,16 +1718,7 @@
         "card": "https://data-polahub.herokuapp.com/images/card/halodoc.png"
       },
       {
-        "pattern": [
-          {
-            "id": 1,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/telkomsel/1.png"
-          },
-          {
-            "id": 2,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/telkomsel/2.png"
-          }
-        ]
+        "pattern": []
       }
     ],
     "isCategory": true,
@@ -2127,16 +2100,7 @@
         "card": "https://data-polahub.herokuapp.com/images/card/ruangguru.png"
       },
       {
-        "pattern": [
-          {
-            "id": 1,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/telkomsel/1.png"
-          },
-          {
-            "id": 2,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/telkomsel/2.png"
-          }
-        ]
+        "pattern": []
       }
     ],
     "isCategory": true,
@@ -2341,16 +2305,7 @@
         "card": "https://data-polahub.herokuapp.com/images/card/jnt.png"
       },
       {
-        "pattern": [
-          {
-            "id": 1,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/telkomsel/1.png"
-          },
-          {
-            "id": 2,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/telkomsel/2.png"
-          }
-        ]
+        "pattern": []
       }
     ],
     "isCategory": true,
@@ -2615,16 +2570,7 @@
         "card": "https://data-polahub.herokuapp.com/images/card/tiket.png"
       },
       {
-        "pattern": [
-          {
-            "id": 1,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/telkomsel/1.png"
-          },
-          {
-            "id": 2,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/telkomsel/2.png"
-          }
-        ]
+        "pattern": []
       }
     ],
     "isCategory": true,
@@ -4147,16 +4093,7 @@
         "card": "https://data-polahub.herokuapp.com/images/card/shopee.png"
       },
       {
-        "pattern": [
-          {
-            "id": 1,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/telkomsel/1.png"
-          },
-          {
-            "id": 2,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/telkomsel/2.png"
-          }
-        ]
+        "pattern": []
       }
     ],
     "isCategory": true,
@@ -4654,16 +4591,7 @@
         "card": "https://data-polahub.herokuapp.com/images/card/tantan.png"
       },
       {
-        "pattern": [
-          {
-            "id": 1,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/telkomsel/1.png"
-          },
-          {
-            "id": 2,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/telkomsel/2.png"
-          }
-        ]
+        "pattern": []
       }
     ],
     "isCategory": true,
