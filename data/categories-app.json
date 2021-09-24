@@ -3642,7 +3642,7 @@
     "_id": "21",
     "name": "MyTelkomsel",
     "type": "Provider",
-    "category": [],
+    "category": ["Coming Soon"],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/telkomsel.png"
@@ -4582,7 +4582,7 @@
     "_id": "18",
     "name": "Tantan",
     "type": "Dating",
-    "category": [],
+    "category": ["Coming Soon"],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/tantan.png"
