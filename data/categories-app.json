@@ -2429,30 +2429,7 @@
     "country": "Indonesia",
     "color": "rgba(99, 211, 59, 0.16)"
   },
-  {
-    "_id": "13",
-    "name": "J&T",
-    "type": "Logistic",
-    "category": ["Coming Soon", "Business"],
-    "imageUrl": [
-      {
-        "icon": "https://data-polahub.herokuapp.com/images/jnt.png"
-      },
-      {
-        "card": "https://data-polahub.herokuapp.com/images/card/jnt.png"
-      },
-      {
-        "pattern": []
-      }
-    ],
-    "isCategory": true,
-    "provider": "",
-    "copyright": "",
-    "appstore": "",
-    "playstore": "",
-    "country": "",
-    "color": "rgba(249, 54, 90, 0.16)"
-  },
+
   {
     "_id": "14",
     "name": "PeduliLindungi",
@@ -4715,30 +4692,7 @@
     "country": "Indonesia",
     "color": "rgba(99, 211, 59, 0.16)"
   },
-  {
-    "_id": "18",
-    "name": "Tantan",
-    "type": "Dating",
-    "category": ["Coming Soon"],
-    "imageUrl": [
-      {
-        "icon": "https://data-polahub.herokuapp.com/images/tantan.png"
-      },
-      {
-        "card": "https://data-polahub.herokuapp.com/images/card/tantan.png"
-      },
-      {
-        "pattern": []
-      }
-    ],
-    "isCategory": true,
-    "provider": "",
-    "copyright": "",
-    "appstore": "",
-    "playstore": "",
-    "country": "",
-    "color": "rgba(244, 102, 0, 0.16)"
-  },
+
   {
     "_id": "28",
     "name": "Amartha",
