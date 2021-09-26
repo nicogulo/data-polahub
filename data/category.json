@@ -61,7 +61,7 @@
     "name": "Gojek Product",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/gojek-ac.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/gojek-non.svg",
-    "isNew": true
+    "isNew": false
   },
   {
     "_id": "asd1293uasdads1",
