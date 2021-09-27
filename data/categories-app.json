@@ -559,7 +559,7 @@
         "icon": "https://data-polahub.herokuapp.com/images/vidio.png"
       },
       {
-        "card": "https://data-polahub.herokuapp.com/images/card/vidio.png"
+        "card": "https://data-polahub.herokuapp.com/images/card/vidio-lock.png"
       },
       {
         "pattern": []
@@ -1852,7 +1852,7 @@
         "icon": "https://data-polahub.herokuapp.com/images/halodoc.png"
       },
       {
-        "card": "https://data-polahub.herokuapp.com/images/card/halodoc.png"
+        "card": "https://data-polahub.herokuapp.com/images/card/halodoc-lock.png"
       },
       {
         "pattern": []
@@ -2234,7 +2234,7 @@
         "icon": "https://data-polahub.herokuapp.com/images/ruangguru.png"
       },
       {
-        "card": "https://data-polahub.herokuapp.com/images/card/ruangguru.png"
+        "card": "https://data-polahub.herokuapp.com/images/card/ruangguru-lock.png"
       },
       {
         "pattern": []
@@ -2681,7 +2681,7 @@
         "icon": "https://data-polahub.herokuapp.com/images/tiket.png"
       },
       {
-        "card": "https://data-polahub.herokuapp.com/images/card/tiket.png"
+        "card": "https://data-polahub.herokuapp.com/images/card/tiket-lock.png"
       },
       {
         "pattern": []
@@ -4204,7 +4204,7 @@
         "icon": "https://data-polahub.herokuapp.com/images/shopee.png"
       },
       {
-        "card": "https://data-polahub.herokuapp.com/images/card/shopee.png"
+        "card": "https://data-polahub.herokuapp.com/images/card/shopee-lock.png"
       },
       {
         "pattern": []
@@ -4916,7 +4916,7 @@
         "icon": "https://data-polahub.herokuapp.com/images/ajaib.png"
       },
       {
-        "card": "https://data-polahub.herokuapp.com/images/card/ajaib.png"
+        "card": "https://data-polahub.herokuapp.com/images/card/ajaib-lock.png"
       },
       {
         "pattern": []
@@ -4940,7 +4940,7 @@
         "icon": "https://data-polahub.herokuapp.com/images/gojek.png"
       },
       {
-        "card": "https://data-polahub.herokuapp.com/images/card/gopaylater.png"
+        "card": "https://data-polahub.herokuapp.com/images/card/gopaylater-lock.png"
       },
       {
         "pattern": []
@@ -4964,7 +4964,7 @@
         "icon": "https://data-polahub.herokuapp.com/images/iqiyi.png"
       },
       {
-        "card": "https://data-polahub.herokuapp.com/images/card/iqiyi.png"
+        "card": "https://data-polahub.herokuapp.com/images/card/iqiyi-lock.png"
       },
       {
         "pattern": []
@@ -4988,7 +4988,7 @@
         "icon": "https://data-polahub.herokuapp.com/images/jtoz.png"
       },
       {
-        "card": "https://data-polahub.herokuapp.com/images/card/jtoz.png"
+        "card": "https://data-polahub.herokuapp.com/images/card/jtoz-lock.png"
       },
       {
         "pattern": []
@@ -5012,7 +5012,7 @@
         "icon": "https://data-polahub.herokuapp.com/images/kakao.png"
       },
       {
-        "card": "https://data-polahub.herokuapp.com/images/card/kakao.png"
+        "card": "https://data-polahub.herokuapp.com/images/card/kakao-lock.png"
       },
       {
         "pattern": []
@@ -5036,7 +5036,7 @@
         "icon": "https://data-polahub.herokuapp.com/images/novel.png"
       },
       {
-        "card": "https://data-polahub.herokuapp.com/images/card/novel.png"
+        "card": "https://data-polahub.herokuapp.com/images/card/novel-lock.png"
       },
       {
         "pattern": []
@@ -5060,7 +5060,7 @@
         "icon": "https://data-polahub.herokuapp.com/images/ovo.png"
       },
       {
-        "card": "https://data-polahub.herokuapp.com/images/card/ovo.png"
+        "card": "https://data-polahub.herokuapp.com/images/card/ovo-lock.png"
       },
       {
         "pattern": []
@@ -5084,7 +5084,7 @@
         "icon": "https://data-polahub.herokuapp.com/images/oyo.png"
       },
       {
-        "card": "https://data-polahub.herokuapp.com/images/card/oyo.png"
+        "card": "https://data-polahub.herokuapp.com/images/card/oyo-lock.png"
       },
       {
         "pattern": []
@@ -5108,7 +5108,7 @@
         "icon": "https://data-polahub.herokuapp.com/images/turbo.png"
       },
       {
-        "card": "https://data-polahub.herokuapp.com/images/card/turbo.png"
+        "card": "https://data-polahub.herokuapp.com/images/card/turbo-lock.png"
       },
       {
         "pattern": []
@@ -5132,7 +5132,7 @@
         "icon": "https://data-polahub.herokuapp.com/images/zoom.png"
       },
       {
-        "card": "https://data-polahub.herokuapp.com/images/card/zoom.png"
+        "card": "https://data-polahub.herokuapp.com/images/card/zoom-lock.png"
       },
       {
         "pattern": []
