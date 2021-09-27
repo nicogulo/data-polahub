@@ -571,7 +571,7 @@
     "appstore": "",
     "playstore": "",
     "country": "",
-    "color": "rgba(249, 54, 90, 0.16)"
+    "color": "#ebecef"
   },
   {
     "_id": "4",
@@ -1864,7 +1864,7 @@
     "appstore": "",
     "playstore": "",
     "country": "",
-    "color": " rgba(249, 54, 90, 0.16)"
+    "color": "#ebecef"
   },
   {
     "_id": "9",
@@ -2246,7 +2246,7 @@
     "appstore": "",
     "playstore": "",
     "country": "",
-    "color": "rgba(0, 179, 249, 0.16)"
+    "color": "#ebecef"
   },
   {
     "_id": "12",
@@ -2693,7 +2693,7 @@
     "appstore": "",
     "playstore": "",
     "country": "",
-    "color": "rgba(244, 191, 0, 0.16)"
+    "color": "#ebecef"
   },
   {
     "_id": "17",
@@ -4216,7 +4216,7 @@
     "appstore": "",
     "playstore": "",
     "country": "",
-    "color": "rgba(244, 102, 0, 0.16)"
+    "color": "#ebecef"
   },
   {
     "_id": "24",
@@ -4952,7 +4952,7 @@
     "appstore": "https://apps.apple.com/id/app/gojek/id944875099",
     "playstore": "https://play.google.com/store/apps/details?id=com.gojek.app&hl=in&gl=US",
     "country": "Indonesia",
-    "color": "rgba(99, 211, 59, 0.16)"
+    "color": "#ebecef"
   },
   {
     "_id": "31",
@@ -4976,7 +4976,7 @@
     "appstore": "",
     "playstore": "",
     "country": "South Korea",
-    "color": "rgba(99, 211, 59, 0.16)"
+    "color": "#ebecef"
   },
   {
     "_id": "31",
@@ -5000,7 +5000,7 @@
     "appstore": "",
     "playstore": "",
     "country": "",
-    "color": "rgba(0, 179, 249, 0.16)"
+    "color": "#ebecef"
   },
   {
     "_id": "32",
@@ -5024,7 +5024,7 @@
     "appstore": "",
     "playstore": "",
     "country": "",
-    "color": "rgba(244, 191, 0, 0.16)"
+    "color": "#ebecef"
   },
   {
     "_id": "33",
@@ -5048,7 +5048,7 @@
     "appstore": "",
     "playstore": "",
     "country": "Indonesia",
-    "color": "rgba(99, 211, 59, 0.16)"
+    "color": "#ebecef"
   },
   {
     "_id": "34",
@@ -5072,7 +5072,7 @@
     "appstore": "",
     "playstore": "",
     "country": "",
-    "color": "rgba(117, 67, 223, 0.08)"
+    "color": "#ebecef"
   },
   {
     "_id": "35",
@@ -5096,7 +5096,7 @@
     "appstore": "",
     "playstore": "",
     "country": "",
-    "color": "rgba(249, 54, 90, 0.16)"
+    "color": "#ebecef"
   },
   {
     "_id": "36",
@@ -5120,7 +5120,7 @@
     "appstore": "",
     "playstore": "",
     "country": "",
-    "color": "rgba(244, 102, 0, 0.16)"
+    "color": "#ebecef"
   },
   {
     "_id": "37",
@@ -5144,6 +5144,6 @@
     "appstore": "",
     "playstore": "",
     "country": "",
-    "color": "rgba(0, 179, 249, 0.16)"
+    "color": "#ebecef"
   }
 ]
