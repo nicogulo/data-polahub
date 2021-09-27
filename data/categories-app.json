@@ -4198,7 +4198,7 @@
     "_id": "23",
     "name": "Shopee",
     "type": "Marketplace",
-    "category": ["Shopping"],
+    "category": ["Coming Soon", "Shopping"],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/shopee.png"
