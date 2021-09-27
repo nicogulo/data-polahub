@@ -4910,7 +4910,7 @@
     "_id": "29",
     "name": "Ajaib",
     "type": "Mutual Funds",
-    "category": ["Coming Soon","Crypto & Stock"],
+    "category": ["Coming Soon", "Crypto & Stock"],
     "imageUrl": [
       {
         "icon": "https://data-polahub.herokuapp.com/images/ajaib.png"
@@ -4928,7 +4928,7 @@
     "appstore": "",
     "playstore": "",
     "country": "Indonesia",
-    "color": "rgba(0, 179, 249, 0.16)"
+    "color": "#ebecef"
   },
   {
     "_id": "30",
