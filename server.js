@@ -1,32 +1,35 @@
-var express = require('express');
+var express = require("express");
 var app = express();
-var path = require('path');
-var fs = require('fs');
+var cors = require("cors");
+var path = require("path");
+var fs = require("fs");
 const port = 3000;
-var CATEGORY_JSON = path.join(__dirname, 'data/category.json');
-var CATEGORY_APP_JSON = path.join(__dirname, 'data/categories-app.json');
+var CATEGORY_JSON = path.join(__dirname, "data/category.json");
+var CATEGORY_APP_JSON = path.join(__dirname, "data/categories-app.json");
 
-app.get('/', function (req, res) {
-  res.sendfile('public/index.html');
+app.use(cors());
+
+app.get("/", function (req, res, next) {
+  res.sendfile("public/index.html");
 });
 
-app.get('/api/data', function (req, res) {
+app.get("/api/data", function (req, res, next) {
   fs.readFile(CATEGORY_JSON, function (err, data) {
     if (err) process.exit(1);
-    res.setHeader('Access-Control-Allow-Origin', '*');
+    res.setHeader("Access-Control-Allow-Origin", "*");
     res.json(JSON.parse(data));
   });
 });
 
-app.get('/api/data-app', function (req, res) {
+app.get("/api/data-app", function (req, res, next) {
   fs.readFile(CATEGORY_APP_JSON, function (err, data) {
     if (err) process.exit(1);
-    res.setHeader('Access-Control-Allow-Origin', '*');
+    res.setHeader("Access-Control-Allow-Origin", "*");
     res.json(JSON.parse(data));
   });
 });
 
-// app.get('/api/characters/students', function(req, res){
+// app.get('/api/characters/students', function(req, res, next){
 //   fs.readFile(CHARACTERS_JSON, function(err, data){
 //     if(err) process.exit(1);
 //     json = JSON.parse(data);
@@ -41,7 +44,7 @@ app.get('/api/data-app', function (req, res) {
 //   })
 // })
 
-// app.get('/api/characters/staff', function(req, res){
+// app.get('/api/characters/staff', function(req, res, next){
 //   fs.readFile(CHARACTERS_JSON, function(err, data){
 //     if(err) process.exit(1);
 //     json = JSON.parse(data);
@@ -56,7 +59,7 @@ app.get('/api/data-app', function (req, res) {
 //   })
 // })
 
-// app.get('/api/characters/house/:house', function(req, res){
+// app.get('/api/characters/house/:house', function(req, res, next){
 //   fs.readFile(CHARACTERS_JSON, function(err, data){
 //     if(err) process.exit(1);
 //     json = JSON.parse(data);
@@ -71,12 +74,12 @@ app.get('/api/data-app', function (req, res) {
 //   })
 // })
 
-app.use(express.static('public'));
+app.use(express.static("public"));
 
-app.set('port', process.env.PORT || 5000);
+app.set("port", process.env.PORT || 5000);
 
-app.listen(app.get('port'), function () {
-  console.log('Node app is running on port', app.get('port'));
+app.listen(app.get("port"), function () {
+  console.log("Node app is running on port", app.get("port"));
 });
 
 app.listen(port, () => console.log(`App listening on port ${port}!`));
