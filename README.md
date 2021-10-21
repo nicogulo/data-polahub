@@ -4,7 +4,7 @@ this is the all data for PolaHub https://data-polahub.herokuapp.com
 
 ## API Reference
 
-#### Get all Icon Category
+### Get all Icon Category
 
 ```http
   GET /api/data
@@ -14,7 +14,7 @@ this is the all data for PolaHub https://data-polahub.herokuapp.com
 | :------- | :-------------------------------------------------------- |
 | `string` | **Required**. https://data-polahub.herokuapp.com/api/data |
 
-#### Get item Card
+### Get item Card
 
 ```http
   GET /api/data-app
