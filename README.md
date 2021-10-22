@@ -1,6 +1,6 @@
-# PolaHUb Data
+# Chamjo Data
 
-this is the all data for PolaHub https://data-polahub.herokuapp.com
+this is the all data for Chamjo https://data-polahub.herokuapp.com
 
 ## API Reference
 
