@@ -5145,5 +5145,266 @@
     "playstore": "",
     "country": "",
     "color": "#ebecef"
+  },
+  {
+    "_id": "38",
+    "name": "Lazada",
+    "type": "Shopping",
+    "category": ["Marketplace"],
+    "imageUrl": [
+      {
+        "icon": "https://res.cloudinary.com/chamjodesign/image/upload/v1657788008/Chamjo/Lazada/logo.png"
+      },
+      {
+        "card": "https://res.cloudinary.com/chamjodesign/image/upload/v1657788013/Chamjo/Lazada/mockup.png"
+      },
+      {
+        "pattern": [
+          {
+            "id": 1,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657788171/Chamjo/Lazada/pattern/1_k8kfe7.png"
+          },
+          {
+            "id": 2,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657788174/Chamjo/Lazada/pattern/2_ebeesw.png"
+          },
+          {
+            "id": 3,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789348/Chamjo/Lazada/pattern/3_civhd8.png"
+          },
+          {
+            "id": 4,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789348/Chamjo/Lazada/pattern/4_rxuuwl.png"
+          },
+          {
+            "id": 5,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789380/Chamjo/Lazada/pattern/5_jaj1tl.png"
+          },
+          {
+            "id": 6,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789379/Chamjo/Lazada/pattern/6_cb3ld0.png"
+          },
+          {
+            "id": 7,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789379/Chamjo/Lazada/pattern/7_womdke.png"
+          },
+          {
+            "id": 8,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789379/Chamjo/Lazada/pattern/8_y9ertm.png"
+          },
+          {
+            "id": 9,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789380/Chamjo/Lazada/pattern/9_bjffcf.png"
+          },
+          {
+            "id": 10,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789381/Chamjo/Lazada/pattern/10_m6fioy.png"
+          },
+          {
+            "id": 11,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789382/Chamjo/Lazada/pattern/11_x04mbd.png"
+          },
+          {
+            "id": 12,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789392/Chamjo/Lazada/pattern/12_awnua5.png"
+          },
+          {
+            "id": 13,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789419/Chamjo/Lazada/pattern/13_hk5d4r.png"
+          },
+          {
+            "id": 14,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789386/Chamjo/Lazada/pattern/14_akizbn.png"
+          },
+          {
+            "id": 15,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789381/Chamjo/Lazada/pattern/15_iby1ri.png"
+          },
+          {
+            "id": 16,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789395/Chamjo/Lazada/pattern/16_vxnt5q.png"
+          },
+          {
+            "id": 17,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789392/Chamjo/Lazada/pattern/17_rzqwoa.png"
+          },
+          {
+            "id": 18,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789385/Chamjo/Lazada/pattern/18_edfqnt.png"
+          },
+          {
+            "id": 19,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789389/Chamjo/Lazada/pattern/19_em7glx.png"
+          },
+          {
+            "id": 20,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789391/Chamjo/Lazada/pattern/20_zpvdfj.png"
+          },
+          {
+            "id": 21,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789400/Chamjo/Lazada/pattern/21_nparet.png"
+          },
+          {
+            "id": 22,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789392/Chamjo/Lazada/pattern/22_ztkq1w.png"
+          },
+          {
+            "id": 23,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789397/Chamjo/Lazada/pattern/23_s1w4p5.png"
+          },
+          {
+            "id": 24,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789396/Chamjo/Lazada/pattern/24_gehy0e.png"
+          },
+          {
+            "id": 25,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789394/Chamjo/Lazada/pattern/25_quymt8.png"
+          },
+          {
+            "id": 26,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789398/Chamjo/Lazada/pattern/26_jnmovu.png"
+          },
+          {
+            "id": 27,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789397/Chamjo/Lazada/pattern/27_iswtm5.png"
+          },
+          {
+            "id": 28,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789398/Chamjo/Lazada/pattern/28_gtrsma.png"
+          },
+          {
+            "id": 29,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789399/Chamjo/Lazada/pattern/29_vrrcpf.png"
+          },
+          {
+            "id": 30,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789399/Chamjo/Lazada/pattern/30_yqv8nt.png"
+          },
+          {
+            "id": 31,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789399/Chamjo/Lazada/pattern/31_evk9i1.png"
+          },
+          {
+            "id": 32,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789401/Chamjo/Lazada/pattern/32_kzoxyb.png"
+          },
+          {
+            "id": 33,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789403/Chamjo/Lazada/pattern/33_tf3tgy.png"
+          },
+          {
+            "id": 34,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789400/Chamjo/Lazada/pattern/34_p8rorw.png"
+          },
+          {
+            "id": 35,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789401/Chamjo/Lazada/pattern/35_yz2iv4.png"
+          },
+          {
+            "id": 36,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789401/Chamjo/Lazada/pattern/36_z6uvow.png"
+          },
+          {
+            "id": 37,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789403/Chamjo/Lazada/pattern/37_uiahlf.png"
+          },
+          {
+            "id": 38,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789405/Chamjo/Lazada/pattern/38_btfq2c.png"
+          },
+          {
+            "id": 39,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789411/Chamjo/Lazada/pattern/39_ir3guk.png"
+          },
+          {
+            "id": 40,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789411/Chamjo/Lazada/pattern/40_behsmk.png"
+          },
+          {
+            "id": 41,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789404/Chamjo/Lazada/pattern/41_qimqny.png"
+          },
+          {
+            "id": 42,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789411/Chamjo/Lazada/pattern/42_bycgpj.png"
+          },
+          {
+            "id": 43,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789404/Chamjo/Lazada/pattern/43_vhazlo.png"
+          },
+          {
+            "id": 44,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789408/Chamjo/Lazada/pattern/44_j7ruhf.png"
+          },
+          {
+            "id": 45,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789410/Chamjo/Lazada/pattern/45_c44kfe.png"
+          },
+          {
+            "id": 46,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789413/Chamjo/Lazada/pattern/46_rqhxcx.png"
+          },
+          {
+            "id": 47,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789419/Chamjo/Lazada/pattern/47_st9iek.png"
+          },
+          {
+            "id": 48,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789419/Chamjo/Lazada/pattern/48_zlrrbz.png"
+          },
+          {
+            "id": 49,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789417/Chamjo/Lazada/pattern/49_xyelmq.png"
+          },
+          {
+            "id": 50,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789417/Chamjo/Lazada/pattern/50_gbuqie.png"
+          },
+          {
+            "id": 51,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789377/Chamjo/Lazada/pattern/51_heuiz6.png"
+          },
+          {
+            "id": 52,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789375/Chamjo/Lazada/pattern/52_gvbazt.png"
+          },
+          {
+            "id": 53,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789387/Chamjo/Lazada/pattern/53_e0fnzl.png"
+          },
+          {
+            "id": 54,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789376/Chamjo/Lazada/pattern/54_qo07zy.png"
+          },
+          {
+            "id": 55,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789377/Chamjo/Lazada/pattern/55_sd7ppp.png"
+          },
+          {
+            "id": 56,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789378/Chamjo/Lazada/pattern/56_fw1n7p.png"
+          },
+          {
+            "id": 57,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789378/Chamjo/Lazada/pattern/57_xcimqo.png"
+          },
+          {
+            "id": 58,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789377/Chamjo/Lazada/pattern/58_peu3jj.png"
+          },
+          {
+            "id": 59,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657789378/Chamjo/Lazada/pattern/59_onxlma.png"
+          }
+        ]
+      }
+    ],
+    "isCategory": true,
+    "provider": "Lazada Group GmbH",
+    "copyright": "© 2022 Lazada Ltd.",
+    "appstore": "https://apps.apple.com/id/app/lazada-indonesia/id785385147?l=id  ",
+    "playstore": "https://play.google.com/store/apps/details?id=com.lazada.android&hl=in&gl=US",
+    "country": "Singapore",
+    "color": "rgba(0, 179, 249, 0.16)"
   }
 ]

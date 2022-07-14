@@ -1,6 +1,6 @@
 {
-  "name": "food-menu-api",
-  "description": "Food Menu API",
+  "name": "chamjo-v1",
+  "description": "Chamjo  API",
   "version": "0.0.1",
   "private": true,
   "dependencies": {
