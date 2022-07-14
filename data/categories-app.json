@@ -580,224 +580,224 @@
     "category": ["Finance"],
     "imageUrl": [
       {
-        "icon": "https://data-polahub.herokuapp.com/images/bca.png"
+        "icon": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801468/Chamjo/BCA/bca_xi1tdu.png"
       },
       {
-        "card": "https://data-polahub.herokuapp.com/images/card/bca.png"
+        "card": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801463/Chamjo/BCA/bca_ndvubd.png"
       },
       {
         "pattern": [
           {
             "id": 1,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/1.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801361/Chamjo/BCA/pattern/1_k0s9vp.png"
           },
           {
             "id": 2,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/2.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801367/Chamjo/BCA/pattern/2_tvnekp.png"
           },
           {
             "id": 3,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/3.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801361/Chamjo/BCA/pattern/3_d6ajhw.png"
           },
           {
             "id": 4,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/4.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801363/Chamjo/BCA/pattern/4_ivgteo.png"
           },
           {
             "id": 5,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/5.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801361/Chamjo/BCA/pattern/5_o7mdcx.png"
           },
           {
             "id": 6,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/6.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801361/Chamjo/BCA/pattern/6_lx2suo.png"
           },
           {
             "id": 7,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/7.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801364/Chamjo/BCA/pattern/7_xy3qma.png"
           },
           {
             "id": 8,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/8.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801362/Chamjo/BCA/pattern/8_jmhvsr.png"
           },
           {
             "id": 9,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/9.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801362/Chamjo/BCA/pattern/9_wlfryn.png"
           },
           {
             "id": 10,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/10.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801363/Chamjo/BCA/pattern/10_a9lzta.png"
           },
           {
             "id": 11,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/11.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801363/Chamjo/BCA/pattern/11_d56qme.png"
           },
           {
             "id": 12,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/12.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801363/Chamjo/BCA/pattern/12_asla8x.png"
           },
           {
             "id": 13,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/13.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801363/Chamjo/BCA/pattern/13_yifpyp.png"
           },
           {
             "id": 14,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/14.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801364/Chamjo/BCA/pattern/14_ycr08n.png"
           },
           {
             "id": 15,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/15.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801364/Chamjo/BCA/pattern/15_jywfow.png"
           },
           {
             "id": 16,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/16.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801364/Chamjo/BCA/pattern/16_rjyf5c.png"
           },
           {
             "id": 17,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/17.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801365/Chamjo/BCA/pattern/17_kdtw6l.png"
           },
           {
             "id": 18,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/18.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801365/Chamjo/BCA/pattern/18_v3aymn.png"
           },
           {
             "id": 19,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/19.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801365/Chamjo/BCA/pattern/19_ipjpnn.png"
           },
           {
             "id": 20,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/20.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801365/Chamjo/BCA/pattern/20_f59ezq.png"
           },
           {
             "id": 21,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/21.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801365/Chamjo/BCA/pattern/21_aqrl0r.png"
           },
           {
             "id": 22,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/22.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801366/Chamjo/BCA/pattern/22_bglwiy.png"
           },
           {
             "id": 23,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/23.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801365/Chamjo/BCA/pattern/23_ndcvwv.png"
           },
           {
             "id": 24,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/24.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801365/Chamjo/BCA/pattern/24_kquaew.png"
           },
           {
             "id": 25,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/25.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801366/Chamjo/BCA/pattern/25_dazerg.png"
           },
           {
             "id": 26,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/26.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801367/Chamjo/BCA/pattern/26_sbmh6y.png"
           },
           {
             "id": 27,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/27.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801368/Chamjo/BCA/pattern/27_zvtn0h.png"
           },
           {
             "id": 28,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/28.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801366/Chamjo/BCA/pattern/28_wnlwk9.png"
           },
           {
             "id": 29,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/29.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801367/Chamjo/BCA/pattern/29_bshj90.png"
           },
           {
             "id": 30,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/30.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801367/Chamjo/BCA/pattern/30_egborc.png"
           },
           {
             "id": 31,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/31.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801368/Chamjo/BCA/pattern/31_bpbvlm.png"
           },
           {
             "id": 32,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/32.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801368/Chamjo/BCA/pattern/32_xxzeg0.png"
           },
           {
             "id": 33,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/33.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801369/Chamjo/BCA/pattern/33_trok1a.png"
           },
           {
             "id": 34,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/34.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801368/Chamjo/BCA/pattern/34_g7sv0a.png"
           },
           {
             "id": 35,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/35.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801371/Chamjo/BCA/pattern/35_gaf9r2.png"
           },
           {
             "id": 36,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/36.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801369/Chamjo/BCA/pattern/36_dgi3pd.png"
           },
           {
             "id": 37,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/37.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801369/Chamjo/BCA/pattern/37_c1diu7.png"
           },
           {
             "id": 38,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/38.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801377/Chamjo/BCA/pattern/38_qwfqvy.png"
           },
           {
             "id": 39,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/39.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801369/Chamjo/BCA/pattern/39_raut3c.png"
           },
           {
             "id": 40,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/40.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801371/Chamjo/BCA/pattern/40_uwpy7u.png"
           },
           {
             "id": 41,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/41.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801370/Chamjo/BCA/pattern/41_to43ox.png"
           },
           {
             "id": 42,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/42.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801370/Chamjo/BCA/pattern/42_lfotmg.png"
           },
           {
             "id": 43,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/43.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801370/Chamjo/BCA/pattern/43_bpizgv.png"
           },
           {
             "id": 44,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/44.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801371/Chamjo/BCA/pattern/44_bkxeqr.png"
           },
           {
             "id": 45,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/45.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801371/Chamjo/BCA/pattern/45_ocqlyz.png"
           },
           {
             "id": 46,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/46.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801372/Chamjo/BCA/pattern/46_olx8vj.png"
           },
           {
             "id": 47,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/47.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801372/Chamjo/BCA/pattern/47_vkvtbw.png"
           },
           {
             "id": 48,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/48.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801372/Chamjo/BCA/pattern/48_sbuyod.png"
           },
           {
             "id": 49,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/49.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801372/Chamjo/BCA/pattern/49_s0coyr.png"
           },
           {
             "id": 50,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/50.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801373/Chamjo/BCA/pattern/50_ztg89s.png"
           },
           {
             "id": 51,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/51.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801374/Chamjo/BCA/pattern/51_nq7khc.png"
           },
           {
             "id": 52,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/52.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801374/Chamjo/BCA/pattern/52_uydx4m.png"
           },
           {
             "id": 53,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/53.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801374/Chamjo/BCA/pattern/53_hxnbky.png"
           }
         ]
       }
