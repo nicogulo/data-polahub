@@ -546,7 +546,29 @@
     "new": false,
     "color": "rgba(244, 191, 0, 0.16)"
   },
-
+  {
+    "_id": "3",
+    "name": "Vidio",
+    "type": "Video Streaming",
+    "category": ["Coming Soon", "Entertaiment"],
+    "imageUrl": [{
+        "icon": "https://data-polahub.herokuapp.com/images/vidio.png"
+      },
+      {
+        "card": "https://data-polahub.herokuapp.com/images/card/vidio-lock.png"
+      },
+      {
+        "pattern": []
+      }
+    ],
+    "isCategory": true,
+    "provider": "",
+    "copyright": "",
+    "appstore": "",
+    "playstore": "",
+    "country": "",
+    "color": "#ebecef"
+  },
   {
     "_id": "4",
     "name": "BCA Mobile",
@@ -1811,7 +1833,29 @@
     "new": false,
     "color": "rgba(99, 211, 59, 0.16)"
   },
-
+  {
+    "_id": "8",
+    "name": "HaloDoc",
+    "type": "Medical",
+    "category": ["Coming Soon", "Medical"],
+    "imageUrl": [{
+        "icon": "https://data-polahub.herokuapp.com/images/halodoc.png"
+      },
+      {
+        "card": "https://data-polahub.herokuapp.com/images/card/halodoc-lock.png"
+      },
+      {
+        "pattern": []
+      }
+    ],
+    "isCategory": true,
+    "provider": "",
+    "copyright": "",
+    "appstore": "",
+    "playstore": "",
+    "country": "",
+    "color": "#ebecef"
+  },
   {
     "_id": "9",
     "name": "GoFood",
@@ -2168,7 +2212,29 @@
     "new": false,
     "color": "rgba(244, 102, 0, 0.16)"
   },
-
+  {
+    "_id": "11",
+    "name": "Ruangguru",
+    "type": "Online Learning",
+    "category": ["Coming Soon", "Education"],
+    "imageUrl": [{
+        "icon": "https://data-polahub.herokuapp.com/images/ruangguru.png"
+      },
+      {
+        "card": "https://data-polahub.herokuapp.com/images/card/ruangguru-lock.png"
+      },
+      {
+        "pattern": []
+      }
+    ],
+    "isCategory": true,
+    "provider": "",
+    "copyright": "",
+    "appstore": "",
+    "playstore": "",
+    "country": "",
+    "color": "#ebecef"
+  },
   {
     "_id": "12",
     "name": "Fore Coffee",
@@ -2590,7 +2656,29 @@
     "new": false,
     "color": "rgba(0, 179, 249, 0.16)"
   },
-
+  {
+    "_id": "16",
+    "name": "Tiket.com",
+    "type": "Travel",
+    "category": ["Coming Soon", "Travel"],
+    "imageUrl": [{
+        "icon": "https://data-polahub.herokuapp.com/images/tiket.png"
+      },
+      {
+        "card": "https://data-polahub.herokuapp.com/images/card/tiket-lock.png"
+      },
+      {
+        "pattern": []
+      }
+    ],
+    "isCategory": true,
+    "provider": "",
+    "copyright": "",
+    "appstore": "",
+    "playstore": "",
+    "country": "",
+    "color": "#ebecef"
+  },
   {
     "_id": "17",
     "name": "Bibit",
@@ -2831,6 +2919,7 @@
     "new": false,
     "color": "rgba(99, 211, 59, 0.16)"
   },
+  
   {
     "_id": "27",
     "name": "GoPay Plus",
@@ -4084,7 +4173,29 @@
     "new": false,
     "color": "rgba(0, 179, 249, 0.16)"
   },
-
+  {
+    "_id": "23",
+    "name": "Shopee",
+    "type": "Marketplace",
+    "category": ["Coming Soon", "Shopping"],
+    "imageUrl": [{
+        "icon": "https://data-polahub.herokuapp.com/images/shopee.png"
+      },
+      {
+        "card": "https://data-polahub.herokuapp.com/images/card/shopee-lock.png"
+      },
+      {
+        "pattern": []
+      }
+    ],
+    "isCategory": true,
+    "provider": "",
+    "copyright": "",
+    "appstore": "",
+    "playstore": "",
+    "country": "",
+    "color": "#ebecef"
+  },
   {
     "_id": "24",
     "name": "Campaign #ForChange",
@@ -4770,11 +4881,239 @@
     "new": false,
     "color": "rgba(117, 67, 223, 0.08)"
   },
+  {
+    "_id": "29",
+    "name": "Ajaib",
+    "type": "Mutual Funds",
+    "category": ["Coming Soon", "Crypto & Stock"],
+    "imageUrl": [{
+        "icon": "https://data-polahub.herokuapp.com/images/ajaib.png"
+      },
+      {
+        "card": "https://data-polahub.herokuapp.com/images/card/ajaib-lock.png"
+      },
+      {
+        "pattern": []
+      }
+    ],
+    "isCategory": true,
+    "provider": "",
+    "copyright": "",
+    "appstore": "",
+    "playstore": "",
+    "country": "Indonesia",
+    "color": "#ebecef"
+  },
 
+  {
+    "_id": "30",
+    "name": "GoPayLater",
+    "type": "Lending",
+    "category": ["Coming Soon", "Finance", "Gojek Product"],
+    "imageUrl": [{
+        "icon": "https://data-polahub.herokuapp.com/images/gojek.png"
+      },
+      {
+        "card": "https://data-polahub.herokuapp.com/images/card/gopaylater-lock.png"
+      },
+      {
+        "pattern": []
+      }
+    ],
+    "isCategory": true,
+    "provider": "PT Go-jek Indonesia",
+    "copyright": "© PT Aplikasi Karya Anak Bangsa",
+    "appstore": "https://apps.apple.com/id/app/gojek/id944875099",
+    "playstore": "https://play.google.com/store/apps/details?id=com.gojek.app&hl=in&gl=US",
+    "country": "Indonesia",
+    "color": "#ebecef"
+  },
 
+  {
+    "_id": "31",
+    "name": "iQIYI",
+    "type": "Video Streaming",
+    "category": ["Coming Soon", "Entertaiment"],
+    "imageUrl": [{
+        "icon": "https://data-polahub.herokuapp.com/images/iqiyi.png"
+      },
+      {
+        "card": "https://data-polahub.herokuapp.com/images/card/iqiyi-lock.png"
+      },
+      {
+        "pattern": []
+      }
+    ],
+    "isCategory": true,
+    "provider": "",
+    "copyright": "",
+    "appstore": "",
+    "playstore": "",
+    "country": "South Korea",
+    "color": "#ebecef"
+  },
+  {
+    "_id": "31",
+    "name": "Journey to Zero",
+    "type": "Movement",
+    "category": ["Coming Soon", "Sport"],
+    "imageUrl": [{
+        "icon": "https://data-polahub.herokuapp.com/images/jtoz.png"
+      },
+      {
+        "card": "https://data-polahub.herokuapp.com/images/card/jtoz-lock.png"
+      },
+      {
+        "pattern": []
+      }
+    ],
+    "isCategory": true,
+    "provider": "",
+    "copyright": "",
+    "appstore": "",
+    "playstore": "",
+    "country": "",
+    "color": "#ebecef"
+  },
+  {
+    "_id": "32",
+    "name": "KakaoTalk",
+    "type": "Chat",
+    "category": ["Coming Soon", "Social Networking"],
+    "imageUrl": [{
+        "icon": "https://data-polahub.herokuapp.com/images/kakao.png"
+      },
+      {
+        "card": "https://data-polahub.herokuapp.com/images/card/kakao-lock.png"
+      },
+      {
+        "pattern": []
+      }
+    ],
+    "isCategory": true,
+    "provider": "",
+    "copyright": "",
+    "appstore": "",
+    "playstore": "",
+    "country": "",
+    "color": "#ebecef"
+  },
+  {
+    "_id": "33",
+    "name": "NovelAku",
+    "type": "Novel",
+    "category": ["Coming Soon", "Books"],
+    "imageUrl": [{
+        "icon": "https://data-polahub.herokuapp.com/images/novel.png"
+      },
+      {
+        "card": "https://data-polahub.herokuapp.com/images/card/novel-lock.png"
+      },
+      {
+        "pattern": []
+      }
+    ],
+    "isCategory": true,
+    "provider": "",
+    "copyright": "",
+    "appstore": "",
+    "playstore": "",
+    "country": "Indonesia",
+    "color": "#ebecef"
+  },
+  {
+    "_id": "34",
+    "name": "OVO",
+    "type": "Digital Wallet",
+    "category": ["Coming Soon", "Finance"],
+    "imageUrl": [{
+        "icon": "https://data-polahub.herokuapp.com/images/ovo.png"
+      },
+      {
+        "card": "https://data-polahub.herokuapp.com/images/card/ovo-lock.png"
+      },
+      {
+        "pattern": []
+      }
+    ],
+    "isCategory": true,
+    "provider": "",
+    "copyright": "",
+    "appstore": "",
+    "playstore": "",
+    "country": "",
+    "color": "#ebecef"
+  },
+  {
+    "_id": "35",
+    "name": "OYO",
+    "type": "Hotel",
+    "category": ["Coming Soon", "Travel"],
+    "imageUrl": [{
+        "icon": "https://data-polahub.herokuapp.com/images/oyo.png"
+      },
+      {
+        "card": "https://data-polahub.herokuapp.com/images/card/oyo-lock.png"
+      },
+      {
+        "pattern": []
+      }
+    ],
+    "isCategory": true,
+    "provider": "",
+    "copyright": "",
+    "appstore": "",
+    "playstore": "",
+    "country": "",
+    "color": "#ebecef"
+  },
+  {
+    "_id": "36",
+    "name": "TurboVPN",
+    "type": "VPN",
+    "category": ["Coming Soon", "Productivity"],
+    "imageUrl": [{
+        "icon": "https://data-polahub.herokuapp.com/images/turbo.png"
+      },
+      {
+        "card": "https://data-polahub.herokuapp.com/images/card/turbo-lock.png"
+      },
+      {
+        "pattern": []
+      }
+    ],
+    "isCategory": true,
+    "provider": "",
+    "copyright": "",
+    "appstore": "",
+    "playstore": "",
+    "country": "",
+    "color": "#ebecef"
+  },
 
-
-
+  {
+    "_id": "37",
+    "name": "ZOOM",
+    "type": "Video Conference",
+    "category": ["Coming Soon", "Business"],
+    "imageUrl": [{
+        "icon": "https://data-polahub.herokuapp.com/images/zoom.png"
+      },
+      {
+        "card": "https://data-polahub.herokuapp.com/images/card/zoom-lock.png"
+      },
+      {
+        "pattern": []
+      }
+    ],
+    "isCategory": true,
+    "provider": "",
+    "copyright": "",
+    "appstore": "",
+    "playstore": "",
+    "country": "",
+    "color": "#ebecef"
+  },
 
 
   {
