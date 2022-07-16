@@ -5149,8 +5149,8 @@
   {
     "_id": "38",
     "name": "Lazada",
-    "type": "Shopping",
-    "category": ["Marketplace"],
+    "type": "Marketplace",
+    "category": ["Shopping"],
     "imageUrl": [
       {
         "icon": "https://res.cloudinary.com/chamjodesign/image/upload/v1657788008/Chamjo/Lazada/logo.png"
