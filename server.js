@@ -33,7 +33,6 @@ app.get("/api/data-app", function (req, res, next) {
 app.get("/api/data-app/:_id", function (req, res, next) {
   fs.readFile(CATEGORY_APP_JSON, function (err, data) {
     if (err) process.exit(1);
-    // show data from _id of category
     res.setHeader("Access-Control-Allow-Origin", "*");
     res.json(
       JSON.parse(data).filter(function (item) {
