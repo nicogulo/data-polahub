@@ -567,6 +567,7 @@
     "appstore": "",
     "playstore": "",
     "country": "",
+    "new": false,
     "color": "#ebecef"
   },
   {
@@ -1854,6 +1855,7 @@
     "appstore": "",
     "playstore": "",
     "country": "",
+    "new": false,
     "color": "#ebecef"
   },
   {
@@ -2233,6 +2235,7 @@
     "appstore": "",
     "playstore": "",
     "country": "",
+    "new": false,
     "color": "#ebecef"
   },
   {
@@ -2677,6 +2680,7 @@
     "appstore": "",
     "playstore": "",
     "country": "",
+    "new": false,
     "color": "#ebecef"
   },
   {
@@ -4194,6 +4198,7 @@
     "appstore": "",
     "playstore": "",
     "country": "",
+    "new": false,
     "color": "#ebecef"
   },
   {
@@ -4902,6 +4907,7 @@
     "appstore": "",
     "playstore": "",
     "country": "Indonesia",
+    "new": false,
     "color": "#ebecef"
   },
 
@@ -4926,6 +4932,7 @@
     "appstore": "https://apps.apple.com/id/app/gojek/id944875099",
     "playstore": "https://play.google.com/store/apps/details?id=com.gojek.app&hl=in&gl=US",
     "country": "Indonesia",
+    "new": false,
     "color": "#ebecef"
   },
 
@@ -4950,6 +4957,7 @@
     "appstore": "",
     "playstore": "",
     "country": "South Korea",
+    "new": false,
     "color": "#ebecef"
   },
   {
@@ -4973,6 +4981,7 @@
     "appstore": "",
     "playstore": "",
     "country": "",
+    "new": false,
     "color": "#ebecef"
   },
   {
@@ -4996,6 +5005,7 @@
     "appstore": "",
     "playstore": "",
     "country": "",
+    "new": false,
     "color": "#ebecef"
   },
   {
@@ -5019,6 +5029,7 @@
     "appstore": "",
     "playstore": "",
     "country": "Indonesia",
+    "new": false,
     "color": "#ebecef"
   },
   {
@@ -5042,6 +5053,7 @@
     "appstore": "",
     "playstore": "",
     "country": "",
+    "new": false,
     "color": "#ebecef"
   },
   {
@@ -5065,6 +5077,7 @@
     "appstore": "",
     "playstore": "",
     "country": "",
+    "new": false,
     "color": "#ebecef"
   },
   {
@@ -5088,6 +5101,7 @@
     "appstore": "",
     "playstore": "",
     "country": "",
+    "new": false,
     "color": "#ebecef"
   },
 
@@ -5112,6 +5126,7 @@
     "appstore": "",
     "playstore": "",
     "country": "",
+    "new": false,
     "color": "#ebecef"
   },
 
