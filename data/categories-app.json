@@ -383,6 +383,7 @@
     "appstore": "https://apps.apple.com/us/app/tokopedia/id1001394201",
     "playstore": "https://play.google.com/store/apps/details?id=com.tokopedia.tkpd&hl=in&gl=US",
     "country": "",
+    "lock": false,
     "new": false,
     "color": "rgba(99, 211, 59, 0.16)"
   },
@@ -543,6 +544,7 @@
     "appstore": "https://apps.apple.com/id/app/jago/id1539402234?l=id",
     "playstore": "https://play.google.com/store/apps/details?id=com.jago.digitalBanking&hl=in&gl=US",
     "country": "Indonesia",
+    "lock": false,
     "new": false,
     "color": "rgba(244, 191, 0, 0.16)"
   },
@@ -567,6 +569,7 @@
     "appstore": "",
     "playstore": "",
     "country": "",
+    "lock": true,
     "new": false,
     "color": "#ebecef"
   },
@@ -803,6 +806,7 @@
     "appstore": "https://apps.apple.com/id/app/bca-mobile/id551587254",
     "playstore": "https://play.google.com/store/apps/details?id=com.bca&hl=in&gl=US",
     "country": "Indonesia",
+    "lock": false,
     "new": false,
     "color": "rgba(0, 179, 249, 0.16)"
   },
@@ -991,6 +995,7 @@
     "appstore": "https://apps.apple.com/us/app/webtoon-comics/id894546091",
     "playstore": "https://play.google.com/store/apps/details?id=com.naver.linewebtoon&hl=in&gl=US",
     "country": "South Korea",
+    "lock": false,
     "new": false,
     "color": "rgba(99, 211, 59, 0.16)"
   },
@@ -1423,6 +1428,7 @@
     "appstore": "https://apps.apple.com/id/app/camera360-selfie-sticker-cam/id443354861?l=id",
     "playstore": "https://play.google.com/store/apps/details?id=vStudio.Android.Camera360&hl=in&gl=US",
     "country": "China",
+    "lock": false,
     "new": false,
     "color": "rgba(244, 191, 0, 0.16)"
   },
@@ -1619,6 +1625,7 @@
     "appstore": "https://apps.apple.com/id/app/gojek/id944875099",
     "playstore": "https://play.google.com/store/apps/details?id=com.gojek.app&hl=in&gl=US",
     "country": "Indonesia",
+    "lock": false,
     "new": false,
     "color": "rgba(99, 211, 59, 0.16)"
   },
@@ -1831,6 +1838,7 @@
     "appstore": "https://apps.apple.com/id/app/joox-music-sing-karaoke/id914406371",
     "playstore": "https://play.google.com/store/apps/details?id=com.tencent.ibg.joox&hl=in&gl=US",
     "country": "China",
+    "lock": false,
     "new": false,
     "color": "rgba(99, 211, 59, 0.16)"
   },
@@ -1855,6 +1863,7 @@
     "appstore": "",
     "playstore": "",
     "country": "",
+    "lock": true,
     "new": false,
     "color": "#ebecef"
   },
@@ -2091,6 +2100,7 @@
     "appstore": "https://apps.apple.com/id/app/gojek/id944875099",
     "playstore": "https://play.google.com/store/apps/details?id=com.gojek.app&hl=in&gl=US",
     "country": "Indonesia",
+    "lock": false,
     "new": false,
     "color": "rgba(249, 54, 90, 0.16"
   },
@@ -2211,6 +2221,7 @@
     "appstore": "https://apps.apple.com/id/app/babe-baca-berita-indonesia/id1015234796",
     "playstore": "https://play.google.com/store/search?q=babe&c=apps&hl=in&gl=US",
     "country": "Indonesia",
+    "lock": false,
     "new": false,
     "color": "rgba(244, 102, 0, 0.16)"
   },
@@ -2235,6 +2246,7 @@
     "appstore": "",
     "playstore": "",
     "country": "",
+    "lock": true,
     "new": false,
     "color": "#ebecef"
   },
@@ -2415,6 +2427,7 @@
     "appstore": "https://apps.apple.com/id/app/fore-coffee/id1438745141",
     "playstore": "https://play.google.com/store/apps/details?id=coffee.fore2.fore&hl=in&gl=US",
     "country": "Indonesia",
+    "lock": false,
     "new": false,
     "color": "rgba(99, 211, 59, 0.16)"
   },
@@ -2656,6 +2669,7 @@
     "appstore": "https://apps.apple.com/id/app/pedulilindungi/id1504600374",
     "playstore": "https://play.google.com/store/apps/details?id=com.telkom.tracencare&hl=in&gl=US",
     "country": "Indonesia",
+    "lock": false,
     "new": false,
     "color": "rgba(0, 179, 249, 0.16)"
   },
@@ -2680,6 +2694,7 @@
     "appstore": "",
     "playstore": "",
     "country": "",
+    "lock": true,
     "new": false,
     "color": "#ebecef"
   },
@@ -2920,6 +2935,7 @@
     "appstore": "https://apps.apple.com/id/app/bibit-investasi-reksadana/id1445856964",
     "playstore": "https://play.google.com/store/apps/details?id=com.bibit.bibitid&hl=in&gl=US",
     "country": "Indonesia",
+    "lock": false,
     "new": false,
     "color": "rgba(99, 211, 59, 0.16)"
   },
@@ -3281,6 +3297,7 @@
     "appstore": "https://apps.apple.com/id/app/gojek/id944875099",
     "playstore": "https://play.google.com/store/apps/details?id=com.gojek.app&hl=in&gl=US",
     "country": "Indonesia",
+    "lock": false,
     "new": false,
     "color": "rgba(0, 179, 249, 0.16)"
   },
@@ -3438,6 +3455,7 @@
     "appstore": "https://apps.apple.com/us/app/muslim-pro-quran-athan-azan/id388389451",
     "playstore": "https://play.google.com/store/apps/details?id=com.bitsmedia.android.muslimpro&hl=in&gl=US",
     "country": "Indonesia",
+    "lock": false,
     "new": false,
     "color": "rgba(99, 211, 59, 0.16)"
   },
@@ -3734,6 +3752,7 @@
     "appstore": "https://apps.apple.com/id/app/tiktok/id1235601864?l=id",
     "playstore": "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically&hl=in&gl=US",
     "country": "China",
+    "lock": false,
     "new": false,
     "color": "rgba(249, 54, 90, 0.16)"
   },
@@ -3894,6 +3913,7 @@
     "appstore": "https://apps.apple.com/id/app/mytelkomsel/id651412430",
     "playstore": "https://play.google.com/store/apps/details?id=com.telkomsel.telkomselcm&hl=in&gl=US",
     "country": "Indonesia",
+    "lock": false,
     "new": false,
     "color": "rgba(249, 54, 90, 0.16)"
   },
@@ -4174,6 +4194,7 @@
     "appstore": "https://apps.apple.com/id/app/kitabisa-zakat-donasi/id1458307938",
     "playstore": "https://play.google.com/store/apps/details?id=com.kitabisa.android&hl=in&gl=US",
     "country": "Indonesia",
+    "lock": false,
     "new": false,
     "color": "rgba(0, 179, 249, 0.16)"
   },
@@ -4198,6 +4219,7 @@
     "appstore": "",
     "playstore": "",
     "country": "",
+    "lock": true,
     "new": false,
     "color": "#ebecef"
   },
@@ -4474,6 +4496,7 @@
     "appstore": "https://apps.apple.com/id/app/campaign-forchange/id1153928765",
     "playstore": "https://play.google.com/store/apps/details?id=paratu.com.apps.campaign&hl=en_US&gl=US",
     "country": "Indonesia",
+    "lock": false,
     "new": false,
     "color": "rgba(0, 179, 249, 0.16)"
   },
@@ -4670,6 +4693,7 @@
     "appstore": "https://apps.apple.com/id/app/gojek/id944875099",
     "playstore": "https://play.google.com/store/apps/details?id=com.gojek.app&hl=in&gl=US",
     "country": "Indonesia",
+    "lock": false,
     "new": false,
     "color": "rgba(99, 211, 59, 0.16)"
   },
@@ -4883,6 +4907,7 @@
     "appstore": "https://apps.apple.com/us/app/amartha-fintech-p2p-lending/id1473584695",
     "playstore": "https://play.google.com/store/apps/details?id=com.amartha.investor&hl=in&gl=US",
     "country": "Indonesia",
+    "lock": false,
     "new": false,
     "color": "rgba(117, 67, 223, 0.08)"
   },
@@ -4907,6 +4932,7 @@
     "appstore": "",
     "playstore": "",
     "country": "Indonesia",
+    "lock": true,
     "new": false,
     "color": "#ebecef"
   },
@@ -4932,6 +4958,7 @@
     "appstore": "https://apps.apple.com/id/app/gojek/id944875099",
     "playstore": "https://play.google.com/store/apps/details?id=com.gojek.app&hl=in&gl=US",
     "country": "Indonesia",
+    "lock": true,
     "new": false,
     "color": "#ebecef"
   },
@@ -4957,6 +4984,7 @@
     "appstore": "",
     "playstore": "",
     "country": "South Korea",
+    "lock": true,
     "new": false,
     "color": "#ebecef"
   },
@@ -4981,6 +5009,7 @@
     "appstore": "",
     "playstore": "",
     "country": "",
+    "lock": true,
     "new": false,
     "color": "#ebecef"
   },
@@ -5005,6 +5034,7 @@
     "appstore": "",
     "playstore": "",
     "country": "",
+    "lock": true,
     "new": false,
     "color": "#ebecef"
   },
@@ -5029,6 +5059,7 @@
     "appstore": "",
     "playstore": "",
     "country": "Indonesia",
+    "lock": true,
     "new": false,
     "color": "#ebecef"
   },
@@ -5053,6 +5084,7 @@
     "appstore": "",
     "playstore": "",
     "country": "",
+    "lock": true,
     "new": false,
     "color": "#ebecef"
   },
@@ -5077,6 +5109,7 @@
     "appstore": "",
     "playstore": "",
     "country": "",
+    "lock": true,
     "new": false,
     "color": "#ebecef"
   },
@@ -5101,6 +5134,7 @@
     "appstore": "",
     "playstore": "",
     "country": "",
+    "lock": true,
     "new": false,
     "color": "#ebecef"
   },
@@ -5126,6 +5160,7 @@
     "appstore": "",
     "playstore": "",
     "country": "",
+    "lock": true,
     "new": false,
     "color": "#ebecef"
   },
@@ -5393,6 +5428,7 @@
     "appstore": "https://apps.apple.com/id/app/lazada-indonesia/id785385147?l=id  ",
     "playstore": "https://play.google.com/store/apps/details?id=com.lazada.android&hl=in&gl=US",
     "country": "Singapore",
+    "lock": false,
     "new": true,
     "color": "rgba(0, 179, 249, 0.16)"
   },
@@ -5669,6 +5705,7 @@
     "appstore": "https://apps.apple.com/sg/app/gotrade-invest-in-us-stocks/id1530178262",
     "playstore": "https://play.google.com/store/apps/details?id=io.tr8.tradecharlie.android&hl=en_SG&gl=US",
     "country": "Singapore",
+    "lock": false,
     "new": true,
     "color": "rgba(99, 211, 59, 0.16)"
   },
@@ -5897,6 +5934,7 @@
     "appstore": "https://apps.apple.com/id/app/atome-id/id1560108683",
     "playstore": "https://play.google.com/store/apps/details?id=id.co.shopintar&hl=in&gl=US",
     "country": "Singapore",
+    "lock": false,
     "new": true,
     "color": "rgba(244, 191, 0, 0.16)"
 
@@ -6147,6 +6185,7 @@
     "appstore": "https://apps.apple.com/us/app/noice-podcast-radio-more/id1484372791",
     "playstore": "https://play.google.com/store/apps/details?id=noice.app&hl=in&gl=US",
     "country": "Indonesia",
+    "lock": false,
     "new": true,
     "color": "rgba(244, 191, 0, 0.16)"
 
