@@ -14,7 +14,7 @@ this is the all data for Chamjo https://data-polahub.herokuapp.com
 | :------- | :-------------------------------------------------------- |
 | `string` | **Required**. https://data-polahub.herokuapp.com/api/data |
 
-### Get item Card
+### Get item data
 
 ```http
   GET /api/data-app
@@ -23,6 +23,17 @@ this is the all data for Chamjo https://data-polahub.herokuapp.com
 | Type     | Description                                                   |
 | :------- | :------------------------------------------------------------ |
 | `string` | **Required**. https://data-polahub.herokuapp.com/api/data-app |
+
+
+### Get detail item data
+
+```http
+  GET /api/data-app/:id
+```
+
+| Type     | Description                                                   |
+| :------- | :------------------------------------------------------------ |
+| `string` | **Required**. https://data-polahub.herokuapp.com/api/data-app/:id |
 
 ## Tech Stack
 
