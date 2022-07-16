@@ -53,7 +53,7 @@ app.get("/api/data-app/:category", function (req, res, next) {
       })
     );
   });
-}
+});
 
 // app.get("/api/data-app/:_id", function (req, res, next) {
 //   fs.readFile(CHARACTERS_JSON, function (err, data) {
