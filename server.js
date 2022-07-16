@@ -49,7 +49,7 @@ app.get("/api/data-app/:category", function (req, res, next) {
     res.setHeader("Access-Control-Allow-Origin", "*");
     res.json(
       JSON.parse(data).filter(function (item) {
-        return item.name === req.params.name;
+        return item.name === req.params.category;
       })
     );
   });
