@@ -40,14 +40,14 @@
     "name": "Entertaiment",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/monitor-mobbile.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/monitor-mobbile.svg",
-    "isNew": false
+    "isNew": true
   },
   {
     "_id": "7",
     "name": "Finance",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/wallet.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/wallet.svg",
-    "isNew": false
+    "isNew": true
   },
   {
     "_id": "8",
@@ -133,7 +133,7 @@
     "name": "Shopping",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/bag.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/bag.svg",
-    "isNew": false
+    "isNew": true
   },
   {
     "_id": "asd1293uasdads1",
