@@ -5410,8 +5410,8 @@
   {
     "_id": "39",
     "name": "Gotrade",
-    "type": "Finance",
-    "category": [ "Stocks"],
+    "type": "Stock",
+    "category": [ "Finance"],
     "imageUrl": [
       {
         "icon": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936390/Chamjo/Gotrade/logo.png"
