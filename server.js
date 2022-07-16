@@ -30,8 +30,8 @@ app.get("/api/data-app", function (req, res, next) {
 });
 
 // end point for detail of category
-app.get("/api/data-app/:id", function (req, res, next) {
-  fs.readFile(CATEGORY_JSON, function (err, data) {
+app.get("/api/data-app/:_id", function (req, res, next) {
+  fs.readFile(CATEGORY_APP_JSON, function (err, data) {
     if (err) process.exit(1);
     json = JSON.parse(data);
     res.setHeader("Access-Control-Allow-Origin", "*");
