@@ -4922,7 +4922,7 @@
         "pattern": []
       }
     ],
-    "isCategory": false,
+    "isCategory": true,
     "provider": "",
     "copyright": "",
     "appstore": "",
