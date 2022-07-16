@@ -5667,5 +5667,235 @@
     "playstore": "https://play.google.com/store/apps/details?id=io.tr8.tradecharlie.android&hl=en_SG&gl=US",
     "country": "Singapore",
     "color": "rgba(99, 211, 59, 0.16)"
+  },
+  {
+    "_id": "40",
+    "name": "Atome",
+    "type": "Paylater",
+    "category": [ "Finance"],
+    "imageUrl": [
+      {
+        "icon": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938940/Chamjo/Atome/logo.png"
+      },
+      {
+        "card": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938942/Chamjo/Atome/mockup.png"
+      },
+        {
+          "pattern": [
+            {
+              "id": 1,
+              "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/1.png"
+            },
+            {
+              "id": 2,
+              "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/2.png"
+            },
+            {
+              "id": 3,
+              "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/3.png"
+            },
+            {
+              "id": 4,
+              "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/4.png"
+            },
+            {
+              "id": 5,
+              "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/5.png"
+            },
+            {
+              "id": 6,
+              "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/6.png"
+            },
+            {
+              "id": 7,
+              "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/7.png"
+            },
+            {
+              "id": 8,
+              "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/8.png"
+            },
+            {
+              "id": 9,
+              "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/9.png"
+            },
+            {
+              "id": 10,
+              "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/10.png"
+            },
+            {
+              "id": 11,
+              "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/11.png"
+            },
+            {
+              "id": 12,
+              "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/12.png"
+            },
+            {
+              "id": 13,
+              "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/13.png"
+            },
+            {
+              "id": 14,
+              "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/14.png"
+            },
+            {
+              "id": 15,
+              "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/15.png"
+            },
+            {
+              "id": 16,
+              "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/16.png"
+            },
+            {
+              "id": 17,
+              "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/17.png"
+            },
+            {
+              "id": 18,
+              "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/18.png"
+            },
+            {
+              "id": 19,
+              "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/19.png"
+            },
+            {
+              "id": 20,
+              "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/20.png"
+            },
+            {
+              "id": 21,
+              "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/21.png"
+            },
+            {
+              "id": 22,
+              "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/22.png"
+            },
+            {
+              "id": 23,
+              "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/23.png"
+            },
+            {
+              "id": 24,
+              "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/24.png"
+            },
+            {
+              "id": 25,
+              "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/25.png"
+            },
+            {
+              "id": 26,
+              "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/26.png"
+            },
+            {
+              "id": 27,
+              "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/27.png"
+            },
+            {
+              "id": 28,
+              "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/28.png"
+            },
+            {
+              "id": 29,
+              "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/29.png"
+            },
+            {
+              "id": 30,
+              "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/30.png"
+            },
+            {
+              "id": 31,
+              "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/31.png"
+            },
+            {
+              "id": 32,
+              "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/32.png"
+            },
+            {
+              "id": 33,
+              "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/33.png"
+            },
+            {
+              "id": 34,
+              "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/34.png"
+            },
+            {
+              "id": 35,
+              "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/35.png"
+            },
+            {
+              "id": 36,
+              "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/36.png"
+            },
+            {
+              "id": 37,
+              "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/37.png"
+            },
+            {
+              "id": 38,
+              "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/38.png"
+            },
+            {
+              "id": 39,
+              "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/39.png"
+            },
+            {
+              "id": 40,
+              "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/40.png"
+            },
+            {
+              "id": 41,
+              "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/41.png"
+            },
+            {
+              "id": 42,
+              "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/42.png"
+            },
+            {
+              "id": 43,
+              "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/43.png"
+            },
+            {
+              "id": 44,
+              "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/44.png"
+            },
+            {
+              "id": 45,
+              "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/45.png"
+            },
+            {
+              "id": 46,
+              "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/46.png"
+            },
+            {
+              "id": 47,
+              "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/47.png"
+            },
+            {
+              "id": 48,
+              "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/48.png"
+            },
+            {
+              "id": 49,
+              "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/49.png"
+            },
+            {
+              "id": 50,
+              "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/50.png"
+            },
+            {
+              "id": 51,
+              "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/51.png"
+            }
+          ]
+        }
+    ],
+    "isCategory": true,
+    "provider": "APayLater Financials Pte Ltd.",
+    "copyright": "© 2020 Atome",
+    "appstore": "https://apps.apple.com/id/app/atome-id/id1560108683",
+    "playstore": "https://play.google.com/store/apps/details?id=id.co.shopintar&hl=in&gl=US",
+    "country": "Singapore",
+    "color": "rgba(244, 191, 0, 0.16)"
+    
   }
 ]
