@@ -5049,242 +5049,246 @@
         "card": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936378/Chamjo/Gotrade/mockup.png"
       },
       {
-        "pattern": [{
-            "id": 1,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/1.png"
-          },
-          {
-            "id": 2,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/2.png"
-          },
-          {
-            "id": 3,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/3.png"
-          },
-          {
-            "id": 4,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/4.png"
-          },
-          {
-            "id": 5,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/5.png"
-          },
-          {
-            "id": 6,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/6.png"
-          },
-          {
-            "id": 7,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/7.png"
-          },
-          {
-            "id": 8,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/8.png"
-          },
-          {
-            "id": 9,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/9.png"
-          },
-          {
-            "id": 10,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/10.png"
-          },
-          {
-            "id": 11,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/11.png"
-          },
-          {
-            "id": 12,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/12.png"
-          },
-          {
-            "id": 13,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/13.png"
-          },
-          {
-            "id": 14,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/14.png"
-          },
-          {
-            "id": 15,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/15.png"
-          },
-          {
-            "id": 16,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/16.png"
-          },
-          {
-            "id": 17,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/17.png"
-          },
-          {
-            "id": 18,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/18.png"
-          },
-          {
-            "id": 19,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/19.png"
-          },
-          {
-            "id": 20,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/20.png"
-          },
-          {
-            "id": 21,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/21.png"
-          },
-          {
-            "id": 22,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/22.png"
-          },
-          {
-            "id": 23,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/23.png"
-          },
-          {
-            "id": 24,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/24.png"
-          },
-          {
-            "id": 25,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/25.png"
-          },
-          {
-            "id": 26,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/26.png"
-          },
-          {
-            "id": 27,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/27.png"
-          },
-          {
-            "id": 28,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/28.png"
-          },
-          {
-            "id": 29,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/29.png"
-          },
-          {
-            "id": 30,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/30.png"
-          },
-          {
-            "id": 31,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/31.png"
-          },
-          {
-            "id": 32,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/32.png"
-          },
-          {
-            "id": 33,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/33.png"
-          },
-          {
-            "id": 34,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/34.png"
-          },
-          {
-            "id": 35,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/35.png"
-          },
-          {
-            "id": 36,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/36.png"
-          },
-          {
-            "id": 37,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/37.png"
-          },
-          {
-            "id": 38,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/38.png"
-          },
-          {
-            "id": 39,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/39.png"
-          },
-          {
-            "id": 40,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/40.png"
-          },
-          {
-            "id": 41,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/41.png"
-          },
-          {
-            "id": 42,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/42.png"
-          },
-          {
-            "id": 43,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/43.png"
-          },
-          {
-            "id": 44,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/44.png"
-          },
-          {
-            "id": 45,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/45.png"
-          },
-          {
-            "id": 46,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/46.png"
-          },
-          {
-            "id": 47,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/47.png"
-          },
-          {
-            "id": 48,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/48.png"
-          },
-          {
-            "id": 49,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/49.png"
-          },
-          {
-            "id": 50,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/50.png"
-          },
-          {
-            "id": 51,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/51.png"
-          },
-          {
-            "id": 52,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/52.png"
-          },
-          {
-            "id": 53,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/53.png"
-          },
-          {
-            "id": 54,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/54.png"
-          },
-          {
-            "id": 55,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/55.png"
-          },
-          {
-            "id": 56,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/56.png"
-          },
-          {
-            "id": 57,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/57.png"
-          },
-          {
-            "id": 58,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/58.png"
-          },
-          {
-            "id": 59,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/59.png"
-          }
+        "pattern": [ {
+          "id": 1,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/1.png"
+        },
+        {
+          "id": 2,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/2.png"
+        },
+        {
+          "id": 3,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/3.png"
+        },
+        {
+          "id": 4,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/4.png"
+        },
+        {
+          "id": 5,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/5.png"
+        },
+        {
+          "id": 6,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/6.png"
+        },
+        {
+          "id": 7,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/7.png"
+        },
+        {
+          "id": 8,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/8.png"
+        },
+        {
+          "id": 9,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/9.png"
+        },
+        {
+          "id": 10,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/10.png"
+        },
+        {
+          "id": 11,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/11.png"
+        },
+        {
+          "id": 12,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/12.png"
+        },
+        {
+          "id": 13,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/13.png"
+        },
+        {
+          "id": 14,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/14.png"
+        },
+        {
+          "id": 15,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/15.png"
+        },
+        {
+          "id": 16,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/16.png"
+        },
+        {
+          "id": 17,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/17.png"
+        },
+        {
+          "id": 18,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/18.png"
+        },
+        {
+          "id": 19,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/19.png"
+        },
+        {
+          "id": 20,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/20.png"
+        },
+        {
+          "id": 21,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/21.png"
+        },
+        {
+          "id": 22,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/22.png"
+        },
+        {
+          "id": 23,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/23.png"
+        },
+        {
+          "id": 24,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/24.png"
+        },
+        {
+          "id": 25,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/25.png"
+        },
+        {
+          "id": 26,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/26.png"
+        },
+        {
+          "id": 27,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/27.png"
+        },
+        {
+          "id": 28,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/28.png"
+        },
+        {
+          "id": 29,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/29.png"
+        },
+        {
+          "id": 30,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/30.png"
+        },
+        {
+          "id": 31,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/31.png"
+        },
+        {
+          "id": 32,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/32.png"
+        },
+        {
+          "id": 33,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/33.png"
+        },
+        {
+          "id": 34,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/34.png"
+        },
+        {
+          "id": 35,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/35.png"
+        },
+        {
+          "id": 36,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/36.png"
+        },
+        {
+          "id": 37,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/37.png"
+        },
+        {
+          "id": 38,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/38.png"
+        },
+        {
+          "id": 39,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/39.png"
+        },
+        {
+          "id": 40,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/40.png"
+        },
+        {
+          "id": 41,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/41.png"
+        },
+        {
+          "id": 42,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/42.png"
+        },
+        {
+          "id": 43,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/43.png"
+        },
+        {
+          "id": 44,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/44.png"
+        },
+        {
+          "id": 45,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/45.png"
+        },
+        {
+          "id": 46,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/46.png"
+        },
+        {
+          "id": 47,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/47.png"
+        },
+        {
+          "id": 48,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/48.png"
+        },
+        {
+          "id": 49,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/49.png"
+        },
+        {
+          "id": 50,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/50.png"
+        },
+        {
+          "id": 51,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/51.png"
+        },
+        {
+          "id": 52,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/52.png"
+        },
+        {
+          "id": 53,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/53.png"
+        },
+        {
+          "id": 54,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/54.png"
+        },
+        {
+          "id": 55,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/55.png"
+        },
+        {
+          "id": 56,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/56.png"
+        },
+        {
+          "id": 57,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/57.png"
+        },
+        {
+          "id": 58,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/58.png"
+        },
+        {
+          "id": 59,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/59.png"
+        },
+        {
+          "id": 60,
+          "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/60.png"
+        }
         ]
       }
     ],
