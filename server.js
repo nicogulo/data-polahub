@@ -45,13 +45,20 @@ app.get("/api/data-app/:_id", function (req, res, next) {
 // end point for CATEGORY_APP_JSON filter by category
 app.get("/api/data-app/filter/:category", function (req, res, next) {
   fs.readFile(CATEGORY_APP_JSON, function (err, data) {
-    if (err) process.exit(1);
+    if (err) {
+      console.log(err);
+      process.exit(1);
+    }
     res.setHeader("Access-Control-Allow-Origin", "*");
-    res.json(
-      JSON.parse(data).filter(function (item) {
-        return item.type === req.params.category;
-      })
-    );
+    if (req.params.category === "All Categories") {
+      res.json(JSON.parse(data));
+    } else {
+      res.json(
+        JSON.parse(data).filter(function (item) {
+          return item.type === req.params.category;
+        })
+      );
+    }
   });
 });
 
