@@ -5502,5 +5502,254 @@
     "country": "Singapore",
     "color": "rgba(244, 191, 0, 0.16)"
 
+  },
+  {
+    "_id": "41",
+    "name": "Noice",
+    "type": "Podcast",
+    "category": ["Entertaiment"],
+    "imageUrl": [{
+        "icon": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958050/Chamjo/Noice/logo.png"
+      },
+      {
+        "card": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958051/Chamjo/Noice/mockup.png"
+      },
+      {
+        "pattern": [
+          {
+            "id": 1,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/1.png"
+          },
+          {
+            "id": 2,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/2.png"
+          },
+          {
+            "id": 3,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/3.png"
+          },
+          {
+            "id": 4,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/4.png"
+          },
+          {
+            "id": 5,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/5.png"
+          },
+          {
+            "id": 6,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/6.png"
+          },
+          {
+            "id": 7,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/7.png"
+          },
+          {
+            "id": 8,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/8.png"
+          },
+          {
+            "id": 9,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/9.png"
+          },
+          {
+            "id": 10,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/10.png"
+          },
+          {
+            "id": 11,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/11.png"
+          },
+          {
+            "id": 12,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/12.png"
+          },
+          {
+            "id": 13,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/13.png"
+          },
+          {
+            "id": 14,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/14.png"
+          },
+          {
+            "id": 15,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/15.png"
+          },
+          {
+            "id": 16,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/16.png"
+          },
+          {
+            "id": 17,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/17.png"
+          },
+          {
+            "id": 18,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/18.png"
+          },
+          {
+            "id": 19,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/19.png"
+          },
+          {
+            "id": 20,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/20.png"
+          },
+          {
+            "id": 21,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/21.png"
+          },
+          {
+            "id": 22,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/22.png"
+          },
+          {
+            "id": 23,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/23.png"
+          },
+          {
+            "id": 24,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/24.png"
+          },
+          {
+            "id": 25,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/25.png"
+          },
+          {
+            "id": 26,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/26.png"
+          },
+          {
+            "id": 27,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/27.png"
+          },
+          {
+            "id": 28,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/28.png"
+          },
+          {
+            "id": 29,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/29.png"
+          },
+          {
+            "id": 30,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/30.png"
+          },
+          {
+            "id": 31,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/31.png"
+          },
+          {
+            "id": 32,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/32.png"
+          },
+          {
+            "id": 33,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/33.png"
+          },
+          {
+            "id": 34,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/34.png"
+          },
+          {
+            "id": 35,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/35.png"
+          },
+          {
+            "id": 36,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/36.png"
+          },
+          {
+            "id": 37,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/37.png"
+          },
+          {
+            "id": 38,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/38.png"
+          },
+          {
+            "id": 39,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/39.png"
+          },
+          {
+            "id": 40,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/40.png"
+          },
+          {
+            "id": 41,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/41.png"
+          },
+          {
+            "id": 42,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/42.png"
+          },
+          {
+            "id": 43,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/43.png"
+          },
+          {
+            "id": 44,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/44.png"
+          },
+          {
+            "id": 45,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/45.png"
+          },
+          {
+            "id": 46,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/46.png"
+          },
+          {
+            "id": 47,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/47.png"
+          },
+          {
+            "id": 48,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/48.png"
+          },
+          {
+            "id": 49,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/49.png"
+          },
+          {
+            "id": 50,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/50.png"
+          },
+          {
+            "id": 51,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/51.png"
+          },
+          {
+            "id": 52,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/52.png"
+          },
+          {
+            "id": 53,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/53.png"
+          },
+          {
+            "id": 54,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/54.png"
+          },
+          {
+            "id": 55,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/55.png"
+          },
+          {
+            "id": 56,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/56.png"
+          }
+        ]
+      }
+    ],
+    "isCategory": true,
+    "provider": "MAHAKA RADIO INTEGRA, PT TBK.",
+    "copyright": "©2021 PT. Mahaka Radio Digital",
+    "appstore": "https://apps.apple.com/us/app/noice-podcast-radio-more/id1484372791",
+    "playstore": "https://play.google.com/store/apps/details?id=noice.app&hl=in&gl=US",
+    "country": "Indonesia",
+    "color": "rgba(244, 191, 0, 0.16)"
+
   }
 ]
