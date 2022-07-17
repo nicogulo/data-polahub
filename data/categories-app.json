@@ -815,7 +815,7 @@
   },
   {
     "_id": "5",
-    "name": "LINE WEBTOON",
+    "name": "WEBTOON",
     "type": "Comic",
     "category": ["Entertaiment"],
     "imageUrl": [{
@@ -2951,7 +2951,7 @@
     "new_color": "#E2F4DC",
     "color": "rgba(99, 211, 59, 0.16)"
   },
-  
+
   {
     "_id": "27",
     "name": "GoPay Plus",
@@ -4931,7 +4931,7 @@
     "new_color": "#EFEBF9",
     "color": "rgba(117, 67, 223, 0.08)"
   },
- 
+
   {
     "_id": "31",
     "name": "iQIYI",
@@ -5082,8 +5082,8 @@
     "new": false,
     "color": "#ebecef"
   },
- 
-  
+
+
   {
     "_id": "38",
     "name": "Lazada",
@@ -5096,8 +5096,7 @@
         "card": "https://res.cloudinary.com/chamjodesign/image/upload/v1657788013/Chamjo/Lazada/mockup.png"
       },
       {
-        "pattern": [
-          {
+        "pattern": [{
             "id": 1,
             "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/1.png"
           },
@@ -5872,8 +5871,7 @@
         "card": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958051/Chamjo/Noice/mockup.png"
       },
       {
-        "pattern": [
-          {
+        "pattern": [{
             "id": 1,
             "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/1.png"
           },
