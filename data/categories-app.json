@@ -385,6 +385,7 @@
     "country": "",
     "lock": false,
     "new": false,
+    "new_color": "#E2F4DC",
     "color": "rgba(99, 211, 59, 0.16)"
   },
   {
@@ -546,6 +547,7 @@
     "country": "Indonesia",
     "lock": false,
     "new": false,
+    "new_color": "#F9F1D3",
     "color": "rgba(244, 191, 0, 0.16)"
   },
   {
@@ -808,6 +810,7 @@
     "country": "Indonesia",
     "lock": false,
     "new": false,
+    "new_color": "#D2EFFB",
     "color": "rgba(0, 179, 249, 0.16)"
   },
   {
@@ -997,6 +1000,7 @@
     "country": "South Korea",
     "lock": false,
     "new": false,
+    "new_color": "#E2F4DC",
     "color": "rgba(99, 211, 59, 0.16)"
   },
   {
@@ -1430,6 +1434,7 @@
     "country": "China",
     "lock": false,
     "new": false,
+    "new_color": "#F9F1D3",
     "color": "rgba(244, 191, 0, 0.16)"
   },
   {
@@ -1627,6 +1632,7 @@
     "country": "Indonesia",
     "lock": false,
     "new": false,
+    "new_color": "#E2F4DC",
     "color": "rgba(99, 211, 59, 0.16)"
   },
   {
@@ -1840,6 +1846,7 @@
     "country": "China",
     "lock": false,
     "new": false,
+    "new_color": "#E2F4DC",
     "color": "rgba(99, 211, 59, 0.16)"
   },
   {
@@ -2102,7 +2109,8 @@
     "country": "Indonesia",
     "lock": false,
     "new": false,
-    "color": "rgba(249, 54, 90, 0.16"
+    "new_color": "#FADBE1",
+    "color": "rgba(249, 54, 90, 0.16)"
   },
   {
     "_id": "10",
@@ -2223,6 +2231,7 @@
     "country": "Indonesia",
     "lock": false,
     "new": false,
+    "new_color": "#F9E2D3",
     "color": "rgba(244, 102, 0, 0.16)"
   },
   {
@@ -2429,6 +2438,7 @@
     "country": "Indonesia",
     "lock": false,
     "new": false,
+    "new_color": "#E2F4DC",
     "color": "rgba(99, 211, 59, 0.16)"
   },
 
@@ -2671,6 +2681,7 @@
     "country": "Indonesia",
     "lock": false,
     "new": false,
+    "new_color": "#D2EFFB",
     "color": "rgba(0, 179, 249, 0.16)"
   },
   {
@@ -2937,6 +2948,7 @@
     "country": "Indonesia",
     "lock": false,
     "new": false,
+    "new_color": "#E2F4DC",
     "color": "rgba(99, 211, 59, 0.16)"
   },
   
@@ -3299,6 +3311,7 @@
     "country": "Indonesia",
     "lock": false,
     "new": false,
+    "new_color": "#D2EFFB",
     "color": "rgba(0, 179, 249, 0.16)"
   },
 
@@ -3457,6 +3470,7 @@
     "country": "Indonesia",
     "lock": false,
     "new": false,
+    "new_color": "#E2F4DC",
     "color": "rgba(99, 211, 59, 0.16)"
   },
   {
@@ -3754,6 +3768,7 @@
     "country": "China",
     "lock": false,
     "new": false,
+    "new_color": "#FADBE1",
     "color": "rgba(249, 54, 90, 0.16)"
   },
   {
@@ -3915,6 +3930,7 @@
     "country": "Indonesia",
     "lock": false,
     "new": false,
+    "new_color": "#FADBE1",
     "color": "rgba(249, 54, 90, 0.16)"
   },
   {
@@ -4196,6 +4212,7 @@
     "country": "Indonesia",
     "lock": false,
     "new": false,
+    "new_color": "#D2EFFB",
     "color": "rgba(0, 179, 249, 0.16)"
   },
   {
@@ -4498,6 +4515,7 @@
     "country": "Indonesia",
     "lock": false,
     "new": false,
+    "new_color": "#D2EFFB",
     "color": "rgba(0, 179, 249, 0.16)"
   },
   {
@@ -4695,6 +4713,7 @@
     "country": "Indonesia",
     "lock": false,
     "new": false,
+    "new_color": "#E2F4DC",
     "color": "rgba(99, 211, 59, 0.16)"
   },
 
@@ -4909,6 +4928,7 @@
     "country": "Indonesia",
     "lock": false,
     "new": false,
+    "new_color": "#EFEBF9",
     "color": "rgba(117, 67, 223, 0.08)"
   },
   {
@@ -5430,6 +5450,7 @@
     "country": "Singapore",
     "lock": false,
     "new": true,
+    "new_color": "#D2EFFB",
     "color": "rgba(0, 179, 249, 0.16)"
   },
   {
@@ -5707,6 +5728,7 @@
     "country": "Singapore",
     "lock": false,
     "new": true,
+    "new_color": "#E2F4DC",
     "color": "rgba(99, 211, 59, 0.16)"
   },
   {
@@ -5936,6 +5958,7 @@
     "country": "Singapore",
     "lock": false,
     "new": true,
+    "new_color": "#F9F1D3",
     "color": "rgba(244, 191, 0, 0.16)"
 
   },
@@ -6187,6 +6210,7 @@
     "country": "Indonesia",
     "lock": false,
     "new": true,
+    "new_color": "#F9F1D3",
     "color": "rgba(244, 191, 0, 0.16)"
 
   }
