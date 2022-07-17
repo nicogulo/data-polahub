@@ -552,25 +552,25 @@
   },
   {
     "_id": "3",
-    "name": "Vidio",
-    "type": "Video Streaming",
+    "name": "iflix",
+    "type": "Movie Streaming",
     "category": ["Coming Soon", "Entertaiment"],
     "imageUrl": [{
         "icon": "https://data-polahub.herokuapp.com/images/vidio.png"
       },
       {
-        "card": "https://data-polahub.herokuapp.com/images/card/vidio-lock.png"
+        "card": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981344/Chamjo/Coming%20Soon/iflix.png"
       },
       {
         "pattern": []
       }
     ],
     "isCategory": true,
-    "provider": "",
-    "copyright": "",
-    "appstore": "",
-    "playstore": "",
-    "country": "",
+    "provider": "IMAGE FUTURE INVESTMENT (HK) LIMITED",
+    "copyright": "© 2016 iflix",
+    "appstore": "https://apps.apple.com/id/app/iflix-watch-asian-dramas/id978324217",
+    "playstore": "https://play.google.com/store/apps/details?id=iflix.play&hl=in&gl=US",
+    "country": "Malaysia",
     "lock": true,
     "new": false,
     "color": "#ebecef"
@@ -1851,14 +1851,14 @@
   },
   {
     "_id": "8",
-    "name": "HaloDoc",
-    "type": "Medical",
-    "category": ["Coming Soon", "Medical"],
+    "name": "Bukalapak",
+    "type": "Marketplace",
+    "category": ["Coming Soon", "Shopping"],
     "imageUrl": [{
         "icon": "https://data-polahub.herokuapp.com/images/halodoc.png"
       },
       {
-        "card": "https://data-polahub.herokuapp.com/images/card/halodoc-lock.png"
+        "card": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981343/Chamjo/Coming%20Soon/Bukalapak.png"
       },
       {
         "pattern": []
@@ -2243,7 +2243,7 @@
         "icon": "https://data-polahub.herokuapp.com/images/ruangguru.png"
       },
       {
-        "card": "https://data-polahub.herokuapp.com/images/card/ruangguru-lock.png"
+        "card": "https://res.cloudinary.com/chamjodesign/image/upload/v1657999847/Chamjo/Coming%20Soon/Ruangguru.png"
       },
       {
         "pattern": []
@@ -2693,7 +2693,7 @@
         "icon": "https://data-polahub.herokuapp.com/images/tiket.png"
       },
       {
-        "card": "https://data-polahub.herokuapp.com/images/card/tiket-lock.png"
+        "card": "https://res.cloudinary.com/chamjodesign/image/upload/v1657998059/Chamjo/Coming%20Soon/Tiket.com_Flight.png"
       },
       {
         "pattern": []
@@ -4992,7 +4992,7 @@
         "icon": "https://data-polahub.herokuapp.com/images/iqiyi.png"
       },
       {
-        "card": "https://data-polahub.herokuapp.com/images/card/iqiyi-lock.png"
+        "card": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981345/Chamjo/Coming%20Soon/iQIYI.png"
       },
       {
         "pattern": []
@@ -5010,74 +5010,74 @@
   },
   {
     "_id": "31",
-    "name": "Journey to Zero",
-    "type": "Movement",
-    "category": ["Coming Soon", "Sport"],
+    "name": "RedDoorz",
+    "type": "Hotel",
+    "category": ["Coming Soon", "Travel"],
     "imageUrl": [{
         "icon": "https://data-polahub.herokuapp.com/images/jtoz.png"
       },
       {
-        "card": "https://data-polahub.herokuapp.com/images/card/jtoz-lock.png"
+        "card": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981343/Chamjo/Coming%20Soon/RedDoorz.png"
       },
       {
         "pattern": []
       }
     ],
     "isCategory": true,
-    "provider": "",
-    "copyright": "",
-    "appstore": "",
-    "playstore": "",
-    "country": "",
+    "provider": "COMMEASURE SOLUTIONS INDIA PRIVATE LIMITED",
+    "copyright": "© RedDoorz",
+    "appstore": "https://apps.apple.com/us/app/reddoorz-hotel-booking-app/id1260883343",
+    "playstore": "https://play.google.com/store/apps/details?id=com.reddoorz.app&hl=in&gl=US",
+    "country": "Singapore",
     "lock": true,
     "new": false,
     "color": "#ebecef"
   },
   {
     "_id": "32",
-    "name": "KakaoTalk",
-    "type": "Chat",
+    "name": "Lemon8",
+    "type": "Social",
     "category": ["Coming Soon", "Social Networking"],
     "imageUrl": [{
         "icon": "https://data-polahub.herokuapp.com/images/kakao.png"
       },
       {
-        "card": "https://data-polahub.herokuapp.com/images/card/kakao-lock.png"
+        "card": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981343/Chamjo/Coming%20Soon/Lemon8.png"
       },
       {
         "pattern": []
       }
     ],
     "isCategory": true,
-    "provider": "",
-    "copyright": "",
-    "appstore": "",
-    "playstore": "",
-    "country": "",
+    "provider": "Bytedance K.K.",
+    "copyright": "© Lemon8",
+    "appstore": "https://apps.apple.com/id/app/lemon8/id1498607143",
+    "playstore": "https://play.google.com/store/apps/details?id=com.bd.nproject&hl=in&gl=US",
+    "country": "China",
     "lock": true,
     "new": false,
     "color": "#ebecef"
   },
   {
     "_id": "33",
-    "name": "NovelAku",
-    "type": "Novel",
-    "category": ["Coming Soon", "Books"],
+    "name": "DANA",
+    "type": "Digital Wallet",
+    "category": ["Coming Soon", "Finance"],
     "imageUrl": [{
         "icon": "https://data-polahub.herokuapp.com/images/novel.png"
       },
       {
-        "card": "https://data-polahub.herokuapp.com/images/card/novel-lock.png"
+        "card": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981343/Chamjo/Coming%20Soon/DANA.png"
       },
       {
         "pattern": []
       }
     ],
     "isCategory": true,
-    "provider": "",
-    "copyright": "",
-    "appstore": "",
-    "playstore": "",
+    "provider": "ESPAY DEBIT INDONESIA KOE, PT",
+    "copyright": "© 2019 ESPAY DEBIT INDONESIA KOE, PT",
+    "appstore": "https://apps.apple.com/id/app/dana/id1437123008",
+    "playstore": "https://play.google.com/store/apps/details?id=id.dana&hl=in&gl=US",
     "country": "Indonesia",
     "lock": true,
     "new": false,

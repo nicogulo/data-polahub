@@ -12,13 +12,15 @@
     "name": "Books",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/book.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/book.svg",
-    "isNew": false
+    "isNew": false,
+    "status": null
   },
   {
     "_id": "3",
     "name": "Business",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/briefcase.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/briefcase.svg",
+    "status": null,
     "isNew": false
   },
   {
@@ -26,6 +28,7 @@
     "name": "Crypto & Stock",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/ethereum-(eth).svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/ethereum-(eth).svg",
+    "status": null,
     "isNew": false
   },
   {
@@ -33,6 +36,7 @@
     "name": "Education",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/teacher.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/teacher.svg",
+    "status": null,
     "isNew": false
   },
   {
@@ -40,6 +44,7 @@
     "name": "Entertaiment",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/monitor-mobbile.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/monitor-mobbile.svg",
+    "status": "NEW",
     "isNew": true
   },
   {
@@ -47,6 +52,7 @@
     "name": "Finance",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/wallet.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/wallet.svg",
+    "status": "NEW",
     "isNew": true
   },
   {
@@ -54,6 +60,7 @@
     "name": "Food & Drink",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/coffee.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/coffee.svg",
+    "status": null,
     "isNew": false
   },
   {
@@ -61,6 +68,7 @@
     "name": "Gojek Product",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/gojek-ac.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/gojek-non.svg",
+    "status": null,
     "isNew": false
   },
   {
@@ -68,6 +76,7 @@
     "name": "Health & Fitness",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/heart.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/heart.svg",
+    "status": null,
     "isNew": false
   },
   {
@@ -75,6 +84,7 @@
     "name": "Lifestyle",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/glass.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/glass.svg",
+    "status": null,
     "isNew": false
   },
   {
@@ -82,6 +92,7 @@
     "name": "Medical",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/milk.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/milk.svg",
+    "status": null,
     "isNew": false
   },
   {
@@ -89,6 +100,7 @@
     "name": "Music",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/music.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/music.svg",
+    "status": null,
     "isNew": false
   },
 
@@ -97,6 +109,7 @@
     "name": "Navigation",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/map.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/map.svg",
+    "status": null,
     "isNew": false
   },
   {
@@ -104,6 +117,7 @@
     "name": "News",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/hashtag-up.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/hashtag-up.svg",
+    "status": null,
     "isNew": false
   },
   {
@@ -111,6 +125,7 @@
     "name": "Photo & Video",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/camera.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/camera.svg",
+    "status": null,
     "isNew": false
   },
   {
@@ -118,6 +133,7 @@
     "name": "Productivity",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/task-square.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/task-square.svg",
+    "status": null,
     "isNew": false
   },
   {
@@ -125,6 +141,7 @@
     "name": "References",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/search-normal.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/search-normal.svg",
+    "status": null,
     "isNew": false
   },
 
@@ -133,6 +150,7 @@
     "name": "Shopping",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/bag.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/bag.svg",
+    "status": "NEW",
     "isNew": true
   },
   {
@@ -140,6 +158,7 @@
     "name": "Social Networking",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/messages.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/messages.svg",
+    "status": null,
     "isNew": false
   },
 
@@ -148,6 +167,7 @@
     "name": "Sports",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/weight.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/weight.svg",
+    "status": null,
     "isNew": false
   },
   {
@@ -155,6 +175,7 @@
     "name": "Travel",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/airplane.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/airplane.svg",
+    "status": null,
     "isNew": false
   },
   {
@@ -162,6 +183,7 @@
     "name": "Utilities",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/box.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/box.svg",
+    "status": null,
     "isNew": false
   }
 ]
