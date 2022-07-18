@@ -1,19 +1,16 @@
-[
-  {
+[{
     "_id": "1",
     "name": "Tokopedia",
     "type": "Marketplace",
     "category": ["Shopping"],
-    "imageUrl": [
-      {
+    "imageUrl": [{
         "icon": "https://data-polahub.herokuapp.com/images/tokped.png"
       },
       {
         "card": "https://data-polahub.herokuapp.com/images/card/tokped.png"
       },
       {
-        "pattern": [
-          {
+        "pattern": [{
             "id": 1,
             "name": "https://data-polahub.herokuapp.com/images/pattern/tokped/1.png"
           },
@@ -386,6 +383,9 @@
     "appstore": "https://apps.apple.com/us/app/tokopedia/id1001394201",
     "playstore": "https://play.google.com/store/apps/details?id=com.tokopedia.tkpd&hl=in&gl=US",
     "country": "",
+    "lock": false,
+    "new": false,
+    "new_color": "#E2F4DC",
     "color": "rgba(99, 211, 59, 0.16)"
   },
   {
@@ -393,16 +393,14 @@
     "name": "Jago",
     "type": "Mobile Banking",
     "category": ["Finance"],
-    "imageUrl": [
-      {
+    "imageUrl": [{
         "icon": "https://data-polahub.herokuapp.com/images/jago.png"
       },
       {
         "card": "https://data-polahub.herokuapp.com/images/card/jago.png"
       },
       {
-        "pattern": [
-          {
+        "pattern": [{
             "id": 1,
             "name": "https://data-polahub.herokuapp.com/images/pattern/jago/1.png"
           },
@@ -547,30 +545,34 @@
     "appstore": "https://apps.apple.com/id/app/jago/id1539402234?l=id",
     "playstore": "https://play.google.com/store/apps/details?id=com.jago.digitalBanking&hl=in&gl=US",
     "country": "Indonesia",
+    "lock": false,
+    "new": false,
+    "new_color": "#F9F1D3",
     "color": "rgba(244, 191, 0, 0.16)"
   },
   {
     "_id": "3",
-    "name": "Vidio",
-    "type": "Video Streaming",
+    "name": "iflix",
+    "type": "Movie Streaming",
     "category": ["Coming Soon", "Entertaiment"],
-    "imageUrl": [
-      {
-        "icon": "https://data-polahub.herokuapp.com/images/vidio.png"
+    "imageUrl": [{
+        "icon": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961220/Chamjo/iflix/logo.png"
       },
       {
-        "card": "https://data-polahub.herokuapp.com/images/card/vidio-lock.png"
+        "card": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981344/Chamjo/Coming%20Soon/iflix.png"
       },
       {
         "pattern": []
       }
     ],
     "isCategory": true,
-    "provider": "",
-    "copyright": "",
-    "appstore": "",
-    "playstore": "",
-    "country": "",
+    "provider": "IMAGE FUTURE INVESTMENT (HK) LIMITED",
+    "copyright": "© 2016 iflix",
+    "appstore": "https://apps.apple.com/id/app/iflix-watch-asian-dramas/id978324217",
+    "playstore": "https://play.google.com/store/apps/details?id=iflix.play&hl=in&gl=US",
+    "country": "Malaysia",
+    "lock": true,
+    "new": false,
     "color": "#ebecef"
   },
   {
@@ -578,226 +580,224 @@
     "name": "BCA Mobile",
     "type": "Mobile Banking",
     "category": ["Finance"],
-    "imageUrl": [
-      {
-        "icon": "https://data-polahub.herokuapp.com/images/bca.png"
+    "imageUrl": [{
+        "icon": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801468/Chamjo/BCA/bca_xi1tdu.png"
       },
       {
-        "card": "https://data-polahub.herokuapp.com/images/card/bca.png"
+        "card": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801463/Chamjo/BCA/bca_ndvubd.png"
       },
       {
-        "pattern": [
-          {
+        "pattern": [{
             "id": 1,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/1.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801361/Chamjo/BCA/pattern/1_k0s9vp.png"
           },
           {
             "id": 2,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/2.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801367/Chamjo/BCA/pattern/2_tvnekp.png"
           },
           {
             "id": 3,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/3.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801361/Chamjo/BCA/pattern/3_d6ajhw.png"
           },
           {
             "id": 4,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/4.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801363/Chamjo/BCA/pattern/4_ivgteo.png"
           },
           {
             "id": 5,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/5.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801361/Chamjo/BCA/pattern/5_o7mdcx.png"
           },
           {
             "id": 6,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/6.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801361/Chamjo/BCA/pattern/6_lx2suo.png"
           },
           {
             "id": 7,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/7.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801364/Chamjo/BCA/pattern/7_xy3qma.png"
           },
           {
             "id": 8,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/8.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801362/Chamjo/BCA/pattern/8_jmhvsr.png"
           },
           {
             "id": 9,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/9.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801362/Chamjo/BCA/pattern/9_wlfryn.png"
           },
           {
             "id": 10,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/10.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801363/Chamjo/BCA/pattern/10_a9lzta.png"
           },
           {
             "id": 11,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/11.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801363/Chamjo/BCA/pattern/11_d56qme.png"
           },
           {
             "id": 12,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/12.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801363/Chamjo/BCA/pattern/12_asla8x.png"
           },
           {
             "id": 13,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/13.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801363/Chamjo/BCA/pattern/13_yifpyp.png"
           },
           {
             "id": 14,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/14.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801364/Chamjo/BCA/pattern/14_ycr08n.png"
           },
           {
             "id": 15,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/15.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801364/Chamjo/BCA/pattern/15_jywfow.png"
           },
           {
             "id": 16,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/16.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801364/Chamjo/BCA/pattern/16_rjyf5c.png"
           },
           {
             "id": 17,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/17.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801365/Chamjo/BCA/pattern/17_kdtw6l.png"
           },
           {
             "id": 18,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/18.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801365/Chamjo/BCA/pattern/18_v3aymn.png"
           },
           {
             "id": 19,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/19.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801365/Chamjo/BCA/pattern/19_ipjpnn.png"
           },
           {
             "id": 20,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/20.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801365/Chamjo/BCA/pattern/20_f59ezq.png"
           },
           {
             "id": 21,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/21.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801365/Chamjo/BCA/pattern/21_aqrl0r.png"
           },
           {
             "id": 22,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/22.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801366/Chamjo/BCA/pattern/22_bglwiy.png"
           },
           {
             "id": 23,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/23.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801365/Chamjo/BCA/pattern/23_ndcvwv.png"
           },
           {
             "id": 24,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/24.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801365/Chamjo/BCA/pattern/24_kquaew.png"
           },
           {
             "id": 25,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/25.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801366/Chamjo/BCA/pattern/25_dazerg.png"
           },
           {
             "id": 26,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/26.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801367/Chamjo/BCA/pattern/26_sbmh6y.png"
           },
           {
             "id": 27,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/27.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801368/Chamjo/BCA/pattern/27_zvtn0h.png"
           },
           {
             "id": 28,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/28.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801366/Chamjo/BCA/pattern/28_wnlwk9.png"
           },
           {
             "id": 29,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/29.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801367/Chamjo/BCA/pattern/29_bshj90.png"
           },
           {
             "id": 30,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/30.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801367/Chamjo/BCA/pattern/30_egborc.png"
           },
           {
             "id": 31,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/31.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801368/Chamjo/BCA/pattern/31_bpbvlm.png"
           },
           {
             "id": 32,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/32.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801368/Chamjo/BCA/pattern/32_xxzeg0.png"
           },
           {
             "id": 33,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/33.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801369/Chamjo/BCA/pattern/33_trok1a.png"
           },
           {
             "id": 34,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/34.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801368/Chamjo/BCA/pattern/34_g7sv0a.png"
           },
           {
             "id": 35,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/35.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801371/Chamjo/BCA/pattern/35_gaf9r2.png"
           },
           {
             "id": 36,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/36.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801369/Chamjo/BCA/pattern/36_dgi3pd.png"
           },
           {
             "id": 37,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/37.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801369/Chamjo/BCA/pattern/37_c1diu7.png"
           },
           {
             "id": 38,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/38.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801377/Chamjo/BCA/pattern/38_qwfqvy.png"
           },
           {
             "id": 39,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/39.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801369/Chamjo/BCA/pattern/39_raut3c.png"
           },
           {
             "id": 40,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/40.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801371/Chamjo/BCA/pattern/40_uwpy7u.png"
           },
           {
             "id": 41,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/41.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801370/Chamjo/BCA/pattern/41_to43ox.png"
           },
           {
             "id": 42,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/42.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801370/Chamjo/BCA/pattern/42_lfotmg.png"
           },
           {
             "id": 43,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/43.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801370/Chamjo/BCA/pattern/43_bpizgv.png"
           },
           {
             "id": 44,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/44.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801371/Chamjo/BCA/pattern/44_bkxeqr.png"
           },
           {
             "id": 45,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/45.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801371/Chamjo/BCA/pattern/45_ocqlyz.png"
           },
           {
             "id": 46,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/46.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801372/Chamjo/BCA/pattern/46_olx8vj.png"
           },
           {
             "id": 47,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/47.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801372/Chamjo/BCA/pattern/47_vkvtbw.png"
           },
           {
             "id": 48,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/48.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801372/Chamjo/BCA/pattern/48_sbuyod.png"
           },
           {
             "id": 49,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/49.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801372/Chamjo/BCA/pattern/49_s0coyr.png"
           },
           {
             "id": 50,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/50.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801373/Chamjo/BCA/pattern/50_ztg89s.png"
           },
           {
             "id": 51,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/51.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801374/Chamjo/BCA/pattern/51_nq7khc.png"
           },
           {
             "id": 52,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/52.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801374/Chamjo/BCA/pattern/52_uydx4m.png"
           },
           {
             "id": 53,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/bca/53.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801374/Chamjo/BCA/pattern/53_hxnbky.png"
           }
         ]
       }
@@ -808,185 +808,186 @@
     "appstore": "https://apps.apple.com/id/app/bca-mobile/id551587254",
     "playstore": "https://play.google.com/store/apps/details?id=com.bca&hl=in&gl=US",
     "country": "Indonesia",
+    "lock": false,
+    "new": false,
+    "new_color": "#D2EFFB",
     "color": "rgba(0, 179, 249, 0.16)"
   },
   {
     "_id": "5",
-    "name": "LINE WEBTOON",
+    "name": "WEBTOON",
     "type": "Comic",
     "category": ["Entertaiment"],
-    "imageUrl": [
-      {
-        "icon": "https://data-polahub.herokuapp.com/images/webtoon.png"
+    "imageUrl": [{
+        "icon": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798323/Chamjo/Line%20Webtoon/webtoon_xthgbz.png"
       },
       {
-        "card": "https://data-polahub.herokuapp.com/images/card/webtoon.png"
+        "card": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798368/Chamjo/Line%20Webtoon/webtoon_squfai.png"
       },
       {
-        "pattern": [
-          {
+        "pattern": [{
             "id": 1,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/webtoon/1.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798387/Chamjo/Line%20Webtoon/pattern/1_cz1xfa.png"
           },
           {
             "id": 2,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/webtoon/2.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798387/Chamjo/Line%20Webtoon/pattern/2_ayabbg.png"
           },
           {
             "id": 3,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/webtoon/3.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798390/Chamjo/Line%20Webtoon/pattern/3_g84cfn.png"
           },
           {
             "id": 4,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/webtoon/4.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798389/Chamjo/Line%20Webtoon/pattern/4_zmmpjg.png"
           },
           {
             "id": 5,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/webtoon/5.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798396/Chamjo/Line%20Webtoon/pattern/5_odzium.png"
           },
           {
             "id": 6,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/webtoon/6.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798390/Chamjo/Line%20Webtoon/pattern/6_aj0irt.png"
           },
           {
             "id": 7,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/webtoon/7.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798389/Chamjo/Line%20Webtoon/pattern/7_suhdxu.png"
           },
           {
             "id": 8,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/webtoon/8.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798395/Chamjo/Line%20Webtoon/pattern/8_imww6k.png"
           },
           {
             "id": 9,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/webtoon/9.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798392/Chamjo/Line%20Webtoon/pattern/9_yiffp2.png"
           },
           {
             "id": 10,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/webtoon/10.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798395/Chamjo/Line%20Webtoon/pattern/10_fttic1.png"
           },
           {
             "id": 11,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/webtoon/11.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798391/Chamjo/Line%20Webtoon/pattern/11_e0dd23.png"
           },
           {
             "id": 12,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/webtoon/12.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798388/Chamjo/Line%20Webtoon/pattern/12_jvfzji.png"
           },
           {
             "id": 13,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/webtoon/13.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798391/Chamjo/Line%20Webtoon/pattern/13_vdezxv.png"
           },
           {
             "id": 14,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/webtoon/14.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798394/Chamjo/Line%20Webtoon/pattern/14_am6nkh.png"
           },
           {
             "id": 15,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/webtoon/15.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798397/Chamjo/Line%20Webtoon/pattern/15_qr4wqt.png"
           },
           {
             "id": 16,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/webtoon/16.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798397/Chamjo/Line%20Webtoon/pattern/16_cpct59.png"
           },
           {
             "id": 17,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/webtoon/17.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798397/Chamjo/Line%20Webtoon/pattern/17_b2u3et.png"
           },
           {
             "id": 18,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/webtoon/18.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798396/Chamjo/Line%20Webtoon/pattern/18_w8d4q2.png"
           },
           {
             "id": 19,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/webtoon/19.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798397/Chamjo/Line%20Webtoon/pattern/19_bwlrdj.png"
           },
           {
             "id": 20,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/webtoon/20.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798404/Chamjo/Line%20Webtoon/pattern/20_olnwg8.png"
           },
           {
             "id": 21,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/webtoon/21.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798399/Chamjo/Line%20Webtoon/pattern/21_goiuda.png"
           },
           {
             "id": 22,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/webtoon/22.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798402/Chamjo/Line%20Webtoon/pattern/22_z87sby.png"
           },
           {
             "id": 23,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/webtoon/23.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798398/Chamjo/Line%20Webtoon/pattern/23_viooxl.png"
           },
           {
             "id": 24,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/webtoon/24.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798400/Chamjo/Line%20Webtoon/pattern/24_itfzcs.png"
           },
           {
             "id": 25,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/webtoon/25.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798402/Chamjo/Line%20Webtoon/pattern/25_jmcpyx.png"
           },
           {
             "id": 26,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/webtoon/26.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798401/Chamjo/Line%20Webtoon/pattern/26_tg5bla.png"
           },
           {
             "id": 27,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/webtoon/27.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798402/Chamjo/Line%20Webtoon/pattern/27_tlvuch.png"
           },
           {
             "id": 28,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/webtoon/28.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798401/Chamjo/Line%20Webtoon/pattern/28_bzrfaz.png"
           },
           {
             "id": 29,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/webtoon/29.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798402/Chamjo/Line%20Webtoon/pattern/29_uwxcnc.png"
           },
           {
             "id": 30,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/webtoon/30.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798402/Chamjo/Line%20Webtoon/pattern/30_krjyoa.png"
           },
           {
             "id": 31,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/webtoon/31.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798402/Chamjo/Line%20Webtoon/pattern/31_iofny1.png"
           },
           {
             "id": 32,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/webtoon/32.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798404/Chamjo/Line%20Webtoon/pattern/32_o4jgby.png"
           },
           {
             "id": 33,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/webtoon/33.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798403/Chamjo/Line%20Webtoon/pattern/33_wxqxo7.png"
           },
           {
             "id": 34,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/webtoon/34.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798405/Chamjo/Line%20Webtoon/pattern/34_sgrb5i.png"
           },
           {
             "id": 35,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/webtoon/35.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798404/Chamjo/Line%20Webtoon/pattern/35_ijo0jv.png"
           },
           {
             "id": 36,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/webtoon/36.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798404/Chamjo/Line%20Webtoon/pattern/36_fwvngg.png"
           },
           {
             "id": 37,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/webtoon/37.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798404/Chamjo/Line%20Webtoon/pattern/37_ixklpo.png"
           },
           {
             "id": 38,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/webtoon/38.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798405/Chamjo/Line%20Webtoon/pattern/38_cqods3.png"
           },
           {
             "id": 39,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/webtoon/39.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798407/Chamjo/Line%20Webtoon/pattern/39_jc7fqu.png"
           },
           {
             "id": 40,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/webtoon/40.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798406/Chamjo/Line%20Webtoon/pattern/40_dxkji1.png"
           },
           {
             "id": 41,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/webtoon/41.png"
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798406/Chamjo/Line%20Webtoon/pattern/41_mwvt6x.png"
           }
         ]
       }
@@ -997,6 +998,9 @@
     "appstore": "https://apps.apple.com/us/app/webtoon-comics/id894546091",
     "playstore": "https://play.google.com/store/apps/details?id=com.naver.linewebtoon&hl=in&gl=US",
     "country": "South Korea",
+    "lock": false,
+    "new": false,
+    "new_color": "#E2F4DC",
     "color": "rgba(99, 211, 59, 0.16)"
   },
   {
@@ -1004,16 +1008,14 @@
     "name": "Camera360",
     "type": "Photography",
     "category": ["Photo & Video"],
-    "imageUrl": [
-      {
+    "imageUrl": [{
         "icon": "https://data-polahub.herokuapp.com/images/camera.png"
       },
       {
         "card": "https://data-polahub.herokuapp.com/images/card/camera.png"
       },
       {
-        "pattern": [
-          {
+        "pattern": [{
             "id": 1,
             "name": "https://data-polahub.herokuapp.com/images/pattern/camera/1.png"
           },
@@ -1430,6 +1432,9 @@
     "appstore": "https://apps.apple.com/id/app/camera360-selfie-sticker-cam/id443354861?l=id",
     "playstore": "https://play.google.com/store/apps/details?id=vStudio.Android.Camera360&hl=in&gl=US",
     "country": "China",
+    "lock": false,
+    "new": false,
+    "new_color": "#F9F1D3",
     "color": "rgba(244, 191, 0, 0.16)"
   },
   {
@@ -1437,16 +1442,14 @@
     "name": "Gojek App",
     "type": "Super App",
     "category": ["Super App", "Gojek Product"],
-    "imageUrl": [
-      {
+    "imageUrl": [{
         "icon": "https://data-polahub.herokuapp.com/images/gojek.png"
       },
       {
         "card": "https://data-polahub.herokuapp.com/images/card/gojek.png"
       },
       {
-        "pattern": [
-          {
+        "pattern": [{
             "id": 1,
             "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/1.png"
           },
@@ -1627,6 +1630,9 @@
     "appstore": "https://apps.apple.com/id/app/gojek/id944875099",
     "playstore": "https://play.google.com/store/apps/details?id=com.gojek.app&hl=in&gl=US",
     "country": "Indonesia",
+    "lock": false,
+    "new": false,
+    "new_color": "#E2F4DC",
     "color": "rgba(99, 211, 59, 0.16)"
   },
   {
@@ -1634,16 +1640,14 @@
     "name": "JOOX",
     "type": "Music Streaming",
     "category": ["Music"],
-    "imageUrl": [
-      {
+    "imageUrl": [{
         "icon": "https://data-polahub.herokuapp.com/images/joox.png"
       },
       {
         "card": "https://data-polahub.herokuapp.com/images/card/joox.png"
       },
       {
-        "pattern": [
-          {
+        "pattern": [{
             "id": 1,
             "name": "https://data-polahub.herokuapp.com/images/pattern/joox/1.png"
           },
@@ -1840,19 +1844,21 @@
     "appstore": "https://apps.apple.com/id/app/joox-music-sing-karaoke/id914406371",
     "playstore": "https://play.google.com/store/apps/details?id=com.tencent.ibg.joox&hl=in&gl=US",
     "country": "China",
+    "lock": false,
+    "new": false,
+    "new_color": "#E2F4DC",
     "color": "rgba(99, 211, 59, 0.16)"
   },
   {
     "_id": "8",
-    "name": "HaloDoc",
-    "type": "Medical",
-    "category": ["Coming Soon", "Medical"],
-    "imageUrl": [
-      {
-        "icon": "https://data-polahub.herokuapp.com/images/halodoc.png"
+    "name": "Bukalapak",
+    "type": "Marketplace",
+    "category": ["Coming Soon", "Shopping"],
+    "imageUrl": [{
+        "icon": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960364/Chamjo/Bukalapak/logo.png"
       },
       {
-        "card": "https://data-polahub.herokuapp.com/images/card/halodoc-lock.png"
+        "card": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981343/Chamjo/Coming%20Soon/Bukalapak.png"
       },
       {
         "pattern": []
@@ -1864,6 +1870,8 @@
     "appstore": "",
     "playstore": "",
     "country": "",
+    "lock": true,
+    "new": false,
     "color": "#ebecef"
   },
   {
@@ -1871,16 +1879,14 @@
     "name": "GoFood",
     "type": "F&B Delivery",
     "category": ["Food & Drink", "Gojek Product"],
-    "imageUrl": [
-      {
+    "imageUrl": [{
         "icon": "https://data-polahub.herokuapp.com/images/gojek.png"
       },
       {
         "card": "https://data-polahub.herokuapp.com/images/card/gofood.png"
       },
       {
-        "pattern": [
-          {
+        "pattern": [{
             "id": 1,
             "name": "https://data-polahub.herokuapp.com/images/pattern/gofood/1.png"
           },
@@ -2101,23 +2107,24 @@
     "appstore": "https://apps.apple.com/id/app/gojek/id944875099",
     "playstore": "https://play.google.com/store/apps/details?id=com.gojek.app&hl=in&gl=US",
     "country": "Indonesia",
-    "color": "rgba(249, 54, 90, 0.16"
+    "lock": false,
+    "new": false,
+    "new_color": "#FADBE1",
+    "color": "rgba(249, 54, 90, 0.16)"
   },
   {
     "_id": "10",
     "name": "BaBe News",
     "type": "Indonesia News",
     "category": ["News"],
-    "imageUrl": [
-      {
+    "imageUrl": [{
         "icon": "https://data-polahub.herokuapp.com/images/babe.png"
       },
       {
         "card": "https://data-polahub.herokuapp.com/images/card/babe.png"
       },
       {
-        "pattern": [
-          {
+        "pattern": [{
             "id": 1,
             "name": "https://data-polahub.herokuapp.com/images/pattern/babe/1.png"
           },
@@ -2222,6 +2229,9 @@
     "appstore": "https://apps.apple.com/id/app/babe-baca-berita-indonesia/id1015234796",
     "playstore": "https://play.google.com/store/search?q=babe&c=apps&hl=in&gl=US",
     "country": "Indonesia",
+    "lock": false,
+    "new": false,
+    "new_color": "#F9E2D3",
     "color": "rgba(244, 102, 0, 0.16)"
   },
   {
@@ -2229,12 +2239,11 @@
     "name": "Ruangguru",
     "type": "Online Learning",
     "category": ["Coming Soon", "Education"],
-    "imageUrl": [
-      {
+    "imageUrl": [{
         "icon": "https://data-polahub.herokuapp.com/images/ruangguru.png"
       },
       {
-        "card": "https://data-polahub.herokuapp.com/images/card/ruangguru-lock.png"
+        "card": "https://res.cloudinary.com/chamjodesign/image/upload/v1657999847/Chamjo/Coming%20Soon/Ruangguru.png"
       },
       {
         "pattern": []
@@ -2246,6 +2255,8 @@
     "appstore": "",
     "playstore": "",
     "country": "",
+    "lock": true,
+    "new": false,
     "color": "#ebecef"
   },
   {
@@ -2253,16 +2264,14 @@
     "name": "Fore Coffee",
     "type": "Coffee Delivery",
     "category": ["Food & Drink"],
-    "imageUrl": [
-      {
+    "imageUrl": [{
         "icon": "https://data-polahub.herokuapp.com/images/fore.png"
       },
       {
         "card": "https://data-polahub.herokuapp.com/images/card/fore.png"
       },
       {
-        "pattern": [
-          {
+        "pattern": [{
             "id": 1,
             "name": "https://data-polahub.herokuapp.com/images/pattern/fore/1.png"
           },
@@ -2427,6 +2436,9 @@
     "appstore": "https://apps.apple.com/id/app/fore-coffee/id1438745141",
     "playstore": "https://play.google.com/store/apps/details?id=coffee.fore2.fore&hl=in&gl=US",
     "country": "Indonesia",
+    "lock": false,
+    "new": false,
+    "new_color": "#E2F4DC",
     "color": "rgba(99, 211, 59, 0.16)"
   },
 
@@ -2435,16 +2447,14 @@
     "name": "PeduliLindungi",
     "type": "COVID-19",
     "category": ["Health & Fitness"],
-    "imageUrl": [
-      {
+    "imageUrl": [{
         "icon": "https://data-polahub.herokuapp.com/images/peduli.png"
       },
       {
         "card": "https://data-polahub.herokuapp.com/images/card/peduli.png"
       },
       {
-        "pattern": [
-          {
+        "pattern": [{
             "id": 1,
             "name": "https://data-polahub.herokuapp.com/images/pattern/peduli/1.png"
           },
@@ -2669,6 +2679,9 @@
     "appstore": "https://apps.apple.com/id/app/pedulilindungi/id1504600374",
     "playstore": "https://play.google.com/store/apps/details?id=com.telkom.tracencare&hl=in&gl=US",
     "country": "Indonesia",
+    "lock": false,
+    "new": false,
+    "new_color": "#D2EFFB",
     "color": "rgba(0, 179, 249, 0.16)"
   },
   {
@@ -2676,12 +2689,11 @@
     "name": "Tiket.com",
     "type": "Travel",
     "category": ["Coming Soon", "Travel"],
-    "imageUrl": [
-      {
+    "imageUrl": [{
         "icon": "https://data-polahub.herokuapp.com/images/tiket.png"
       },
       {
-        "card": "https://data-polahub.herokuapp.com/images/card/tiket-lock.png"
+        "card": "https://res.cloudinary.com/chamjodesign/image/upload/v1657998059/Chamjo/Coming%20Soon/Tiket.com_Flight.png"
       },
       {
         "pattern": []
@@ -2693,6 +2705,8 @@
     "appstore": "",
     "playstore": "",
     "country": "",
+    "lock": true,
+    "new": false,
     "color": "#ebecef"
   },
   {
@@ -2700,16 +2714,14 @@
     "name": "Bibit",
     "type": "Mutual Fund",
     "category": ["Crypto & Stock"],
-    "imageUrl": [
-      {
+    "imageUrl": [{
         "icon": "https://data-polahub.herokuapp.com/images/bibit.png"
       },
       {
         "card": "https://data-polahub.herokuapp.com/images/card/bibit.png"
       },
       {
-        "pattern": [
-          {
+        "pattern": [{
             "id": 1,
             "name": "https://data-polahub.herokuapp.com/images/pattern/bibit/1.png"
           },
@@ -2934,23 +2946,25 @@
     "appstore": "https://apps.apple.com/id/app/bibit-investasi-reksadana/id1445856964",
     "playstore": "https://play.google.com/store/apps/details?id=com.bibit.bibitid&hl=in&gl=US",
     "country": "Indonesia",
+    "lock": false,
+    "new": false,
+    "new_color": "#E2F4DC",
     "color": "rgba(99, 211, 59, 0.16)"
   },
+
   {
     "_id": "27",
     "name": "GoPay Plus",
     "type": "Digital Wallet",
     "category": ["Finance", "Gojek Product"],
-    "imageUrl": [
-      {
+    "imageUrl": [{
         "icon": "https://data-polahub.herokuapp.com/images/gojek.png"
       },
       {
         "card": "https://data-polahub.herokuapp.com/images/card/gopay.png"
       },
       {
-        "pattern": [
-          {
+        "pattern": [{
             "id": 1,
             "name": "https://data-polahub.herokuapp.com/images/pattern/gopay/1.png"
           },
@@ -3295,6 +3309,9 @@
     "appstore": "https://apps.apple.com/id/app/gojek/id944875099",
     "playstore": "https://play.google.com/store/apps/details?id=com.gojek.app&hl=in&gl=US",
     "country": "Indonesia",
+    "lock": false,
+    "new": false,
+    "new_color": "#D2EFFB",
     "color": "rgba(0, 179, 249, 0.16)"
   },
 
@@ -3303,16 +3320,14 @@
     "name": "Muslim Pro",
     "type": "Muslim App",
     "category": ["References"],
-    "imageUrl": [
-      {
+    "imageUrl": [{
         "icon": "https://data-polahub.herokuapp.com/images/muslim.png"
       },
       {
         "card": "https://data-polahub.herokuapp.com/images/card/muslim.png"
       },
       {
-        "pattern": [
-          {
+        "pattern": [{
             "id": 1,
             "name": "https://data-polahub.herokuapp.com/images/pattern/muslim/1.png"
           },
@@ -3453,6 +3468,9 @@
     "appstore": "https://apps.apple.com/us/app/muslim-pro-quran-athan-azan/id388389451",
     "playstore": "https://play.google.com/store/apps/details?id=com.bitsmedia.android.muslimpro&hl=in&gl=US",
     "country": "Indonesia",
+    "lock": false,
+    "new": false,
+    "new_color": "#E2F4DC",
     "color": "rgba(99, 211, 59, 0.16)"
   },
   {
@@ -3460,16 +3478,14 @@
     "name": "TikTok",
     "type": "Social Media",
     "category": ["Social Networking"],
-    "imageUrl": [
-      {
+    "imageUrl": [{
         "icon": "https://data-polahub.herokuapp.com/images/tiktok.png"
       },
       {
         "card": "https://data-polahub.herokuapp.com/images/card/tiktok.png"
       },
       {
-        "pattern": [
-          {
+        "pattern": [{
             "id": 1,
             "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/1.png"
           },
@@ -3750,6 +3766,9 @@
     "appstore": "https://apps.apple.com/id/app/tiktok/id1235601864?l=id",
     "playstore": "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically&hl=in&gl=US",
     "country": "China",
+    "lock": false,
+    "new": false,
+    "new_color": "#FADBE1",
     "color": "rgba(249, 54, 90, 0.16)"
   },
   {
@@ -3757,16 +3776,14 @@
     "name": "MyTelkomsel",
     "type": "Provider",
     "category": ["Utilities"],
-    "imageUrl": [
-      {
+    "imageUrl": [{
         "icon": "https://data-polahub.herokuapp.com/images/telkomsel.png"
       },
       {
         "card": "https://data-polahub.herokuapp.com/images/card/telkomsel.png"
       },
       {
-        "pattern": [
-          {
+        "pattern": [{
             "id": 1,
             "name": "https://data-polahub.herokuapp.com/images/pattern/telkomsel/1.png"
           },
@@ -3911,6 +3928,9 @@
     "appstore": "https://apps.apple.com/id/app/mytelkomsel/id651412430",
     "playstore": "https://play.google.com/store/apps/details?id=com.telkomsel.telkomselcm&hl=in&gl=US",
     "country": "Indonesia",
+    "lock": false,
+    "new": false,
+    "new_color": "#FADBE1",
     "color": "rgba(249, 54, 90, 0.16)"
   },
   {
@@ -3918,16 +3938,14 @@
     "name": "KitaBisa",
     "type": "Donation",
     "category": ["Lifestyle"],
-    "imageUrl": [
-      {
+    "imageUrl": [{
         "icon": "https://data-polahub.herokuapp.com/images/kitabisa.png"
       },
       {
         "card": "https://data-polahub.herokuapp.com/images/card/kitabisa.png"
       },
       {
-        "pattern": [
-          {
+        "pattern": [{
             "id": 1,
             "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/1.png"
           },
@@ -4192,6 +4210,9 @@
     "appstore": "https://apps.apple.com/id/app/kitabisa-zakat-donasi/id1458307938",
     "playstore": "https://play.google.com/store/apps/details?id=com.kitabisa.android&hl=in&gl=US",
     "country": "Indonesia",
+    "lock": false,
+    "new": false,
+    "new_color": "#D2EFFB",
     "color": "rgba(0, 179, 249, 0.16)"
   },
   {
@@ -4199,8 +4220,7 @@
     "name": "Shopee",
     "type": "Marketplace",
     "category": ["Coming Soon", "Shopping"],
-    "imageUrl": [
-      {
+    "imageUrl": [{
         "icon": "https://data-polahub.herokuapp.com/images/shopee.png"
       },
       {
@@ -4216,23 +4236,23 @@
     "appstore": "",
     "playstore": "",
     "country": "",
+    "lock": true,
+    "new": false,
     "color": "#ebecef"
   },
   {
     "_id": "24",
-    "name": "Campaign #ForChange",
+    "name": "Campaign",
     "type": "Social",
     "category": ["Social Networking"],
-    "imageUrl": [
-      {
+    "imageUrl": [{
         "icon": "https://data-polahub.herokuapp.com/images/campaign.png"
       },
       {
         "card": "https://data-polahub.herokuapp.com/images/card/campaign.png"
       },
       {
-        "pattern": [
-          {
+        "pattern": [{
             "id": 1,
             "name": "https://data-polahub.herokuapp.com/images/pattern/campaign/1.png"
           },
@@ -4493,6 +4513,9 @@
     "appstore": "https://apps.apple.com/id/app/campaign-forchange/id1153928765",
     "playstore": "https://play.google.com/store/apps/details?id=paratu.com.apps.campaign&hl=en_US&gl=US",
     "country": "Indonesia",
+    "lock": false,
+    "new": false,
+    "new_color": "#D2EFFB",
     "color": "rgba(0, 179, 249, 0.16)"
   },
   {
@@ -4500,16 +4523,14 @@
     "name": "GoRide",
     "type": "Ride Hailing",
     "category": ["Travel", "Gojek Product"],
-    "imageUrl": [
-      {
+    "imageUrl": [{
         "icon": "https://data-polahub.herokuapp.com/images/gojek.png"
       },
       {
         "card": "https://data-polahub.herokuapp.com/images/card/goride.png"
       },
       {
-        "pattern": [
-          {
+        "pattern": [{
             "id": 1,
             "name": "https://data-polahub.herokuapp.com/images/pattern/goride/1.png"
           },
@@ -4690,6 +4711,9 @@
     "appstore": "https://apps.apple.com/id/app/gojek/id944875099",
     "playstore": "https://play.google.com/store/apps/details?id=com.gojek.app&hl=in&gl=US",
     "country": "Indonesia",
+    "lock": false,
+    "new": false,
+    "new_color": "#E2F4DC",
     "color": "rgba(99, 211, 59, 0.16)"
   },
 
@@ -4698,16 +4722,14 @@
     "name": "Amartha",
     "type": "P2P Lending",
     "category": ["Finance"],
-    "imageUrl": [
-      {
+    "imageUrl": [{
         "icon": "https://data-polahub.herokuapp.com/images/amartha.png"
       },
       {
         "card": "https://data-polahub.herokuapp.com/images/card/amartha.png"
       },
       {
-        "pattern": [
-          {
+        "pattern": [{
             "id": 1,
             "name": "https://data-polahub.herokuapp.com/images/pattern/amartha/1.png"
           },
@@ -4904,67 +4926,22 @@
     "appstore": "https://apps.apple.com/us/app/amartha-fintech-p2p-lending/id1473584695",
     "playstore": "https://play.google.com/store/apps/details?id=com.amartha.investor&hl=in&gl=US",
     "country": "Indonesia",
+    "lock": false,
+    "new": false,
+    "new_color": "#EFEBF9",
     "color": "rgba(117, 67, 223, 0.08)"
   },
-  {
-    "_id": "29",
-    "name": "Ajaib",
-    "type": "Mutual Funds",
-    "category": ["Coming Soon", "Crypto & Stock"],
-    "imageUrl": [
-      {
-        "icon": "https://data-polahub.herokuapp.com/images/ajaib.png"
-      },
-      {
-        "card": "https://data-polahub.herokuapp.com/images/card/ajaib-lock.png"
-      },
-      {
-        "pattern": []
-      }
-    ],
-    "isCategory": true,
-    "provider": "",
-    "copyright": "",
-    "appstore": "",
-    "playstore": "",
-    "country": "Indonesia",
-    "color": "#ebecef"
-  },
-  {
-    "_id": "30",
-    "name": "GoPayLater",
-    "type": "Lending",
-    "category": ["Coming Soon", "Finance", "Gojek Product"],
-    "imageUrl": [
-      {
-        "icon": "https://data-polahub.herokuapp.com/images/gojek.png"
-      },
-      {
-        "card": "https://data-polahub.herokuapp.com/images/card/gopaylater-lock.png"
-      },
-      {
-        "pattern": []
-      }
-    ],
-    "isCategory": true,
-    "provider": "PT Go-jek Indonesia",
-    "copyright": "© PT Aplikasi Karya Anak Bangsa",
-    "appstore": "https://apps.apple.com/id/app/gojek/id944875099",
-    "playstore": "https://play.google.com/store/apps/details?id=com.gojek.app&hl=in&gl=US",
-    "country": "Indonesia",
-    "color": "#ebecef"
-  },
+
   {
     "_id": "31",
     "name": "iQIYI",
     "type": "Video Streaming",
     "category": ["Coming Soon", "Entertaiment"],
-    "imageUrl": [
-      {
-        "icon": "https://data-polahub.herokuapp.com/images/iqiyi.png"
+    "imageUrl": [{
+        "icon": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961217/Chamjo/iQIYI/logo.png"
       },
       {
-        "card": "https://data-polahub.herokuapp.com/images/card/iqiyi-lock.png"
+        "card": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981345/Chamjo/Coming%20Soon/iQIYI.png"
       },
       {
         "pattern": []
@@ -4976,78 +4953,83 @@
     "appstore": "",
     "playstore": "",
     "country": "South Korea",
+    "lock": true,
+    "new": false,
     "color": "#ebecef"
   },
   {
     "_id": "31",
-    "name": "Journey to Zero",
-    "type": "Movement",
-    "category": ["Coming Soon", "Sport"],
-    "imageUrl": [
-      {
-        "icon": "https://data-polahub.herokuapp.com/images/jtoz.png"
+    "name": "RedDoorz",
+    "type": "Hotel",
+    "category": ["Coming Soon", "Travel"],
+    "imageUrl": [{
+        "icon": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961065/Chamjo/RedDoorz/logo.png"
       },
       {
-        "card": "https://data-polahub.herokuapp.com/images/card/jtoz-lock.png"
+        "card": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981343/Chamjo/Coming%20Soon/RedDoorz.png"
       },
       {
         "pattern": []
       }
     ],
     "isCategory": true,
-    "provider": "",
-    "copyright": "",
-    "appstore": "",
-    "playstore": "",
-    "country": "",
+    "provider": "COMMEASURE SOLUTIONS INDIA PRIVATE LIMITED",
+    "copyright": "© RedDoorz",
+    "appstore": "https://apps.apple.com/us/app/reddoorz-hotel-booking-app/id1260883343",
+    "playstore": "https://play.google.com/store/apps/details?id=com.reddoorz.app&hl=in&gl=US",
+    "country": "Singapore",
+    "lock": true,
+    "new": false,
     "color": "#ebecef"
   },
   {
     "_id": "32",
-    "name": "KakaoTalk",
-    "type": "Chat",
+    "name": "Lemon8",
+    "type": "Social",
     "category": ["Coming Soon", "Social Networking"],
-    "imageUrl": [
-      {
-        "icon": "https://data-polahub.herokuapp.com/images/kakao.png"
+    "imageUrl": [{
+        "icon": "https://res.cloudinary.com/chamjodesign/image/upload/v1657965663/Chamjo/Lemon8/logo.png"
       },
       {
-        "card": "https://data-polahub.herokuapp.com/images/card/kakao-lock.png"
+        "card": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981343/Chamjo/Coming%20Soon/Lemon8.png"
       },
       {
         "pattern": []
       }
     ],
     "isCategory": true,
-    "provider": "",
-    "copyright": "",
-    "appstore": "",
-    "playstore": "",
-    "country": "",
+    "provider": "Bytedance K.K.",
+    "copyright": "© Lemon8",
+    "appstore": "https://apps.apple.com/id/app/lemon8/id1498607143",
+    "playstore": "https://play.google.com/store/apps/details?id=com.bd.nproject&hl=in&gl=US",
+    "country": "China",
+    "lock": true,
+    "new": false,
     "color": "#ebecef"
   },
   {
     "_id": "33",
-    "name": "NovelAku",
-    "type": "Novel",
-    "category": ["Coming Soon", "Books"],
-    "imageUrl": [
-      {
-        "icon": "https://data-polahub.herokuapp.com/images/novel.png"
+    "name": "DANA",
+    "type": "Digital Wallet",
+    "category": ["Coming Soon", "Finance"],
+    "imageUrl": [{
+        "icon": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981320/Chamjo/DANA/logo.png"
       },
       {
-        "card": "https://data-polahub.herokuapp.com/images/card/novel-lock.png"
+        "card": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981343/Chamjo/Coming%20Soon/DANA.png"
       },
       {
         "pattern": []
       }
     ],
     "isCategory": true,
-    "provider": "",
-    "copyright": "",
-    "appstore": "",
-    "playstore": "",
+    "provider": "ESPAY DEBIT INDONESIA KOE, PT",
+    "copyright": "© 2019 ESPAY DEBIT INDONESIA KOE, PT",
+    "appstore": "https://apps.apple.com/id/app/dana/id1437123008",
+    "playstore": "https://play.google.com/store/apps/details?id=id.dana&hl=in&gl=US",
     "country": "Indonesia",
+    "lock": true,
+    "new": false,
     "color": "#ebecef"
   },
   {
@@ -5055,8 +5037,7 @@
     "name": "OVO",
     "type": "Digital Wallet",
     "category": ["Coming Soon", "Finance"],
-    "imageUrl": [
-      {
+    "imageUrl": [{
         "icon": "https://data-polahub.herokuapp.com/images/ovo.png"
       },
       {
@@ -5072,6 +5053,8 @@
     "appstore": "",
     "playstore": "",
     "country": "",
+    "lock": true,
+    "new": false,
     "color": "#ebecef"
   },
   {
@@ -5079,9 +5062,8 @@
     "name": "OYO",
     "type": "Hotel",
     "category": ["Coming Soon", "Travel"],
-    "imageUrl": [
-      {
-        "icon": "https://data-polahub.herokuapp.com/images/oyo.png"
+    "imageUrl": [{
+        "icon": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961062/Chamjo/OYO/logo.png"
       },
       {
         "card": "https://data-polahub.herokuapp.com/images/card/oyo-lock.png"
@@ -5096,55 +5078,1036 @@
     "appstore": "",
     "playstore": "",
     "country": "",
+    "lock": true,
+    "new": false,
     "color": "#ebecef"
   },
+
+
   {
-    "_id": "36",
-    "name": "TurboVPN",
-    "type": "VPN",
-    "category": ["Coming Soon", "Productivity"],
-    "imageUrl": [
-      {
-        "icon": "https://data-polahub.herokuapp.com/images/turbo.png"
+    "_id": "38",
+    "name": "Lazada",
+    "type": "Marketplace",
+    "category": ["Shopping"],
+    "imageUrl": [{
+        "icon": "https://res.cloudinary.com/chamjodesign/image/upload/v1657788008/Chamjo/Lazada/logo.png"
       },
       {
-        "card": "https://data-polahub.herokuapp.com/images/card/turbo-lock.png"
+        "card": "https://res.cloudinary.com/chamjodesign/image/upload/v1657788013/Chamjo/Lazada/mockup.png"
       },
       {
-        "pattern": []
+        "pattern": [{
+            "id": 1,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/1.png"
+          },
+          {
+            "id": 2,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/2.png"
+          },
+          {
+            "id": 3,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/3.png"
+          },
+          {
+            "id": 4,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/4.png"
+          },
+          {
+            "id": 5,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/5.png"
+          },
+          {
+            "id": 6,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/6.png"
+          },
+          {
+            "id": 7,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/7.png"
+          },
+          {
+            "id": 8,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/8.png"
+          },
+          {
+            "id": 9,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/9.png"
+          },
+          {
+            "id": 10,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/10.png"
+          },
+          {
+            "id": 11,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/11.png"
+          },
+          {
+            "id": 12,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/12.png"
+          },
+          {
+            "id": 13,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/13.png"
+          },
+          {
+            "id": 14,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/14.png"
+          },
+          {
+            "id": 15,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/15.png"
+          },
+          {
+            "id": 16,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/16.png"
+          },
+          {
+            "id": 17,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/17.png"
+          },
+          {
+            "id": 18,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/18.png"
+          },
+          {
+            "id": 19,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/19.png"
+          },
+          {
+            "id": 20,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/20.png"
+          },
+          {
+            "id": 21,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/21.png"
+          },
+          {
+            "id": 22,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/22.png"
+          },
+          {
+            "id": 23,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/23.png"
+          },
+          {
+            "id": 24,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/24.png"
+          },
+          {
+            "id": 25,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/25.png"
+          },
+          {
+            "id": 26,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/26.png"
+          },
+          {
+            "id": 27,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/27.png"
+          },
+          {
+            "id": 28,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/28.png"
+          },
+          {
+            "id": 29,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/29.png"
+          },
+          {
+            "id": 30,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/30.png"
+          },
+          {
+            "id": 31,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/31.png"
+          },
+          {
+            "id": 32,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/32.png"
+          },
+          {
+            "id": 33,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/33.png"
+          },
+          {
+            "id": 34,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/34.png"
+          },
+          {
+            "id": 35,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/35.png"
+          },
+          {
+            "id": 36,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/36.png"
+          },
+          {
+            "id": 37,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/37.png"
+          },
+          {
+            "id": 38,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/38.png"
+          },
+          {
+            "id": 39,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/39.png"
+          },
+          {
+            "id": 40,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/40.png"
+          },
+          {
+            "id": 41,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/41.png"
+          },
+          {
+            "id": 42,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/42.png"
+          },
+          {
+            "id": 43,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/43.png"
+          },
+          {
+            "id": 44,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/44.png"
+          },
+          {
+            "id": 45,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/45.png"
+          },
+          {
+            "id": 46,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/46.png"
+          },
+          {
+            "id": 47,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/47.png"
+          },
+          {
+            "id": 48,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/48.png"
+          },
+          {
+            "id": 49,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/49.png"
+          },
+          {
+            "id": 50,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/50.png"
+          },
+          {
+            "id": 51,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/51.png"
+          },
+          {
+            "id": 52,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/52.png"
+          },
+          {
+            "id": 53,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/53.png"
+          },
+          {
+            "id": 54,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/54.png"
+          },
+          {
+            "id": 55,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/55.png"
+          },
+          {
+            "id": 56,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/56.png"
+          },
+          {
+            "id": 57,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/57.png"
+          },
+          {
+            "id": 58,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/58.png"
+          },
+          {
+            "id": 59,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/59.png"
+          },
+          {
+            "id": 60,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/60.png"
+          }
+        ]
       }
     ],
     "isCategory": true,
-    "provider": "",
-    "copyright": "",
-    "appstore": "",
-    "playstore": "",
-    "country": "",
-    "color": "#ebecef"
+    "provider": "Lazada Group GmbH",
+    "copyright": "© 2022 Lazada Ltd.",
+    "appstore": "https://apps.apple.com/id/app/lazada-indonesia/id785385147?l=id  ",
+    "playstore": "https://play.google.com/store/apps/details?id=com.lazada.android&hl=in&gl=US",
+    "country": "Singapore",
+    "lock": false,
+    "new": true,
+    "new_color": "#D2EFFB",
+    "color": "rgba(0, 179, 249, 0.16)"
   },
   {
-    "_id": "37",
-    "name": "ZOOM",
-    "type": "Video Conference",
-    "category": ["Coming Soon", "Business"],
-    "imageUrl": [
-      {
-        "icon": "https://data-polahub.herokuapp.com/images/zoom.png"
+    "_id": "39",
+    "name": "Gotrade",
+    "type": "Stock",
+    "category": ["Crypto & Stock"],
+    "imageUrl": [{
+        "icon": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936390/Chamjo/Gotrade/logo.png"
       },
       {
-        "card": "https://data-polahub.herokuapp.com/images/card/zoom-lock.png"
+        "card": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936378/Chamjo/Gotrade/mockup.png"
       },
       {
-        "pattern": []
+        "pattern": [{
+            "id": 1,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/1.png"
+          },
+          {
+            "id": 2,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/2.png"
+          },
+          {
+            "id": 3,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/3.png"
+          },
+          {
+            "id": 4,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/4.png"
+          },
+          {
+            "id": 5,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/5.png"
+          },
+          {
+            "id": 6,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/6.png"
+          },
+          {
+            "id": 7,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/7.png"
+          },
+          {
+            "id": 8,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/8.png"
+          },
+          {
+            "id": 9,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/9.png"
+          },
+          {
+            "id": 10,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/10.png"
+          },
+          {
+            "id": 11,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/11.png"
+          },
+          {
+            "id": 12,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/12.png"
+          },
+          {
+            "id": 13,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/13.png"
+          },
+          {
+            "id": 14,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/14.png"
+          },
+          {
+            "id": 15,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/15.png"
+          },
+          {
+            "id": 16,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/16.png"
+          },
+          {
+            "id": 17,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/17.png"
+          },
+          {
+            "id": 18,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/18.png"
+          },
+          {
+            "id": 19,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/19.png"
+          },
+          {
+            "id": 20,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/20.png"
+          },
+          {
+            "id": 21,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/21.png"
+          },
+          {
+            "id": 22,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/22.png"
+          },
+          {
+            "id": 23,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/23.png"
+          },
+          {
+            "id": 24,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/24.png"
+          },
+          {
+            "id": 25,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/25.png"
+          },
+          {
+            "id": 26,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/26.png"
+          },
+          {
+            "id": 27,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/27.png"
+          },
+          {
+            "id": 28,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/28.png"
+          },
+          {
+            "id": 29,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/29.png"
+          },
+          {
+            "id": 30,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/30.png"
+          },
+          {
+            "id": 31,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/31.png"
+          },
+          {
+            "id": 32,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/32.png"
+          },
+          {
+            "id": 33,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/33.png"
+          },
+          {
+            "id": 34,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/34.png"
+          },
+          {
+            "id": 35,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/35.png"
+          },
+          {
+            "id": 36,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/36.png"
+          },
+          {
+            "id": 37,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/37.png"
+          },
+          {
+            "id": 38,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/38.png"
+          },
+          {
+            "id": 39,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/39.png"
+          },
+          {
+            "id": 40,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/40.png"
+          },
+          {
+            "id": 41,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/41.png"
+          },
+          {
+            "id": 42,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/42.png"
+          },
+          {
+            "id": 43,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/43.png"
+          },
+          {
+            "id": 44,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/44.png"
+          },
+          {
+            "id": 45,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/45.png"
+          },
+          {
+            "id": 46,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/46.png"
+          },
+          {
+            "id": 47,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/47.png"
+          },
+          {
+            "id": 48,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/48.png"
+          },
+          {
+            "id": 49,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/49.png"
+          },
+          {
+            "id": 50,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/50.png"
+          },
+          {
+            "id": 51,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/51.png"
+          },
+          {
+            "id": 52,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/52.png"
+          },
+          {
+            "id": 53,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/53.png"
+          },
+          {
+            "id": 54,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/54.png"
+          },
+          {
+            "id": 55,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/55.png"
+          },
+          {
+            "id": 56,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/56.png"
+          },
+          {
+            "id": 57,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/57.png"
+          },
+          {
+            "id": 58,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/58.png"
+          },
+          {
+            "id": 59,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/59.png"
+          },
+          {
+            "id": 60,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/60.png"
+          },
+          {
+            "id": 61,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/61.png"
+          },
+          {
+            "id": 62,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/62.png"
+          },
+          {
+            "id": 63,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/63.png"
+          }
+        ]
       }
     ],
     "isCategory": true,
-    "provider": "",
-    "copyright": "",
-    "appstore": "",
-    "playstore": "",
-    "country": "",
-    "color": "#ebecef"
+    "provider": "TR8 Securities Inc.",
+    "copyright": "© 2020 Gotrade Securities Inc.",
+    "appstore": "https://apps.apple.com/sg/app/gotrade-invest-in-us-stocks/id1530178262",
+    "playstore": "https://play.google.com/store/apps/details?id=io.tr8.tradecharlie.android&hl=en_SG&gl=US",
+    "country": "Singapore",
+    "lock": false,
+    "new": true,
+    "new_color": "#E2F4DC",
+    "color": "rgba(99, 211, 59, 0.16)"
+  },
+  {
+    "_id": "40",
+    "name": "Atome",
+    "type": "Paylater",
+    "category": ["Finance"],
+    "imageUrl": [{
+        "icon": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938940/Chamjo/Atome/logo.png"
+      },
+      {
+        "card": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938942/Chamjo/Atome/mockup.png"
+      },
+      {
+        "pattern": [{
+            "id": 1,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/1.png"
+          },
+          {
+            "id": 2,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/2.png"
+          },
+          {
+            "id": 3,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/3.png"
+          },
+          {
+            "id": 4,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/4.png"
+          },
+          {
+            "id": 5,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/5.png"
+          },
+          {
+            "id": 6,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/6.png"
+          },
+          {
+            "id": 7,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/7.png"
+          },
+          {
+            "id": 8,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/8.png"
+          },
+          {
+            "id": 9,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/9.png"
+          },
+          {
+            "id": 10,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/10.png"
+          },
+          {
+            "id": 11,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/11.png"
+          },
+          {
+            "id": 12,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/12.png"
+          },
+          {
+            "id": 13,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/13.png"
+          },
+          {
+            "id": 14,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/14.png"
+          },
+          {
+            "id": 15,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/15.png"
+          },
+          {
+            "id": 16,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/16.png"
+          },
+          {
+            "id": 17,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/17.png"
+          },
+          {
+            "id": 18,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/18.png"
+          },
+          {
+            "id": 19,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/19.png"
+          },
+          {
+            "id": 20,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/20.png"
+          },
+          {
+            "id": 21,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/21.png"
+          },
+          {
+            "id": 22,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/22.png"
+          },
+          {
+            "id": 23,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/23.png"
+          },
+          {
+            "id": 24,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/24.png"
+          },
+          {
+            "id": 25,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/25.png"
+          },
+          {
+            "id": 26,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/26.png"
+          },
+          {
+            "id": 27,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/27.png"
+          },
+          {
+            "id": 28,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/28.png"
+          },
+          {
+            "id": 29,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/29.png"
+          },
+          {
+            "id": 30,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/30.png"
+          },
+          {
+            "id": 31,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/31.png"
+          },
+          {
+            "id": 32,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/32.png"
+          },
+          {
+            "id": 33,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/33.png"
+          },
+          {
+            "id": 34,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/34.png"
+          },
+          {
+            "id": 35,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/35.png"
+          },
+          {
+            "id": 36,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/36.png"
+          },
+          {
+            "id": 37,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/37.png"
+          },
+          {
+            "id": 38,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/38.png"
+          },
+          {
+            "id": 39,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/39.png"
+          },
+          {
+            "id": 40,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/40.png"
+          },
+          {
+            "id": 41,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/41.png"
+          },
+          {
+            "id": 42,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/42.png"
+          },
+          {
+            "id": 43,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/43.png"
+          },
+          {
+            "id": 44,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/44.png"
+          },
+          {
+            "id": 45,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/45.png"
+          },
+          {
+            "id": 46,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/46.png"
+          },
+          {
+            "id": 47,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/47.png"
+          },
+          {
+            "id": 48,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/48.png"
+          },
+          {
+            "id": 49,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/49.png"
+          },
+          {
+            "id": 50,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/50.png"
+          },
+          {
+            "id": 51,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657938972/Chamjo/Atome/pattern/51.png"
+          }
+        ]
+      }
+    ],
+    "isCategory": true,
+    "provider": "APayLater Financials Pte Ltd.",
+    "copyright": "© 2020 Atome",
+    "appstore": "https://apps.apple.com/id/app/atome-id/id1560108683",
+    "playstore": "https://play.google.com/store/apps/details?id=id.co.shopintar&hl=in&gl=US",
+    "country": "Singapore",
+    "lock": false,
+    "new": true,
+    "new_color": "#F9F1D3",
+    "color": "rgba(244, 191, 0, 0.16)"
+
+  },
+  {
+    "_id": "41",
+    "name": "Noice",
+    "type": "Podcast",
+    "category": ["Entertaiment"],
+    "imageUrl": [{
+        "icon": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958050/Chamjo/Noice/logo.png"
+      },
+      {
+        "card": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958051/Chamjo/Noice/mockup.png"
+      },
+      {
+        "pattern": [{
+            "id": 1,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/1.png"
+          },
+          {
+            "id": 2,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/2.png"
+          },
+          {
+            "id": 3,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/3.png"
+          },
+          {
+            "id": 4,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/4.png"
+          },
+          {
+            "id": 5,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/5.png"
+          },
+          {
+            "id": 6,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/6.png"
+          },
+          {
+            "id": 7,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/7.png"
+          },
+          {
+            "id": 8,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/8.png"
+          },
+          {
+            "id": 9,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/9.png"
+          },
+          {
+            "id": 10,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/10.png"
+          },
+          {
+            "id": 11,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/11.png"
+          },
+          {
+            "id": 12,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/12.png"
+          },
+          {
+            "id": 13,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/13.png"
+          },
+          {
+            "id": 14,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/14.png"
+          },
+          {
+            "id": 15,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/15.png"
+          },
+          {
+            "id": 16,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/16.png"
+          },
+          {
+            "id": 17,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/17.png"
+          },
+          {
+            "id": 18,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/18.png"
+          },
+          {
+            "id": 19,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/19.png"
+          },
+          {
+            "id": 20,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/20.png"
+          },
+          {
+            "id": 21,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/21.png"
+          },
+          {
+            "id": 22,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/22.png"
+          },
+          {
+            "id": 23,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/23.png"
+          },
+          {
+            "id": 24,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/24.png"
+          },
+          {
+            "id": 25,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/25.png"
+          },
+          {
+            "id": 26,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/26.png"
+          },
+          {
+            "id": 27,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/27.png"
+          },
+          {
+            "id": 28,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/28.png"
+          },
+          {
+            "id": 29,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/29.png"
+          },
+          {
+            "id": 30,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/30.png"
+          },
+          {
+            "id": 31,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/31.png"
+          },
+          {
+            "id": 32,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/32.png"
+          },
+          {
+            "id": 33,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/33.png"
+          },
+          {
+            "id": 34,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/34.png"
+          },
+          {
+            "id": 35,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/35.png"
+          },
+          {
+            "id": 36,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/36.png"
+          },
+          {
+            "id": 37,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/37.png"
+          },
+          {
+            "id": 38,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/38.png"
+          },
+          {
+            "id": 39,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/39.png"
+          },
+          {
+            "id": 40,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/40.png"
+          },
+          {
+            "id": 41,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/41.png"
+          },
+          {
+            "id": 42,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/42.png"
+          },
+          {
+            "id": 43,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/43.png"
+          },
+          {
+            "id": 44,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/44.png"
+          },
+          {
+            "id": 45,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/45.png"
+          },
+          {
+            "id": 46,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/46.png"
+          },
+          {
+            "id": 47,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/47.png"
+          },
+          {
+            "id": 48,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/48.png"
+          },
+          {
+            "id": 49,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/49.png"
+          },
+          {
+            "id": 50,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/50.png"
+          },
+          {
+            "id": 51,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/51.png"
+          },
+          {
+            "id": 52,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/52.png"
+          },
+          {
+            "id": 53,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/53.png"
+          },
+          {
+            "id": 54,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/54.png"
+          },
+          {
+            "id": 55,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/55.png"
+          },
+          {
+            "id": 56,
+            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657958126/Chamjo/Noice/pattern/56.png"
+          }
+        ]
+      }
+    ],
+    "isCategory": true,
+    "provider": "MAHAKA RADIO INTEGRA, PT TBK.",
+    "copyright": "©2021 PT. Mahaka Radio Digital",
+    "appstore": "https://apps.apple.com/us/app/noice-podcast-radio-more/id1484372791",
+    "playstore": "https://play.google.com/store/apps/details?id=noice.app&hl=in&gl=US",
+    "country": "Indonesia",
+    "lock": false,
+    "new": true,
+    "new_color": "#F9F1D3",
+    "color": "rgba(244, 191, 0, 0.16)"
+
   }
-  
 ]
