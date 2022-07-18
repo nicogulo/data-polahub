@@ -4242,7 +4242,7 @@
   },
   {
     "_id": "24",
-    "name": "Campaign #ForChange",
+    "name": "Campaign",
     "type": "Social",
     "category": ["Social Networking"],
     "imageUrl": [{
@@ -4938,7 +4938,7 @@
     "type": "Video Streaming",
     "category": ["Coming Soon", "Entertaiment"],
     "imageUrl": [{
-        "icon": "https://data-polahub.herokuapp.com/images/iqiyi.png"
+        "icon": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961217/Chamjo/iQIYI/logo.png"
       },
       {
         "card": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981345/Chamjo/Coming%20Soon/iQIYI.png"
@@ -5063,7 +5063,7 @@
     "type": "Hotel",
     "category": ["Coming Soon", "Travel"],
     "imageUrl": [{
-        "icon": "https://data-polahub.herokuapp.com/images/oyo.png"
+        "icon": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961062/Chamjo/OYO/logo.png"
       },
       {
         "card": "https://data-polahub.herokuapp.com/images/card/oyo-lock.png"
