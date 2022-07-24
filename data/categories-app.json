@@ -7279,5 +7279,80 @@
     "new_color": "#EFEBF9",
     "color": "rgba(117, 67, 223, 0.08)"
 
+  },
+  {
+    "_id": "43",
+    "name": "Blibli",
+    "type": "Marketplace",
+    "category": ["Coming Soon", "Shopping"],
+    "imageUrl": [{
+        "icon": "https://res.cloudinary.com/chamjodesign/image/upload/v1658438895/Chamjo/Blibli/logo.png"
+      },
+      {
+        "card": "https://res.cloudinary.com/chamjodesign/image/upload/v1658438969/Chamjo/Coming%20Soon/Blibli.png"
+      },
+      {
+        "pattern": []
+      }
+    ],
+    "isCategory": true,
+    "provider": "Global Digital Niaga, PT",
+    "copyright": "© 2016 PT. Global Digital Niaga",
+    "appstore": "https://apps.apple.com/id/app/blibli-belanja-online/id1034231507",
+    "playstore": "https://play.google.com/store/apps/details?id=blibli.mobile.commerce&hl=in&gl=US",
+    "country": "Indonesia",
+    "lock": true,
+    "new": false,
+    "color": "#ebecef"
+  },
+  {
+    "_id": "44",
+    "name": "Zenius",
+    "type": "Tutoring",
+    "category": ["Coming Soon", "Education"],
+    "imageUrl": [{
+        "icon": "https://res.cloudinary.com/chamjodesign/image/upload/v1658259927/Chamjo/Zenius/logo.png"
+      },
+      {
+        "card": "https://res.cloudinary.com/chamjodesign/image/upload/v1658260010/Chamjo/Coming%20Soon/Zenius.png"
+      },
+      {
+        "pattern": []
+      }
+    ],
+    "isCategory": true,
+    "provider": "ZONA EDUKASI NUSANTARA, PT.",
+    "copyright": "© PT Zona Edukasi Nusantara",
+    "appstore": "https://apps.apple.com/in/app/zenius-ganticarabelajar/id1502056247",
+    "playstore": "https://play.google.com/store/apps/details?id=net.zenius.mobile&hl=in&gl=US",
+    "country": "Indonesia",
+    "lock": true,
+    "new": false,
+    "color": "#ebecef"
+  },
+  {
+    "_id": "45",
+    "name": "Rekeningku",
+    "type": "Crypto",
+    "category": ["Coming Soon", "Crypto & Stocks"],
+    "imageUrl": [{
+        "icon": "https://res.cloudinary.com/chamjodesign/image/upload/v1658180447/Chamjo/Rekeningku/logo.png"
+      },
+      {
+        "card": "https://res.cloudinary.com/chamjodesign/image/upload/v1658180427/Chamjo/Coming%20Soon/Rekeningku.png"
+      },
+      {
+        "pattern": []
+      }
+    ],
+    "isCategory": true,
+    "provider": "REKENINGKU DOTCOM INDONESIA, PT.",
+    "copyright": "© 2019 - Rekeningku.com",
+    "appstore": "https://apps.apple.com/us/app/rekeningku-com/id1458706382",
+    "playstore": "https://play.google.com/store/apps/details?id=com.rekeningku&hl=in&gl=US",
+    "country": "Indonesia",
+    "lock": true,
+    "new": false,
+    "color": "#ebecef"
   }
 ]
