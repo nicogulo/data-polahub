@@ -4499,8 +4499,8 @@
     "country": "Singapore",
     "lock": false,
     "new": true,
-    "new_color": "#FADBE1",
-    "color": "rgba(249, 54, 90, 0.16)"
+    "new_color": "#F9E2D3",
+    "color": "rgba(244, 102, 0, 0.16)"
   },
   {
     "_id": "24",
@@ -7350,6 +7350,32 @@
     "copyright": "© 2019 - Rekeningku.com",
     "appstore": "https://apps.apple.com/us/app/rekeningku-com/id1458706382",
     "playstore": "https://play.google.com/store/apps/details?id=com.rekeningku&hl=in&gl=US",
+    "country": "Indonesia",
+    "lock": true,
+    "new": false,
+    "color": "#ebecef"
+  },
+ 
+  {
+    "_id": "47",
+    "name": "Traveloka Flight",
+    "type": "Flight",
+    "category": ["Coming Soon", "Flight"],
+    "imageUrl": [{
+        "icon": "https://res.cloudinary.com/chamjodesign/image/upload/v1658177643/Chamjo/Traveloka%20Flight/logo.png"
+      },
+      {
+        "card": "https://res.cloudinary.com/chamjodesign/image/upload/v1658177802/Chamjo/Coming%20Soon/Traveloka_Flight.png"
+      },
+      {
+        "pattern": []
+      }
+    ],
+    "isCategory": true,
+    "provider": "Trinusa Travelindo, PT.",
+    "copyright": "© Traveloka",
+    "appstore": "https://apps.apple.com/us/app/traveloka-lifestyle-superapp/id898244857",
+    "playstore": "https://play.google.com/store/apps/details?id=com.traveloka.android&hl=in&gl=US",
     "country": "Indonesia",
     "lock": true,
     "new": false,
