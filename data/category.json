@@ -28,8 +28,8 @@
     "name": "Crypto & Stock",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/ethereum-(eth).svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/ethereum-(eth).svg",
-    "status": "NEW",
-    "isNew": true
+    "status": null,
+    "isNew": false
   },
   {
     "_id": "5",
