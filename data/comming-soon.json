@@ -98,30 +98,5 @@
         "lock": true,
         "new": false,
         "color": "#ebecef"
-    },
-    {
-        "_id": "46",
-        "name": "Lilla",
-        "type": "Motherhood",
-        "category": ["Coming Soon", "Lifestyle"],
-        "imageUrl": [{
-            "icon": "https://res.cloudinary.com/chamjodesign/image/upload/v1658180447/Chamjo/Rekeningku/logo.png"
-          },
-          {
-            "card": "https://res.cloudinary.com/chamjodesign/image/upload/v1658180427/Chamjo/Coming%20Soon/Rekeningku.png"
-          },
-          {
-            "pattern": []
-          }
-        ],
-        "isCategory": true,
-        "provider": "Social Bella Indonesia PT.",
-        "copyright": "© 2021 Sociolla",
-        "appstore": "https://apps.apple.com/id/app/lilla/id1572422418",
-        "playstore": "https://play.google.com/store/apps/details?id=com.socialbella.lillaapps",
-        "country": "Indonesia",
-        "lock": true,
-        "new": false,
-        "color": "#ebecef"
-      }
+    }
 ]
