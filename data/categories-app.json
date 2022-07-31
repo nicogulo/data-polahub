@@ -4888,7 +4888,7 @@
     "playstore": "https://play.google.com/store/apps/details?id=com.shopee.id&hl=in&gl=US",
     "country": "Singapore",
     "lock": false,
-    "new": true,
+    "new": false,
     "new_color": "#F9E2D3",
     "color": "rgba(244, 102, 0, 0.16)"
   },
@@ -5859,7 +5859,7 @@
     "playstore": "https://play.google.com/store/apps/details?id=com.iqiyi.i18n&hl=in&gl=US",
     "country": "Singapore",
     "lock": false,
-    "new": true,
+    "new": false,
     "new_color": "#E2F4DC",
     "color": "rgba(99, 211, 59, 0.16)"
   },
@@ -5892,7 +5892,7 @@
     "_id": "32",
     "name": "Lemon8",
     "type": "Social Media",
-    "category": ["Coming Soon", "Social"],
+    "category": ["Social"],
     "imageUrl": [{
         "icon": "https://res.cloudinary.com/chamjodesign/image/upload/v1657965663/Chamjo/Lemon8/logo.png"
       },
@@ -6482,7 +6482,7 @@
     "playstore": "https://play.google.com/store/apps/details?id=id.dana&hl=in&gl=US",
     "country": "Indonesia",
     "lock": false,
-    "new": true,
+    "new": false,
     "new_color": "#D2EFFB",
     "color": "rgba(0, 179, 249, 0.16)"
   },
@@ -8005,7 +8005,7 @@
     "playstore": "https://play.google.com/store/apps/details?id=com.ebates&hl=en&gl=US",
     "country": "Japan",
     "lock": false,
-    "new": true,
+    "new": false,
     "new_color": "#EFEBF9",
     "color": "rgba(117, 67, 223, 0.08)"
 
