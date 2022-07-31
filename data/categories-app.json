@@ -2446,7 +2446,7 @@
     "_id": "14",
     "name": "PeduliLindungi",
     "type": "COVID-19",
-    "category": ["Health & Fitness"],
+    "category": ["Health"],
     "imageUrl": [{
         "icon": "https://data-polahub.herokuapp.com/images/peduli.png"
       },
@@ -3477,7 +3477,7 @@
     "_id": "20",
     "name": "TikTok",
     "type": "Social Media",
-    "category": ["Social Networking"],
+    "category": ["Social"],
     "imageUrl": [{
         "icon": "https://data-polahub.herokuapp.com/images/tiktok.png"
       },
@@ -4506,7 +4506,7 @@
     "_id": "24",
     "name": "Campaign",
     "type": "Social",
-    "category": ["Social Networking"],
+    "category": ["Social"],
     "imageUrl": [{
         "icon": "https://data-polahub.herokuapp.com/images/campaign.png"
       },
@@ -5501,8 +5501,8 @@
   {
     "_id": "32",
     "name": "Lemon8",
-    "type": "Social",
-    "category": ["Coming Soon", "Social Networking"],
+    "type": "Social Media",
+    "category": ["Coming Soon", "Social"],
     "imageUrl": [{
         "icon": "https://res.cloudinary.com/chamjodesign/image/upload/v1657965663/Chamjo/Lemon8/logo.png"
       },
