@@ -556,10 +556,10 @@
     "type": "Movie Streaming",
     "category": ["Coming Soon", "Entertaiment"],
     "imageUrl": [{
-        "icon": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961220/Chamjo/iflix/logo.png"
+        "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iflix/logo.webp"
       },
       {
-        "card": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981344/Chamjo/Coming%20Soon/iflix.png"
+        "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Coming Soon/iflix.webp"
       },
       {
         "pattern": []
@@ -819,175 +819,208 @@
     "type": "Comic",
     "category": ["Entertaiment"],
     "imageUrl": [{
-        "icon": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798323/Chamjo/Line%20Webtoon/webtoon_xthgbz.png"
+        "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/WEBTOON/logo.webp"
       },
       {
-        "card": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798368/Chamjo/Line%20Webtoon/webtoon_squfai.png"
+        "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/WEBTOON/mockup.webp"
       },
       {
-        "pattern": [{
+        "pattern": [
+          {
             "id": 1,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798387/Chamjo/Line%20Webtoon/pattern/1_cz1xfa.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/WEBTOON/pattern/1.webp"
           },
           {
             "id": 2,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798387/Chamjo/Line%20Webtoon/pattern/2_ayabbg.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/WEBTOON/pattern/2.webp"
           },
           {
             "id": 3,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798390/Chamjo/Line%20Webtoon/pattern/3_g84cfn.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/WEBTOON/pattern/3.webp"
           },
           {
             "id": 4,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798389/Chamjo/Line%20Webtoon/pattern/4_zmmpjg.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/WEBTOON/pattern/4.webp"
           },
           {
             "id": 5,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798396/Chamjo/Line%20Webtoon/pattern/5_odzium.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/WEBTOON/pattern/5.webp"
           },
           {
             "id": 6,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798390/Chamjo/Line%20Webtoon/pattern/6_aj0irt.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/WEBTOON/pattern/6.webp"
           },
           {
             "id": 7,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798389/Chamjo/Line%20Webtoon/pattern/7_suhdxu.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/WEBTOON/pattern/7.webp"
           },
           {
             "id": 8,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798395/Chamjo/Line%20Webtoon/pattern/8_imww6k.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/WEBTOON/pattern/8.webp"
           },
           {
             "id": 9,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798392/Chamjo/Line%20Webtoon/pattern/9_yiffp2.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/WEBTOON/pattern/9.webp"
           },
           {
             "id": 10,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798395/Chamjo/Line%20Webtoon/pattern/10_fttic1.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/WEBTOON/pattern/10.webp"
           },
           {
             "id": 11,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798391/Chamjo/Line%20Webtoon/pattern/11_e0dd23.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/WEBTOON/pattern/11.webp"
           },
           {
             "id": 12,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798388/Chamjo/Line%20Webtoon/pattern/12_jvfzji.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/WEBTOON/pattern/12.webp"
           },
           {
             "id": 13,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798391/Chamjo/Line%20Webtoon/pattern/13_vdezxv.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/WEBTOON/pattern/13.webp"
           },
           {
             "id": 14,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798394/Chamjo/Line%20Webtoon/pattern/14_am6nkh.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/WEBTOON/pattern/14.webp"
           },
           {
             "id": 15,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798397/Chamjo/Line%20Webtoon/pattern/15_qr4wqt.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/WEBTOON/pattern/15.webp"
           },
           {
             "id": 16,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798397/Chamjo/Line%20Webtoon/pattern/16_cpct59.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/WEBTOON/pattern/16.webp"
           },
           {
             "id": 17,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798397/Chamjo/Line%20Webtoon/pattern/17_b2u3et.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/WEBTOON/pattern/17.webp"
           },
           {
             "id": 18,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798396/Chamjo/Line%20Webtoon/pattern/18_w8d4q2.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/WEBTOON/pattern/18.webp"
           },
           {
             "id": 19,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798397/Chamjo/Line%20Webtoon/pattern/19_bwlrdj.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/WEBTOON/pattern/19.webp"
           },
           {
             "id": 20,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798404/Chamjo/Line%20Webtoon/pattern/20_olnwg8.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/WEBTOON/pattern/20.webp"
           },
           {
             "id": 21,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798399/Chamjo/Line%20Webtoon/pattern/21_goiuda.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/WEBTOON/pattern/21.webp"
           },
           {
             "id": 22,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798402/Chamjo/Line%20Webtoon/pattern/22_z87sby.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/WEBTOON/pattern/22.webp"
           },
           {
             "id": 23,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798398/Chamjo/Line%20Webtoon/pattern/23_viooxl.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/WEBTOON/pattern/23.webp"
           },
           {
             "id": 24,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798400/Chamjo/Line%20Webtoon/pattern/24_itfzcs.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/WEBTOON/pattern/24.webp"
           },
           {
             "id": 25,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798402/Chamjo/Line%20Webtoon/pattern/25_jmcpyx.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/WEBTOON/pattern/25.webp"
           },
           {
             "id": 26,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798401/Chamjo/Line%20Webtoon/pattern/26_tg5bla.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/WEBTOON/pattern/26.webp"
           },
           {
             "id": 27,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798402/Chamjo/Line%20Webtoon/pattern/27_tlvuch.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/WEBTOON/pattern/27.webp"
           },
           {
             "id": 28,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798401/Chamjo/Line%20Webtoon/pattern/28_bzrfaz.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/WEBTOON/pattern/28.webp"
           },
           {
             "id": 29,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798402/Chamjo/Line%20Webtoon/pattern/29_uwxcnc.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/WEBTOON/pattern/29.webp"
           },
           {
             "id": 30,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798402/Chamjo/Line%20Webtoon/pattern/30_krjyoa.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/WEBTOON/pattern/30.webp"
           },
           {
             "id": 31,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798402/Chamjo/Line%20Webtoon/pattern/31_iofny1.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/WEBTOON/pattern/31.webp"
           },
           {
             "id": 32,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798404/Chamjo/Line%20Webtoon/pattern/32_o4jgby.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/WEBTOON/pattern/32.webp"
           },
           {
             "id": 33,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798403/Chamjo/Line%20Webtoon/pattern/33_wxqxo7.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/WEBTOON/pattern/33.webp"
           },
           {
             "id": 34,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798405/Chamjo/Line%20Webtoon/pattern/34_sgrb5i.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/WEBTOON/pattern/34.webp"
           },
           {
             "id": 35,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798404/Chamjo/Line%20Webtoon/pattern/35_ijo0jv.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/WEBTOON/pattern/35.webp"
           },
           {
             "id": 36,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798404/Chamjo/Line%20Webtoon/pattern/36_fwvngg.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/WEBTOON/pattern/36.webp"
           },
           {
             "id": 37,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798404/Chamjo/Line%20Webtoon/pattern/37_ixklpo.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/WEBTOON/pattern/37.webp"
           },
           {
             "id": 38,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798405/Chamjo/Line%20Webtoon/pattern/38_cqods3.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/WEBTOON/pattern/38.webp"
           },
           {
             "id": 39,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798407/Chamjo/Line%20Webtoon/pattern/39_jc7fqu.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/WEBTOON/pattern/39.webp"
           },
           {
             "id": 40,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798406/Chamjo/Line%20Webtoon/pattern/40_dxkji1.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/WEBTOON/pattern/40.webp"
           },
           {
             "id": 41,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657798406/Chamjo/Line%20Webtoon/pattern/41_mwvt6x.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/WEBTOON/pattern/41.webp"
+          },
+          {
+            "id": 42,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/WEBTOON/pattern/42.webp"
+          },
+          {
+            "id": 43,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/WEBTOON/pattern/43.webp"
+          },
+          {
+            "id": 44,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/WEBTOON/pattern/44.webp"
+          },
+          {
+            "id": 45,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/WEBTOON/pattern/45.webp"
+          },
+          {
+            "id": 46,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/WEBTOON/pattern/46.webp"
+          },
+          {
+            "id": 47,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/WEBTOON/pattern/47.webp"
+          },
+          {
+            "id": 48,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/WEBTOON/pattern/48.webp"
+          },
+          {
+            "id": 49,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/WEBTOON/pattern/49.webp"
           }
         ]
       }
@@ -1855,10 +1888,10 @@
     "type": "Marketplace",
     "category": ["Coming Soon", "Shopping"],
     "imageUrl": [{
-        "icon": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960364/Chamjo/Bukalapak/logo.png"
+        "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/logo.webp"
       },
       {
-        "card": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981343/Chamjo/Coming%20Soon/Bukalapak.png"
+        "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Coming Soon/Bukalapak.webp"
       },
       {
         "pattern": []
@@ -2240,10 +2273,10 @@
     "type": "Online Learning",
     "category": ["Coming Soon", "Education"],
     "imageUrl": [{
-        "icon": "https://data-polahub.herokuapp.com/images/ruangguru.png"
+        "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Ruangguru/logo.webp"
       },
       {
-        "card": "https://res.cloudinary.com/chamjodesign/image/upload/v1657999847/Chamjo/Coming%20Soon/Ruangguru.png"
+        "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Coming Soon/Ruangguru.webp"
       },
       {
         "pattern": []
@@ -2690,7 +2723,7 @@
     "type": "Ticket",
     "category": [ "Travel"],
     "imageUrl": [{
-        "icon": "https://data-polahub.herokuapp.com/images/tiket.png"
+        "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Tiket.com/logo.webp"
       },
       {
         "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Tiket.com/mockup.webp"
@@ -3105,10 +3138,10 @@
     "type": "Mutual Fund",
     "category": ["Crypto & Stock"],
     "imageUrl": [{
-        "icon": "https://data-polahub.herokuapp.com/images/bibit.png"
+        "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bibit/logo.webp"
       },
       {
-        "card": "https://data-polahub.herokuapp.com/images/card/bibit.png"
+        "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bibit/mockup.webp"
       },
       {
         "pattern": [{
@@ -3348,7 +3381,7 @@
     "type": "Digital Wallet",
     "category": ["Finance", "Gojek Product"],
     "imageUrl": [{
-        "icon": "https://data-polahub.herokuapp.com/images/gojek.png"
+        "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/logo.webp"
       },
       {
         "card": "https://data-polahub.herokuapp.com/images/card/gopay.png"
@@ -4329,10 +4362,10 @@
     "type": "Donation",
     "category": ["Lifestyle"],
     "imageUrl": [{
-        "icon": "https://data-polahub.herokuapp.com/images/kitabisa.png"
+        "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/logo.webp"
       },
       {
-        "card": "https://data-polahub.herokuapp.com/images/card/kitabisa.png"
+        "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/mockup.webp"
       },
       {
         "pattern": [{
@@ -4611,272 +4644,272 @@
     "type": "Marketplace",
     "category": ["Shopping"],
     "imageUrl": [{
-        "icon": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960337/Chamjo/Shopee/logo.png"
+        "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/logo.webp"
       },
       {
-        "card": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960336/Chamjo/Shopee/mockup.png"
+        "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/mockup.webp"
       },
       {
         "pattern": [
           {
             "id": 1,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/1.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/1.webp"
           },
           {
             "id": 2,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/2.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/2.webp"
           },
           {
             "id": 3,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/3.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/3.webp"
           },
           {
             "id": 4,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/4.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/4.webp"
           },
           {
             "id": 5,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/5.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/5.webp"
           },
           {
             "id": 6,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/6.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/6.webp"
           },
           {
             "id": 7,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/7.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/7.webp"
           },
           {
             "id": 8,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/8.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/8.webp"
           },
           {
             "id": 9,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/9.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/9.webp"
           },
           {
             "id": 10,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/10.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/10.webp"
           },
           {
             "id": 11,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/11.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/11.webp"
           },
           {
             "id": 12,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/12.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/12.webp"
           },
           {
             "id": 13,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/13.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/13.webp"
           },
           {
             "id": 14,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/14.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/14.webp"
           },
           {
             "id": 15,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/15.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/15.webp"
           },
           {
             "id": 16,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/16.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/16.webp"
           },
           {
             "id": 17,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/17.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/17.webp"
           },
           {
             "id": 18,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/18.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/18.webp"
           },
           {
             "id": 19,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/19.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/19.webp"
           },
           {
             "id": 20,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/20.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/20.webp"
           },
           {
             "id": 21,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/21.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/21.webp"
           },
           {
             "id": 22,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/22.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/22.webp"
           },
           {
             "id": 23,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/23.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/23.webp"
           },
           {
             "id": 24,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/24.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/24.webp"
           },
           {
             "id": 25,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/25.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/25.webp"
           },
           {
             "id": 26,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/26.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/26.webp"
           },
           {
             "id": 27,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/27.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/27.webp"
           },
           {
             "id": 28,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/28.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/28.webp"
           },
           {
             "id": 29,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/29.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/29.webp"
           },
           {
             "id": 30,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/30.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/30.webp"
           },
           {
             "id": 31,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/31.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/31.webp"
           },
           {
             "id": 32,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/32.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/32.webp"
           },
           {
             "id": 33,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/33.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/33.webp"
           },
           {
             "id": 34,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/34.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/34.webp"
           },
           {
             "id": 35,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/35.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/35.webp"
           },
           {
             "id": 36,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/36.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/36.webp"
           },
           {
             "id": 37,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/37.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/37.webp"
           },
           {
             "id": 38,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/38.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/38.webp"
           },
           {
             "id": 39,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/39.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/39.webp"
           },
           {
             "id": 40,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/40.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/40.webp"
           },
           {
             "id": 41,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/41.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/41.webp"
           },
           {
             "id": 42,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/42.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/42.webp"
           },
           {
             "id": 43,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/43.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/43.webp"
           },
           {
             "id": 44,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/44.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/44.webp"
           },
           {
             "id": 45,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/45.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/45.webp"
           },
           {
             "id": 46,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/46.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/46.webp"
           },
           {
             "id": 47,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/47.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/47.webp"
           },
           {
             "id": 48,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/48.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/48.webp"
           },
           {
             "id": 49,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/49.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/49.webp"
           },
           {
             "id": 50,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/50.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/50.webp"
           },
           {
             "id": 51,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/51.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/51.webp"
           },
           {
             "id": 52,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/52.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/52.webp"
           },
           {
             "id": 53,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/53.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/53.webp"
           },
           {
             "id": 54,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/54.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/54.webp"
           },
           {
             "id": 55,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/55.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/55.webp"
           },
           {
             "id": 56,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/56.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/56.webp"
           },
           {
             "id": 57,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/57.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/57.webp"
           },
           {
             "id": 58,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/58.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/58.webp"
           },
           {
             "id": 59,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/59.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/59.webp"
           },
           {
             "id": 60,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/60.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/60.webp"
           },
           {
             "id": 61,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/61.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/61.webp"
           },
           {
             "id": 62,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/62.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/62.webp"
           },
           {
             "id": 63,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/63.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/63.webp"
           },
           {
             "id": 64,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/64.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/64.webp"
           },
           {
             "id": 65,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960362/Chamjo/Shopee/pattern/65.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Shopee/pattern/65.webp"
           }
         ]
       }
@@ -5176,10 +5209,10 @@
     "type": "Ride Hailing",
     "category": ["Travel", "Gojek Product"],
     "imageUrl": [{
-        "icon": "https://data-polahub.herokuapp.com/images/gojek.png"
+        "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoRide/logo.webp"
       },
       {
-        "card": "https://data-polahub.herokuapp.com/images/card/goride.png"
+        "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoRide/mockup.webp"
       },
       {
         "pattern": [{
@@ -5590,264 +5623,264 @@
     "type": "Movie Streaming",
     "category": ["Entertaiment"],
     "imageUrl": [{
-        "icon": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961217/Chamjo/iQIYI/logo.png"
+        "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/logo.webp"
       },
       {
-        "card": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961230/Chamjo/iQIYI/mockup.png"
+        "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/mockup.webp"
       },
       {
         "pattern": [
           {
             "id": 1,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/1.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/1.webp"
           },
           {
             "id": 2,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/2.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/2.webp"
           },
           {
             "id": 3,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/3.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/3.webp"
           },
           {
             "id": 4,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/4.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/4.webp"
           },
           {
             "id": 5,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/5.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/5.webp"
           },
           {
             "id": 6,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/6.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/6.webp"
           },
           {
             "id": 7,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/7.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/7.webp"
           },
           {
             "id": 8,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/8.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/8.webp"
           },
           {
             "id": 9,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/9.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/9.webp"
           },
           {
             "id": 10,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/10.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/10.webp"
           },
           {
             "id": 11,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/11.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/11.webp"
           },
           {
             "id": 12,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/12.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/12.webp"
           },
           {
             "id": 13,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/13.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/13.webp"
           },
           {
             "id": 14,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/14.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/14.webp"
           },
           {
             "id": 15,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/15.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/15.webp"
           },
           {
             "id": 16,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/16.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/16.webp"
           },
           {
             "id": 17,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/17.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/17.webp"
           },
           {
             "id": 18,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/18.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/18.webp"
           },
           {
             "id": 19,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/19.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/19.webp"
           },
           {
             "id": 20,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/20.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/20.webp"
           },
           {
             "id": 21,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/21.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/21.webp"
           },
           {
             "id": 22,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/22.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/22.webp"
           },
           {
             "id": 23,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/23.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/23.webp"
           },
           {
             "id": 24,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/24.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/24.webp"
           },
           {
             "id": 25,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/25.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/25.webp"
           },
           {
             "id": 26,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/26.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/26.webp"
           },
           {
             "id": 27,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/27.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/27.webp"
           },
           {
             "id": 28,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/28.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/28.webp"
           },
           {
             "id": 29,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/29.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/29.webp"
           },
           {
             "id": 30,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/30.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/30.webp"
           },
           {
             "id": 31,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/31.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/31.webp"
           },
           {
             "id": 32,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/32.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/32.webp"
           },
           {
             "id": 33,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/33.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/33.webp"
           },
           {
             "id": 34,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/34.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/34.webp"
           },
           {
             "id": 35,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/35.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/35.webp"
           },
           {
             "id": 36,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/36.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/36.webp"
           },
           {
             "id": 37,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/37.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/37.webp"
           },
           {
             "id": 38,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/38.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/38.webp"
           },
           {
             "id": 39,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/39.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/39.webp"
           },
           {
             "id": 40,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/40.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/40.webp"
           },
           {
             "id": 41,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/41.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/41.webp"
           },
           {
             "id": 42,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/42.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/42.webp"
           },
           {
             "id": 43,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/43.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/43.webp"
           },
           {
             "id": 44,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/44.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/44.webp"
           },
           {
             "id": 45,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/45.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/45.webp"
           },
           {
             "id": 46,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/46.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/46.webp"
           },
           {
             "id": 47,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/47.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/47.webp"
           },
           {
             "id": 48,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/48.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/48.webp"
           },
           {
             "id": 49,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/49.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/49.webp"
           },
           {
             "id": 50,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/50.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/50.webp"
           },
           {
             "id": 51,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/51.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/51.webp"
           },
           {
             "id": 52,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/52.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/52.webp"
           },
           {
             "id": 53,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/53.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/53.webp"
           },
           {
             "id": 54,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/54.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/54.webp"
           },
           {
             "id": 55,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/55.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/55.webp"
           },
           {
             "id": 56,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/56.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/56.webp"
           },
           {
             "id": 57,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/57.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/57.webp"
           },
           {
             "id": 58,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/58.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/58.webp"
           },
           {
             "id": 59,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/59.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/59.webp"
           },
           {
             "id": 60,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/60.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/60.webp"
           },
           {
             "id": 61,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/61.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/61.webp"
           },
           {
             "id": 62,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/62.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/62.webp"
           },
           {
             "id": 63,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961299/Chamjo/iQIYI/pattern/63.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/iQIYI/pattern/63.webp"
           }
         ]
       }
@@ -5869,10 +5902,10 @@
     "type": "Hotel",
     "category": ["Coming Soon", "Travel"],
     "imageUrl": [{
-        "icon": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961065/Chamjo/RedDoorz/logo.png"
+        "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/logo.webp"
       },
       {
-        "card": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981343/Chamjo/Coming%20Soon/RedDoorz.png"
+        "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Coming Soon/RedDoorz.webp"
       },
       {
         "pattern": []
@@ -5894,7 +5927,7 @@
     "type": "Social Media",
     "category": ["Social"],
     "imageUrl": [{
-        "icon": "https://res.cloudinary.com/chamjodesign/image/upload/v1657965663/Chamjo/Lemon8/logo.png"
+        "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lemon8/logo.webp"
       },
       {
         "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lemon8/mockup.webp?t=2022-07-31T14%3A04%3A38.182Z"
@@ -6089,388 +6122,388 @@
     "type": "Digital Wallet",
     "category": ["Finance"],
     "imageUrl": [{
-        "icon": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981320/Chamjo/DANA/logo.png"
+        "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/logo.webp"
       },
       {
-        "card": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981320/Chamjo/DANA/mockup.png"
+        "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/mockup.webp"
       },
       {
         "pattern": [
           {
             "id": 1,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/1.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/1.webp"
           },
           {
             "id": 2,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/2.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/2.webp"
           },
           {
             "id": 3,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/3.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/3.webp"
           },
           {
             "id": 4,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/4.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/4.webp"
           },
           {
             "id": 5,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/5.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/5.webp"
           },
           {
             "id": 6,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/6.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/6.webp"
           },
           {
             "id": 7,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/7.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/7.webp"
           },
           {
             "id": 8,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/8.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/8.webp"
           },
           {
             "id": 9,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/9.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/9.webp"
           },
           {
             "id": 10,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/10.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/10.webp"
           },
           {
             "id": 11,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/11.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/11.webp"
           },
           {
             "id": 12,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/12.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/12.webp"
           },
           {
             "id": 13,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/13.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/13.webp"
           },
           {
             "id": 14,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/14.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/14.webp"
           },
           {
             "id": 15,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/15.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/15.webp"
           },
           {
             "id": 16,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/16.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/16.webp"
           },
           {
             "id": 17,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/17.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/17.webp"
           },
           {
             "id": 18,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/18.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/18.webp"
           },
           {
             "id": 19,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/19.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/19.webp"
           },
           {
             "id": 20,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/20.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/20.webp"
           },
           {
             "id": 21,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/21.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/21.webp"
           },
           {
             "id": 22,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/22.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/22.webp"
           },
           {
             "id": 23,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/23.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/23.webp"
           },
           {
             "id": 24,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/24.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/24.webp"
           },
           {
             "id": 25,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/25.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/25.webp"
           },
           {
             "id": 26,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/26.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/26.webp"
           },
           {
             "id": 27,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/27.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/27.webp"
           },
           {
             "id": 28,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/28.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/28.webp"
           },
           {
             "id": 29,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/29.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/29.webp"
           },
           {
             "id": 30,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/30.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/30.webp"
           },
           {
             "id": 31,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/31.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/31.webp"
           },
           {
             "id": 32,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/32.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/32.webp"
           },
           {
             "id": 33,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/33.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/33.webp"
           },
           {
             "id": 34,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/34.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/34.webp"
           },
           {
             "id": 35,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/35.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/35.webp"
           },
           {
             "id": 36,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/36.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/36.webp"
           },
           {
             "id": 37,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/37.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/37.webp"
           },
           {
             "id": 38,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/38.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/38.webp"
           },
           {
             "id": 39,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/39.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/39.webp"
           },
           {
             "id": 40,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/40.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/40.webp"
           },
           {
             "id": 41,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/41.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/41.webp"
           },
           {
             "id": 42,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/42.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/42.webp"
           },
           {
             "id": 43,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/43.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/43.webp"
           },
           {
             "id": 44,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/44.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/44.webp"
           },
           {
             "id": 45,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/45.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/45.webp"
           },
           {
             "id": 46,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/46.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/46.webp"
           },
           {
             "id": 47,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/47.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/47.webp"
           },
           {
             "id": 48,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/48.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/48.webp"
           },
           {
             "id": 49,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/49.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/49.webp"
           },
           {
             "id": 50,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/50.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/50.webp"
           },
           {
             "id": 51,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/51.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/51.webp"
           },
           {
             "id": 52,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/52.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/52.webp"
           },
           {
             "id": 53,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/53.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/53.webp"
           },
           {
             "id": 54,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/54.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/54.webp"
           },
           {
             "id": 55,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/55.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/55.webp"
           },
           {
             "id": 56,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/56.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/56.webp"
           },
           {
             "id": 57,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/57.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/57.webp"
           },
           {
             "id": 58,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/58.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/58.webp"
           },
           {
             "id": 59,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/59.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/59.webp"
           },
           {
             "id": 60,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/60.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/60.webp"
           },
           {
             "id": 61,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/61.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/61.webp"
           },
           {
             "id": 62,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/62.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/62.webp"
           },
           {
             "id": 63,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/63.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/63.webp"
           },
           {
             "id": 64,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/64.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/64.webp"
           },
           {
             "id": 65,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/65.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/65.webp"
           },
           {
             "id": 66,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/66.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/66.webp"
           },
           {
             "id": 67,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/67.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/67.webp"
           },
           {
             "id": 68,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/68.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/68.webp"
           },
           {
             "id": 69,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/69.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/69.webp"
           },
           {
             "id": 70,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/70.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/70.webp"
           },
           {
             "id": 71,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/71.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/71.webp"
           },
           {
             "id": 72,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/72.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/72.webp"
           },
           {
             "id": 73,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/73.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/73.webp"
           },
           {
             "id": 74,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/74.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/74.webp"
           },
           {
             "id": 75,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/75.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/75.webp"
           },
           {
             "id": 76,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/76.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/76.webp"
           },
           {
             "id": 77,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/77.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/77.webp"
           },
           {
             "id": 78,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/78.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/78.webp"
           },
           {
             "id": 79,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/79.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/79.webp"
           },
           {
             "id": 80,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/80.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/80.webp"
           },
           {
             "id": 81,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/81.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/81.webp"
           },
           {
             "id": 82,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/82.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/82.webp"
           },
           {
             "id": 83,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/83.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/83.webp"
           },
           {
             "id": 84,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/84.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/84.webp"
           },
           {
             "id": 85,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/85.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/85.webp"
           },
           {
             "id": 86,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/86.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/86.webp"
           },
           {
             "id": 87,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/87.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/87.webp"
           },
           {
             "id": 88,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/88.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/88.webp"
           },
           {
             "id": 89,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/89.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/89.webp"
           },
           {
             "id": 90,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/90.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/90.webp"
           },
           {
             "id": 91,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/91.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/91.webp"
           },
           {
             "id": 92,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/92.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/92.webp"
           },
           {
             "id": 93,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/93.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/93.webp"
           },
           {
             "id": 94,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657981342/Chamjo/DANA/pattern/94.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/DANA/pattern/94.webp"
           }
         ]
       }
@@ -6492,10 +6525,10 @@
     "type": "Digital Wallet",
     "category": ["Coming Soon", "Finance"],
     "imageUrl": [{
-        "icon": "https://data-polahub.herokuapp.com/images/ovo.png"
+        "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/OVO/logo.webp"
       },
       {
-        "card": "https://data-polahub.herokuapp.com/images/card/ovo-lock.png"
+        "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Coming Soon/OVO.webp"
       },
       {
         "pattern": []
@@ -6517,7 +6550,7 @@
     "type": "Hotel",
     "category": ["Travel"],
     "imageUrl": [{
-        "icon": "https://res.cloudinary.com/chamjodesign/image/upload/v1657961062/Chamjo/OYO/logo.png"
+        "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/OYO/logo.webp"
       },
       {
         "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/OYO/mockup.webp"
@@ -6714,251 +6747,252 @@
     "type": "Marketplace",
     "category": ["Shopping"],
     "imageUrl": [{
-        "icon": "https://res.cloudinary.com/chamjodesign/image/upload/v1657788008/Chamjo/Lazada/logo.png"
+        "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/logo.webp"
       },
       {
-        "card": "https://res.cloudinary.com/chamjodesign/image/upload/v1657788013/Chamjo/Lazada/mockup.png"
+        "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/mockup.webp"
       },
       {
-        "pattern": [{
+        "pattern": [
+          {
             "id": 1,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/1.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/1.webp"
           },
           {
             "id": 2,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/2.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/2.webp"
           },
           {
             "id": 3,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/3.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/3.webp"
           },
           {
             "id": 4,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/4.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/4.webp"
           },
           {
             "id": 5,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/5.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/5.webp"
           },
           {
             "id": 6,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/6.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/6.webp"
           },
           {
             "id": 7,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/7.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/7.webp"
           },
           {
             "id": 8,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/8.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/8.webp"
           },
           {
             "id": 9,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/9.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/9.webp"
           },
           {
             "id": 10,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/10.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/10.webp"
           },
           {
             "id": 11,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/11.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/11.webp"
           },
           {
             "id": 12,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/12.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/12.webp"
           },
           {
             "id": 13,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/13.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/13.webp"
           },
           {
             "id": 14,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/14.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/14.webp"
           },
           {
             "id": 15,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/15.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/15.webp"
           },
           {
             "id": 16,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/16.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/16.webp"
           },
           {
             "id": 17,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/17.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/17.webp"
           },
           {
             "id": 18,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/18.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/18.webp"
           },
           {
             "id": 19,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/19.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/19.webp"
           },
           {
             "id": 20,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/20.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/20.webp"
           },
           {
             "id": 21,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/21.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/21.webp"
           },
           {
             "id": 22,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/22.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/22.webp"
           },
           {
             "id": 23,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/23.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/23.webp"
           },
           {
             "id": 24,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/24.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/24.webp"
           },
           {
             "id": 25,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/25.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/25.webp"
           },
           {
             "id": 26,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/26.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/26.webp"
           },
           {
             "id": 27,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/27.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/27.webp"
           },
           {
             "id": 28,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/28.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/28.webp"
           },
           {
             "id": 29,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/29.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/29.webp"
           },
           {
             "id": 30,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/30.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/30.webp"
           },
           {
             "id": 31,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/31.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/31.webp"
           },
           {
             "id": 32,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/32.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/32.webp"
           },
           {
             "id": 33,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/33.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/33.webp"
           },
           {
             "id": 34,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/34.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/34.webp"
           },
           {
             "id": 35,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/35.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/35.webp"
           },
           {
             "id": 36,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/36.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/36.webp"
           },
           {
             "id": 37,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/37.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/37.webp"
           },
           {
             "id": 38,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/38.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/38.webp"
           },
           {
             "id": 39,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/39.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/39.webp"
           },
           {
             "id": 40,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/40.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/40.webp"
           },
           {
             "id": 41,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/41.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/41.webp"
           },
           {
             "id": 42,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/42.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/42.webp"
           },
           {
             "id": 43,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/43.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/43.webp"
           },
           {
             "id": 44,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/44.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/44.webp"
           },
           {
             "id": 45,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/45.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/45.webp"
           },
           {
             "id": 46,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/46.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/46.webp"
           },
           {
             "id": 47,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/47.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/47.webp"
           },
           {
             "id": 48,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/48.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/48.webp"
           },
           {
             "id": 49,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/49.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/49.webp"
           },
           {
             "id": 50,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/50.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/50.webp"
           },
           {
             "id": 51,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/51.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/51.webp"
           },
           {
             "id": 52,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/52.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/52.webp"
           },
           {
             "id": 53,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/53.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/53.webp"
           },
           {
             "id": 54,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/54.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/54.webp"
           },
           {
             "id": 55,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/55.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/55.webp"
           },
           {
             "id": 56,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/56.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/56.webp"
           },
           {
             "id": 57,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/57.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/57.webp"
           },
           {
             "id": 58,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/58.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/58.webp"
           },
           {
             "id": 59,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/59.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/59.webp"
           },
           {
             "id": 60,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657960681/Chamjo/Lazada/pattern/60.jpg"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Lazada/pattern/60.webp"
           }
         ]
       }
@@ -6980,263 +7014,264 @@
     "type": "Stock",
     "category": ["Crypto & Stock"],
     "imageUrl": [{
-        "icon": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936390/Chamjo/Gotrade/logo.png"
+        "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/logo.webp"
       },
       {
-        "card": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936378/Chamjo/Gotrade/mockup.png"
+        "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/mockup.webp"
       },
       {
-        "pattern": [{
+        "pattern": [
+          {
             "id": 1,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/1.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/1.webp"
           },
           {
             "id": 2,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/2.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/2.webp"
           },
           {
             "id": 3,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/3.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/3.webp"
           },
           {
             "id": 4,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/4.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/4.webp"
           },
           {
             "id": 5,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/5.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/5.webp"
           },
           {
             "id": 6,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/6.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/6.webp"
           },
           {
             "id": 7,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/7.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/7.webp"
           },
           {
             "id": 8,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/8.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/8.webp"
           },
           {
             "id": 9,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/9.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/9.webp"
           },
           {
             "id": 10,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/10.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/10.webp"
           },
           {
             "id": 11,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/11.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/11.webp"
           },
           {
             "id": 12,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/12.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/12.webp"
           },
           {
             "id": 13,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/13.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/13.webp"
           },
           {
             "id": 14,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/14.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/14.webp"
           },
           {
             "id": 15,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/15.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/15.webp"
           },
           {
             "id": 16,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/16.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/16.webp"
           },
           {
             "id": 17,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/17.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/17.webp"
           },
           {
             "id": 18,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/18.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/18.webp"
           },
           {
             "id": 19,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/19.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/19.webp"
           },
           {
             "id": 20,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/20.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/20.webp"
           },
           {
             "id": 21,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/21.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/21.webp"
           },
           {
             "id": 22,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/22.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/22.webp"
           },
           {
             "id": 23,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/23.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/23.webp"
           },
           {
             "id": 24,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/24.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/24.webp"
           },
           {
             "id": 25,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/25.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/25.webp"
           },
           {
             "id": 26,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/26.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/26.webp"
           },
           {
             "id": 27,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/27.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/27.webp"
           },
           {
             "id": 28,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/28.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/28.webp"
           },
           {
             "id": 29,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/29.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/29.webp"
           },
           {
             "id": 30,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/30.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/30.webp"
           },
           {
             "id": 31,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/31.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/31.webp"
           },
           {
             "id": 32,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/32.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/32.webp"
           },
           {
             "id": 33,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/33.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/33.webp"
           },
           {
             "id": 34,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/34.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/34.webp"
           },
           {
             "id": 35,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/35.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/35.webp"
           },
           {
             "id": 36,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/36.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/36.webp"
           },
           {
             "id": 37,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/37.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/37.webp"
           },
           {
             "id": 38,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/38.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/38.webp"
           },
           {
             "id": 39,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/39.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/39.webp"
           },
           {
             "id": 40,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/40.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/40.webp"
           },
           {
             "id": 41,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/41.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/41.webp"
           },
           {
             "id": 42,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/42.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/42.webp"
           },
           {
             "id": 43,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/43.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/43.webp"
           },
           {
             "id": 44,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/44.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/44.webp"
           },
           {
             "id": 45,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/45.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/45.webp"
           },
           {
             "id": 46,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/46.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/46.webp"
           },
           {
             "id": 47,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/47.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/47.webp"
           },
           {
             "id": 48,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/48.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/48.webp"
           },
           {
             "id": 49,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/49.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/49.webp"
           },
           {
             "id": 50,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/50.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/50.webp"
           },
           {
             "id": 51,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/51.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/51.webp"
           },
           {
             "id": 52,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/52.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/52.webp"
           },
           {
             "id": 53,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/53.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/53.webp"
           },
           {
             "id": 54,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/54.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/54.webp"
           },
           {
             "id": 55,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/55.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/55.webp"
           },
           {
             "id": 56,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/56.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/56.webp"
           },
           {
             "id": 57,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/57.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/57.webp"
           },
           {
             "id": 58,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/58.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/58.webp"
           },
           {
             "id": 59,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/59.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/59.webp"
           },
           {
             "id": 60,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/60.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/60.webp"
           },
           {
             "id": 61,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/61.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/61.webp"
           },
           {
             "id": 62,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/62.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/62.webp"
           },
           {
             "id": 63,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657936413/Chamjo/Gotrade/pattern/63.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gotrade/pattern/63.webp"
           }
         ]
       }
