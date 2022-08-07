@@ -9272,5 +9272,30 @@
     "lock": true,
     "new": false,
     "color": "#ebecef"
+  },
+  {
+    "_id": "48",
+    "name": "HaloDoc",
+    "type": "Medicine",
+    "category": ["Coming Soon", "Medical"],
+    "imageUrl": [{
+        "icon": "https://data-polahub.herokuapp.com/images/halodoc.png"
+      },
+      {
+        "card": "https://data-polahub.herokuapp.com/images/card/halodoc-lock.png"
+      },
+      {
+        "pattern": []
+      }
+    ],
+    "isCategory": true,
+    "provider": "MEDIA DOKTER INVESTAMA, PT",
+    "copyright": "© MEDIA DOKTER INVESTAMA, PT",
+    "appstore": "https://apps.apple.com/id/app/halodoc-doctors-medicines/id1067217981",
+    "playstore": "https://play.google.com/store/apps/details?id=com.linkdokter.halodoc.android&hl=in&gl=US",
+    "country": "Indonesia",
+    "lock": true,
+    "new": false,
+    "color": "#ebecef"
   }
 ]

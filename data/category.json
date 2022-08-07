@@ -28,24 +28,24 @@
     "name": "Crypto & Stock",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/ethereum-(eth).svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/ethereum-(eth).svg",
-    "status": "NEW",
-    "isNew": true
+    "status": null,
+    "isNew": false
   },
   {
     "_id": "5",
     "name": "Education",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/teacher.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/teacher.svg",
-    "status": null,
-    "isNew": false
+    "status": "NEW",
+    "isNew": true
   },
   {
     "_id": "6",
     "name": "Entertaiment",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/monitor-mobbile.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/monitor-mobbile.svg",
-    "status": null,
-    "isNew": false
+    "status": "NEW",
+    "isNew": true
   },
   {
     "_id": "7",
@@ -150,16 +150,16 @@
     "name": "Shopping",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/bag.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/bag.svg",
-    "status": null,
-    "isNew": false
+    "status": "NEW",
+    "isNew": true
   },
   {
     "_id": "asd1293uasdads1",
     "name": "Social",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/messages.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/messages.svg",
-    "status": "NEW",
-    "isNew": true
+    "status": null,
+    "isNew": false
   },
 
   {
