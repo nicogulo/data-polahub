@@ -581,223 +581,224 @@
     "type": "Mobile Banking",
     "category": ["Finance"],
     "imageUrl": [{
-        "icon": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801468/Chamjo/BCA/bca_xi1tdu.png"
+        "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BCA Mobile/logo.webp"
       },
       {
-        "card": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801463/Chamjo/BCA/bca_ndvubd.png"
+        "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BCA Mobile/mockup.webp"
       },
       {
-        "pattern": [{
+        "pattern": [
+          {
             "id": 1,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801361/Chamjo/BCA/pattern/1_k0s9vp.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BCA Mobile/pattern/1.webp"
           },
           {
             "id": 2,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801367/Chamjo/BCA/pattern/2_tvnekp.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BCA Mobile/pattern/2.webp"
           },
           {
             "id": 3,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801361/Chamjo/BCA/pattern/3_d6ajhw.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BCA Mobile/pattern/3.webp"
           },
           {
             "id": 4,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801363/Chamjo/BCA/pattern/4_ivgteo.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BCA Mobile/pattern/4.webp"
           },
           {
             "id": 5,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801361/Chamjo/BCA/pattern/5_o7mdcx.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BCA Mobile/pattern/5.webp"
           },
           {
             "id": 6,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801361/Chamjo/BCA/pattern/6_lx2suo.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BCA Mobile/pattern/6.webp"
           },
           {
             "id": 7,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801364/Chamjo/BCA/pattern/7_xy3qma.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BCA Mobile/pattern/7.webp"
           },
           {
             "id": 8,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801362/Chamjo/BCA/pattern/8_jmhvsr.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BCA Mobile/pattern/8.webp"
           },
           {
             "id": 9,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801362/Chamjo/BCA/pattern/9_wlfryn.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BCA Mobile/pattern/9.webp"
           },
           {
             "id": 10,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801363/Chamjo/BCA/pattern/10_a9lzta.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BCA Mobile/pattern/10.webp"
           },
           {
             "id": 11,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801363/Chamjo/BCA/pattern/11_d56qme.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BCA Mobile/pattern/11.webp"
           },
           {
             "id": 12,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801363/Chamjo/BCA/pattern/12_asla8x.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BCA Mobile/pattern/12.webp"
           },
           {
             "id": 13,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801363/Chamjo/BCA/pattern/13_yifpyp.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BCA Mobile/pattern/13.webp"
           },
           {
             "id": 14,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801364/Chamjo/BCA/pattern/14_ycr08n.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BCA Mobile/pattern/14.webp"
           },
           {
             "id": 15,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801364/Chamjo/BCA/pattern/15_jywfow.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BCA Mobile/pattern/15.webp"
           },
           {
             "id": 16,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801364/Chamjo/BCA/pattern/16_rjyf5c.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BCA Mobile/pattern/16.webp"
           },
           {
             "id": 17,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801365/Chamjo/BCA/pattern/17_kdtw6l.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BCA Mobile/pattern/17.webp"
           },
           {
             "id": 18,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801365/Chamjo/BCA/pattern/18_v3aymn.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BCA Mobile/pattern/18.webp"
           },
           {
             "id": 19,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801365/Chamjo/BCA/pattern/19_ipjpnn.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BCA Mobile/pattern/19.webp"
           },
           {
             "id": 20,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801365/Chamjo/BCA/pattern/20_f59ezq.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BCA Mobile/pattern/20.webp"
           },
           {
             "id": 21,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801365/Chamjo/BCA/pattern/21_aqrl0r.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BCA Mobile/pattern/21.webp"
           },
           {
             "id": 22,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801366/Chamjo/BCA/pattern/22_bglwiy.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BCA Mobile/pattern/22.webp"
           },
           {
             "id": 23,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801365/Chamjo/BCA/pattern/23_ndcvwv.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BCA Mobile/pattern/23.webp"
           },
           {
             "id": 24,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801365/Chamjo/BCA/pattern/24_kquaew.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BCA Mobile/pattern/24.webp"
           },
           {
             "id": 25,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801366/Chamjo/BCA/pattern/25_dazerg.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BCA Mobile/pattern/25.webp"
           },
           {
             "id": 26,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801367/Chamjo/BCA/pattern/26_sbmh6y.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BCA Mobile/pattern/26.webp"
           },
           {
             "id": 27,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801368/Chamjo/BCA/pattern/27_zvtn0h.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BCA Mobile/pattern/27.webp"
           },
           {
             "id": 28,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801366/Chamjo/BCA/pattern/28_wnlwk9.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BCA Mobile/pattern/28.webp"
           },
           {
             "id": 29,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801367/Chamjo/BCA/pattern/29_bshj90.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BCA Mobile/pattern/29.webp"
           },
           {
             "id": 30,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801367/Chamjo/BCA/pattern/30_egborc.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BCA Mobile/pattern/30.webp"
           },
           {
             "id": 31,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801368/Chamjo/BCA/pattern/31_bpbvlm.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BCA Mobile/pattern/31.webp"
           },
           {
             "id": 32,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801368/Chamjo/BCA/pattern/32_xxzeg0.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BCA Mobile/pattern/32.webp"
           },
           {
             "id": 33,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801369/Chamjo/BCA/pattern/33_trok1a.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BCA Mobile/pattern/33.webp"
           },
           {
             "id": 34,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801368/Chamjo/BCA/pattern/34_g7sv0a.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BCA Mobile/pattern/34.webp"
           },
           {
             "id": 35,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801371/Chamjo/BCA/pattern/35_gaf9r2.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BCA Mobile/pattern/35.webp"
           },
           {
             "id": 36,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801369/Chamjo/BCA/pattern/36_dgi3pd.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BCA Mobile/pattern/36.webp"
           },
           {
             "id": 37,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801369/Chamjo/BCA/pattern/37_c1diu7.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BCA Mobile/pattern/37.webp"
           },
           {
             "id": 38,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801377/Chamjo/BCA/pattern/38_qwfqvy.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BCA Mobile/pattern/38.webp"
           },
           {
             "id": 39,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801369/Chamjo/BCA/pattern/39_raut3c.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BCA Mobile/pattern/39.webp"
           },
           {
             "id": 40,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801371/Chamjo/BCA/pattern/40_uwpy7u.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BCA Mobile/pattern/40.webp"
           },
           {
             "id": 41,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801370/Chamjo/BCA/pattern/41_to43ox.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BCA Mobile/pattern/41.webp"
           },
           {
             "id": 42,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801370/Chamjo/BCA/pattern/42_lfotmg.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BCA Mobile/pattern/42.webp"
           },
           {
             "id": 43,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801370/Chamjo/BCA/pattern/43_bpizgv.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BCA Mobile/pattern/43.webp"
           },
           {
             "id": 44,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801371/Chamjo/BCA/pattern/44_bkxeqr.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BCA Mobile/pattern/44.webp"
           },
           {
             "id": 45,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801371/Chamjo/BCA/pattern/45_ocqlyz.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BCA Mobile/pattern/45.webp"
           },
           {
             "id": 46,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801372/Chamjo/BCA/pattern/46_olx8vj.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BCA Mobile/pattern/46.webp"
           },
           {
             "id": 47,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801372/Chamjo/BCA/pattern/47_vkvtbw.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BCA Mobile/pattern/47.webp"
           },
           {
             "id": 48,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801372/Chamjo/BCA/pattern/48_sbuyod.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BCA Mobile/pattern/48.webp"
           },
           {
             "id": 49,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801372/Chamjo/BCA/pattern/49_s0coyr.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BCA Mobile/pattern/49.webp"
           },
           {
             "id": 50,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801373/Chamjo/BCA/pattern/50_ztg89s.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BCA Mobile/pattern/50.webp"
           },
           {
             "id": 51,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801374/Chamjo/BCA/pattern/51_nq7khc.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BCA Mobile/pattern/51.webp"
           },
           {
             "id": 52,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801374/Chamjo/BCA/pattern/52_uydx4m.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BCA Mobile/pattern/52.webp"
           },
           {
             "id": 53,
-            "name": "https://res.cloudinary.com/chamjodesign/image/upload/v1657801374/Chamjo/BCA/pattern/53_hxnbky.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BCA Mobile/pattern/53.webp"
           }
         ]
       }
@@ -8338,7 +8339,7 @@
         "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Traveloka/logo.webp"
       },
       {
-        "card": "https://res.cloudinary.com/chamjodesign/image/upload/v1658177802/Chamjo/Coming%20Soon/Traveloka_Flight.png"
+        "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Coming Soon/Traveloka Flight.webp"
       },
       {
         "pattern": []
