@@ -9296,5 +9296,80 @@
     "lock": true,
     "new": false,
     "color": "#ebecef"
+  },
+  {
+    "_id": "48",
+    "name": "Agoda",
+    "type": "Ticket",
+    "category": ["Coming Soon", "Flight"],
+    "imageUrl": [{
+        "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/logo.webpp"
+      },
+      {
+        "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Coming Soon/Agoda.webp"
+      },
+      {
+        "pattern": []
+      }
+    ],
+    "isCategory": true,
+    "provider": "Agoda Company Pte. Ltd.",
+    "copyright": "© 2005 - 2022 Agoda Company Pte. Ltd., All Rights Reserved",
+    "appstore": "https://apps.apple.com/us/app/agoda-best-travel-deals/id440676901",
+    "playstore": "https://play.google.com/store/apps/details?id=com.agoda.mobile.consumer&hl=in&gl=US",
+    "country": "Singapore",
+    "lock": true,
+    "new": false,
+    "color": "#ebecef"
+  },
+  {
+    "_id": "49",
+    "name": "AliExpress",
+    "type": "Marketplace",
+    "category": ["Coming Soon", "Shopping"],
+    "imageUrl": [{
+        "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/logo.webp"
+      },
+      {
+        "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/mockup.webp"
+      },
+      {
+        "pattern": []
+      }
+    ],
+    "isCategory": true,
+    "provider": "Alibaba.com Singapore E-Commerce Private Limited.",
+    "copyright": "© 1999-2022 Alibaba.com Hong Kong Limited and licensors. All rights reserved.",
+    "appstore": "https://apps.apple.com/us/app/aliexpress-shopping-app/id436672029",
+    "playstore": "https://play.google.com/store/apps/details?id=com.alibaba.aliexpresshd&hl=in&gl=US",
+    "country": "China",
+    "lock": true,
+    "new": false,
+    "color": "#ebecef"
+  },
+  {
+    "_id": "50",
+    "name": "Alibaba.com",
+    "type": "Marketplace",
+    "category": ["Coming Soon", "Shopping"],
+    "imageUrl": [{
+        "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Alibaba.com/logo.webp"
+      },
+      {
+        "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Coming Soon/Alibaba.com.webp"
+      },
+      {
+        "pattern": []
+      }
+    ],
+    "isCategory": true,
+    "provider": "Alibaba.com Hong Kong Limited.",
+    "copyright": "© 1999-2020 Alibaba.com Hong Kong Limited and licensors. All rights reserved.",
+    "appstore": "https://apps.apple.com/us/app/alibaba-com-b2b-trade-app/id503451073",
+    "playstore": "https://play.google.com/store/apps/details?id=com.alibaba.intl.android.apps.poseidon&hl=in&gl=US",
+    "country": "China",
+    "lock": true,
+    "new": false,
+    "color": "#ebecef"
   }
 ]
