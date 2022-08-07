@@ -6199,273 +6199,7 @@
     "new_color": "#E2F4DC",
     "color": "rgba(99, 211, 59, 0.16)"
   },
-  {
-    "_id": "31",
-    "name": "RedDoorz",
-    "type": "Hotel",
-    "category": ["Travel"],
-    "imageUrl": [{
-        "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/logo.webp"
-      },
-      {
-        "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/mockup.webp"
-      },
-      {
-        "pattern": [
-          {
-            "id": 1,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/1.webp"
-          },
-          {
-            "id": 2,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/2.webp"
-          },
-          {
-            "id": 3,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/3.webp"
-          },
-          {
-            "id": 4,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/4.webp"
-          },
-          {
-            "id": 5,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/5.webp"
-          },
-          {
-            "id": 6,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/6.webp"
-          },
-          {
-            "id": 7,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/7.webp"
-          },
-          {
-            "id": 8,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/8.webp"
-          },
-          {
-            "id": 9,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/9.webp"
-          },
-          {
-            "id": 10,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/10.webp"
-          },
-          {
-            "id": 11,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/11.webp"
-          },
-          {
-            "id": 12,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/12.webp"
-          },
-          {
-            "id": 13,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/13.webp"
-          },
-          {
-            "id": 14,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/14.webp"
-          },
-          {
-            "id": 15,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/15.webp"
-          },
-          {
-            "id": 16,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/16.webp"
-          },
-          {
-            "id": 17,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/17.webp"
-          },
-          {
-            "id": 18,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/18.webp"
-          },
-          {
-            "id": 19,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/19.webp"
-          },
-          {
-            "id": 20,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/20.webp"
-          },
-          {
-            "id": 21,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/21.webp"
-          },
-          {
-            "id": 22,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/22.webp"
-          },
-          {
-            "id": 23,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/23.webp"
-          },
-          {
-            "id": 24,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/24.webp"
-          },
-          {
-            "id": 25,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/25.webp"
-          },
-          {
-            "id": 26,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/26.webp"
-          },
-          {
-            "id": 27,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/27.webp"
-          },
-          {
-            "id": 28,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/28.webp"
-          },
-          {
-            "id": 29,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/29.webp"
-          },
-          {
-            "id": 30,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/30.webp"
-          },
-          {
-            "id": 31,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/31.webp"
-          },
-          {
-            "id": 32,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/32.webp"
-          },
-          {
-            "id": 33,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/33.webp"
-          },
-          {
-            "id": 34,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/34.webp"
-          },
-          {
-            "id": 35,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/35.webp"
-          },
-          {
-            "id": 36,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/36.webp"
-          },
-          {
-            "id": 37,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/37.webp"
-          },
-          {
-            "id": 38,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/38.webp"
-          },
-          {
-            "id": 39,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/39.webp"
-          },
-          {
-            "id": 40,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/40.webp"
-          },
-          {
-            "id": 41,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/41.webp"
-          },
-          {
-            "id": 42,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/42.webp"
-          },
-          {
-            "id": 43,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/43.webp"
-          },
-          {
-            "id": 44,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/44.webp"
-          },
-          {
-            "id": 45,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/45.webp"
-          },
-          {
-            "id": 46,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/46.webp"
-          },
-          {
-            "id": 47,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/47.webp"
-          },
-          {
-            "id": 48,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/48.webp"
-          },
-          {
-            "id": 49,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/49.webp"
-          },
-          {
-            "id": 50,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/50.webp"
-          },
-          {
-            "id": 51,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/51.webp"
-          },
-          {
-            "id": 52,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/52.webp"
-          },
-          {
-            "id": 53,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/53.webp"
-          },
-          {
-            "id": 54,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/54.webp"
-          },
-          {
-            "id": 55,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/55.webp"
-          },
-          {
-            "id": 56,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/56.webp"
-          },
-          {
-            "id": 57,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/57.webp"
-          },
-          {
-            "id": 58,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/58.webp"
-          },
-          {
-            "id": 59,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/59.webp"
-          },
-          {
-            "id": 60,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/60.webp"
-          }
-        ]
-      }
-    ],
-    "isCategory": true,
-    "provider": "COMMEASURE SOLUTIONS INDIA PRIVATE LIMITED",
-    "copyright": "© RedDoorz",
-    "appstore": "https://apps.apple.com/us/app/reddoorz-hotel-booking-app/id1260883343",
-    "playstore": "https://play.google.com/store/apps/details?id=com.reddoorz.app&hl=in&gl=US",
-    "country": "Singapore",
-    "lock": false,
-    "new": true,
-    "new_color": "#FADBE1",
-    "color": "rgba(249, 54, 90, 0.16)"
-  },
+  
   {
     "_id": "32",
     "name": "Lemon8",
@@ -7284,8 +7018,298 @@
     "new_color": "#FADBE1",
     "color": "rgba(249, 54, 90, 0.16)"
   },
-
-
+  {
+    "_id": "36",
+    "name": "RedDoorz",
+    "type": "Hotel",
+    "category": ["Travel"],
+    "imageUrl": [{
+        "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/logo.webp"
+      },
+      {
+        "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/mockup.webp"
+      },
+      {
+        "pattern": [
+          {
+            "id": 1,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/1.webp"
+          },
+          {
+            "id": 2,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/2.webp"
+          },
+          {
+            "id": 3,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/3.webp"
+          },
+          {
+            "id": 4,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/4.webp"
+          },
+          {
+            "id": 5,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/5.webp"
+          },
+          {
+            "id": 6,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/6.webp"
+          },
+          {
+            "id": 7,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/7.webp"
+          },
+          {
+            "id": 8,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/8.webp"
+          },
+          {
+            "id": 9,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/9.webp"
+          },
+          {
+            "id": 10,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/10.webp"
+          },
+          {
+            "id": 11,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/11.webp"
+          },
+          {
+            "id": 12,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/12.webp"
+          },
+          {
+            "id": 13,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/13.webp"
+          },
+          {
+            "id": 14,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/14.webp"
+          },
+          {
+            "id": 15,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/15.webp"
+          },
+          {
+            "id": 16,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/16.webp"
+          },
+          {
+            "id": 17,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/17.webp"
+          },
+          {
+            "id": 18,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/18.webp"
+          },
+          {
+            "id": 19,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/19.webp"
+          },
+          {
+            "id": 20,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/20.webp"
+          },
+          {
+            "id": 21,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/21.webp"
+          },
+          {
+            "id": 22,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/22.webp"
+          },
+          {
+            "id": 23,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/23.webp"
+          },
+          {
+            "id": 24,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/24.webp"
+          },
+          {
+            "id": 25,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/25.webp"
+          },
+          {
+            "id": 26,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/26.webp"
+          },
+          {
+            "id": 27,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/27.webp"
+          },
+          {
+            "id": 28,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/28.webp"
+          },
+          {
+            "id": 29,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/29.webp"
+          },
+          {
+            "id": 30,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/30.webp"
+          },
+          {
+            "id": 31,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/31.webp"
+          },
+          {
+            "id": 32,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/32.webp"
+          },
+          {
+            "id": 33,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/33.webp"
+          },
+          {
+            "id": 34,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/34.webp"
+          },
+          {
+            "id": 35,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/35.webp"
+          },
+          {
+            "id": 36,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/36.webp"
+          },
+          {
+            "id": 37,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/37.webp"
+          },
+          {
+            "id": 38,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/38.webp"
+          },
+          {
+            "id": 39,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/39.webp"
+          },
+          {
+            "id": 40,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/40.webp"
+          },
+          {
+            "id": 41,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/41.webp"
+          },
+          {
+            "id": 42,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/42.webp"
+          },
+          {
+            "id": 43,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/43.webp"
+          },
+          {
+            "id": 44,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/44.webp"
+          },
+          {
+            "id": 45,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/45.webp"
+          },
+          {
+            "id": 46,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/46.webp"
+          },
+          {
+            "id": 47,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/47.webp"
+          },
+          {
+            "id": 48,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/48.webp"
+          },
+          {
+            "id": 49,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/49.webp"
+          },
+          {
+            "id": 50,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/50.webp"
+          },
+          {
+            "id": 51,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/51.webp"
+          },
+          {
+            "id": 52,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/52.webp"
+          },
+          {
+            "id": 53,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/53.webp"
+          },
+          {
+            "id": 54,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/54.webp"
+          },
+          {
+            "id": 55,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/55.webp"
+          },
+          {
+            "id": 56,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/56.webp"
+          },
+          {
+            "id": 57,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/57.webp"
+          },
+          {
+            "id": 58,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/58.webp"
+          },
+          {
+            "id": 59,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/59.webp"
+          },
+          {
+            "id": 60,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/RedDoorz/pattern/60.webp"
+          }
+        ]
+      }
+    ],
+    "isCategory": true,
+    "provider": "COMMEASURE SOLUTIONS INDIA PRIVATE LIMITED",
+    "copyright": "© RedDoorz",
+    "appstore": "https://apps.apple.com/us/app/reddoorz-hotel-booking-app/id1260883343",
+    "playstore": "https://play.google.com/store/apps/details?id=com.reddoorz.app&hl=in&gl=US",
+    "country": "Singapore",
+    "lock": false,
+    "new": true,
+    "new_color": "#FADBE1",
+    "color": "rgba(249, 54, 90, 0.16)"
+  },
+  {
+    "_id": "37",
+    "name": "HaloDoc",
+    "type": "Medicine",
+    "category": ["Coming Soon", "Medical"],
+    "imageUrl": [{
+        "icon": "https://data-polahub.herokuapp.com/images/halodoc.png"
+      },
+      {
+        "card": "https://data-polahub.herokuapp.com/images/card/halodoc-lock.png"
+      },
+      {
+        "pattern": []
+      }
+    ],
+    "isCategory": true,
+    "provider": "MEDIA DOKTER INVESTAMA, PT",
+    "copyright": "© MEDIA DOKTER INVESTAMA, PT",
+    "appstore": "https://apps.apple.com/id/app/halodoc-doctors-medicines/id1067217981",
+    "playstore": "https://play.google.com/store/apps/details?id=com.linkdokter.halodoc.android&hl=in&gl=US",
+    "country": "Indonesia",
+    "lock": true,
+    "new": false,
+    "color": "#ebecef"
+  },
   {
     "_id": "38",
     "name": "Lazada",
@@ -9268,31 +9292,6 @@
     "copyright": "© Traveloka",
     "appstore": "https://apps.apple.com/us/app/traveloka-lifestyle-superapp/id898244857",
     "playstore": "https://play.google.com/store/apps/details?id=com.traveloka.android&hl=in&gl=US",
-    "country": "Indonesia",
-    "lock": true,
-    "new": false,
-    "color": "#ebecef"
-  },
-  {
-    "_id": "48",
-    "name": "HaloDoc",
-    "type": "Medicine",
-    "category": ["Coming Soon", "Medical"],
-    "imageUrl": [{
-        "icon": "https://data-polahub.herokuapp.com/images/halodoc.png"
-      },
-      {
-        "card": "https://data-polahub.herokuapp.com/images/card/halodoc-lock.png"
-      },
-      {
-        "pattern": []
-      }
-    ],
-    "isCategory": true,
-    "provider": "MEDIA DOKTER INVESTAMA, PT",
-    "copyright": "© MEDIA DOKTER INVESTAMA, PT",
-    "appstore": "https://apps.apple.com/id/app/halodoc-doctors-medicines/id1067217981",
-    "playstore": "https://play.google.com/store/apps/details?id=com.linkdokter.halodoc.android&hl=in&gl=US",
     "country": "Indonesia",
     "lock": true,
     "new": false,
