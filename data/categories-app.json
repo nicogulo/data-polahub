@@ -9303,7 +9303,7 @@
     "type": "Ticket",
     "category": ["Coming Soon", "Flight"],
     "imageUrl": [{
-        "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/logo.webpp"
+        "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/logo.webp"
       },
       {
         "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Coming Soon/Agoda.webp"
