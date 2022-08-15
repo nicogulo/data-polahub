@@ -36,24 +36,24 @@
     "name": "Education",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/teacher.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/teacher.svg",
-    "status": "NEW",
-    "isNew": true
+    "status": null,
+    "isNew": false
   },
   {
     "_id": "6",
     "name": "Entertaiment",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/monitor-mobbile.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/monitor-mobbile.svg",
-    "status": "NEW",
-    "isNew": true
+    "status": null,
+    "isNew": false
   },
   {
     "_id": "7",
     "name": "Finance",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/wallet.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/wallet.svg",
-    "status": null,
-    "isNew": false
+    "status": "NEW",
+    "isNew": true
   },
   {
     "_id": "8",
@@ -84,8 +84,8 @@
     "name": "Lifestyle",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/glass.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/glass.svg",
-    "status": null,
-    "isNew": false
+    "status": "NEW",
+    "isNew": true
   },
   {
     "_id": "asd1293uasdads1",
@@ -175,8 +175,8 @@
     "name": "Travel",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/airplane.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/airplane.svg",
-    "status": "NEW",
-    "isNew": true
+    "status": null,
+    "isNew": false
   },
   {
     "_id": "asd1293uasdads1",
