@@ -341,7 +341,7 @@
     "playstore": "https://play.google.com/store/apps/details?id=com.tokopedia.tkpd&hl=in&gl=US",
     "country": "Indonesia",
     "lock": false,
-    "new": true,
+    "new": false,
     "new_color": "#E2F4DC",
     "color": "rgba(99, 211, 59, 0.16)"
   },
@@ -4628,261 +4628,222 @@
         "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/mockup.webp"
       },
       {
-        "pattern": [{
+        "pattern": [
+          {
             "id": 1,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/1.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/pattern/1.webp"
           },
           {
             "id": 2,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/2.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/pattern/2.webp"
           },
           {
             "id": 3,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/3.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/pattern/3.webp"
           },
           {
             "id": 4,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/4.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/pattern/4.webp"
           },
           {
             "id": 5,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/5.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/pattern/5.webp"
           },
           {
             "id": 6,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/6.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/pattern/6.webp"
           },
           {
             "id": 7,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/7.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/pattern/7.webp"
           },
           {
             "id": 8,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/8.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/pattern/8.webp"
           },
           {
             "id": 9,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/9.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/pattern/9.webp"
           },
           {
             "id": 10,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/10.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/pattern/10.webp"
           },
           {
             "id": 11,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/11.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/pattern/11.webp"
           },
           {
             "id": 12,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/12.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/pattern/12.webp"
           },
           {
             "id": 13,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/13.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/pattern/13.webp"
           },
           {
             "id": 14,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/14.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/pattern/14.webp"
           },
           {
             "id": 15,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/15.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/pattern/15.webp"
           },
           {
             "id": 16,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/16.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/pattern/16.webp"
           },
           {
             "id": 17,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/17.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/pattern/17.webp"
           },
           {
             "id": 18,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/18.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/pattern/18.webp"
           },
           {
             "id": 19,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/19.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/pattern/19.webp"
           },
           {
             "id": 20,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/20.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/pattern/20.webp"
           },
           {
             "id": 21,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/21.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/pattern/21.webp"
           },
           {
             "id": 22,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/22.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/pattern/22.webp"
           },
           {
             "id": 23,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/23.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/pattern/23.webp"
           },
           {
             "id": 24,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/24.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/pattern/24.webp"
           },
           {
             "id": 25,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/25.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/pattern/25.webp"
           },
           {
             "id": 26,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/26.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/pattern/26.webp"
           },
           {
             "id": 27,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/27.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/pattern/27.webp"
           },
           {
             "id": 28,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/28.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/pattern/28.webp"
           },
           {
             "id": 29,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/29.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/pattern/29.webp"
           },
           {
             "id": 30,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/30.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/pattern/30.webp"
           },
           {
             "id": 31,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/31.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/pattern/31.webp"
           },
           {
             "id": 32,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/32.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/pattern/32.webp"
           },
           {
             "id": 33,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/33.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/pattern/33.webp"
           },
           {
             "id": 34,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/34.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/pattern/34.webp"
           },
           {
             "id": 35,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/35.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/pattern/35.webp"
           },
           {
             "id": 36,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/36.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/pattern/36.webp"
           },
           {
             "id": 37,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/37.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/pattern/37.webp"
           },
           {
             "id": 38,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/38.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/pattern/38.webp"
           },
           {
             "id": 39,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/39.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/pattern/39.webp"
           },
           {
             "id": 40,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/40.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/pattern/40.webp"
           },
           {
             "id": 41,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/41.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/pattern/41.webp"
           },
           {
             "id": 42,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/42.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/pattern/42.webp"
           },
           {
             "id": 43,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/43.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/pattern/43.webp"
           },
           {
             "id": 44,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/44.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/pattern/44.webp"
           },
           {
             "id": 45,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/45.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/pattern/45.webp"
           },
           {
             "id": 46,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/46.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/pattern/46.webp"
           },
           {
             "id": 47,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/47.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/pattern/47.webp"
           },
           {
             "id": 48,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/48.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/pattern/48.webp"
           },
           {
             "id": 49,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/49.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/pattern/49.webp"
           },
           {
             "id": 50,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/50.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/pattern/50.webp"
           },
           {
             "id": 51,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/51.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/pattern/51.webp"
           },
           {
             "id": 52,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/52.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/pattern/52.webp"
           },
           {
             "id": 53,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/53.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/pattern/53.webp"
           },
           {
             "id": 54,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/54.png"
-          },
-          {
-            "id": 55,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/55.png"
-          },
-          {
-            "id": 56,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/56.png"
-          },
-          {
-            "id": 57,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/57.png"
-          },
-          {
-            "id": 58,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/58.png"
-          },
-          {
-            "id": 59,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/59.png"
-          },
-          {
-            "id": 60,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/60.png"
-          },
-          {
-            "id": 61,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/61.png"
-          },
-          {
-            "id": 62,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/62.png"
-          },
-          {
-            "id": 63,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/63.png"
-          },
-          {
-            "id": 64,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/kitabisa/64.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Kitabisa/pattern/54.webp"
           }
         ]
       }
@@ -4894,7 +4855,7 @@
     "playstore": "https://play.google.com/store/apps/details?id=com.kitabisa.android&hl=in&gl=US",
     "country": "Indonesia",
     "lock": false,
-    "new": false,
+    "new": true,
     "new_color": "#D2EFFB",
     "color": "rgba(0, 179, 249, 0.16)"
   },
@@ -9283,15 +9244,336 @@
     "_id": "49",
     "name": "AliExpress",
     "type": "Marketplace",
-    "category": ["Coming Soon", "Shopping"],
+    "category": [ "Shopping"],
     "imageUrl": [{
         "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/logo.webp"
       },
       {
-        "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Coming Soon/Uploaded/AliExpress.webp"
+        "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/mockup.webp"
       },
       {
-        "pattern": []
+        "pattern": [
+          {
+            "id": 1,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/1.webp"
+          },
+          {
+            "id": 2,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/2.webp"
+          },
+          {
+            "id": 3,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/3.webp"
+          },
+          {
+            "id": 4,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/4.webp"
+          },
+          {
+            "id": 5,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/5.webp"
+          },
+          {
+            "id": 6,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/6.webp"
+          },
+          {
+            "id": 7,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/7.webp"
+          },
+          {
+            "id": 8,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/8.webp"
+          },
+          {
+            "id": 9,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/9.webp"
+          },
+          {
+            "id": 10,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/10.webp"
+          },
+          {
+            "id": 11,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/11.webp"
+          },
+          {
+            "id": 12,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/12.webp"
+          },
+          {
+            "id": 13,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/13.webp"
+          },
+          {
+            "id": 14,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/14.webp"
+          },
+          {
+            "id": 15,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/15.webp"
+          },
+          {
+            "id": 16,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/16.webp"
+          },
+          {
+            "id": 17,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/17.webp"
+          },
+          {
+            "id": 18,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/18.webp"
+          },
+          {
+            "id": 19,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/19.webp"
+          },
+          {
+            "id": 20,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/20.webp"
+          },
+          {
+            "id": 21,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/21.webp"
+          },
+          {
+            "id": 22,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/22.webp"
+          },
+          {
+            "id": 23,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/23.webp"
+          },
+          {
+            "id": 24,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/24.webp"
+          },
+          {
+            "id": 25,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/25.webp"
+          },
+          {
+            "id": 26,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/26.webp"
+          },
+          {
+            "id": 27,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/27.webp"
+          },
+          {
+            "id": 28,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/28.webp"
+          },
+          {
+            "id": 29,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/29.webp"
+          },
+          {
+            "id": 30,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/30.webp"
+          },
+          {
+            "id": 31,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/31.webp"
+          },
+          {
+            "id": 32,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/32.webp"
+          },
+          {
+            "id": 33,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/33.webp"
+          },
+          {
+            "id": 34,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/34.webp"
+          },
+          {
+            "id": 35,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/35.webp"
+          },
+          {
+            "id": 36,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/36.webp"
+          },
+          {
+            "id": 37,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/37.webp"
+          },
+          {
+            "id": 38,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/38.webp"
+          },
+          {
+            "id": 39,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/39.webp"
+          },
+          {
+            "id": 40,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/40.webp"
+          },
+          {
+            "id": 41,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/41.webp"
+          },
+          {
+            "id": 42,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/42.webp"
+          },
+          {
+            "id": 43,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/43.webp"
+          },
+          {
+            "id": 44,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/44.webp"
+          },
+          {
+            "id": 45,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/45.webp"
+          },
+          {
+            "id": 46,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/46.webp"
+          },
+          {
+            "id": 47,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/47.webp"
+          },
+          {
+            "id": 48,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/48.webp"
+          },
+          {
+            "id": 49,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/49.webp"
+          },
+          {
+            "id": 50,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/50.webp"
+          },
+          {
+            "id": 51,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/51.webp"
+          },
+          {
+            "id": 52,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/52.webp"
+          },
+          {
+            "id": 53,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/53.webp"
+          },
+          {
+            "id": 54,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/54.webp"
+          },
+          {
+            "id": 55,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/55.webp"
+          },
+          {
+            "id": 56,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/56.webp"
+          },
+          {
+            "id": 57,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/57.webp"
+          },
+          {
+            "id": 58,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/58.webp"
+          },
+          {
+            "id": 59,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/59.webp"
+          },
+          {
+            "id": 60,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/60.webp"
+          },
+          {
+            "id": 61,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/61.webp"
+          },
+          {
+            "id": 62,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/62.webp"
+          },
+          {
+            "id": 63,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/63.webp"
+          },
+          {
+            "id": 64,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/64.webp"
+          },
+          {
+            "id": 65,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/65.webp"
+          },
+          {
+            "id": 66,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/66.webp"
+          },
+          {
+            "id": 67,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/67.webp"
+          },
+          {
+            "id": 68,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/68.webp"
+          },
+          {
+            "id": 69,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/69.webp"
+          },
+          {
+            "id": 70,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/70.webp"
+          },
+          {
+            "id": 71,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/71.webp"
+          },
+          {
+            "id": 72,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/72.webp"
+          },
+          {
+            "id": 73,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/73.webp"
+          },
+          {
+            "id": 74,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/74.webp"
+          },
+          {
+            "id": 75,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/75.webp"
+          },
+          {
+            "id": 76,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/76.webp"
+          },
+          {
+            "id": 77,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/77.webp"
+          },
+          {
+            "id": 78,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/78.webp"
+          },
+          {
+            "id": 79,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/79.webp"
+          },
+          {
+            "id": 80,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/AliExpress/pattern/80.webp"
+          }
+        ]
       }
     ],
     "isCategory": true,
@@ -9300,9 +9582,10 @@
     "appstore": "https://apps.apple.com/us/app/aliexpress-shopping-app/id436672029",
     "playstore": "https://play.google.com/store/apps/details?id=com.alibaba.aliexpresshd&hl=in&gl=US",
     "country": "China",
-    "lock": true,
-    "new": false,
-    "color": "#ebecef"
+    "lock": false,
+    "new": true,
+    "new_color": "#FADBE1",
+    "color": "rgba(249, 54, 90, 0.16)"
   },
   {
     "_id": "50",
@@ -9668,7 +9951,7 @@
     "playstore": "https://play.google.com/store/apps/details?id=id.flip&hl=in&gl=US",
     "country": "Indonesia",
     "lock": false,
-    "new": true,
+    "new": false,
     "new_color": "#F9E2D3",
     "color": "rgba(244, 102, 0, 0.16)"
   },
@@ -9967,7 +10250,7 @@
     "playstore": "https://play.google.com/store/apps/details?id=com.git.mami.kos&hl=in&gl=US",
     "country": "Indonesia",
     "lock": false,
-    "new": true,
+    "new": false,
     "new_color": "#E2F4DC",
     "color": "rgba(99, 211, 59, 0.16)"
   },
@@ -10374,8 +10657,918 @@
     "playstore": "https://play.google.com/store/apps/details?id=com.socialbella.soco&hl=in&gl=US",
     "country": "Indonesia",
     "lock": false,
-    "new": true,
+    "new": false,
     "new_color": "#FADBE1",
     "color": "rgba(249, 54, 90, 0.16)"
-  } 
+  } ,
+  {
+    "_id": "54",
+    "name": "Pluang",
+    "type": "Stocks",
+    "category": [ "Crypto & Stocks"],
+    "imageUrl": [{
+        "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/logo.webp"
+      },
+      {
+        "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/mockup.webp"
+      },
+      {
+        "pattern": [
+          {
+            "id": 1,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/1.webp"
+          },
+          {
+            "id": 2,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/2.webp"
+          },
+          {
+            "id": 3,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/3.webp"
+          },
+          {
+            "id": 4,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/4.webp"
+          },
+          {
+            "id": 5,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/5.webp"
+          },
+          {
+            "id": 6,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/6.webp"
+          },
+          {
+            "id": 7,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/7.webp"
+          },
+          {
+            "id": 8,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/8.webp"
+          },
+          {
+            "id": 9,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/9.webp"
+          },
+          {
+            "id": 10,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/10.webp"
+          },
+          {
+            "id": 11,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/11.webp"
+          },
+          {
+            "id": 12,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/12.webp"
+          },
+          {
+            "id": 13,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/13.webp"
+          },
+          {
+            "id": 14,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/14.webp"
+          },
+          {
+            "id": 15,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/15.webp"
+          },
+          {
+            "id": 16,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/16.webp"
+          },
+          {
+            "id": 17,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/17.webp"
+          },
+          {
+            "id": 18,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/18.webp"
+          },
+          {
+            "id": 19,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/19.webp"
+          },
+          {
+            "id": 20,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/20.webp"
+          },
+          {
+            "id": 21,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/21.webp"
+          },
+          {
+            "id": 22,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/22.webp"
+          },
+          {
+            "id": 23,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/23.webp"
+          },
+          {
+            "id": 24,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/24.webp"
+          },
+          {
+            "id": 25,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/25.webp"
+          },
+          {
+            "id": 26,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/26.webp"
+          },
+          {
+            "id": 27,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/27.webp"
+          },
+          {
+            "id": 28,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/28.webp"
+          },
+          {
+            "id": 29,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/29.webp"
+          },
+          {
+            "id": 30,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/30.webp"
+          },
+          {
+            "id": 31,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/31.webp"
+          },
+          {
+            "id": 32,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/32.webp"
+          },
+          {
+            "id": 33,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/33.webp"
+          },
+          {
+            "id": 34,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/34.webp"
+          },
+          {
+            "id": 35,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/35.webp"
+          },
+          {
+            "id": 36,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/36.webp"
+          },
+          {
+            "id": 37,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/37.webp"
+          },
+          {
+            "id": 38,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/38.webp"
+          },
+          {
+            "id": 39,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/39.webp"
+          },
+          {
+            "id": 40,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/40.webp"
+          },
+          {
+            "id": 41,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/41.webp"
+          },
+          {
+            "id": 42,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/42.webp"
+          },
+          {
+            "id": 43,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/43.webp"
+          },
+          {
+            "id": 44,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/44.webp"
+          },
+          {
+            "id": 45,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/45.webp"
+          },
+          {
+            "id": 46,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/46.webp"
+          },
+          {
+            "id": 47,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/47.webp"
+          },
+          {
+            "id": 48,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/48.webp"
+          },
+          {
+            "id": 49,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/49.webp"
+          },
+          {
+            "id": 50,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/50.webp"
+          },
+          {
+            "id": 51,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/51.webp"
+          },
+          {
+            "id": 52,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/52.webp"
+          },
+          {
+            "id": 53,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/53.webp"
+          },
+          {
+            "id": 54,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/54.webp"
+          },
+          {
+            "id": 55,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/55.webp"
+          },
+          {
+            "id": 56,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/56.webp"
+          },
+          {
+            "id": 57,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/57.webp"
+          },
+          {
+            "id": 58,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/58.webp"
+          },
+          {
+            "id": 59,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/59.webp"
+          },
+          {
+            "id": 60,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/60.webp"
+          },
+          {
+            "id": 61,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/61.webp"
+          },
+          {
+            "id": 62,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/62.webp"
+          },
+          {
+            "id": 63,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/63.webp"
+          },
+          {
+            "id": 64,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/64.webp"
+          },
+          {
+            "id": 65,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/65.webp"
+          },
+          {
+            "id": 66,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/66.webp"
+          },
+          {
+            "id": 67,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/67.webp"
+          },
+          {
+            "id": 68,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/68.webp"
+          },
+          {
+            "id": 69,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/69.webp"
+          },
+          {
+            "id": 70,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/70.webp"
+          },
+          {
+            "id": 71,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/71.webp"
+          },
+          {
+            "id": 72,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/72.webp"
+          },
+          {
+            "id": 73,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/73.webp"
+          },
+          {
+            "id": 74,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/74.webp"
+          },
+          {
+            "id": 75,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/75.webp"
+          },
+          {
+            "id": 76,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/76.webp"
+          },
+          {
+            "id": 77,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/77.webp"
+          },
+          {
+            "id": 78,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/78.webp"
+          },
+          {
+            "id": 79,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/79.webp"
+          },
+          {
+            "id": 80,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/80.webp"
+          },
+          {
+            "id": 81,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/81.webp"
+          },
+          {
+            "id": 82,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/82.webp"
+          },
+          {
+            "id": 83,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/83.webp"
+          },
+          {
+            "id": 84,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/84.webp"
+          },
+          {
+            "id": 85,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/85.webp"
+          },
+          {
+            "id": 86,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/86.webp"
+          },
+          {
+            "id": 87,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/87.webp"
+          },
+          {
+            "id": 88,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/88.webp"
+          },
+          {
+            "id": 89,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/89.webp"
+          },
+          {
+            "id": 90,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/90.webp"
+          },
+          {
+            "id": 91,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/91.webp"
+          },
+          {
+            "id": 92,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/92.webp"
+          },
+          {
+            "id": 93,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/93.webp"
+          },
+          {
+            "id": 94,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/94.webp"
+          },
+          {
+            "id": 95,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/95.webp"
+          },
+          {
+            "id": 96,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/96.webp"
+          },
+          {
+            "id": 97,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/97.webp"
+          },
+          {
+            "id": 98,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/98.webp"
+          },
+          {
+            "id": 99,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/99.webp"
+          },
+          {
+            "id": 100,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/100.webp"
+          },
+          {
+            "id": 101,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/101.webp"
+          },
+          {
+            "id": 102,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/102.webp"
+          },
+          {
+            "id": 103,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/103.webp"
+          },
+          {
+            "id": 104,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/104.webp"
+          },
+          {
+            "id": 105,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/105.webp"
+          },
+          {
+            "id": 106,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/106.webp"
+          },
+          {
+            "id": 107,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/107.webp"
+          },
+          {
+            "id": 108,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/108.webp"
+          },
+          {
+            "id": 109,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/109.webp"
+          },
+          {
+            "id": 110,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/110.webp"
+          },
+          {
+            "id": 111,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/111.webp"
+          },
+          {
+            "id": 112,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/112.webp"
+          },
+          {
+            "id": 113,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/113.webp"
+          },
+          {
+            "id": 114,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/114.webp"
+          },
+          {
+            "id": 115,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/115.webp"
+          },
+          {
+            "id": 116,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/116.webp"
+          },
+          {
+            "id": 117,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/117.webp"
+          },
+          {
+            "id": 118,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/118.webp"
+          },
+          {
+            "id": 119,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/119.webp"
+          },
+          {
+            "id": 120,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/120.webp"
+          },
+          {
+            "id": 121,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/121.webp"
+          },
+          {
+            "id": 122,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/122.webp"
+          },
+          {
+            "id": 123,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/123.webp"
+          },
+          {
+            "id": 124,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/124.webp"
+          },
+          {
+            "id": 125,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/125.webp"
+          },
+          {
+            "id": 126,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/126.webp"
+          },
+          {
+            "id": 127,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/127.webp"
+          },
+          {
+            "id": 128,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/128.webp"
+          },
+          {
+            "id": 129,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/129.webp"
+          },
+          {
+            "id": 130,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/130.webp"
+          },
+          {
+            "id": 131,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/131.webp"
+          },
+          {
+            "id": 132,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/132.webp"
+          },
+          {
+            "id": 133,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/133.webp"
+          },
+          {
+            "id": 134,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/134.webp"
+          },
+          {
+            "id": 135,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/135.webp"
+          },
+          {
+            "id": 136,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/136.webp"
+          },
+          {
+            "id": 137,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/137.webp"
+          },
+          {
+            "id": 138,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/138.webp"
+          },
+          {
+            "id": 139,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/139.webp"
+          },
+          {
+            "id": 140,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/140.webp"
+          },
+          {
+            "id": 141,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/141.webp"
+          },
+          {
+            "id": 142,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/142.webp"
+          },
+          {
+            "id": 143,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/143.webp"
+          },
+          {
+            "id": 144,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/pattern/144.webp"
+          }
+        ]
+      }
+    ],
+    "isCategory": true,
+    "provider": "BUMI SANTOSA CEMERLANG, PT.",
+    "copyright": "© PT Bumi Santosa Cemerlang.",
+    "appstore": "https://apps.apple.com/id/app/pluang-safe-online-investing/id1341588054",
+    "playstore": "https://play.google.com/store/apps/details?id=com.EmasDigi&hl=in&gl=US",
+    "country": "Indonesia",
+    "lock": false,
+    "new": true,
+    "new_color": "#D2EFFB",
+    "color": "rgba(0, 179, 249, 0.16)"
+  },
+  {
+    "_id": "55",
+    "name": "GoPaylater",
+    "type": "Paylater",
+    "category": ["Finance", "Gojek Product"],
+    "imageUrl": [{
+        "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/logo.webp"
+      },
+      {
+        "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/mockup.webp"
+      },
+      {
+        "pattern": [
+          {
+            "id": 1,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/1.webp"
+          },
+          {
+            "id": 2,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/2.webp"
+          },
+          {
+            "id": 3,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/3.webp"
+          },
+          {
+            "id": 4,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/4.webp"
+          },
+          {
+            "id": 5,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/5.webp"
+          },
+          {
+            "id": 6,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/6.webp"
+          },
+          {
+            "id": 7,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/7.webp"
+          },
+          {
+            "id": 8,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/8.webp"
+          },
+          {
+            "id": 9,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/9.webp"
+          },
+          {
+            "id": 10,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/10.webp"
+          },
+          {
+            "id": 11,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/11.webp"
+          },
+          {
+            "id": 12,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/12.webp"
+          },
+          {
+            "id": 13,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/13.webp"
+          },
+          {
+            "id": 14,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/14.webp"
+          },
+          {
+            "id": 15,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/15.webp"
+          },
+          {
+            "id": 16,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/16.webp"
+          },
+          {
+            "id": 17,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/17.webp"
+          },
+          {
+            "id": 18,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/18.webp"
+          },
+          {
+            "id": 19,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/19.webp"
+          },
+          {
+            "id": 20,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/20.webp"
+          },
+          {
+            "id": 21,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/21.webp"
+          },
+          {
+            "id": 22,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/22.webp"
+          },
+          {
+            "id": 23,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/23.webp"
+          },
+          {
+            "id": 24,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/24.webp"
+          },
+          {
+            "id": 25,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/25.webp"
+          },
+          {
+            "id": 26,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/26.webp"
+          },
+          {
+            "id": 27,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/27.webp"
+          },
+          {
+            "id": 28,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/28.webp"
+          },
+          {
+            "id": 29,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/29.webp"
+          },
+          {
+            "id": 30,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/30.webp"
+          },
+          {
+            "id": 31,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/31.webp"
+          },
+          {
+            "id": 32,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/32.webp"
+          },
+          {
+            "id": 33,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/33.webp"
+          },
+          {
+            "id": 34,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/34.webp"
+          },
+          {
+            "id": 35,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/35.webp"
+          },
+          {
+            "id": 36,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/36.webp"
+          },
+          {
+            "id": 37,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/37.webp"
+          },
+          {
+            "id": 38,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/38.webp"
+          },
+          {
+            "id": 39,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/39.webp"
+          },
+          {
+            "id": 40,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/40.webp"
+          },
+          {
+            "id": 41,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/41.webp"
+          },
+          {
+            "id": 42,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/42.webp"
+          },
+          {
+            "id": 43,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/43.webp"
+          },
+          {
+            "id": 44,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/44.webp"
+          },
+          {
+            "id": 45,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/45.webp"
+          },
+          {
+            "id": 46,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/46.webp"
+          },
+          {
+            "id": 47,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/47.webp"
+          },
+          {
+            "id": 48,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/48.webp"
+          },
+          {
+            "id": 49,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/49.webp"
+          },
+          {
+            "id": 50,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/50.webp"
+          },
+          {
+            "id": 51,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/51.webp"
+          },
+          {
+            "id": 52,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/52.webp"
+          },
+          {
+            "id": 53,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/53.webp"
+          },
+          {
+            "id": 54,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/54.webp"
+          },
+          {
+            "id": 55,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/55.webp"
+          },
+          {
+            "id": 56,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/56.webp"
+          },
+          {
+            "id": 57,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/57.webp"
+          },
+          {
+            "id": 58,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/58.webp"
+          },
+          {
+            "id": 59,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/59.webp"
+          },
+          {
+            "id": 60,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/60.webp"
+          },
+          {
+            "id": 61,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/61.webp"
+          },
+          {
+            "id": 62,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/62.webp"
+          },
+          {
+            "id": 63,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/63.webp"
+          },
+          {
+            "id": 64,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/64.webp"
+          },
+          {
+            "id": 65,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/65.webp"
+          },
+          {
+            "id": 66,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/66.webp"
+          },
+          {
+            "id": 67,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/67.webp"
+          },
+          {
+            "id": 68,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/68.webp"
+          },
+          {
+            "id": 69,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/69.webp"
+          },
+          {
+            "id": 70,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoPaylater/pattern/70.webp"
+          }
+        ]
+      }
+    ],
+    "isCategory": true,
+    "provider": "PT Go-jek Indonesia",
+    "copyright": "© PT Aplikasi Karya Anak Bangsa",
+    "appstore": "https://apps.apple.com/id/app/gojek/id944875099",
+    "playstore": "https://play.google.com/store/apps/details?id=com.gojek.app&hl=in&gl=US",
+    "country": "Indonesia",
+    "lock": false,
+    "new": true,
+    "new_color": "#D2EFFB",
+    "color": "rgba(0, 179, 249, 0.16)"
+  }
 ]
