@@ -9617,7 +9617,7 @@
     "_id": "47",
     "name": "Traveloka",
     "type": "Flight",
-    "category": ["Flight"],
+    "category": ["Travel"],
     "imageUrl": [{
         "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Traveloka/logo.webp"
       },
