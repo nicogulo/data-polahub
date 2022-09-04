@@ -14654,5 +14654,80 @@
     "new": true,
     "new_color": "#F9E2D3",
     "color": "rgba(244, 102, 0, 0.16)"
+  },
+  {
+    "_id": "58",
+    "name": "Viki",
+    "type": "Movie Streaming",
+    "category": ["Coming Soon", "Entertaiment"],
+    "imageUrl": [{
+        "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Viki/logo.webp"
+      },
+      {
+        "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Coming%20Soon/Viki.webp"
+      },
+      {
+        "pattern": []
+      }
+    ],
+    "isCategory": true,
+    "provider": "Viikii PTE LTD.",
+    "copyright": "© 2019 Viki Inc.",
+    "appstore": "https://apps.apple.com/us/app/viki-asian-drama-movies-tv/id445553058",
+    "playstore": "https://play.google.com/store/apps/details?id=com.viki.android&hl=in&gl=US",
+    "country": "Japan",
+    "lock": true,
+    "new": false,
+    "color": "#ebecef"
+  },
+  {
+    "_id": "59",
+    "name": "Zomato",
+    "type": "F&B Delivery",
+    "category": ["Coming Soon", "Food & Drink"],
+    "imageUrl": [{
+        "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Zomato/logo.webp"
+      },
+      {
+        "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Coming%20Soon/Zomato.webp"
+      },
+      {
+        "pattern": []
+      }
+    ],
+    "isCategory": true,
+    "provider": "Zomato Media Pvt. Ltd.",
+    "copyright": "© Zomato Media Pvt. Ltd.",
+    "appstore": "https://apps.apple.com/in/app/zomato-food-delivery-dining/id434613896",
+    "playstore": "https://play.google.com/store/apps/details?id=com.application.zomato&hl=in&gl=US",
+    "country": "India",
+    "lock": true,
+    "new": false,
+    "color": "#ebecef"
+  },
+  {
+    "_id": "59",
+    "name": "SHEIN",
+    "type": "Fashion",
+    "category": ["Coming Soon", "Shopping"],
+    "imageUrl": [{
+        "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/SHEIN/logo.webp"
+      },
+      {
+        "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Coming%20Soon/SHEIN.webp"
+      },
+      {
+        "pattern": []
+      }
+    ],
+    "isCategory": true,
+    "provider": "ROADGET BUSINESS PTE. LTD.",
+    "copyright": "© SHEIN.",
+    "appstore": "https://apps.apple.com/us/app/shein-online-fashion/id878577184",
+    "playstore": "https://play.google.com/store/apps/details?id=com.zzkko&hl=in&gl=US",
+    "country": "China",
+    "lock": true,
+    "new": false,
+    "color": "#ebecef"
   }
 ]
