@@ -36,6 +36,10 @@ app.get("/api/data-app/:_id", function (req, res, next) {
     res.setHeader("Access-Control-Allow-Origin", "*");
     res.json(
       JSON.parse(data).filter(function (item) {
+        // if item.locked is true, then return error
+        if (item.lock) {
+          res.status(403).send("Forbidden");
+        }
         return item._id === req.params._id;
       })
     );
@@ -58,7 +62,7 @@ app.get("/api/data-app/filter/:category", function (req, res, next) {
               return item;
             }
           }
-        })   
+        })
       );
     }
   });
