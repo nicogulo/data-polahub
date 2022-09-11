@@ -36,15 +36,6 @@ app.get("/api/data-app/:_id", function (req, res, next) {
     res.setHeader("Access-Control-Allow-Origin", "*");
     res.json(
       JSON.parse(data).filter(function (item) {
-        const data = item._id == req.params._id;
-        if (data) {
-          console.log(item);
-          if (item.lock === true) {
-            // return with error
-            res.status(400).send("Opps you can't access this item");
-          }
-          return item;
-        }
         return item._id === req.params._id;
       })
     );
