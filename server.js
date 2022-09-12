@@ -58,7 +58,7 @@ app.get("/api/data-app/filter/:category", function (req, res, next) {
               return item;
             }
           }
-        })   
+        })
       );
     }
   });
