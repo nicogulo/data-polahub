@@ -12261,8 +12261,7 @@
     "country": "Singapore",
     "lock": true,
     "new": false,
-    "new_color": "#D2EFFB",
-    "color": "rgba(0, 179, 249, 0.16)"
+    "color": "#ebecef"
   },
   {
     "_id": "49",
@@ -15178,7 +15177,8 @@
     "country": "India",
     "lock": false,
     "new": false,
-    "color": "#ebecef"
+    "new_color": "#D2EFFB",
+    "color": "rgba(0, 179, 249, 0.16)"
   },
   {
     "_id": "57",
