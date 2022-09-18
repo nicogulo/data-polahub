@@ -36,16 +36,16 @@
     "name": "Education",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/teacher.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/teacher.svg",
-    "status": "NEW",
-    "isNew": true
+    "status": null,
+    "isNew": false
   },
   {
     "_id": "6",
     "name": "Entertaiment",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/monitor-mobbile.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/monitor-mobbile.svg",
-    "status": null,
-    "isNew": false
+    "status": "NEW",
+    "isNew": true
   },
   {
     "_id": "7",
@@ -60,16 +60,16 @@
     "name": "Food & Drink",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/coffee.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/coffee.svg",
-    "status": "NEW",
-    "isNew": true
+    "status": null,
+    "isNew": false
   },
   {
     "_id": "asd1293uasdads1",
     "name": "Gojek Product",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/gojek-ac.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/gojek-non.svg",
-    "status": null,
-    "isNew": false
+    "status": "NEW",
+    "isNew": true
   },
   {
     "_id": "asd1293uasdads1",
@@ -92,8 +92,8 @@
     "name": "Medical",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/milk.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/milk.svg",
-    "status": null,
-    "isNew": false
+    "status": "NEW",
+    "isNew": true
   },
   {
     "_id": "asd1293uasdads1",
@@ -150,8 +150,8 @@
     "name": "Shopping",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/bag.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/bag.svg",
-    "status": "NEW",
-    "isNew": true
+    "status": null,
+    "isNew": false
   },
   {
     "_id": "asd1293uasdads1",
@@ -175,8 +175,8 @@
     "name": "Travel",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/airplane.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/airplane.svg",
-    "status": null,
-    "isNew": false
+    "status": "NEW",
+    "isNew": true
   },
   {
     "_id": "asd1293uasdads1",
