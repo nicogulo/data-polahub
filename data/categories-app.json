@@ -12016,7 +12016,7 @@
     "_id": "48",
     "name": "Agoda",
     "type": "Ticket",
-    "category": [ "Flight"],
+    "category": ["Travel"],
     "imageUrl": [{
         "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/logo.webp"
       },
