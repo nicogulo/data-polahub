@@ -16933,7 +16933,7 @@
     "_id": "62",
     "name": "OLX",
     "type": "Marketplace",
-    "category": [ "Shopping"],
+    "category": ["Coming Soon", "Shopping"],
     "imageUrl": [{
         "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/OLX/logo.webp"
       },
@@ -16958,7 +16958,7 @@
     "_id": "63",
     "name": "JD.ID",
     "type": "Marketplace",
-    "category": [ "Shopping"],
+    "category": ["Coming Soon", "Shopping"],
     "imageUrl": [{
         "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/JD.ID/logo.webp"
       },
@@ -16983,7 +16983,7 @@
     "_id": "64",
     "name": "Astro",
     "type": "Groceries",
-    "category": [ "Food & Drink"],
+    "category": ["Coming Soon", "Food & Drink"],
     "imageUrl": [{
         "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Astro/logo.webp"
       },
@@ -17008,7 +17008,7 @@
     "_id": "65",
     "name": "Bobobox",
     "type": "Hotel",
-    "category": [ "Travel"],
+    "category": ["Coming Soon", "Travel"],
     "imageUrl": [{
         "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bobobox/logo.webp"
       },
@@ -17033,7 +17033,7 @@
     "_id": "66",
     "name": "ZALORA",
     "type": "Marketplace",
-    "category": [ "Shopping"],
+    "category": ["Coming Soon", "Shopping"],
     "imageUrl": [{
         "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/ZALORA/logo.webp"
       },
@@ -17058,7 +17058,7 @@
     "_id": "67",
     "name": "Pinhome",
     "type": "Property",
-    "category": [ "Lifestyle"],
+    "category": ["Coming Soon", "Lifestyle"],
     "imageUrl": [{
         "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pinhome/logo.webp"
       },
@@ -17083,7 +17083,7 @@
     "_id": "68",
     "name": "ShopBack",
     "type": "Deals",
-    "category": [ "Shopping"],
+    "category": ["Coming Soon", "Shopping"],
     "imageUrl": [{
         "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/ShopBack/logo.webp"
       },
@@ -17108,7 +17108,7 @@
     "_id": "69",
     "name": "Cakap",
     "type": "Language Learning",
-    "category": [ "Education"],
+    "category": ["Coming Soon", "Education"],
     "imageUrl": [{
         "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Cakap/logo.webp"
       },
@@ -17133,7 +17133,7 @@
     "_id": "70",
     "name": "Carousell",
     "type": "Marketplace",
-    "category": [ "Shopping"],
+    "category": ["Coming Soon", "Shopping"],
     "imageUrl": [{
         "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Carousell/logo.webp"
       },
