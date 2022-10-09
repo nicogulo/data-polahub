@@ -17216,7 +17216,7 @@
     "playstore": "https://play.google.com/store/apps/details?id=com.app.tokobagus.betterb&hl=in&gl=US",
     "country": "Indonesia",
     "lock": false,
-    "new": true,
+    "new": false,
     "new_color": "#D2EFFB",
     "color": "rgba(0, 179, 249, 0.16)"
   },
@@ -17703,7 +17703,7 @@
     "playstore": "https://play.google.com/store/apps/details?id=jd.cdyjy.overseas.market.indonesia&hl=in&gl=US",
     "country": "Indonesia",
     "lock": false,
-    "new": true,
+    "new": false,
     "new_color": "#FADBE1",
     "color": "rgba(249, 54, 90, 0.16)"
   },
@@ -17886,7 +17886,7 @@
     "playstore": "https://play.google.com/store/apps/details?id=com.astro.shop&hl=in&gl=USS",
     "country": "Indonesia",
     "lock": false,
-    "new": true,
+    "new": false,
     "new_color": "#D2EFFB",
     "color": "rgba(0, 179, 249, 0.16)"
   },
@@ -18149,7 +18149,7 @@
     "playstore": "https://play.google.com/store/apps/details?id=com.bobobox.bobobox&hl=in&gl=US",
     "country": "Indonesia",
     "lock": false,
-    "new": true,
+    "new": false,
     "new_color": "#E2F4DC",
     "color": "rgba(99, 211, 59, 0.16)"
   },
