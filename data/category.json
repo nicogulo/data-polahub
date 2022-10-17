@@ -20,8 +20,8 @@
     "name": "Business",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/briefcase.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/briefcase.svg",
-    "status": null,
-    "isNew": false
+    "status": "NEW",
+    "isNew": true
   },
   {
     "_id": "4",
@@ -36,8 +36,8 @@
     "name": "Education",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/teacher.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/teacher.svg",
-    "status": "NEW",
-    "isNew": true
+    "status": null,
+    "isNew": false
   },
   {
     "_id": "6",
@@ -68,8 +68,8 @@
     "name": "Gojek Product",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/gojek-ac.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/gojek-non.svg",
-    "status": null,
-    "isNew": false
+    "status": "NEW",
+    "isNew": true
   },
   {
     "_id": "asd1293uasdads1",
@@ -84,8 +84,8 @@
     "name": "Lifestyle",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/glass.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/glass.svg",
-    "status": "NEW",
-    "isNew": true
+    "status": null,
+    "isNew": false
   },
   {
     "_id": "asd1293uasdads1",
@@ -183,7 +183,7 @@
     "name": "Utilities",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/box.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/box.svg",
-    "status": null,
-    "isNew": false
+    "status": "NEW",
+    "isNew": true
   }
 ]
