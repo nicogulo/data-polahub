@@ -21445,7 +21445,7 @@
     "_id": "78",
     "name": "GoMart",
     "type": "Groceries",
-    "category": [ "Food & Drink"],
+    "category": ["Coming Soon", "Food & Drink"],
     "imageUrl": [{
         "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/logo.webp"
       },
@@ -21469,6 +21469,5 @@
     "new_color": "#E2F4DC",
     "color": "rgba(99, 211, 59, 0.16)"
     }
-  
-  
+
 ]
