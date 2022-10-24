@@ -21473,7 +21473,7 @@
         "_id": "79",
         "name": "Octopus",
         "type": "Waste Management",
-        "category": [ "Lifestyle"],
+        "category": [ "Coming Soon","Lifestyle"],
         "imageUrl": [{
             "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Octopus/logo.webp"
           },
