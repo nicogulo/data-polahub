@@ -98,5 +98,33 @@
         "lock": true,
         "new": false,
         "color": "#ebecef"
-    }
+    },
+    {
+        "_id": "79",
+        "name": "Octopus",
+        "type": "Waste Management",
+        "category": [ "Lifestyle"],
+        "imageUrl": [{
+            "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Vidio/logo.webp"
+          },
+          {
+            "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Vidio/mockup.webp"
+          },
+          {
+            "pattern": [
+             
+            ]
+          }
+        ],
+        "isCategory": true,
+        "provider": "Octopus Waste Management PTE. LTD.",
+        "copyright": "© Octopus Waste Management PTE. LTD.",
+        "appstore": "https://apps.apple.com/us/app/octopus-sampah-jadi-berharga/id1515879876",
+        "playstore": "https://play.google.com/store/apps/details?id=com.octopus.customer&hl=id&gl=US",
+        "country": "Indonesia",
+        "lock": true,
+        "new": false,
+        "new_color": "#D2EFFB",
+        "color": "rgba(0, 179, 249, 0.16)"
+      }
 ]
