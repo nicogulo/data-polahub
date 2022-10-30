@@ -52,8 +52,8 @@
     "name": "Finance",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/wallet.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/wallet.svg",
-    "status": null,
-    "isNew": false
+    "status": "NEW",
+    "isNew": true
   },
   {
     "_id": "8",
@@ -150,8 +150,8 @@
     "name": "Shopping",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/bag.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/bag.svg",
-    "status": "NEW",
-    "isNew": true
+    "status": null,
+    "isNew": false
   },
   {
     "_id": "asd1293uasdads1",
@@ -167,8 +167,8 @@
     "name": "Sports",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/weight.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/weight.svg",
-    "status": null,
-    "isNew": false
+    "status": "NEW",
+    "isNew": true
   },
   {
     "_id": "asd1293uasdads1",

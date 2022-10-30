@@ -351,147 +351,524 @@
     "type": "Mobile Banking",
     "category": ["Finance"],
     "imageUrl": [{
-        "icon": "https://data-polahub.herokuapp.com/images/jago.png"
+        "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/logo.webp"
       },
       {
-        "card": "https://data-polahub.herokuapp.com/images/card/jago.png"
+        "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/mockup.webp"
       },
       {
-        "pattern": [{
+        "pattern": [
+          {
             "id": 1,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/jago/1.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/1.webp"
           },
           {
             "id": 2,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/jago/2.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/2.webp"
           },
           {
             "id": 3,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/jago/3.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/3.webp"
           },
           {
             "id": 4,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/jago/4.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/4.webp"
           },
           {
             "id": 5,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/jago/5.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/5.webp"
           },
           {
             "id": 6,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/jago/6.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/6.webp"
           },
           {
             "id": 7,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/jago/7.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/7.webp"
           },
           {
             "id": 8,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/jago/8.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/8.webp"
           },
           {
             "id": 9,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/jago/9.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/9.webp"
           },
           {
             "id": 10,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/jago/10.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/10.webp"
           },
           {
             "id": 11,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/jago/11.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/11.webp"
           },
           {
             "id": 12,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/jago/12.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/12.webp"
           },
           {
             "id": 13,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/jago/13.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/13.webp"
           },
           {
             "id": 14,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/jago/14.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/14.webp"
           },
           {
             "id": 15,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/jago/15.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/15.webp"
           },
           {
             "id": 16,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/jago/16.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/16.webp"
           },
           {
             "id": 17,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/jago/17.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/17.webp"
           },
           {
             "id": 18,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/jago/18.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/18.webp"
           },
           {
             "id": 19,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/jago/19.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/19.webp"
           },
           {
             "id": 20,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/jago/20.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/20.webp"
           },
           {
             "id": 21,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/jago/21.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/21.webp"
           },
           {
             "id": 22,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/jago/22.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/22.webp"
           },
           {
             "id": 23,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/jago/23.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/23.webp"
           },
           {
             "id": 24,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/jago/24.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/24.webp"
           },
           {
             "id": 25,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/jago/25.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/25.webp"
           },
           {
             "id": 26,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/jago/26.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/26.webp"
           },
           {
             "id": 27,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/jago/27.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/27.webp"
           },
           {
             "id": 28,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/jago/28.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/28.webp"
           },
           {
             "id": 29,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/jago/29.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/29.webp"
           },
           {
             "id": 30,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/jago/30.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/30.webp"
           },
           {
             "id": 31,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/jago/31.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/31.webp"
           },
           {
             "id": 32,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/jago/32.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/32.webp"
           },
           {
             "id": 33,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/jago/33.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/33.webp"
           },
           {
             "id": 34,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/jago/34.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/34.webp"
+          },
+          {
+            "id": 35,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/35.webp"
+          },
+          {
+            "id": 36,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/36.webp"
+          },
+          {
+            "id": 37,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/37.webp"
+          },
+          {
+            "id": 38,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/38.webp"
+          },
+          {
+            "id": 39,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/39.webp"
+          },
+          {
+            "id": 40,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/40.webp"
+          },
+          {
+            "id": 41,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/41.webp"
+          },
+          {
+            "id": 42,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/42.webp"
+          },
+          {
+            "id": 43,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/43.webp"
+          },
+          {
+            "id": 44,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/44.webp"
+          },
+          {
+            "id": 45,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/45.webp"
+          },
+          {
+            "id": 46,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/46.webp"
+          },
+          {
+            "id": 47,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/47.webp"
+          },
+          {
+            "id": 48,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/48.webp"
+          },
+          {
+            "id": 49,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/49.webp"
+          },
+          {
+            "id": 50,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/50.webp"
+          },
+          {
+            "id": 51,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/51.webp"
+          },
+          {
+            "id": 52,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/52.webp"
+          },
+          {
+            "id": 53,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/53.webp"
+          },
+          {
+            "id": 54,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/54.webp"
+          },
+          {
+            "id": 55,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/55.webp"
+          },
+          {
+            "id": 56,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/56.webp"
+          },
+          {
+            "id": 57,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/57.webp"
+          },
+          {
+            "id": 58,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/58.webp"
+          },
+          {
+            "id": 59,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/59.webp"
+          },
+          {
+            "id": 60,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/60.webp"
+          },
+          {
+            "id": 61,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/61.webp"
+          },
+          {
+            "id": 62,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/62.webp"
+          },
+          {
+            "id": 63,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/63.webp"
+          },
+          {
+            "id": 64,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/64.webp"
+          },
+          {
+            "id": 65,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/65.webp"
+          },
+          {
+            "id": 66,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/66.webp"
+          },
+          {
+            "id": 67,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/67.webp"
+          },
+          {
+            "id": 68,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/68.webp"
+          },
+          {
+            "id": 69,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/69.webp"
+          },
+          {
+            "id": 70,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/70.webp"
+          },
+          {
+            "id": 71,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/71.webp"
+          },
+          {
+            "id": 72,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/72.webp"
+          },
+          {
+            "id": 73,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/73.webp"
+          },
+          {
+            "id": 74,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/74.webp"
+          },
+          {
+            "id": 75,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/75.webp"
+          },
+          {
+            "id": 76,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/76.webp"
+          },
+          {
+            "id": 77,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/77.webp"
+          },
+          {
+            "id": 78,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/78.webp"
+          },
+          {
+            "id": 79,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/79.webp"
+          },
+          {
+            "id": 80,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/80.webp"
+          },
+          {
+            "id": 81,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/81.webp"
+          },
+          {
+            "id": 82,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/82.webp"
+          },
+          {
+            "id": 83,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/83.webp"
+          },
+          {
+            "id": 84,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/84.webp"
+          },
+          {
+            "id": 85,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/85.webp"
+          },
+          {
+            "id": 86,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/86.webp"
+          },
+          {
+            "id": 87,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/87.webp"
+          },
+          {
+            "id": 88,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/88.webp"
+          },
+          {
+            "id": 89,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/89.webp"
+          },
+          {
+            "id": 90,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/90.webp"
+          },
+          {
+            "id": 91,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/91.webp"
+          },
+          {
+            "id": 92,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/92.webp"
+          },
+          {
+            "id": 93,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/93.webp"
+          },
+          {
+            "id": 94,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/94.webp"
+          },
+          {
+            "id": 95,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/95.webp"
+          },
+          {
+            "id": 96,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/96.webp"
+          },
+          {
+            "id": 97,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/97.webp"
+          },
+          {
+            "id": 98,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/98.webp"
+          },
+          {
+            "id": 99,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/99.webp"
+          },
+          {
+            "id": 100,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/100.webp"
+          },
+          {
+            "id": 101,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/101.webp"
+          },
+          {
+            "id": 102,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/102.webp"
+          },
+          {
+            "id": 103,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/103.webp"
+          },
+          {
+            "id": 104,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/104.webp"
+          },
+          {
+            "id": 105,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/105.webp"
+          },
+          {
+            "id": 106,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/106.webp"
+          },
+          {
+            "id": 107,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/107.webp"
+          },
+          {
+            "id": 108,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/108.webp"
+          },
+          {
+            "id": 109,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/109.webp"
+          },
+          {
+            "id": 110,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/110.webp"
+          },
+          {
+            "id": 111,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/111.webp"
+          },
+          {
+            "id": 112,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/112.webp"
+          },
+          {
+            "id": 113,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/113.webp"
+          },
+          {
+            "id": 114,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/114.webp"
+          },
+          {
+            "id": 115,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/115.webp"
+          },
+          {
+            "id": 116,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/116.webp"
+          },
+          {
+            "id": 117,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/117.webp"
+          },
+          {
+            "id": 118,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/118.webp"
+          },
+          {
+            "id": 119,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/119.webp"
+          },
+          {
+            "id": 120,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/120.webp"
+          },
+          {
+            "id": 121,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/121.webp"
+          },
+          {
+            "id": 122,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/122.webp"
+          },
+          {
+            "id": 123,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/123.webp"
+          },
+          {
+            "id": 124,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/124.webp"
+          },
+          {
+            "id": 125,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/125.webp"
+          },
+          {
+            "id": 126,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/126.webp"
+          },
+          {
+            "id": 127,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/127.webp"
+          },
+          {
+            "id": 128,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Jago/pattern/128.webp"
           }
         ]
       }
@@ -503,7 +880,7 @@
     "playstore": "https://play.google.com/store/apps/details?id=com.jago.digitalBanking&hl=in&gl=US",
     "country": "Indonesia",
     "lock": false,
-    "new": false,
+    "new": true,
     "new_color": "#F9F1D3",
     "color": "rgba(244, 191, 0, 0.16)"
   },
@@ -20556,7 +20933,7 @@
     "playstore": "https://play.google.com/store/apps/details?id=id.tix.android&hl=id&gl=US",
     "country": "Indonesia",
     "lock": false,
-    "new": true,
+    "new": false,
     "new_color": "#D2EFFB",
     "color": "rgba(0, 179, 249, 0.16)"
   },
@@ -20819,7 +21196,7 @@
     "playstore": "https://play.google.com/store/apps/details?id=com.fairprice.mcomapp&hl=in&gl=US",
     "country": "Indonesia",
     "lock": false,
-    "new": true,
+    "new": false,
     "new_color": "#D2EFFB",
     "color": "rgba(0, 179, 249, 0.16)"
   },
@@ -21162,7 +21539,7 @@
     "playstore": "https://play.google.com/store/apps/details?id=com.vidio.android&hl=in&gl=US",
     "country": "Indonesia",
     "lock": false,
-    "new": true,
+    "new": false,
     "new_color": "#FADBE1",
     "color": "rgba(249, 54, 90, 0.16)"
   },
@@ -21437,7 +21814,7 @@
     "playstore": "https://play.google.com/store/apps/details?id=com.happyfresh.android&hl=in&gl=US",
     "country": "Indonesia",
     "lock": false,
-    "new": true,
+    "new": false,
     "new_color": "#F9E2D3",
     "color": "rgba(244, 102, 0, 0.16)"
   },
@@ -21445,16 +21822,343 @@
     "_id": "78",
     "name": "GoMart",
     "type": "Groceries",
-    "category": ["Coming Soon", "Food & Drink"],
+    "category": ["Food & Drink"],
     "imageUrl": [{
         "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/logo.webp"
       },
       {
-        "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Coming%20Soon/GoMart.webp"
+        "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/mockup.webp"
       },
       {
         "pattern": [
-         
+          {
+            "id": 1,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/1.webp"
+          },
+          {
+            "id": 2,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/2.webp"
+          },
+          {
+            "id": 3,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/3.webp"
+          },
+          {
+            "id": 4,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/4.webp"
+          },
+          {
+            "id": 5,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/5.webp"
+          },
+          {
+            "id": 6,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/6.webp"
+          },
+          {
+            "id": 7,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/7.webp"
+          },
+          {
+            "id": 8,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/8.webp"
+          },
+          {
+            "id": 9,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/9.webp"
+          },
+          {
+            "id": 10,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/10.webp"
+          },
+          {
+            "id": 11,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/11.webp"
+          },
+          {
+            "id": 12,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/12.webp"
+          },
+          {
+            "id": 13,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/13.webp"
+          },
+          {
+            "id": 14,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/14.webp"
+          },
+          {
+            "id": 15,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/15.webp"
+          },
+          {
+            "id": 16,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/16.webp"
+          },
+          {
+            "id": 17,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/17.webp"
+          },
+          {
+            "id": 18,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/18.webp"
+          },
+          {
+            "id": 19,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/19.webp"
+          },
+          {
+            "id": 20,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/20.webp"
+          },
+          {
+            "id": 21,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/21.webp"
+          },
+          {
+            "id": 22,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/22.webp"
+          },
+          {
+            "id": 23,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/23.webp"
+          },
+          {
+            "id": 24,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/24.webp"
+          },
+          {
+            "id": 25,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/25.webp"
+          },
+          {
+            "id": 26,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/26.webp"
+          },
+          {
+            "id": 27,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/27.webp"
+          },
+          {
+            "id": 28,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/28.webp"
+          },
+          {
+            "id": 29,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/29.webp"
+          },
+          {
+            "id": 30,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/30.webp"
+          },
+          {
+            "id": 31,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/31.webp"
+          },
+          {
+            "id": 32,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/32.webp"
+          },
+          {
+            "id": 33,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/33.webp"
+          },
+          {
+            "id": 34,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/34.webp"
+          },
+          {
+            "id": 35,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/35.webp"
+          },
+          {
+            "id": 36,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/36.webp"
+          },
+          {
+            "id": 37,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/37.webp"
+          },
+          {
+            "id": 38,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/38.webp"
+          },
+          {
+            "id": 39,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/39.webp"
+          },
+          {
+            "id": 40,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/40.webp"
+          },
+          {
+            "id": 41,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/41.webp"
+          },
+          {
+            "id": 42,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/42.webp"
+          },
+          {
+            "id": 43,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/43.webp"
+          },
+          {
+            "id": 44,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/44.webp"
+          },
+          {
+            "id": 45,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/45.webp"
+          },
+          {
+            "id": 46,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/46.webp"
+          },
+          {
+            "id": 47,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/47.webp"
+          },
+          {
+            "id": 48,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/48.webp"
+          },
+          {
+            "id": 49,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/49.webp"
+          },
+          {
+            "id": 50,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/50.webp"
+          },
+          {
+            "id": 51,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/51.webp"
+          },
+          {
+            "id": 52,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/52.webp"
+          },
+          {
+            "id": 53,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/53.webp"
+          },
+          {
+            "id": 54,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/54.webp"
+          },
+          {
+            "id": 55,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/55.webp"
+          },
+          {
+            "id": 56,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/56.webp"
+          },
+          {
+            "id": 57,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/57.webp"
+          },
+          {
+            "id": 58,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/58.webp"
+          },
+          {
+            "id": 59,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/59.webp"
+          },
+          {
+            "id": 60,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/60.webp"
+          },
+          {
+            "id": 61,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/61.webp"
+          },
+          {
+            "id": 62,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/62.webp"
+          },
+          {
+            "id": 63,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/63.webp"
+          },
+          {
+            "id": 64,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/64.webp"
+          },
+          {
+            "id": 65,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/65.webp"
+          },
+          {
+            "id": 66,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/66.webp"
+          },
+          {
+            "id": 67,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/67.webp"
+          },
+          {
+            "id": 68,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/68.webp"
+          },
+          {
+            "id": 69,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/69.webp"
+          },
+          {
+            "id": 70,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/70.webp"
+          },
+          {
+            "id": 71,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/71.webp"
+          },
+          {
+            "id": 72,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/72.webp"
+          },
+          {
+            "id": 73,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/73.webp"
+          },
+          {
+            "id": 74,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/74.webp"
+          },
+          {
+            "id": 75,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/75.webp"
+          },
+          {
+            "id": 76,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/76.webp"
+          },
+          {
+            "id": 77,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/77.webp"
+          },
+          {
+            "id": 78,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/78.webp"
+          },
+          {
+            "id": 79,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/79.webp"
+          },
+          {
+            "id": 80,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/80.webp"
+          },
+          {
+            "id": 81,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/81.webp"
+          },
+          {
+            "id": 82,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoMart/pattern/82.webp"
+          }
         ]
       }
     ],
@@ -21464,10 +22168,10 @@
     "appstore": "https://apps.apple.com/id/app/gojek/id944875099",
     "playstore": "https://play.google.com/store/apps/details?id=com.gojek.app&hl=in&gl=US",
     "country": "Indonesia",
-    "lock": true,
-    "new": false,
+    "lock": false,
+    "new": true,
     "new_color": "#E2F4DC",
-    "color": "#ebecef"
+    "color": "rgba(99, 211, 59, 0.16)"
     },
      {
         "_id": "79",
@@ -21496,5 +22200,699 @@
         "new": false,
         "new_color": "#D2EFFB",
         "color": "#ebecef"
+      },
+      {
+        "_id": "80",
+        "name": "beIN SPORTS",
+        "type": "Live Score",
+        "category": ["Sports"],
+        "imageUrl": [{
+            "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/beIN%20SPORTS/logo.webp"
+          },
+          {
+            "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/beIN%20SPORTS/mockup.webp"
+          },
+          {
+            "pattern": [
+              {
+                "id": 1,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/beIN%20SPORTS/pattern/1.webp"
+              },
+              {
+                "id": 2,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/beIN%20SPORTS/pattern/2.webp"
+              },
+              {
+                "id": 3,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/beIN%20SPORTS/pattern/3.webp"
+              },
+              {
+                "id": 4,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/beIN%20SPORTS/pattern/4.webp"
+              },
+              {
+                "id": 5,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/beIN%20SPORTS/pattern/5.webp"
+              },
+              {
+                "id": 6,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/beIN%20SPORTS/pattern/6.webp"
+              },
+              {
+                "id": 7,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/beIN%20SPORTS/pattern/7.webp"
+              },
+              {
+                "id": 8,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/beIN%20SPORTS/pattern/8.webp"
+              },
+              {
+                "id": 9,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/beIN%20SPORTS/pattern/9.webp"
+              },
+              {
+                "id": 10,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/beIN%20SPORTS/pattern/10.webp"
+              },
+              {
+                "id": 11,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/beIN%20SPORTS/pattern/11.webp"
+              },
+              {
+                "id": 12,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/beIN%20SPORTS/pattern/12.webp"
+              },
+              {
+                "id": 13,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/beIN%20SPORTS/pattern/13.webp"
+              },
+              {
+                "id": 14,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/beIN%20SPORTS/pattern/14.webp"
+              },
+              {
+                "id": 15,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/beIN%20SPORTS/pattern/15.webp"
+              },
+              {
+                "id": 16,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/beIN%20SPORTS/pattern/16.webp"
+              },
+              {
+                "id": 17,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/beIN%20SPORTS/pattern/17.webp"
+              },
+              {
+                "id": 18,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/beIN%20SPORTS/pattern/18.webp"
+              },
+              {
+                "id": 19,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/beIN%20SPORTS/pattern/19.webp"
+              },
+              {
+                "id": 20,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/beIN%20SPORTS/pattern/20.webp"
+              },
+              {
+                "id": 21,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/beIN%20SPORTS/pattern/21.webp"
+              },
+              {
+                "id": 22,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/beIN%20SPORTS/pattern/22.webp"
+              },
+              {
+                "id": 23,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/beIN%20SPORTS/pattern/23.webp"
+              },
+              {
+                "id": 24,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/beIN%20SPORTS/pattern/24.webp"
+              },
+              {
+                "id": 25,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/beIN%20SPORTS/pattern/25.webp"
+              },
+              {
+                "id": 26,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/beIN%20SPORTS/pattern/26.webp"
+              },
+              {
+                "id": 27,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/beIN%20SPORTS/pattern/27.webp"
+              },
+              {
+                "id": 28,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/beIN%20SPORTS/pattern/28.webp"
+              },
+              {
+                "id": 29,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/beIN%20SPORTS/pattern/29.webp"
+              },
+              {
+                "id": 30,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/beIN%20SPORTS/pattern/30.webp"
+              },
+              {
+                "id": 31,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/beIN%20SPORTS/pattern/31.webp"
+              },
+              {
+                "id": 32,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/beIN%20SPORTS/pattern/32.webp"
+              },
+              {
+                "id": 33,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/beIN%20SPORTS/pattern/33.webp"
+              },
+              {
+                "id": 34,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/beIN%20SPORTS/pattern/34.webp"
+              },
+              {
+                "id": 35,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/beIN%20SPORTS/pattern/35.webp"
+              },
+              {
+                "id": 36,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/beIN%20SPORTS/pattern/36.webp"
+              },
+              {
+                "id": 37,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/beIN%20SPORTS/pattern/37.webp"
+              },
+              {
+                "id": 38,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/beIN%20SPORTS/pattern/38.webp"
+              },
+              {
+                "id": 39,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/beIN%20SPORTS/pattern/39.webp"
+              },
+              {
+                "id": 40,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/beIN%20SPORTS/pattern/40.webp"
+              },
+              {
+                "id": 41,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/beIN%20SPORTS/pattern/41.webp"
+              },
+              {
+                "id": 42,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/beIN%20SPORTS/pattern/42.webp"
+              },
+              {
+                "id": 43,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/beIN%20SPORTS/pattern/43.webp"
+              },
+              {
+                "id": 44,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/beIN%20SPORTS/pattern/44.webp"
+              },
+              {
+                "id": 45,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/beIN%20SPORTS/pattern/45.webp"
+              },
+              {
+                "id": 46,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/beIN%20SPORTS/pattern/46.webp"
+              },
+              {
+                "id": 47,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/beIN%20SPORTS/pattern/47.webp"
+              },
+              {
+                "id": 48,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/beIN%20SPORTS/pattern/48.webp"
+              },
+              {
+                "id": 49,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/beIN%20SPORTS/pattern/49.webp"
+              },
+              {
+                "id": 50,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/beIN%20SPORTS/pattern/50.webp"
+              }
+            ]
+          }
+        ],
+        "isCategory": true,
+        "provider": "beIN Media Group, LLC",
+        "copyright": "© beIN Media Group 2021",
+        "appstore": "https://apps.apple.com/us/app/bein-sports/id1115211914",
+        "playstore": "https://play.google.com/store/apps/details?id=com.beinsports.andcontent&hl=en",
+        "country": "Qatar",
+        "lock": false,
+        "new": true,
+        "new_color": "#EFEBF9",
+        "color": "rgba(117, 67, 223, 0.08)"
+      },
+      {
+        "_id": "81",
+        "name": "Nimo TV",
+        "type": "Video Streaming",
+        "category": ["Entertaiment"],
+        "imageUrl": [{
+            "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/logo.webp"
+          },
+          {
+            "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/mockup.webp"
+          },
+          {
+            "pattern": [
+              {
+                "id": 1,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/1.webp"
+              },
+              {
+                "id": 2,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/2.webp"
+              },
+              {
+                "id": 3,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/3.webp"
+              },
+              {
+                "id": 4,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/4.webp"
+              },
+              {
+                "id": 5,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/5.webp"
+              },
+              {
+                "id": 6,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/6.webp"
+              },
+              {
+                "id": 7,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/7.webp"
+              },
+              {
+                "id": 8,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/8.webp"
+              },
+              {
+                "id": 9,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/9.webp"
+              },
+              {
+                "id": 10,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/10.webp"
+              },
+              {
+                "id": 11,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/11.webp"
+              },
+              {
+                "id": 12,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/12.webp"
+              },
+              {
+                "id": 13,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/13.webp"
+              },
+              {
+                "id": 14,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/14.webp"
+              },
+              {
+                "id": 15,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/15.webp"
+              },
+              {
+                "id": 16,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/16.webp"
+              },
+              {
+                "id": 17,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/17.webp"
+              },
+              {
+                "id": 18,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/18.webp"
+              },
+              {
+                "id": 19,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/19.webp"
+              },
+              {
+                "id": 20,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/20.webp"
+              },
+              {
+                "id": 21,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/21.webp"
+              },
+              {
+                "id": 22,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/22.webp"
+              },
+              {
+                "id": 23,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/23.webp"
+              },
+              {
+                "id": 24,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/24.webp"
+              },
+              {
+                "id": 25,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/25.webp"
+              },
+              {
+                "id": 26,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/26.webp"
+              },
+              {
+                "id": 27,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/27.webp"
+              },
+              {
+                "id": 28,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/28.webp"
+              },
+              {
+                "id": 29,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/29.webp"
+              },
+              {
+                "id": 30,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/30.webp"
+              },
+              {
+                "id": 31,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/31.webp"
+              },
+              {
+                "id": 32,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/32.webp"
+              },
+              {
+                "id": 33,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/33.webp"
+              },
+              {
+                "id": 34,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/34.webp"
+              },
+              {
+                "id": 35,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/35.webp"
+              },
+              {
+                "id": 36,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/36.webp"
+              },
+              {
+                "id": 37,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/37.webp"
+              },
+              {
+                "id": 38,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/38.webp"
+              },
+              {
+                "id": 39,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/39.webp"
+              },
+              {
+                "id": 40,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/40.webp"
+              },
+              {
+                "id": 41,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/41.webp"
+              },
+              {
+                "id": 42,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/42.webp"
+              },
+              {
+                "id": 43,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/43.webp"
+              },
+              {
+                "id": 44,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/44.webp"
+              },
+              {
+                "id": 45,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/45.webp"
+              },
+              {
+                "id": 46,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/46.webp"
+              },
+              {
+                "id": 47,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/47.webp"
+              },
+              {
+                "id": 48,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/48.webp"
+              },
+              {
+                "id": 49,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/49.webp"
+              },
+              {
+                "id": 50,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/50.webp"
+              },
+              {
+                "id": 51,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/51.webp"
+              },
+              {
+                "id": 52,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/52.webp"
+              },
+              {
+                "id": 53,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/53.webp"
+              },
+              {
+                "id": 54,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/54.webp"
+              },
+              {
+                "id": 55,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/55.webp"
+              },
+              {
+                "id": 56,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/56.webp"
+              },
+              {
+                "id": 57,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/57.webp"
+              },
+              {
+                "id": 58,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/58.webp"
+              },
+              {
+                "id": 59,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/59.webp"
+              },
+              {
+                "id": 60,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/60.webp"
+              },
+              {
+                "id": 61,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/61.webp"
+              },
+              {
+                "id": 62,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/62.webp"
+              },
+              {
+                "id": 63,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/63.webp"
+              },
+              {
+                "id": 64,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/64.webp"
+              },
+              {
+                "id": 65,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/65.webp"
+              },
+              {
+                "id": 66,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/66.webp"
+              },
+              {
+                "id": 67,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/67.webp"
+              },
+              {
+                "id": 68,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/68.webp"
+              },
+              {
+                "id": 69,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/69.webp"
+              },
+              {
+                "id": 70,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/70.webp"
+              },
+              {
+                "id": 71,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/71.webp"
+              },
+              {
+                "id": 72,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/72.webp"
+              },
+              {
+                "id": 73,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/73.webp"
+              },
+              {
+                "id": 74,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/74.webp"
+              },
+              {
+                "id": 75,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/75.webp"
+              },
+              {
+                "id": 76,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/76.webp"
+              },
+              {
+                "id": 77,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/77.webp"
+              },
+              {
+                "id": 78,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/78.webp"
+              },
+              {
+                "id": 79,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/79.webp"
+              },
+              {
+                "id": 80,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/80.webp"
+              },
+              {
+                "id": 81,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/81.webp"
+              },
+              {
+                "id": 82,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/82.webp"
+              },
+              {
+                "id": 83,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/83.webp"
+              },
+              {
+                "id": 84,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/84.webp"
+              },
+              {
+                "id": 85,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/85.webp"
+              },
+              {
+                "id": 86,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/86.webp"
+              },
+              {
+                "id": 87,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/87.webp"
+              },
+              {
+                "id": 88,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/88.webp"
+              },
+              {
+                "id": 89,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/89.webp"
+              },
+              {
+                "id": 90,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/90.webp"
+              },
+              {
+                "id": 91,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/91.webp"
+              },
+              {
+                "id": 92,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/92.webp"
+              },
+              {
+                "id": 93,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/93.webp"
+              },
+              {
+                "id": 94,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/94.webp"
+              },
+              {
+                "id": 95,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/95.webp"
+              },
+              {
+                "id": 96,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/96.webp"
+              },
+              {
+                "id": 97,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/97.webp"
+              },
+              {
+                "id": 98,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/98.webp"
+              },
+              {
+                "id": 99,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/99.webp"
+              },
+              {
+                "id": 100,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/100.webp"
+              },
+              {
+                "id": 101,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/101.webp"
+              },
+              {
+                "id": 102,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/102.webp"
+              },
+              {
+                "id": 103,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/103.webp"
+              },
+              {
+                "id": 104,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/104.webp"
+              },
+              {
+                "id": 105,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/105.webp"
+              },
+              {
+                "id": 106,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/106.webp"
+              },
+              {
+                "id": 107,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/107.webp"
+              },
+              {
+                "id": 108,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/108.webp"
+              },
+              {
+                "id": 109,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/109.webp"
+              },
+              {
+                "id": 110,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Nimo%20TV/pattern/110.webp"
+              }
+            ]
+          }
+        ],
+        "isCategory": true,
+        "provider": "HUYA PTE. LTD.",
+        "copyright": "© Huya Limited",
+        "appstore": "https://apps.apple.com/id/app/nimo-tv-live-game-streaming/id1367087826",
+        "playstore": "https://play.google.com/store/apps/details?id=com.huya.nimo&hl=id&gl=US",
+        "country": "China",
+        "lock": false,
+        "new": true,
+        "new_color": "#EFEBF9",
+        "color": "rgba(117, 67, 223, 0.08)"
       }
 ]
