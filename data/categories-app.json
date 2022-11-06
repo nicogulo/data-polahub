@@ -880,7 +880,7 @@
     "playstore": "https://play.google.com/store/apps/details?id=com.jago.digitalBanking&hl=in&gl=US",
     "country": "Indonesia",
     "lock": false,
-    "new": true,
+    "new": false,
     "new_color": "#F9F1D3",
     "color": "rgba(244, 191, 0, 0.16)"
   },
@@ -5770,283 +5770,340 @@
     "type": "Social Media",
     "category": ["Social"],
     "imageUrl": [{
-        "icon": "https://data-polahub.herokuapp.com/images/tiktok.png"
+        "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/logo.webp"
       },
       {
-        "card": "https://data-polahub.herokuapp.com/images/card/tiktok.png"
+        "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/mockup.webp"
       },
       {
-        "pattern": [{
+        "pattern": [
+          {
             "id": 1,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/1.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/1.webp"
           },
           {
             "id": 2,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/2.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/2.webp"
           },
           {
             "id": 3,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/3.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/3.webp"
           },
           {
             "id": 4,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/4.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/4.webp"
           },
           {
             "id": 5,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/5.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/5.webp"
           },
           {
             "id": 6,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/6.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/6.webp"
           },
           {
             "id": 7,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/7.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/7.webp"
           },
           {
             "id": 8,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/8.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/8.webp"
           },
           {
             "id": 9,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/9.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/9.webp"
           },
           {
             "id": 10,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/10.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/10.webp"
           },
           {
             "id": 11,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/11.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/11.webp"
           },
           {
             "id": 12,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/12.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/12.webp"
           },
           {
             "id": 13,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/13.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/13.webp"
           },
           {
             "id": 14,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/14.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/14.webp"
           },
           {
             "id": 15,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/15.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/15.webp"
           },
           {
             "id": 16,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/16.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/16.webp"
           },
           {
             "id": 17,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/17.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/17.webp"
           },
           {
             "id": 18,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/18.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/18.webp"
           },
           {
             "id": 19,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/19.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/19.webp"
           },
           {
             "id": 20,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/20.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/20.webp"
           },
           {
             "id": 21,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/21.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/21.webp"
           },
           {
             "id": 22,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/22.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/22.webp"
           },
           {
             "id": 23,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/23.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/23.webp"
           },
           {
             "id": 24,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/24.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/24.webp"
           },
           {
             "id": 25,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/25.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/25.webp"
           },
           {
             "id": 26,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/26.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/26.webp"
           },
           {
             "id": 27,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/27.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/27.webp"
           },
           {
             "id": 28,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/28.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/28.webp"
           },
           {
             "id": 29,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/29.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/29.webp"
           },
           {
             "id": 30,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/30.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/30.webp"
           },
           {
             "id": 31,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/31.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/31.webp"
           },
           {
             "id": 32,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/32.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/32.webp"
           },
           {
             "id": 33,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/33.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/33.webp"
           },
           {
             "id": 34,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/34.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/34.webp"
           },
           {
             "id": 35,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/35.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/35.webp"
           },
           {
             "id": 36,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/36.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/36.webp"
           },
           {
             "id": 37,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/37.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/37.webp"
           },
           {
             "id": 38,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/38.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/38.webp"
           },
           {
             "id": 39,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/39.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/39.webp"
           },
           {
             "id": 40,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/40.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/40.webp"
           },
           {
             "id": 41,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/41.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/41.webp"
           },
           {
             "id": 42,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/42.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/42.webp"
           },
           {
             "id": 43,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/43.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/43.webp"
           },
           {
             "id": 44,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/44.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/44.webp"
           },
           {
             "id": 45,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/45.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/45.webp"
           },
           {
             "id": 46,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/46.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/46.webp"
           },
           {
             "id": 47,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/47.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/47.webp"
           },
           {
             "id": 48,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/48.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/48.webp"
           },
           {
             "id": 49,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/49.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/49.webp"
           },
           {
             "id": 50,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/50.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/50.webp"
           },
           {
             "id": 51,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/51.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/51.webp"
           },
           {
             "id": 52,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/52.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/52.webp"
           },
           {
             "id": 53,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/53.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/53.webp"
           },
           {
             "id": 54,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/54.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/54.webp"
           },
           {
             "id": 55,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/55.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/55.webp"
           },
           {
             "id": 56,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/56.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/56.webp"
           },
           {
             "id": 57,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/57.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/57.webp"
           },
           {
             "id": 58,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/58.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/58.webp"
           },
           {
             "id": 59,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/59.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/59.webp"
           },
           {
             "id": 60,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/60.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/60.webp"
           },
           {
             "id": 61,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/61.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/61.webp"
           },
           {
             "id": 62,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/62.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/62.webp"
           },
           {
             "id": 63,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/63.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/63.webp"
           },
           {
             "id": 64,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/64.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/64.webp"
           },
           {
             "id": 65,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/65.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/65.webp"
           },
           {
             "id": 66,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/66.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/66.webp"
           },
           {
             "id": 67,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/67.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/67.webp"
           },
           {
             "id": 68,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/tiktok/68.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/68.webp"
+          },
+          {
+            "id": 69,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/69.webp"
+          },
+          {
+            "id": 70,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/70.webp"
+          },
+          {
+            "id": 71,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/71.webp"
+          },
+          {
+            "id": 72,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/72.webp"
+          },
+          {
+            "id": 73,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/73.webp"
+          },
+          {
+            "id": 74,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/74.webp"
+          },
+          {
+            "id": 75,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/75.webp"
+          },
+          {
+            "id": 76,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/76.webp"
+          },
+          {
+            "id": 77,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/77.webp"
+          },
+          {
+            "id": 78,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/78.webp"
+          },
+          {
+            "id": 79,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/79.webp"
+          },
+          {
+            "id": 80,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/80.webp"
+          },
+          {
+            "id": 81,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/81.webp"
+          },
+          {
+            "id": 82,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/pattern/82.webp"
           }
         ]
       }
@@ -6058,7 +6115,7 @@
     "playstore": "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically&hl=in&gl=US",
     "country": "China",
     "lock": false,
-    "new": false,
+    "new": true,
     "new_color": "#FADBE1",
     "color": "rgba(249, 54, 90, 0.16)"
   },
@@ -18252,6 +18309,38 @@
           {
             "id": 39,
             "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Astro/pattern/39.webp"
+          },
+          {
+            "id": 40,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Astro/pattern/40.webp"
+          },
+          {
+            "id": 41,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Astro/pattern/41.webp"
+          },
+          {
+            "id": 42,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Astro/pattern/42.webp"
+          },
+          {
+            "id": 43,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Astro/pattern/43.webp"
+          },
+          {
+            "id": 44,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Astro/pattern/44.webp"
+          },
+          {
+            "id": 45,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Astro/pattern/45.webp"
+          },
+          {
+            "id": 46,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Astro/pattern/46.webp"
+          },
+          {
+            "id": 47,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Astro/pattern/47.webp"
           }
         ]
       }
@@ -18263,7 +18352,7 @@
     "playstore": "https://play.google.com/store/apps/details?id=com.astro.shop&hl=in&gl=USS",
     "country": "Indonesia",
     "lock": false,
-    "new": false,
+    "new": true,
     "new_color": "#D2EFFB",
     "color": "rgba(0, 179, 249, 0.16)"
   },
@@ -22169,7 +22258,7 @@
     "playstore": "https://play.google.com/store/apps/details?id=com.gojek.app&hl=in&gl=US",
     "country": "Indonesia",
     "lock": false,
-    "new": true,
+    "new": false,
     "new_color": "#E2F4DC",
     "color": "rgba(99, 211, 59, 0.16)"
     },
@@ -22177,16 +22266,135 @@
         "_id": "79",
         "name": "Octopus",
         "type": "Waste Management",
-        "category": [ "Coming Soon","Lifestyle"],
+        "category": ["Lifestyle"],
         "imageUrl": [{
             "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Octopus/logo.webp"
           },
           {
-            "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Coming%20Soon/Octopus.webp"
+            "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Octopus/mockup.webp"
           },
           {
             "pattern": [
-             
+              {
+                "id": 1,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Octopus/pattern/1.webp"
+              },
+              {
+                "id": 2,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Octopus/pattern/2.webp"
+              },
+              {
+                "id": 3,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Octopus/pattern/3.webp"
+              },
+              {
+                "id": 4,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Octopus/pattern/4.webp"
+              },
+              {
+                "id": 5,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Octopus/pattern/5.webp"
+              },
+              {
+                "id": 6,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Octopus/pattern/6.webp"
+              },
+              {
+                "id": 7,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Octopus/pattern/7.webp"
+              },
+              {
+                "id": 8,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Octopus/pattern/8.webp"
+              },
+              {
+                "id": 9,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Octopus/pattern/9.webp"
+              },
+              {
+                "id": 10,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Octopus/pattern/10.webp"
+              },
+              {
+                "id": 11,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Octopus/pattern/11.webp"
+              },
+              {
+                "id": 12,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Octopus/pattern/12.webp"
+              },
+              {
+                "id": 13,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Octopus/pattern/13.webp"
+              },
+              {
+                "id": 14,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Octopus/pattern/14.webp"
+              },
+              {
+                "id": 15,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Octopus/pattern/15.webp"
+              },
+              {
+                "id": 16,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Octopus/pattern/16.webp"
+              },
+              {
+                "id": 17,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Octopus/pattern/17.webp"
+              },
+              {
+                "id": 18,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Octopus/pattern/18.webp"
+              },
+              {
+                "id": 19,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Octopus/pattern/19.webp"
+              },
+              {
+                "id": 20,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Octopus/pattern/20.webp"
+              },
+              {
+                "id": 21,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Octopus/pattern/21.webp"
+              },
+              {
+                "id": 22,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Octopus/pattern/22.webp"
+              },
+              {
+                "id": 23,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Octopus/pattern/23.webp"
+              },
+              {
+                "id": 24,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Octopus/pattern/24.webp"
+              },
+              {
+                "id": 25,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Octopus/pattern/25.webp"
+              },
+              {
+                "id": 26,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Octopus/pattern/26.webp"
+              },
+              {
+                "id": 27,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Octopus/pattern/27.webp"
+              },
+              {
+                "id": 28,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Octopus/pattern/28.webp"
+              },
+              {
+                "id": 29,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Octopus/pattern/29.webp"
+              },
+              {
+                "id": 29,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Octopus/pattern/29.webp"
+              }
             ]
           }
         ],
@@ -22196,10 +22404,10 @@
         "appstore": "https://apps.apple.com/us/app/octopus-sampah-jadi-berharga/id1515879876",
         "playstore": "https://play.google.com/store/apps/details?id=com.octopus.customer&hl=id&gl=US",
         "country": "Indonesia",
-        "lock": true,
-        "new": false,
+        "lock": false,
+        "new": true,
         "new_color": "#D2EFFB",
-        "color": "#ebecef"
+        "color": "rgba(0, 179, 249, 0.16)"
       },
       {
         "_id": "80",
@@ -22424,7 +22632,7 @@
         "playstore": "https://play.google.com/store/apps/details?id=com.beinsports.andcontent&hl=en",
         "country": "Qatar",
         "lock": false,
-        "new": true,
+        "new": false,
         "new_color": "#EFEBF9",
         "color": "rgba(117, 67, 223, 0.08)"
       },
@@ -22891,8 +23099,449 @@
         "playstore": "https://play.google.com/store/apps/details?id=com.huya.nimo&hl=id&gl=US",
         "country": "China",
         "lock": false,
-        "new": true,
+        "new": false,
         "new_color": "#EFEBF9",
         "color": "rgba(117, 67, 223, 0.08)"
-      }
+      },
+      {
+        "_id": "82",
+        "name": "Anteraja",
+        "type": "Delivery",
+        "category": ["Utilities"],
+        "imageUrl": [{
+            "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/logo.webp"
+          },
+          {
+            "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/mockup.webp"
+          },
+          {
+            "pattern": [
+              {
+                "id": 1,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/1.webp"
+              },
+              {
+                "id": 2,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/2.webp"
+              },
+              {
+                "id": 3,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/3.webp"
+              },
+              {
+                "id": 4,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/4.webp"
+              },
+              {
+                "id": 5,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/5.webp"
+              },
+              {
+                "id": 6,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/6.webp"
+              },
+              {
+                "id": 7,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/7.webp"
+              },
+              {
+                "id": 8,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/8.webp"
+              },
+              {
+                "id": 9,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/9.webp"
+              },
+              {
+                "id": 10,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/10.webp"
+              },
+              {
+                "id": 11,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/11.webp"
+              },
+              {
+                "id": 12,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/12.webp"
+              },
+              {
+                "id": 13,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/13.webp"
+              },
+              {
+                "id": 14,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/14.webp"
+              },
+              {
+                "id": 15,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/15.webp"
+              },
+              {
+                "id": 16,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/16.webp"
+              },
+              {
+                "id": 17,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/17.webp"
+              },
+              {
+                "id": 18,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/18.webp"
+              },
+              {
+                "id": 19,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/19.webp"
+              },
+              {
+                "id": 20,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/20.webp"
+              },
+              {
+                "id": 21,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/21.webp"
+              },
+              {
+                "id": 22,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/22.webp"
+              },
+              {
+                "id": 23,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/23.webp"
+              },
+              {
+                "id": 24,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/24.webp"
+              },
+              {
+                "id": 25,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/25.webp"
+              },
+              {
+                "id": 26,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/26.webp"
+              },
+              {
+                "id": 27,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/27.webp"
+              },
+              {
+                "id": 28,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/28.webp"
+              },
+              {
+                "id": 29,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/29.webp"
+              },
+              {
+                "id": 30,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/30.webp"
+              },
+              {
+                "id": 31,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/31.webp"
+              },
+              {
+                "id": 32,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/32.webp"
+              },
+              {
+                "id": 33,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/33.webp"
+              },
+              {
+                "id": 34,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/34.webp"
+              },
+              {
+                "id": 35,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/35.webp"
+              },
+              {
+                "id": 36,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/36.webp"
+              },
+              {
+                "id": 37,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/37.webp"
+              },
+              {
+                "id": 38,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/38.webp"
+              },
+              {
+                "id": 39,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/39.webp"
+              },
+              {
+                "id": 40,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/40.webp"
+              },
+              {
+                "id": 41,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/41.webp"
+              },
+              {
+                "id": 42,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/42.webp"
+              },
+              {
+                "id": 43,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/43.webp"
+              },
+              {
+                "id": 44,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/44.webp"
+              },
+              {
+                "id": 45,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/45.webp"
+              },
+              {
+                "id": 46,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/46.webp"
+              },
+              {
+                "id": 47,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/47.webp"
+              },
+              {
+                "id": 48,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/48.webp"
+              },
+              {
+                "id": 49,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/49.webp"
+              },
+              {
+                "id": 50,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/50.webp"
+              },
+              {
+                "id": 51,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/51.webp"
+              },
+              {
+                "id": 52,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/52.webp"
+              },
+              {
+                "id": 53,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/53.webp"
+              },
+              {
+                "id": 54,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/54.webp"
+              },
+              {
+                "id": 55,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/55.webp"
+              },
+              {
+                "id": 56,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/56.webp"
+              },
+              {
+                "id": 57,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/57.webp"
+              },
+              {
+                "id": 58,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/58.webp"
+              },
+              {
+                "id": 59,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/59.webp"
+              },
+              {
+                "id": 60,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/60.webp"
+              },
+              {
+                "id": 61,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/61.webp"
+              },
+              {
+                "id": 62,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/62.webp"
+              },
+              {
+                "id": 63,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/63.webp"
+              },
+              {
+                "id": 64,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/64.webp"
+              },
+              {
+                "id": 65,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/65.webp"
+              },
+              {
+                "id": 66,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/66.webp"
+              },
+              {
+                "id": 67,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/67.webp"
+              },
+              {
+                "id": 68,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/68.webp"
+              },
+              {
+                "id": 69,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/69.webp"
+              },
+              {
+                "id": 70,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/70.webp"
+              },
+              {
+                "id": 71,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/71.webp"
+              },
+              {
+                "id": 72,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/72.webp"
+              },
+              {
+                "id": 73,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/73.webp"
+              },
+              {
+                "id": 74,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/74.webp"
+              },
+              {
+                "id": 75,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/75.webp"
+              },
+              {
+                "id": 76,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/76.webp"
+              },
+              {
+                "id": 77,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/77.webp"
+              },
+              {
+                "id": 78,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/78.webp"
+              },
+              {
+                "id": 79,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/79.webp"
+              },
+              {
+                "id": 80,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/80.webp"
+              },
+              {
+                "id": 81,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/81.webp"
+              },
+              {
+                "id": 82,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/82.webp"
+              },
+              {
+                "id": 83,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/83.webp"
+              },
+              {
+                "id": 84,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/84.webp"
+              },
+              {
+                "id": 85,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/85.webp"
+              },
+              {
+                "id": 86,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/86.webp"
+              },
+              {
+                "id": 87,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/87.webp"
+              },
+              {
+                "id": 88,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/88.webp"
+              },
+              {
+                "id": 89,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/pattern/89.webp"
+              }
+            ]
+          }
+        ],
+        "isCategory": true,
+        "provider": "TRI ADI BERSAMA, PT.",
+        "copyright": "© 2019 Anteraja",
+        "appstore": "https://apps.apple.com/id/app/anteraja/id1468862408",
+        "playstore": "https://play.google.com/store/apps/details?id=id.anteraja.aca&hl=id&gl=US",
+        "country": "Indonesia",
+        "lock": false,
+        "new": true,
+        "new_color": "#FADBE1",
+        "color": "rgba(249, 54, 90, 0.16)"
+      },
+      {
+        "_id": "83",
+        "name": "Octopus",
+        "type": "Waste Management",
+        "category": [ "Coming Soon","Lifestyle"],
+        "imageUrl": [{
+            "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Octopus/logo.webp"
+          },
+          {
+            "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Coming%20Soon/Octopus.webp"
+          },
+          {
+            "pattern": [
+             
+            ]
+          }
+        ],
+        "isCategory": true,
+        "provider": "Octopus Waste Management PTE. LTD.",
+        "copyright": "© Octopus Waste Management PTE. LTD.",
+        "appstore": "https://apps.apple.com/us/app/octopus-sampah-jadi-berharga/id1515879876",
+        "playstore": "https://play.google.com/store/apps/details?id=com.octopus.customer&hl=id&gl=US",
+        "country": "Indonesia",
+        "lock": true,
+        "new": false,
+        "new_color": "#D2EFFB",
+        "color": "#ebecef"
+      },
+  
+      {
+        "_id": "79",
+        "name": "Octopus",
+        "type": "Waste Management",
+        "category": [ "Coming Soon","Lifestyle"],
+        "imageUrl": [{
+            "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Octopus/logo.webp"
+          },
+          {
+            "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Coming%20Soon/Octopus.webp"
+          },
+          {
+            "pattern": [
+             
+            ]
+          }
+        ],
+        "isCategory": true,
+        "provider": "Octopus Waste Management PTE. LTD.",
+        "copyright": "© Octopus Waste Management PTE. LTD.",
+        "appstore": "https://apps.apple.com/us/app/octopus-sampah-jadi-berharga/id1515879876",
+        "playstore": "https://play.google.com/store/apps/details?id=com.octopus.customer&hl=id&gl=US",
+        "country": "Indonesia",
+        "lock": true,
+        "new": false,
+        "new_color": "#D2EFFB",
+        "color": "#ebecef"
+      },
+    
 ]
