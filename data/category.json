@@ -44,16 +44,16 @@
     "name": "Entertaiment",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/monitor-mobbile.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/monitor-mobbile.svg",
-    "status": "NEW",
-    "isNew": true
+    "status": null,
+    "isNew": false
   },
   {
     "_id": "7",
     "name": "Finance",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/wallet.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/wallet.svg",
-    "status": "NEW",
-    "isNew": true
+    "status": null,
+    "isNew": false
   },
   {
     "_id": "8",
@@ -84,8 +84,8 @@
     "name": "Lifestyle",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/glass.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/glass.svg",
-    "status": null,
-    "isNew": false
+    "status": "NEW",
+    "isNew": true
   },
   {
     "_id": "asd1293uasdads1",
@@ -158,8 +158,8 @@
     "name": "Social",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/messages.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/messages.svg",
-    "status": null,
-    "isNew": false
+    "status": "NEW",
+    "isNew": true
   },
 
   {
@@ -167,8 +167,8 @@
     "name": "Sports",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/weight.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/weight.svg",
-    "status": "NEW",
-    "isNew": true
+    "status": null,
+    "isNew": false
   },
   {
     "_id": "asd1293uasdads1",
@@ -183,8 +183,8 @@
     "name": "Utilities",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/box.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/box.svg",
-    "status": null,
-    "isNew": false
+    "status": "NEW",
+    "isNew": true
 
   }
 ]
