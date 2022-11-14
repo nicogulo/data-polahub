@@ -2073,187 +2073,224 @@
   },
   {
     "_id": "26",
-    "name": "Gojek App",
+    "name": "Gojek",
     "type": "Super App",
     "category": ["Super App", "Gojek Product"],
     "imageUrl": [{
-        "icon": "https://data-polahub.herokuapp.com/images/gojek.png"
+        "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gojek/logo.webp"
       },
       {
-        "card": "https://data-polahub.herokuapp.com/images/card/gojek.png"
+        "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gojek/mockup.webp"
       },
       {
-        "pattern": [{
+        "pattern": [
+          {
             "id": 1,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/1.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gojek/pattern/1.webp"
           },
           {
             "id": 2,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/2.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gojek/pattern/2.webp"
           },
           {
             "id": 3,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/3.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gojek/pattern/3.webp"
           },
           {
             "id": 4,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/4.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gojek/pattern/4.webp"
           },
           {
             "id": 5,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/5.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gojek/pattern/5.webp"
           },
           {
             "id": 6,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/6.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gojek/pattern/6.webp"
           },
           {
             "id": 7,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/7.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gojek/pattern/7.webp"
           },
           {
             "id": 8,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/8.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gojek/pattern/8.webp"
           },
           {
             "id": 9,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/9.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gojek/pattern/9.webp"
           },
           {
             "id": 10,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/10.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gojek/pattern/10.webp"
           },
           {
             "id": 11,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/11.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gojek/pattern/11.webp"
           },
           {
             "id": 12,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/12.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gojek/pattern/12.webp"
           },
           {
             "id": 13,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/13.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gojek/pattern/13.webp"
           },
           {
             "id": 14,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/14.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gojek/pattern/14.webp"
           },
           {
             "id": 15,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/15.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gojek/pattern/15.webp"
           },
           {
             "id": 16,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/16.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gojek/pattern/16.webp"
           },
           {
             "id": 17,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/17.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gojek/pattern/17.webp"
           },
           {
             "id": 18,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/18.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gojek/pattern/18.webp"
           },
           {
             "id": 19,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/19.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gojek/pattern/19.webp"
           },
           {
             "id": 20,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/20.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gojek/pattern/20.webp"
           },
           {
             "id": 21,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/21.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gojek/pattern/21.webp"
           },
           {
             "id": 22,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/22.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gojek/pattern/22.webp"
           },
           {
             "id": 23,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/23.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gojek/pattern/23.webp"
           },
           {
             "id": 24,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/24.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gojek/pattern/24.webp"
           },
           {
             "id": 25,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/25.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gojek/pattern/25.webp"
           },
           {
             "id": 26,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/26.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gojek/pattern/26.webp"
           },
           {
             "id": 27,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/27.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gojek/pattern/27.webp"
           },
           {
             "id": 28,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/28.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gojek/pattern/28.webp"
           },
           {
             "id": 29,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/29.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gojek/pattern/29.webp"
           },
           {
             "id": 30,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/30.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gojek/pattern/30.webp"
           },
           {
             "id": 31,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/31.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gojek/pattern/31.webp"
           },
           {
             "id": 32,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/32.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gojek/pattern/32.webp"
           },
           {
             "id": 33,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/33.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gojek/pattern/33.webp"
           },
           {
             "id": 34,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/34.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gojek/pattern/34.webp"
           },
           {
             "id": 35,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/35.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gojek/pattern/35.webp"
           },
           {
             "id": 36,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/36.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gojek/pattern/36.webp"
           },
           {
             "id": 37,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/37.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gojek/pattern/37.webp"
           },
           {
             "id": 38,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/38.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gojek/pattern/38.webp"
           },
           {
             "id": 39,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/39.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gojek/pattern/39.webp"
           },
           {
             "id": 40,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/40.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gojek/pattern/40.webp"
           },
           {
             "id": 41,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/41.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gojek/pattern/41.webp"
           },
           {
             "id": 42,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/42.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gojek/pattern/42.webp"
           },
           {
             "id": 43,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/gojek/43.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gojek/pattern/43.webp"
+          },
+          {
+            "id": 44,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gojek/pattern/44.webp"
+          },
+          {
+            "id": 45,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gojek/pattern/45.webp"
+          },
+          {
+            "id": 46,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gojek/pattern/46.webp"
+          },
+          {
+            "id": 47,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gojek/pattern/47.webp"
+          },
+          {
+            "id": 48,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gojek/pattern/48.webp"
+          },
+          {
+            "id": 49,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gojek/pattern/49.webp"
+          },
+          {
+            "id": 50,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gojek/pattern/50.webp"
+          },
+          {
+            "id": 51,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gojek/pattern/51.webp"
+          },
+          {
+            "id": 52,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Gojek/pattern/52.webp"
           }
         ]
       }
@@ -2265,7 +2302,7 @@
     "playstore": "https://play.google.com/store/apps/details?id=com.gojek.app&hl=in&gl=US",
     "country": "Indonesia",
     "lock": false,
-    "new": false,
+    "new": true,
     "new_color": "#E2F4DC",
     "color": "rgba(99, 211, 59, 0.16)"
   },
@@ -4112,227 +4149,152 @@
     "type": "COVID-19",
     "category": ["Health"],
     "imageUrl": [{
-        "icon": "https://data-polahub.herokuapp.com/images/peduli.png"
+        "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/PeduliLindungi/logo.webp"
       },
       {
-        "card": "https://data-polahub.herokuapp.com/images/card/peduli.png"
+        "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/PeduliLindungi/mockup.webp"
       },
       {
-        "pattern": [{
+        "pattern": [
+          {
             "id": 1,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/peduli/1.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/PeduliLindungi/pattern/1.webp"
           },
           {
             "id": 2,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/peduli/2.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/PeduliLindungi/pattern/2.webp"
           },
           {
             "id": 3,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/peduli/3.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/PeduliLindungi/pattern/3.webp"
           },
           {
             "id": 4,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/peduli/4.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/PeduliLindungi/pattern/4.webp"
           },
           {
             "id": 5,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/peduli/5.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/PeduliLindungi/pattern/5.webp"
           },
           {
             "id": 6,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/peduli/6.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/PeduliLindungi/pattern/6.webp"
           },
           {
             "id": 7,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/peduli/7.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/PeduliLindungi/pattern/7.webp"
           },
           {
             "id": 8,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/peduli/8.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/PeduliLindungi/pattern/8.webp"
           },
           {
             "id": 9,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/peduli/9.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/PeduliLindungi/pattern/9.webp"
           },
           {
             "id": 10,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/peduli/10.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/PeduliLindungi/pattern/10.webp"
           },
           {
             "id": 11,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/peduli/11.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/PeduliLindungi/pattern/11.webp"
           },
           {
             "id": 12,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/peduli/12.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/PeduliLindungi/pattern/12.webp"
           },
           {
             "id": 13,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/peduli/13.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/PeduliLindungi/pattern/13.webp"
           },
           {
             "id": 14,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/peduli/14.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/PeduliLindungi/pattern/14.webp"
           },
           {
             "id": 15,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/peduli/15.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/PeduliLindungi/pattern/15.webp"
           },
           {
             "id": 16,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/peduli/16.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/PeduliLindungi/pattern/16.webp"
           },
           {
             "id": 17,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/peduli/17.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/PeduliLindungi/pattern/17.webp"
           },
           {
             "id": 18,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/peduli/18.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/PeduliLindungi/pattern/18.webp"
           },
           {
             "id": 19,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/peduli/19.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/PeduliLindungi/pattern/19.webp"
           },
           {
             "id": 20,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/peduli/20.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/PeduliLindungi/pattern/20.webp"
           },
           {
             "id": 21,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/peduli/21.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/PeduliLindungi/pattern/21.webp"
           },
           {
             "id": 22,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/peduli/22.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/PeduliLindungi/pattern/22.webp"
           },
           {
             "id": 23,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/peduli/23.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/PeduliLindungi/pattern/23.webp"
           },
           {
             "id": 24,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/peduli/24.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/PeduliLindungi/pattern/24.webp"
           },
           {
             "id": 25,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/peduli/25.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/PeduliLindungi/pattern/25.webp"
           },
           {
             "id": 26,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/peduli/26.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/PeduliLindungi/pattern/26.webp"
           },
           {
             "id": 27,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/peduli/27.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/PeduliLindungi/pattern/27.webp"
           },
           {
             "id": 28,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/peduli/28.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/PeduliLindungi/pattern/28.webp"
           },
           {
             "id": 29,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/peduli/29.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/PeduliLindungi/pattern/29.webp"
           },
           {
             "id": 30,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/peduli/30.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/PeduliLindungi/pattern/30.webp"
           },
           {
             "id": 31,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/peduli/31.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/PeduliLindungi/pattern/31.webp"
           },
           {
             "id": 32,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/peduli/32.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/PeduliLindungi/pattern/32.webp"
           },
           {
             "id": 33,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/peduli/33.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/PeduliLindungi/pattern/33.webp"
           },
           {
             "id": 34,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/peduli/34.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/PeduliLindungi/pattern/34.webp"
           },
           {
             "id": 35,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/peduli/35.png"
-          },
-          {
-            "id": 36,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/peduli/36.png"
-          },
-          {
-            "id": 37,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/peduli/37.png"
-          },
-          {
-            "id": 38,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/peduli/38.png"
-          },
-          {
-            "id": 39,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/peduli/39.png"
-          },
-          {
-            "id": 40,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/peduli/40.png"
-          },
-          {
-            "id": 41,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/peduli/41.png"
-          },
-          {
-            "id": 42,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/peduli/42.png"
-          },
-          {
-            "id": 43,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/peduli/43.png"
-          },
-          {
-            "id": 44,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/peduli/44.png"
-          },
-          {
-            "id": 45,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/peduli/45.png"
-          },
-          {
-            "id": 46,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/peduli/46.png"
-          },
-          {
-            "id": 47,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/peduli/47.png"
-          },
-          {
-            "id": 48,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/peduli/48.png"
-          },
-          {
-            "id": 49,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/peduli/49.png"
-          },
-          {
-            "id": 50,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/peduli/50.png"
-          },
-          {
-            "id": 51,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/peduli/51.png"
-          },
-          {
-            "id": 52,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/peduli/52.png"
-          },
-          {
-            "id": 53,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/peduli/53.png"
-          },
-          {
-            "id": 54,
-            "name": "https://data-polahub.herokuapp.com/images/pattern/peduli/54.png"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/PeduliLindungi/pattern/35.webp"
           }
         ]
       }
@@ -4344,7 +4306,7 @@
     "playstore": "https://play.google.com/store/apps/details?id=com.telkom.tracencare&hl=in&gl=US",
     "country": "Indonesia",
     "lock": false,
-    "new": false,
+    "new": true,
     "new_color": "#D2EFFB",
     "color": "rgba(0, 179, 249, 0.16)"
   },
@@ -6115,7 +6077,7 @@
     "playstore": "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically&hl=in&gl=US",
     "country": "China",
     "lock": false,
-    "new": true,
+    "new": false,
     "new_color": "#FADBE1",
     "color": "rgba(249, 54, 90, 0.16)"
   },
@@ -18352,7 +18314,7 @@
     "playstore": "https://play.google.com/store/apps/details?id=com.astro.shop&hl=in&gl=USS",
     "country": "Indonesia",
     "lock": false,
-    "new": true,
+    "new": false,
     "new_color": "#D2EFFB",
     "color": "rgba(0, 179, 249, 0.16)"
   },
@@ -22405,7 +22367,7 @@
         "playstore": "https://play.google.com/store/apps/details?id=com.octopus.customer&hl=id&gl=US",
         "country": "Indonesia",
         "lock": false,
-        "new": true,
+        "new": false,
         "new_color": "#D2EFFB",
         "color": "rgba(0, 179, 249, 0.16)"
       },
@@ -23482,20 +23444,503 @@
         "playstore": "https://play.google.com/store/apps/details?id=id.anteraja.aca&hl=id&gl=US",
         "country": "Indonesia",
         "lock": false,
-        "new": true,
+        "new": false,
         "new_color": "#FADBE1",
         "color": "rgba(249, 54, 90, 0.16)"
       },
       {
         "_id": "83",
-        "name": "Octopus",
-        "type": "Waste Management",
-        "category": [ "Coming Soon","Lifestyle"],
+        "name": "TikTok Shop",
+        "type": "Social Media",
+        "category": ["Shopping"],
         "imageUrl": [{
-            "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Octopus/logo.webp"
+            "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/logo.webp"
           },
           {
-            "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Coming%20Soon/Octopus.webp"
+            "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/mockup.webp"
+          },
+          {
+            "pattern": [
+              {
+                "id": 1,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/1.webp"
+              },
+              {
+                "id": 2,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/2.webp"
+              },
+              {
+                "id": 3,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/3.webp"
+              },
+              {
+                "id": 4,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/4.webp"
+              },
+              {
+                "id": 5,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/5.webp"
+              },
+              {
+                "id": 6,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/6.webp"
+              },
+              {
+                "id": 7,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/7.webp"
+              },
+              {
+                "id": 8,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/8.webp"
+              },
+              {
+                "id": 9,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/9.webp"
+              },
+              {
+                "id": 10,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/10.webp"
+              },
+              {
+                "id": 11,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/11.webp"
+              },
+              {
+                "id": 12,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/12.webp"
+              },
+              {
+                "id": 13,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/13.webp"
+              },
+              {
+                "id": 14,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/14.webp"
+              },
+              {
+                "id": 15,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/15.webp"
+              },
+              {
+                "id": 16,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/16.webp"
+              },
+              {
+                "id": 17,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/17.webp"
+              },
+              {
+                "id": 18,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/18.webp"
+              },
+              {
+                "id": 19,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/19.webp"
+              },
+              {
+                "id": 20,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/20.webp"
+              },
+              {
+                "id": 21,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/21.webp"
+              },
+              {
+                "id": 22,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/22.webp"
+              },
+              {
+                "id": 23,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/23.webp"
+              },
+              {
+                "id": 24,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/24.webp"
+              },
+              {
+                "id": 25,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/25.webp"
+              },
+              {
+                "id": 26,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/26.webp"
+              },
+              {
+                "id": 27,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/27.webp"
+              },
+              {
+                "id": 28,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/28.webp"
+              },
+              {
+                "id": 29,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/29.webp"
+              },
+              {
+                "id": 30,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/30.webp"
+              },
+              {
+                "id": 31,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/31.webp"
+              },
+              {
+                "id": 32,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/32.webp"
+              },
+              {
+                "id": 33,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/33.webp"
+              },
+              {
+                "id": 34,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/34.webp"
+              },
+              {
+                "id": 35,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/35.webp"
+              },
+              {
+                "id": 36,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/36.webp"
+              },
+              {
+                "id": 37,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/37.webp"
+              },
+              {
+                "id": 38,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/38.webp"
+              },
+              {
+                "id": 39,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/39.webp"
+              },
+              {
+                "id": 40,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/40.webp"
+              },
+              {
+                "id": 41,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/41.webp"
+              },
+              {
+                "id": 42,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/42.webp"
+              },
+              {
+                "id": 43,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/43.webp"
+              },
+              {
+                "id": 44,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/44.webp"
+              },
+              {
+                "id": 45,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/45.webp"
+              },
+              {
+                "id": 46,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/46.webp"
+              },
+              {
+                "id": 47,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/47.webp"
+              },
+              {
+                "id": 48,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/48.webp"
+              },
+              {
+                "id": 49,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/49.webp"
+              },
+              {
+                "id": 50,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/50.webp"
+              },
+              {
+                "id": 51,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/51.webp"
+              },
+              {
+                "id": 52,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/52.webp"
+              },
+              {
+                "id": 53,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/53.webp"
+              },
+              {
+                "id": 54,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/54.webp"
+              },
+              {
+                "id": 55,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/55.webp"
+              },
+              {
+                "id": 56,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/56.webp"
+              },
+              {
+                "id": 57,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/57.webp"
+              },
+              {
+                "id": 58,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/58.webp"
+              },
+              {
+                "id": 59,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/59.webp"
+              },
+              {
+                "id": 60,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/60.webp"
+              },
+              {
+                "id": 61,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/61.webp"
+              },
+              {
+                "id": 62,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/62.webp"
+              },
+              {
+                "id": 63,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/63.webp"
+              },
+              {
+                "id": 64,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/64.webp"
+              },
+              {
+                "id": 65,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/65.webp"
+              },
+              {
+                "id": 66,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/66.webp"
+              },
+              {
+                "id": 67,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/67.webp"
+              },
+              {
+                "id": 68,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/68.webp"
+              },
+              {
+                "id": 69,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/69.webp"
+              },
+              {
+                "id": 70,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/70.webp"
+              },
+              {
+                "id": 71,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/71.webp"
+              },
+              {
+                "id": 72,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/72.webp"
+              },
+              {
+                "id": 73,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/73.webp"
+              },
+              {
+                "id": 74,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/74.webp"
+              },
+              {
+                "id": 75,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/75.webp"
+              },
+              {
+                "id": 76,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/76.webp"
+              },
+              {
+                "id": 77,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/77.webp"
+              },
+              {
+                "id": 78,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/78.webp"
+              },
+              {
+                "id": 79,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/79.webp"
+              },
+              {
+                "id": 80,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/80.webp"
+              },
+              {
+                "id": 81,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/81.webp"
+              },
+              {
+                "id": 82,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/82.webp"
+              },
+              {
+                "id": 83,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/83.webp"
+              },
+              {
+                "id": 84,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/84.webp"
+              },
+              {
+                "id": 85,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/85.webp"
+              },
+              {
+                "id": 86,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/86.webp"
+              },
+              {
+                "id": 87,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/87.webp"
+              },
+              {
+                "id": 88,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/88.webp"
+              },
+              {
+                "id": 89,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/89.webp"
+              },
+              {
+                "id": 90,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/90.webp"
+              },
+              {
+                "id": 91,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/91.webp"
+              },
+              {
+                "id": 92,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/92.webp"
+              },
+              {
+                "id": 93,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/93.webp"
+              },
+              {
+                "id": 94,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/94.webp"
+              },
+              {
+                "id": 95,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/95.webp"
+              },
+              {
+                "id": 96,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/96.webp"
+              },
+              {
+                "id": 97,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/97.webp"
+              },
+              {
+                "id": 98,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/98.webp"
+              },
+              {
+                "id": 99,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/99.webp"
+              },
+              {
+                "id": 100,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/100.webp"
+              },
+              {
+                "id": 101,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/101.webp"
+              },
+              {
+                "id": 102,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/102.webp"
+              },
+              {
+                "id": 103,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/103.webp"
+              },
+              {
+                "id": 104,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/104.webp"
+              },
+              {
+                "id": 105,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/105.webp"
+              },
+              {
+                "id": 106,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/106.webp"
+              },
+              {
+                "id": 107,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/107.webp"
+              },
+              {
+                "id": 108,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/108.webp"
+              },
+              {
+                "id": 109,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/109.webp"
+              },
+              {
+                "id": 110,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/110.webp"
+              },
+              {
+                "id": 111,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/111.webp"
+              },
+              {
+                "id": 112,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/112.webp"
+              },
+              {
+                "id": 113,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/113.webp"
+              },
+              {
+                "id": 114,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok%20Shop/pattern/114.webp"
+              }
+            ]
+          }
+        ],
+        "isCategory": true,
+        "provider": "TikTok Pte. Ltd.",
+        "copyright": "© 2017 Bytedance Inc.",
+        "appstore": "https://apps.apple.com/id/app/tiktok/id1235601864?l=id",
+        "playstore": "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically&hl=in&gl=US",
+        "country": "China",
+        "lock": false,
+        "new": true,
+        "new_color": "#FADBE1",
+        "color": "rgba(249, 54, 90, 0.16)"
+      },
+      {
+        "_id": "84",
+        "name": "Grab",
+        "type": "All-in-one",
+        "category": ["Food & Drink"],
+        "imageUrl": [{
+            "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/logo.webp"
+          },
+          {
+            "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/mockup.webp"
           },
           {
             "pattern": [
@@ -23504,15 +23949,15 @@
           }
         ],
         "isCategory": true,
-        "provider": "Octopus Waste Management PTE. LTD.",
-        "copyright": "© Octopus Waste Management PTE. LTD.",
-        "appstore": "https://apps.apple.com/us/app/octopus-sampah-jadi-berharga/id1515879876",
-        "playstore": "https://play.google.com/store/apps/details?id=com.octopus.customer&hl=id&gl=US",
-        "country": "Indonesia",
-        "lock": true,
-        "new": false,
-        "new_color": "#D2EFFB",
-        "color": "#ebecef"
+        "provider": "GRABTAXI HOLDINGS PTE. LTD.",
+        "copyright": "© GrabTaxi Holdings.",
+        "appstore": "https://apps.apple.com/id/app/grab-superapp/id647268330?l=id",
+        "playstore": "https://apps.apple.com/id/app/grab-superapp/id647268330?l=id",
+        "country": "Singapore",
+        "lock": false,
+        "new": true,
+        "new_color": "#E2F4DC",
+        "color": "rgba(99, 211, 59, 0.16)"
       }
     
 ]
