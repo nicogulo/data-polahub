@@ -68,24 +68,24 @@
     "name": "Gojek Product",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/gojek-ac.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/gojek-non.svg",
-    "status": null,
-    "isNew": false
+    "status": "NEW",
+    "isNew": true
   },
   {
     "_id": "asd1293uasdads1",
     "name": "Health",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/heart.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/heart.svg",
-    "status": null,
-    "isNew": false
+    "status": "NEW",
+    "isNew": true
   },
   {
     "_id": "asd1293uasdads1",
     "name": "Lifestyle",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/glass.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/glass.svg",
-    "status": "NEW",
-    "isNew": true
+    "status": null,
+    "isNew": false
   },
   {
     "_id": "asd1293uasdads1",
@@ -150,16 +150,16 @@
     "name": "Shopping",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/bag.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/bag.svg",
-    "status": null,
-    "isNew": false
+    "status": "NEW",
+    "isNew": true
   },
   {
     "_id": "asd1293uasdads1",
     "name": "Social",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/messages.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/messages.svg",
-    "status": "NEW",
-    "isNew": true
+    "status": null,
+    "isNew": false
   },
 
   {
@@ -183,8 +183,8 @@
     "name": "Utilities",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/box.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/box.svg",
-    "status": "NEW",
-    "isNew": true
+    "status": null,
+    "isNew": false
 
   }
 ]
