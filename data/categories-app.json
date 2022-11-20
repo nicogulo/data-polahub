@@ -12756,10 +12756,10 @@
     "type": "Ticket",
     "category": ["Travel"],
     "imageUrl": [{
-        "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/logo.webp"
+        "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/logo.webp"
       },
       {
-        "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/mockup.webp"
+        "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/mockup.webp"
       },
       {
         "pattern": [
