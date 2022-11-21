@@ -2302,7 +2302,7 @@
     "playstore": "https://play.google.com/store/apps/details?id=com.gojek.app&hl=in&gl=US",
     "country": "Indonesia",
     "lock": false,
-    "new": true,
+    "new": false,
     "new_color": "#E2F4DC",
     "color": "rgba(99, 211, 59, 0.16)"
   },
@@ -4306,7 +4306,7 @@
     "playstore": "https://play.google.com/store/apps/details?id=com.telkom.tracencare&hl=in&gl=US",
     "country": "Indonesia",
     "lock": false,
-    "new": true,
+    "new": false,
     "new_color": "#D2EFFB",
     "color": "rgba(0, 179, 249, 0.16)"
   },
@@ -12752,296 +12752,308 @@
   },
   {
     "_id": "48",
-    "name": "Agoda",
+    "name": "Agoda Hotels",
     "type": "Ticket",
     "category": ["Travel"],
     "imageUrl": [{
-        "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/logo.webp"
+        "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/logo.webp"
       },
       {
-        "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/mockup.webp"
+        "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/mockup.webp"
       },
       {
         "pattern": [
           {
             "id": 1,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/1.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/1.webp"
           },
           {
             "id": 2,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/2.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/2.webp"
           },
           {
             "id": 3,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/3.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/3.webp"
           },
           {
             "id": 4,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/4.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/4.webp"
           },
           {
             "id": 5,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/5.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/5.webp"
           },
           {
             "id": 6,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/6.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/6.webp"
           },
           {
             "id": 7,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/7.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/7.webp"
           },
           {
             "id": 8,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/8.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/8.webp"
           },
           {
             "id": 9,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/9.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/9.webp"
           },
           {
             "id": 10,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/10.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/10.webp"
           },
           {
             "id": 11,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/11.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/11.webp"
           },
           {
             "id": 12,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/12.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/12.webp"
           },
           {
             "id": 13,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/13.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/13.webp"
           },
           {
             "id": 14,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/14.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/14.webp"
           },
           {
             "id": 15,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/15.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/15.webp"
           },
           {
             "id": 16,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/16.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/16.webp"
           },
           {
             "id": 17,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/17.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/17.webp"
           },
           {
             "id": 18,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/18.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/18.webp"
           },
           {
             "id": 19,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/19.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/19.webp"
           },
           {
             "id": 20,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/20.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/20.webp"
           },
           {
             "id": 21,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/21.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/21.webp"
           },
           {
             "id": 22,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/22.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/22.webp"
           },
           {
             "id": 23,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/23.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/23.webp"
           },
           {
             "id": 24,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/24.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/24.webp"
           },
           {
             "id": 25,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/25.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/25.webp"
           },
           {
             "id": 26,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/26.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/26.webp"
           },
           {
             "id": 27,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/27.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/27.webp"
           },
           {
             "id": 28,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/28.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/28.webp"
           },
           {
             "id": 29,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/29.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/29.webp"
           },
           {
             "id": 30,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/30.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/30.webp"
           },
           {
             "id": 31,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/31.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/31.webp"
           },
           {
             "id": 32,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/32.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/32.webp"
           },
           {
             "id": 33,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/33.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/33.webp"
           },
           {
             "id": 34,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/34.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/34.webp"
           },
           {
             "id": 35,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/35.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/35.webp"
           },
           {
             "id": 36,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/36.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/36.webp"
           },
           {
             "id": 37,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/37.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/37.webp"
           },
           {
             "id": 38,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/38.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/38.webp"
           },
           {
             "id": 39,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/39.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/39.webp"
           },
           {
             "id": 40,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/40.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/40.webp"
           },
           {
             "id": 41,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/41.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/41.webp"
           },
           {
             "id": 42,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/42.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/42.webp"
           },
           {
             "id": 43,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/43.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/43.webp"
           },
           {
             "id": 44,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/44.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/44.webp"
           },
           {
             "id": 45,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/45.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/45.webp"
           },
           {
             "id": 46,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/46.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/46.webp"
           },
           {
             "id": 47,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/47.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/47.webp"
           },
           {
             "id": 48,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/48.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/48.webp"
           },
           {
             "id": 49,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/49.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/49.webp"
           },
           {
             "id": 50,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/50.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/50.webp"
           },
           {
             "id": 51,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/51.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/51.webp"
           },
           {
             "id": 52,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/52.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/52.webp"
           },
           {
             "id": 53,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/53.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/53.webp"
           },
           {
             "id": 54,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/54.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/54.webp"
           },
           {
             "id": 55,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/55.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/55.webp"
           },
           {
             "id": 56,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/56.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/56.webp"
           },
           {
             "id": 57,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/57.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/57.webp"
           },
           {
             "id": 58,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/58.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/58.webp"
           },
           {
             "id": 59,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/59.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/59.webp"
           },
           {
             "id": 60,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/60.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/60.webp"
           },
           {
             "id": 61,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/61.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/61.webp"
           },
           {
             "id": 62,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/62.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/62.webp"
           },
           {
             "id": 63,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/63.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/63.webp"
           },
           {
             "id": 64,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/64.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/64.webp"
           },
           {
             "id": 65,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/65.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/65.webp"
           },
           {
             "id": 66,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/66.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/66.webp"
           },
           {
             "id": 67,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/67.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/67.webp"
           },
           {
             "id": 68,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/68.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/68.webp"
           },
           {
             "id": 69,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/69.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/69.webp"
           },
           {
             "id": 70,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda/pattern/70.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/70.webp"
+          },
+          {
+            "id": 71,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/71.webp"
+          },
+          {
+            "id": 72,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/72.webp"
+          },
+          {
+            "id": 73,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Agoda%20Hotels/pattern/73.webp"
           }
         ]
       }
@@ -13053,7 +13065,7 @@
     "playstore": "https://play.google.com/store/apps/details?id=com.agoda.mobile.consumer&hl=in&gl=US",
     "country": "Singapore",
     "lock": false,
-    "new": false,
+    "new": true,
     "new_color": "#D2EFFB",
     "color": "rgba(0, 179, 249, 0.16)"
   },
@@ -23927,7 +23939,7 @@
         "playstore": "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically&hl=in&gl=US",
         "country": "China",
         "lock": false,
-        "new": true,
+        "new": false,
         "new_color": "#FADBE1",
         "color": "rgba(249, 54, 90, 0.16)"
       },
@@ -24174,9 +24186,669 @@
         "playstore": "https://apps.apple.com/id/app/grab-superapp/id647268330?l=id",
         "country": "Singapore",
         "lock": false,
+        "new": false,
+        "new_color": "#E2F4DC",
+        "color": "rgba(99, 211, 59, 0.16)"
+      },
+   {
+        "_id": "85",
+        "name": "Flash Coffee",
+        "type": "Coffee Delivery",
+        "category": [ "Food & Drink"],
+        "imageUrl": [{
+            "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Flash%20Coffee/logo.webp"
+          },
+          {
+            "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Flash%20Coffee/mockup.webp"
+          },
+          {
+            "pattern": [
+              {
+                "id": 1,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Flash%20Coffee/pattern/1.webp"
+              },
+              {
+                "id": 2,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Flash%20Coffee/pattern/2.webp"
+              },
+              {
+                "id": 3,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Flash%20Coffee/pattern/3.webp"
+              },
+              {
+                "id": 4,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Flash%20Coffee/pattern/4.webp"
+              },
+              {
+                "id": 5,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Flash%20Coffee/pattern/5.webp"
+              },
+              {
+                "id": 6,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Flash%20Coffee/pattern/6.webp"
+              },
+              {
+                "id": 7,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Flash%20Coffee/pattern/7.webp"
+              },
+              {
+                "id": 8,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Flash%20Coffee/pattern/8.webp"
+              },
+              {
+                "id": 9,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Flash%20Coffee/pattern/9.webp"
+              },
+              {
+                "id": 10,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Flash%20Coffee/pattern/10.webp"
+              },
+              {
+                "id": 11,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Flash%20Coffee/pattern/11.webp"
+              },
+              {
+                "id": 12,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Flash%20Coffee/pattern/12.webp"
+              },
+              {
+                "id": 13,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Flash%20Coffee/pattern/13.webp"
+              },
+              {
+                "id": 14,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Flash%20Coffee/pattern/14.webp"
+              },
+              {
+                "id": 15,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Flash%20Coffee/pattern/15.webp"
+              },
+              {
+                "id": 16,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Flash%20Coffee/pattern/16.webp"
+              },
+              {
+                "id": 17,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Flash%20Coffee/pattern/17.webp"
+              },
+              {
+                "id": 18,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Flash%20Coffee/pattern/18.webp"
+              },
+              {
+                "id": 19,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Flash%20Coffee/pattern/19.webp"
+              },
+              {
+                "id": 20,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Flash%20Coffee/pattern/20.webp"
+              },
+              {
+                "id": 21,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Flash%20Coffee/pattern/21.webp"
+              },
+              {
+                "id": 22,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Flash%20Coffee/pattern/22.webp"
+              },
+              {
+                "id": 23,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Flash%20Coffee/pattern/23.webp"
+              },
+              {
+                "id": 24,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Flash%20Coffee/pattern/24.webp"
+              },
+              {
+                "id": 25,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Flash%20Coffee/pattern/25.webp"
+              },
+              {
+                "id": 26,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Flash%20Coffee/pattern/26.webp"
+              },
+              {
+                "id": 27,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Flash%20Coffee/pattern/27.webp"
+              },
+              {
+                "id": 28,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Flash%20Coffee/pattern/28.webp"
+              },
+              {
+                "id": 29,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Flash%20Coffee/pattern/29.webp"
+              },
+              {
+                "id": 30,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Flash%20Coffee/pattern/30.webp"
+              },
+              {
+                "id": 31,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Flash%20Coffee/pattern/31.webp"
+              },
+              {
+                "id": 32,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Flash%20Coffee/pattern/32.webp"
+              },
+              {
+                "id": 33,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Flash%20Coffee/pattern/33.webp"
+              },
+              {
+                "id": 34,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Flash%20Coffee/pattern/34.webp"
+              },
+              {
+                "id": 35,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Flash%20Coffee/pattern/35.webp"
+              },
+              {
+                "id": 36,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Flash%20Coffee/pattern/36.webp"
+              },
+              {
+                "id": 37,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Flash%20Coffee/pattern/37.webp"
+              },
+              {
+                "id": 38,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Flash%20Coffee/pattern/38.webp"
+              },
+              {
+                "id": 39,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Flash%20Coffee/pattern/39.webp"
+              },
+              {
+                "id": 40,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Flash%20Coffee/pattern/40.webp"
+              }
+            ]
+          }
+        ],
+        "isCategory": true,
+        "provider": "Digital Services SG Four Pte. Ltd.",
+        "copyright": "© 2022 FLASH COFFEE - ALL RIGHTS RESERVED.",
+        "appstore": "https://apps.apple.com/id/app/flash-coffee/id1535891762",
+        "playstore": "https://play.google.com/store/apps/details?id=com.flashcoffee&hl=id&gl=US&pli=1",
+        "country": "Singapore",
+        "lock": false,
+        "new": true,
+        "new_color": "#F9F1D3",
+        "color": "rgba(244, 191, 0, 0.16)"
+      },
+      {
+        "_id": "86",
+        "name": "GoBlueBird",
+        "type": "Travel",
+        "category": [ "Gojek Product", "Travel"],
+        "imageUrl": [{
+            "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/logo.webp"
+          },
+          {
+            "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/mockup.webp"
+          },
+          {
+            "pattern": [
+              {
+                "id": 1,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/1.webp"
+              },
+              {
+                "id": 2,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/2.webp"
+              },
+              {
+                "id": 3,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/3.webp"
+              },
+              {
+                "id": 4,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/4.webp"
+              },
+              {
+                "id": 5,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/5.webp"
+              },
+              {
+                "id": 6,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/6.webp"
+              },
+              {
+                "id": 7,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/7.webp"
+              },
+              {
+                "id": 8,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/8.webp"
+              },
+              {
+                "id": 9,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/9.webp"
+              },
+              {
+                "id": 10,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/10.webp"
+              },
+              {
+                "id": 11,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/11.webp"
+              },
+              {
+                "id": 12,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/12.webp"
+              },
+              {
+                "id": 13,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/13.webp"
+              },
+              {
+                "id": 14,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/14.webp"
+              },
+              {
+                "id": 15,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/15.webp"
+              },
+              {
+                "id": 16,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/16.webp"
+              },
+              {
+                "id": 17,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/17.webp"
+              },
+              {
+                "id": 18,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/18.webp"
+              },
+              {
+                "id": 19,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/19.webp"
+              },
+              {
+                "id": 20,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/20.webp"
+              },
+              {
+                "id": 21,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/21.webp"
+              },
+              {
+                "id": 22,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/22.webp"
+              },
+              {
+                "id": 23,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/23.webp"
+              },
+              {
+                "id": 24,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/24.webp"
+              },
+              {
+                "id": 25,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/25.webp"
+              },
+              {
+                "id": 26,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/26.webp"
+              },
+              {
+                "id": 27,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/27.webp"
+              },
+              {
+                "id": 28,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/28.webp"
+              },
+              {
+                "id": 29,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/29.webp"
+              },
+              {
+                "id": 30,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/30.webp"
+              },
+              {
+                "id": 31,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/31.webp"
+              },
+              {
+                "id": 32,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/32.webp"
+              },
+              {
+                "id": 33,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/33.webp"
+              },
+              {
+                "id": 34,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/34.webp"
+              },
+              {
+                "id": 35,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/35.webp"
+              },
+              {
+                "id": 36,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/36.webp"
+              },
+              {
+                "id": 37,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/37.webp"
+              },
+              {
+                "id": 38,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/38.webp"
+              },
+              {
+                "id": 39,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/39.webp"
+              },
+              {
+                "id": 40,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/40.webp"
+              },
+              {
+                "id": 41,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/41.webp"
+              },
+              {
+                "id": 42,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/42.webp"
+              },
+              {
+                "id": 43,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/43.webp"
+              },
+              {
+                "id": 44,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/44.webp"
+              },
+              {
+                "id": 45,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/45.webp"
+              },
+              {
+                "id": 46,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/46.webp"
+              },
+              {
+                "id": 47,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/47.webp"
+              },
+              {
+                "id": 48,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/48.webp"
+              },
+              {
+                "id": 49,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/49.webp"
+              },
+              {
+                "id": 50,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/50.webp"
+              },
+              {
+                "id": 51,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/51.webp"
+              },
+              {
+                "id": 52,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/52.webp"
+              },
+              {
+                "id": 53,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/53.webp"
+              },
+              {
+                "id": 54,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/54.webp"
+              },
+              {
+                "id": 55,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/55.webp"
+              },
+              {
+                "id": 56,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/56.webp"
+              },
+              {
+                "id": 57,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/57.webp"
+              },
+              {
+                "id": 58,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/58.webp"
+              },
+              {
+                "id": 59,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/59.webp"
+              },
+              {
+                "id": 60,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/60.webp"
+              },
+              {
+                "id": 61,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/61.webp"
+              },
+              {
+                "id": 62,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/62.webp"
+              },
+              {
+                "id": 63,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/63.webp"
+              },
+              {
+                "id": 64,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/64.webp"
+              },
+              {
+                "id": 65,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/65.webp"
+              },
+              {
+                "id": 66,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoBlueBird/pattern/66.webp"
+              }
+            ]
+          }
+        ],
+        "isCategory": true,
+        "provider": "PT Go-jek Indonesia.",
+        "copyright": "© PT Aplikasi Karya Anak Bangsa.",
+        "appstore": "https://apps.apple.com/id/app/gojek/id944875099",
+        "playstore": "https://play.google.com/store/apps/details?id=com.gojek.app&hl=in&gl=US",
+        "country": "Indonesia",
+        "lock": false,
+        "new": true,
+        "new_color": "#D2EFFB",
+        "color": "rgba(0, 179, 249, 0.16)"
+      },
+      {
+        "_id": "87",
+        "name": "BSI Mobile",
+        "type": "Mobile Banking",
+        "category": [ "Finance"],
+        "imageUrl": [{
+            "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BSI%20Mobile/logo.webp"
+          },
+          {
+            "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BSI%20Mobile/mockup.webp"
+          },
+          {
+            "pattern": [
+              {
+                "id": 1,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BSI%20Mobile/pattern/1.webp"
+              },
+              {
+                "id": 2,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BSI%20Mobile/pattern/2.webp"
+              },
+              {
+                "id": 3,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BSI%20Mobile/pattern/3.webp"
+              },
+              {
+                "id": 4,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BSI%20Mobile/pattern/4.webp"
+              },
+              {
+                "id": 5,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BSI%20Mobile/pattern/5.webp"
+              },
+              {
+                "id": 6,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BSI%20Mobile/pattern/6.webp"
+              },
+              {
+                "id": 7,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BSI%20Mobile/pattern/7.webp"
+              },
+              {
+                "id": 8,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BSI%20Mobile/pattern/8.webp"
+              },
+              {
+                "id": 9,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BSI%20Mobile/pattern/9.webp"
+              },
+              {
+                "id": 10,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BSI%20Mobile/pattern/10.webp"
+              },
+              {
+                "id": 11,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BSI%20Mobile/pattern/11.webp"
+              },
+              {
+                "id": 12,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BSI%20Mobile/pattern/12.webp"
+              },
+              {
+                "id": 13,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BSI%20Mobile/pattern/13.webp"
+              },
+              {
+                "id": 14,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BSI%20Mobile/pattern/14.webp"
+              },
+              {
+                "id": 15,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BSI%20Mobile/pattern/15.webp"
+              },
+              {
+                "id": 16,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BSI%20Mobile/pattern/16.webp"
+              },
+              {
+                "id": 17,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BSI%20Mobile/pattern/17.webp"
+              },
+              {
+                "id": 18,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BSI%20Mobile/pattern/18.webp"
+              },
+              {
+                "id": 19,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BSI%20Mobile/pattern/19.webp"
+              },
+              {
+                "id": 20,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BSI%20Mobile/pattern/20.webp"
+              },
+              {
+                "id": 21,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BSI%20Mobile/pattern/21.webp"
+              },
+              {
+                "id": 22,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BSI%20Mobile/pattern/22.webp"
+              },
+              {
+                "id": 23,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BSI%20Mobile/pattern/23.webp"
+              },
+              {
+                "id": 24,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BSI%20Mobile/pattern/24.webp"
+              },
+              {
+                "id": 25,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BSI%20Mobile/pattern/25.webp"
+              },
+              {
+                "id": 26,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BSI%20Mobile/pattern/26.webp"
+              },
+              {
+                "id": 27,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BSI%20Mobile/pattern/27.webp"
+              },
+              {
+                "id": 28,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BSI%20Mobile/pattern/28.webp"
+              },
+              {
+                "id": 29,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BSI%20Mobile/pattern/29.webp"
+              },
+              {
+                "id": 30,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BSI%20Mobile/pattern/30.webp"
+              },
+              {
+                "id": 31,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BSI%20Mobile/pattern/31.webp"
+              },
+              {
+                "id": 32,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BSI%20Mobile/pattern/32.webp"
+              },
+              {
+                "id": 33,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BSI%20Mobile/pattern/33.webp"
+              },
+              {
+                "id": 34,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BSI%20Mobile/pattern/34.webp"
+              },
+              {
+                "id": 35,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BSI%20Mobile/pattern/35.webp"
+              },
+              {
+                "id": 36,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BSI%20Mobile/pattern/36.webp"
+              },
+              {
+                "id": 37,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BSI%20Mobile/pattern/37.webp"
+              },
+              {
+                "id": 38,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BSI%20Mobile/pattern/38.webp"
+              },
+              {
+                "id": 39,
+                "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/BSI%20Mobile/pattern/39.webp"
+              }
+            ]
+          }
+        ],
+        "isCategory": true,
+        "provider": "PT Bank Syariah Indonesia, Tbk.",
+        "copyright": "© PT Bank Syariah Indonesia, Tbk.",
+        "appstore": "https://apps.apple.com/id/app/bsi-mobile/id1410072458",
+        "playstore": "https://play.google.com/store/apps/details?id=com.bsm.activity2&hl=id&gl=US",
+        "country": "Indonesia",
+        "lock": false,
         "new": true,
         "new_color": "#E2F4DC",
         "color": "rgba(99, 211, 59, 0.16)"
       }
-    
 ]
