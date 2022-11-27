@@ -19931,7 +19931,7 @@
     "_id": "71",
     "name": "GoSend",
     "type": "Delivery",
-    "category": ["Super App"],
+    "category": ["Utilities"],
     "imageUrl": [{
         "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/GoSend/logo.webp"
       },
