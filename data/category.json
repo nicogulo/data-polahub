@@ -5,10 +5,18 @@
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/calendar.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/calendar.svg",
     "isNew": false,
-    "status": "Q3"
+    "status": null
   },
   {
     "_id": "2",
+    "name": "Super App",
+    "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/super-app-active.svg",
+    "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/super-app.svg",
+    "isNew": false,
+    "status": null
+  },
+  {
+    "_id": "3",
     "name": "Books",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/book.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/book.svg",
@@ -16,7 +24,7 @@
     "status": null
   },
   {
-    "_id": "3",
+    "_id": "4",
     "name": "Business",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/briefcase.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/briefcase.svg",
@@ -24,7 +32,7 @@
     "isNew": false
   },
   {
-    "_id": "4",
+    "_id": "5",
     "name": "Crypto & Stock",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/ethereum-(eth).svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/ethereum-(eth).svg",
@@ -32,7 +40,7 @@
     "isNew": true
   },
   {
-    "_id": "5",
+    "_id": "6",
     "name": "Education",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/teacher.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/teacher.svg",
@@ -40,7 +48,7 @@
     "isNew": false
   },
   {
-    "_id": "6",
+    "_id": "7",
     "name": "Entertaiment",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/monitor-mobbile.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/monitor-mobbile.svg",
@@ -48,7 +56,7 @@
     "isNew": false
   },
   {
-    "_id": "7",
+    "_id": "8",
     "name": "Finance",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/wallet.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/wallet.svg",
@@ -56,7 +64,7 @@
     "isNew": false
   },
   {
-    "_id": "8",
+    "_id": "9",
     "name": "Food & Drink",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/coffee.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/coffee.svg",
