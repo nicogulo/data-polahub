@@ -27508,7 +27508,7 @@
         "_id": "96",
         "name": "Pintu",
         "type": "Crypto",
-        "category": [ "Crypto & Stocks"],
+        "category": [ "Crypto & Stock"],
         "imageUrl": [{
             "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pintu/logo.webp"
           },
