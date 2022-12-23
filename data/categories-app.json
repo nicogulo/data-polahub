@@ -14957,7 +14957,7 @@
     "_id": "54",
     "name": "Pluang",
     "type": "Stocks",
-    "category": [ "Crypto & Stocks"],
+    "category": [ "Crypto & Stock"],
     "imageUrl": [{
         "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pluang/logo.webp"
       },
@@ -27508,7 +27508,7 @@
         "_id": "96",
         "name": "Pintu",
         "type": "Crypto",
-        "category": [ "Crypto & Stocks"],
+        "category": [ "Crypto & Stock"],
         "imageUrl": [{
             "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Pintu/logo.webp"
           },
