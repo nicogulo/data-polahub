@@ -28,8 +28,8 @@
     "name": "Business",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/briefcase.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/briefcase.svg",
-    "status": null,
-    "isNew": false
+    "status": "NEW",
+    "isNew": true
   },
   {
     "_id": "5",
@@ -52,24 +52,24 @@
     "name": "Entertaiment",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/monitor-mobbile.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/monitor-mobbile.svg",
-    "status": null,
-    "isNew": false
+    "status": "NEW",
+    "isNew": true
   },
   {
     "_id": "8",
     "name": "Finance",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/wallet.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/wallet.svg",
-    "status": "NEW",
-    "isNew": true
+    "status": null,
+    "isNew": false
   },
   {
     "_id": "9",
     "name": "Food & Drink",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/coffee.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/coffee.svg",
-    "status": "NEW",
-    "isNew": true
+    "status": null,
+    "isNew": false
   },
   {
     "_id": "asd1293uasdads1",
@@ -84,8 +84,8 @@
     "name": "Health",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/heart.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/heart.svg",
-    "status": "NEW",
-    "isNew": true
+    "status": null,
+    "isNew": false
   },
   {
     "_id": "asd1293uasdads1",
@@ -100,8 +100,8 @@
     "name": "Medical",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/milk.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/milk.svg",
-    "status": null,
-    "isNew": false
+    "status": "NEW",
+    "isNew": true
   },
   {
     "_id": "asd1293uasdads1",
