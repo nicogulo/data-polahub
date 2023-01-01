@@ -1,5 +1,4 @@
-[
-  {
+[{
     "_id": "1",
     "name": "Coming Soon",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/calendar.svg",
@@ -68,14 +67,6 @@
     "name": "Food & Drink",
     "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/coffee.svg",
     "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/coffee.svg",
-    "status": null,
-    "isNew": false
-  },
-  {
-    "_id": "asd1293uasdads1",
-    "name": "Gojek Product",
-    "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/gojek-ac.svg",
-    "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/gojek-non.svg",
     "status": null,
     "isNew": false
   },
