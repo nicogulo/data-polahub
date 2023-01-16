@@ -1,104 +1,112 @@
 [{
     "_id": "1",
     "name": "Coming Soon",
-    "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/calendar.svg",
-    "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/calendar.svg",
+    "imageActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/active/calendar.svg",
+    "imageInActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/normal/calendar.svg",
     "isNew": false,
     "status": null
   },
   {
     "_id": "2",
     "name": "Super App",
-    "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/super-app-active.svg",
-    "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/super-app.svg",
+    "imageActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/active/super-app-active.svg",
+    "imageInActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/normal/super-app.svg",
     "isNew": false,
     "status": null
   },
   {
     "_id": "3",
     "name": "Books",
-    "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/book.svg",
-    "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/book.svg",
+    "imageActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/active/book.svg",
+    "imageInActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/normal/book.svg",
     "isNew": false,
     "status": null
   },
   {
     "_id": "4",
     "name": "Business",
-    "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/briefcase.svg",
-    "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/briefcase.svg",
+    "imageActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/active/briefcase.svg",
+    "imageInActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/normal/briefcase.svg",
     "status": null,
     "isNew": false
   },
   {
     "_id": "5",
     "name": "Crypto & Stock",
-    "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/ethereum-(eth).svg",
-    "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/ethereum-(eth).svg",
+    "imageActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/active/crypto.svg",
+    "imageInActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/normal/crypto.svg",
     "status": null,
     "isNew": false
   },
   {
     "_id": "6",
     "name": "Education",
-    "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/teacher.svg",
-    "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/teacher.svg",
-    "status": null,
+    "imageActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/active/teacher.svg",
+    "imageInActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/normal/teacher.svg",
+    "status": "NEW",
     "isNew": false
   },
   {
     "_id": "7",
     "name": "Entertaiment",
-    "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/monitor-mobbile.svg",
-    "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/monitor-mobbile.svg",
-    "status": "NEW",
-    "isNew": true
+    "imageActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/active/monitor-mobbile.svg",
+    "imageInActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/normal/monitor-mobbile.svg",
+    "status": null,
+    "isNew": false
   },
   {
     "_id": "8",
     "name": "Finance",
-    "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/wallet.svg",
-    "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/wallet.svg",
+    "imageActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/active/wallet.svg",
+    "imageInActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/normal/wallet.svg",
     "status": null,
     "isNew": false
   },
   {
     "_id": "9",
     "name": "Food & Drink",
-    "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/coffee.svg",
-    "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/coffee.svg",
+    "imageActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/active/coffee.svg",
+    "imageInActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/normal/coffee.svg",
+    "status": null,
+    "isNew": false
+  },
+  {
+    "_id": "10",
+    "name": "Game",
+    "imageActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/active/gameboy-active.svg",
+    "imageInActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/normal/gameboy.svg",
     "status": "NEW",
     "isNew": true
   },
   {
     "_id": "asd1293uasdads1",
     "name": "Health",
-    "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/heart.svg",
-    "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/heart.svg",
+    "imageActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/active/heart.svg",
+    "imageInActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/normal/heart.svg",
     "status": null,
     "isNew": false
   },
   {
     "_id": "asd1293uasdads1",
     "name": "Lifestyle",
-    "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/glass.svg",
-    "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/glass.svg",
-    "status": "NEW",
-    "isNew": true
+    "imageActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/active/glass.svg",
+    "imageInActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/normal/glass.svg",
+    "status": null,
+    "isNew": false
   },
   {
     "_id": "asd1293uasdads1",
     "name": "Medical",
-    "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/milk.svg",
-    "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/milk.svg",
+    "imageActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/active/milk.svg",
+    "imageInActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/normal/milk.svg",
     "status": null,
     "isNew": false
   },
   {
     "_id": "asd1293uasdads1",
     "name": "Music",
-    "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/music.svg",
-    "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/music.svg",
+    "imageActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/active/music.svg",
+    "imageInActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/normal/music.svg",
     "status": null,
     "isNew": false
   },
@@ -106,40 +114,40 @@
   {
     "_id": "asd1293uasdads1",
     "name": "Navigation",
-    "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/map.svg",
-    "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/map.svg",
-    "status":"NEW",
-    "isNew": true
+    "imageActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/active/map.svg",
+    "imageInActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/normal/map.svg",
+    "status": null,
+    "isNew": false
   },
   {
     "_id": "asd1293uasdads1",
     "name": "News",
-    "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/hashtag-up.svg",
-    "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/hashtag-up.svg",
+    "imageActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/active/hashtag-up.svg",
+    "imageInActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/normal/hashtag-up.svg",
     "status": null,
     "isNew": false
   },
   {
     "_id": "asd1293uasdads1",
     "name": "Photo & Video",
-    "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/camera.svg",
-    "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/camera.svg",
+    "imageActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/active/camera.svg",
+    "imageInActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/normal/camera.svg",
     "status": null,
     "isNew": false
   },
   {
     "_id": "asd1293uasdads1",
     "name": "Productivity",
-    "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/task-square.svg",
-    "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/task-square.svg",
+    "imageActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/active/task-square.svg",
+    "imageInActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/normal/task-square.svg",
     "status": null,
     "isNew": false
   },
   {
     "_id": "asd1293uasdads1",
     "name": "References",
-    "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/search-normal.svg",
-    "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/search-normal.svg",
+    "imageActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/active/search-normal.svg",
+    "imageInActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/normal/search-normal.svg",
     "status": null,
     "isNew": false
   },
@@ -147,16 +155,16 @@
   {
     "_id": "asd1293uasdads1",
     "name": "Shopping",
-    "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/bag.svg",
-    "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/bag.svg",
+    "imageActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/active/bag.svg",
+    "imageInActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/normal/bag.svg",
     "status": null,
     "isNew": false
   },
   {
     "_id": "asd1293uasdads1",
     "name": "Social",
-    "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/messages.svg",
-    "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/messages.svg",
+    "imageActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/active/messages.svg",
+    "imageInActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/normal/messages.svg",
     "status": null,
     "isNew": false
   },
@@ -164,26 +172,26 @@
   {
     "_id": "asd1293uasdads1",
     "name": "Sports",
-    "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/weight.svg",
-    "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/weight.svg",
+    "imageActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/active/weight.svg",
+    "imageInActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/normal/weight.svg",
     "status": null,
     "isNew": false
   },
   {
     "_id": "asd1293uasdads1",
     "name": "Travel",
-    "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/airplane.svg",
-    "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/airplane.svg",
+    "imageActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/active/airplane.svg",
+    "imageInActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/normal/airplane.svg",
     "status": null,
     "isNew": false
   },
   {
     "_id": "asd1293uasdads1",
     "name": "Utilities",
-    "imageActive": "https://data-polahub.herokuapp.com/images/icons/active/box.svg",
-    "imageInActive": "https://data-polahub.herokuapp.com/images/icons/normal/box.svg",
-    "status": null,
-    "isNew": false
+    "imageActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/active/box.svg",
+    "imageInActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/normal/box.svg",
+    "status": "NEW",
+    "isNew": true
 
   }
 ]
