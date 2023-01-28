@@ -47,7 +47,7 @@ app.get("/api/data-app/filter/:category", function (req, res, next) {
   fs.readFile(CATEGORY_APP_JSON, function (err, data) {
     if (err) process.exit(1);
     res.setHeader("Access-Control-Allow-Origin", "*");
-    if (req.params.category === "All Categories") {
+    if (req.params.category === "All") {
       // sorting desc
       const dataParse = JSON.parse(data);
       dataParse.sort(function (a, b) {
