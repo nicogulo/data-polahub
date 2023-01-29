@@ -57,9 +57,22 @@ app.get("/api/data-app", (req, res) => {
     const page = req.query.page || 1;
     const limit = req.query.limit || 12;
     const search = req.query.search || "";
+    const category = req.query.category || "All";
 
     const filteredData = parsedData
       .filter((item) => item.name.toLowerCase().includes(search.toLowerCase()))
+      .filter((item) => {
+        if (category === "All") {
+          return item;
+        } else {
+          const categoryItem = item.category;
+          for (const i of categoryItem) {
+            if (i === category) {
+              return item;
+            }
+          }
+        }
+      })
       .sort((a, b) => b._id - a._id);
 
     const startIndex = (page - 1) * limit;
