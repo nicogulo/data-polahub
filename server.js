@@ -21,27 +21,58 @@ app.get("/api/data", function (req, res, next) {
   });
 });
 
-app.get("/api/data-app", function (req, res, next) {
-  fs.readFile(CATEGORY_APP_JSON, function (err, data) {
-    if (err) process.exit(1);
-    res.setHeader("Access-Control-Allow-Origin", "*");
-    res.json(JSON.parse(data));
-  });
-});
+// app.get("/api/data-app", function (req, res, next) {
+//   fs.readFile(CATEGORY_APP_JSON, function (err, data) {
+//     if (err) process.exit(1);
+//     res.setHeader("Access-Control-Allow-Origin", "*");
+//     res.json(JSON.parse(data));
+//   });
+// });
 
-app.get("/api/data-app/search", function (req, res, next) {
-  fs.readFile(CATEGORY_APP_JSON, function (err, data) {
-    if (err) process.exit(1);
-    res.setHeader("Access-Control-Allow-Origin", "*");
+// app.get("/api/data-app/search", function (req, res, next) {
+//   fs.readFile(CATEGORY_APP_JSON, function (err, data) {
+//     if (err) process.exit(1);
+//     res.setHeader("Access-Control-Allow-Origin", "*");
 
-    const dataParse = JSON.parse(data);
-    const query = req.query.search;
+//     const dataParse = JSON.parse(data);
+//     const query = req.query.search;
 
-    const result = dataParse.filter(function (item) {
-      const name = item.name;
-      return name.toLowerCase().indexOf(query.toLowerCase()) !== -1;
+//     const result = dataParse.filter(function (item) {
+//       const name = item.name;
+//       return name.toLowerCase().indexOf(query.toLowerCase()) !== -1;
+//     });
+//     res.json(result);
+//   });
+// });
+
+app.get("/api/data-app", (req, res) => {
+  fs.readFile(CATEGORY_APP_JSON, (err, data) => {
+    if (err) {
+      return res.status(500).send({
+        error: "Error reading the file",
+      });
+    }
+
+    const parsedData = JSON.parse(data);
+    const page = req.query.page || 1;
+    const limit = req.query.limit || 12;
+    const search = req.query.search || "";
+
+    const filteredData = parsedData
+      .filter((item) => item.name.toLowerCase().includes(search.toLowerCase()))
+      .sort((a, b) => b.id - a.id);
+
+    const startIndex = (page - 1) * limit;
+    const endIndex = page * limit;
+
+    const totalData = filteredData.length;
+    const paginatedData = filteredData.slice(startIndex, endIndex);
+
+    return res.send({
+      page: page,
+      totalData: totalData,
+      data: paginatedData,
     });
-    res.json(result);
   });
 });
 
@@ -87,52 +118,6 @@ app.get("/api/data-app/filter/:category", function (req, res, next) {
     }
   });
 });
-
-// app.get("/api/data-app/:_id", function (req, res, next) {
-//   fs.readFile(CHARACTERS_JSON, function (err, data) {
-//     if (err) process.exit(1);
-//     json = JSON.parse(data);
-//     data_app = [];
-//     for (character of json) {
-//       if (character.house.toLowerCase() == req.params.house.toLowerCase()) {
-//         data_app.push(character);
-//       }
-//     }
-//     console.log(data_app);
-//     res.setHeader("Access-Control-Allow-Origin", "*");
-//     res.json(data_app);
-//   });
-// });
-
-// app.get('/api/characters/students', function(req, res, next){
-//   fs.readFile(CHARACTERS_JSON, function(err, data){
-//     if(err) process.exit(1);
-//     json = JSON.parse(data);
-//     students_array = [];
-//     for(character of json){
-//       if(character.hogwartsStudent == true){
-//       students_array.push(character);
-//       }
-//     }
-//     res.setHeader('Access-Control-Allow-Origin', '*');
-//     res.json(students_array);
-//   })
-// })
-
-// app.get('/api/characters/staff', function(req, res, next){
-//   fs.readFile(CHARACTERS_JSON, function(err, data){
-//     if(err) process.exit(1);
-//     json = JSON.parse(data);
-//     staff_array = [];
-//     for(character of json){
-//       if(character.hogwartsStaff == true){
-//       staff_array.push(character);
-//       }
-//     }
-//     res.setHeader('Access-Control-Allow-Origin', '*');
-//     res.json(staff_array);
-//   })
-// })
 
 app.use(express.static("public"));
 
