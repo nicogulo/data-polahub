@@ -60,7 +60,7 @@ app.get("/api/data-app", (req, res) => {
 
     const filteredData = parsedData
       .filter((item) => item.name.toLowerCase().includes(search.toLowerCase()))
-      .sort((a, b) => b.id - a.id);
+      .sort((a, b) => b._id - a._id);
 
     const startIndex = (page - 1) * limit;
     const endIndex = page * limit;
