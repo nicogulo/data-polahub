@@ -1,11 +1,4 @@
-[{
-    "_id": "1",
-    "name": "Coming Soon",
-    "imageActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/active/calendar.svg",
-    "imageInActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/normal/calendar.svg",
-    "isNew": false,
-    "status": null
-  },
+[
   {
     "_id": "2",
     "name": "Super App",
