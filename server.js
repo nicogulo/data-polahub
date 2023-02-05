@@ -21,30 +21,6 @@ app.get("/api/data", function (req, res, next) {
   });
 });
 
-// app.get("/api/data-app", function (req, res, next) {
-//   fs.readFile(CATEGORY_APP_JSON, function (err, data) {
-//     if (err) process.exit(1);
-//     res.setHeader("Access-Control-Allow-Origin", "*");
-//     res.json(JSON.parse(data));
-//   });
-// });
-
-// app.get("/api/data-app/search", function (req, res, next) {
-//   fs.readFile(CATEGORY_APP_JSON, function (err, data) {
-//     if (err) process.exit(1);
-//     res.setHeader("Access-Control-Allow-Origin", "*");
-
-//     const dataParse = JSON.parse(data);
-//     const query = req.query.search;
-
-//     const result = dataParse.filter(function (item) {
-//       const name = item.name;
-//       return name.toLowerCase().indexOf(query.toLowerCase()) !== -1;
-//     });
-//     res.json(result);
-//   });
-// });
-
 app.get("/api/data-app", (req, res) => {
   fs.readFile(CATEGORY_APP_JSON, (err, data) => {
     if (err) {
