@@ -181,8 +181,8 @@
   {
     "_id": "asd1293uasdads1",
     "name": "Utilities",
-    "imageActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/active/box.svg",
-    "imageInActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/normal/box.svg",
+    "imageActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/active/utilities.svg",
+    "imageInActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/normal/utilities.svg",
     "status": null,
     "isNew": false
 
