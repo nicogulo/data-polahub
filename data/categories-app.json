@@ -36462,7 +36462,7 @@
     "playstore": "https://play.google.com/store/apps/details?id=com.ultrahuman.android&hl=en_IN&gl=US",
     "country": "India",
     "lock": false,
-    "new": true,
+    "new": false,
     "new_color": "#FADBE1",
     "color": "rgba(249, 54, 90, 0.16)"
   },
@@ -36733,7 +36733,7 @@
     "playstore": "https://play.google.com/store/apps/details?id=com.google.android.apps.maps&hl=id&gl=US",
     "country": "U.S",
     "lock": false,
-    "new": true,
+    "new": false,
     "new_color": "#D2EFFB",
       "color": "rgba(0, 179, 249, 0.16)"
   },
@@ -37041,7 +37041,7 @@
     "web": "https://mobbin.com",
     "country": "Singapore",
     "lock": false,
-    "new": true,
+    "new": false,
     "new_color": "#FADBE1",
     "color": "rgba(249, 54, 90, 0.16)"
   },
@@ -37324,7 +37324,7 @@
     "playstore": "https://play.google.com/store/apps/details?id=com.fantome.penguinisle&hl=en&gl=US",
     "country": "China",
     "lock": false,
-    "new": true,
+    "new": false,
     "new_color": "#E2F4DC",
     "color": "rgba(99, 211, 59, 0.16)"
   },
@@ -38188,10 +38188,10 @@
     "type": "Shopping",
     "category": [ "Shopping"],
     "imageUrl": [{
-        "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Vidio/logo.webp"
+        "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/logo.webp"
       },
       {
-        "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Vidio/mockup.webp"
+        "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/mockup.webp"
       },
       {
         "pattern": [
