@@ -16700,7 +16700,7 @@
   {
     "_id": "59",
     "name": "Zomato",
-    "type": "F&B Delivery",
+    "type": "Food review",
     "category": ["Food & Drink"],
     "imageUrl": [{
         "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Zomato/logo.webp"
@@ -23133,7 +23133,7 @@
       {
         "_id": "82",
         "name": "Anteraja",
-        "type": "Delivery",
+        "type": "Shipping",
         "category": ["Utilities"],
         "imageUrl": [{
             "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/logo.webp"
@@ -23516,7 +23516,7 @@
       {
         "_id": "83",
         "name": "TikTok Shop",
-        "type": "Social Media",
+        "type": "Marketplace",
         "category": ["Shopping"],
         "imageUrl": [{
             "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/logo.webp"
@@ -28819,7 +28819,7 @@
       {
         "_id": "100",
         "name": "Oy!",
-        "type": "Payment",
+        "type": "Finance",
         "category": [ "Finance"],
         "imageUrl": [{
             "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Oy!/logo.webp"
@@ -36739,7 +36739,7 @@
   },
   {
     "_id": "130",
-    "name": "Mobbin",
+    "name": "Mobbin Web",
     "type": "Design Inspiration",
     "category": ["References"],
     "imageUrl": [{
