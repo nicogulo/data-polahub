@@ -16700,7 +16700,7 @@
   {
     "_id": "59",
     "name": "Zomato",
-    "type": "F&B Delivery",
+    "type": "Food review",
     "category": ["Food & Drink"],
     "imageUrl": [{
         "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Zomato/logo.webp"
@@ -23133,7 +23133,7 @@
       {
         "_id": "82",
         "name": "Anteraja",
-        "type": "Delivery",
+        "type": "Shipping",
         "category": ["Utilities"],
         "imageUrl": [{
             "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Anteraja/logo.webp"
@@ -23516,7 +23516,7 @@
       {
         "_id": "83",
         "name": "TikTok Shop",
-        "type": "Social Media",
+        "type": "Marketplace",
         "category": ["Shopping"],
         "imageUrl": [{
             "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/TikTok/logo.webp"
@@ -28819,7 +28819,7 @@
       {
         "_id": "100",
         "name": "Oy!",
-        "type": "Payment",
+        "type": "Finance",
         "category": [ "Finance"],
         "imageUrl": [{
             "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Oy!/logo.webp"
@@ -36462,7 +36462,7 @@
     "playstore": "https://play.google.com/store/apps/details?id=com.ultrahuman.android&hl=en_IN&gl=US",
     "country": "India",
     "lock": false,
-    "new": true,
+    "new": false,
     "new_color": "#FADBE1",
     "color": "rgba(249, 54, 90, 0.16)"
   },
@@ -36733,13 +36733,13 @@
     "playstore": "https://play.google.com/store/apps/details?id=com.google.android.apps.maps&hl=id&gl=US",
     "country": "U.S",
     "lock": false,
-    "new": true,
+    "new": false,
     "new_color": "#D2EFFB",
       "color": "rgba(0, 179, 249, 0.16)"
   },
   {
     "_id": "130",
-    "name": "Mobbin",
+    "name": "Mobbin Web",
     "type": "Design Inspiration",
     "category": ["References"],
     "imageUrl": [{
@@ -37041,7 +37041,7 @@
     "web": "https://mobbin.com",
     "country": "Singapore",
     "lock": false,
-    "new": true,
+    "new": false,
     "new_color": "#FADBE1",
     "color": "rgba(249, 54, 90, 0.16)"
   },
@@ -37324,8 +37324,1498 @@
     "playstore": "https://play.google.com/store/apps/details?id=com.fantome.penguinisle&hl=en&gl=US",
     "country": "China",
     "lock": false,
-    "new": true,
+    "new": false,
     "new_color": "#E2F4DC",
     "color": "rgba(99, 211, 59, 0.16)"
+  },
+  {
+    "_id": "132",
+    "name": "Riliv",
+    "type": "Meditation",
+    "category": [ "Health"],
+    "imageUrl": [{
+        "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/logo.webp"
+      },
+      {
+        "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/mockup.webp"
+      },
+      {
+        "pattern": [
+          {
+            "id": 1,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/1.webp"
+          },
+          {
+            "id": 2,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/2.webp"
+          },
+          {
+            "id": 3,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/3.webp"
+          },
+          {
+            "id": 4,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/4.webp"
+          },
+          {
+            "id": 5,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/5.webp"
+          },
+          {
+            "id": 6,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/6.webp"
+          },
+          {
+            "id": 7,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/7.webp"
+          },
+          {
+            "id": 8,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/8.webp"
+          },
+          {
+            "id": 9,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/9.webp"
+          },
+          {
+            "id": 10,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/10.webp"
+          },
+          {
+            "id": 11,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/11.webp"
+          },
+          {
+            "id": 12,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/12.webp"
+          },
+          {
+            "id": 13,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/13.webp"
+          },
+          {
+            "id": 14,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/14.webp"
+          },
+          {
+            "id": 15,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/15.webp"
+          },
+          {
+            "id": 16,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/16.webp"
+          },
+          {
+            "id": 17,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/17.webp"
+          },
+          {
+            "id": 18,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/18.webp"
+          },
+          {
+            "id": 19,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/19.webp"
+          },
+          {
+            "id": 20,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/20.webp"
+          },
+          {
+            "id": 21,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/21.webp"
+          },
+          {
+            "id": 22,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/22.webp"
+          },
+          {
+            "id": 23,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/23.webp"
+          },
+          {
+            "id": 24,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/24.webp"
+          },
+          {
+            "id": 25,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/25.webp"
+          },
+          {
+            "id": 26,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/26.webp"
+          },
+          {
+            "id": 27,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/27.webp"
+          },
+          {
+            "id": 28,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/28.webp"
+          },
+          {
+            "id": 29,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/29.webp"
+          },
+          {
+            "id": 30,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/30.webp"
+          },
+          {
+            "id": 31,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/31.webp"
+          },
+          {
+            "id": 32,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/32.webp"
+          },
+          {
+            "id": 33,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/33.webp"
+          },
+          {
+            "id": 34,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/34.webp"
+          },
+          {
+            "id": 35,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/35.webp"
+          },
+          {
+            "id": 36,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/36.webp"
+          },
+          {
+            "id": 37,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/37.webp"
+          },
+          {
+            "id": 38,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/38.webp"
+          },
+          {
+            "id": 39,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/39.webp"
+          },
+          {
+            "id": 40,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/40.webp"
+          },
+          {
+            "id": 41,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/41.webp"
+          },
+          {
+            "id": 42,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/42.webp"
+          },
+          {
+            "id": 43,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/43.webp"
+          },
+          {
+            "id": 44,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/44.webp"
+          },
+          {
+            "id": 45,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/45.webp"
+          },
+          {
+            "id": 46,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/46.webp"
+          },
+          {
+            "id": 47,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/47.webp"
+          },
+          {
+            "id": 48,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/48.webp"
+          },
+          {
+            "id": 49,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/49.webp"
+          },
+          {
+            "id": 50,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/50.webp"
+          },
+          {
+            "id": 51,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/51.webp"
+          },
+          {
+            "id": 52,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/52.webp"
+          },
+          {
+            "id": 53,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/53.webp"
+          },
+          {
+            "id": 54,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/54.webp"
+          },
+          {
+            "id": 55,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/55.webp"
+          },
+          {
+            "id": 56,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/56.webp"
+          },
+          {
+            "id": 57,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Riliv/pattern/57.webp"
+          }
+        ]
+      }
+    ],
+    "isCategory": true,
+    "provider": "PT RILIV PSIKOLOGI INDONESIA.",
+    "copyright": "© Copyright 2020. PT Riliv Psikologi Indonesia.",
+    "appstore": "https://apps.apple.com/id/app/riliv/id1510486066",
+    "playstore": "https://play.google.com/store/apps/details?id=nozero.apps1&hl=id&gl=US",
+    "country": "Indonesia",
+    "lock": false,
+    "new": true,
+    "new_color": "#D2EFFB",
+    "color": "rgba(0, 179, 249, 0.16)"
+  },
+  {
+    "_id": "133",
+    "name": "Airbnb Stays",
+    "type": "Homestay",
+    "category": [ "Travel"],
+    "imageUrl": [{
+        "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/logo.webp"
+      },
+      {
+        "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/mockup.webp"
+      },
+      {
+        "pattern": [
+          {
+            "id": 1,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/1.webp"
+          },
+          {
+            "id": 2,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/2.webp"
+          },
+          {
+            "id": 3,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/3.webp"
+          },
+          {
+            "id": 4,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/4.webp"
+          },
+          {
+            "id": 5,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/5.webp"
+          },
+          {
+            "id": 6,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/6.webp"
+          },
+          {
+            "id": 7,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/7.webp"
+          },
+          {
+            "id": 8,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/8.webp"
+          },
+          {
+            "id": 9,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/9.webp"
+          },
+          {
+            "id": 10,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/10.webp"
+          },
+          {
+            "id": 11,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/11.webp"
+          },
+          {
+            "id": 12,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/12.webp"
+          },
+          {
+            "id": 13,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/13.webp"
+          },
+          {
+            "id": 14,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/14.webp"
+          },
+          {
+            "id": 15,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/15.webp"
+          },
+          {
+            "id": 16,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/16.webp"
+          },
+          {
+            "id": 17,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/17.webp"
+          },
+          {
+            "id": 18,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/18.webp"
+          },
+          {
+            "id": 19,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/19.webp"
+          },
+          {
+            "id": 20,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/20.webp"
+          },
+          {
+            "id": 21,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/21.webp"
+          },
+          {
+            "id": 22,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/22.webp"
+          },
+          {
+            "id": 23,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/23.webp"
+          },
+          {
+            "id": 24,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/24.webp"
+          },
+          {
+            "id": 25,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/25.webp"
+          },
+          {
+            "id": 26,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/26.webp"
+          },
+          {
+            "id": 27,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/27.webp"
+          },
+          {
+            "id": 28,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/28.webp"
+          },
+          {
+            "id": 29,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/29.webp"
+          },
+          {
+            "id": 30,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/30.webp"
+          },
+          {
+            "id": 31,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/31.webp"
+          },
+          {
+            "id": 32,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/32.webp"
+          },
+          {
+            "id": 33,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/33.webp"
+          },
+          {
+            "id": 34,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/34.webp"
+          },
+          {
+            "id": 35,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/35.webp"
+          },
+          {
+            "id": 36,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/36.webp"
+          },
+          {
+            "id": 37,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/37.webp"
+          },
+          {
+            "id": 38,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/38.webp"
+          },
+          {
+            "id": 39,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/39.webp"
+          },
+          {
+            "id": 40,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/40.webp"
+          },
+          {
+            "id": 41,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/41.webp"
+          },
+          {
+            "id": 42,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/42.webp"
+          },
+          {
+            "id": 43,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/43.webp"
+          },
+          {
+            "id": 44,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/44.webp"
+          },
+          {
+            "id": 45,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/45.webp"
+          },
+          {
+            "id": 46,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/46.webp"
+          },
+          {
+            "id": 47,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/47.webp"
+          },
+          {
+            "id": 48,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/48.webp"
+          },
+          {
+            "id": 49,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/49.webp"
+          },
+          {
+            "id": 50,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/50.webp"
+          },
+          {
+            "id": 51,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/51.webp"
+          },
+          {
+            "id": 52,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/52.webp"
+          },
+          {
+            "id": 53,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/53.webp"
+          },
+          {
+            "id": 54,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/54.webp"
+          },
+          {
+            "id": 55,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/55.webp"
+          },
+          {
+            "id": 56,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/56.webp"
+          },
+          {
+            "id": 57,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/57.webp"
+          },
+          {
+            "id": 58,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/58.webp"
+          },
+          {
+            "id": 59,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/59.webp"
+          },
+          {
+            "id": 60,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/60.webp"
+          },
+          {
+            "id": 61,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/61.webp"
+          },
+          {
+            "id": 62,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/62.webp"
+          },
+          {
+            "id": 63,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/63.webp"
+          },
+          {
+            "id": 64,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/64.webp"
+          },
+          {
+            "id": 65,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/65.webp"
+          },
+          {
+            "id": 66,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/66.webp"
+          },
+          {
+            "id": 67,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/67.webp"
+          },
+          {
+            "id": 68,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/68.webp"
+          },
+          {
+            "id": 69,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/69.webp"
+          },
+          {
+            "id": 70,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/70.webp"
+          },
+          {
+            "id": 71,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/71.webp"
+          },
+          {
+            "id": 72,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/72.webp"
+          },
+          {
+            "id": 73,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/73.webp"
+          },
+          {
+            "id": 74,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/74.webp"
+          },
+          {
+            "id": 75,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/75.webp"
+          },
+          {
+            "id": 76,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/76.webp"
+          },
+          {
+            "id": 77,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/77.webp"
+          },
+          {
+            "id": 78,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/78.webp"
+          },
+          {
+            "id": 79,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/79.webp"
+          },
+          {
+            "id": 80,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/80.webp"
+          },
+          {
+            "id": 81,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/81.webp"
+          },
+          {
+            "id": 82,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/82.webp"
+          },
+          {
+            "id": 83,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/83.webp"
+          },
+          {
+            "id": 84,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/84.webp"
+          },
+          {
+            "id": 85,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/85.webp"
+          },
+          {
+            "id": 86,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/86.webp"
+          },
+          {
+            "id": 87,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/87.webp"
+          },
+          {
+            "id": 88,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/88.webp"
+          },
+          {
+            "id": 89,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/89.webp"
+          },
+          {
+            "id": 90,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/90.webp"
+          },
+          {
+            "id": 91,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/91.webp"
+          },
+          {
+            "id": 92,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/92.webp"
+          },
+          {
+            "id": 93,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/93.webp"
+          },
+          {
+            "id": 94,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/94.webp"
+          },
+          {
+            "id": 95,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/95.webp"
+          },
+          {
+            "id": 96,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/96.webp"
+          },
+          {
+            "id": 97,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/97.webp"
+          },
+          {
+            "id": 98,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/98.webp"
+          },
+          {
+            "id": 99,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/99.webp"
+          },
+          {
+            "id": 100,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/100.webp"
+          },
+          {
+            "id": 101,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/101.webp"
+          },
+          {
+            "id": 102,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/102.webp"
+          },
+          {
+            "id": 103,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/103.webp"
+          },
+          {
+            "id": 104,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/104.webp"
+          },
+          {
+            "id": 105,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/105.webp"
+          },
+          {
+            "id": 106,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/106.webp"
+          },
+          {
+            "id": 107,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/107.webp"
+          },
+          {
+            "id": 108,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/108.webp"
+          },
+          {
+            "id": 109,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/109.webp"
+          },
+          {
+            "id": 110,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/110.webp"
+          },
+          {
+            "id": 111,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/111.webp"
+          },
+          {
+            "id": 112,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/112.webp"
+          },
+          {
+            "id": 113,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/113.webp"
+          },
+          {
+            "id": 114,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/114.webp"
+          },
+          {
+            "id": 115,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/115.webp"
+          },
+          {
+            "id": 116,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/116.webp"
+          },
+          {
+            "id": 117,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/117.webp"
+          },
+          {
+            "id": 118,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/118.webp"
+          },
+          {
+            "id": 119,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/119.webp"
+          },
+          {
+            "id": 120,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/120.webp"
+          },
+          {
+            "id": 121,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/121.webp"
+          },
+          {
+            "id": 122,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/122.webp"
+          },
+          {
+            "id": 123,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/123.webp"
+          },
+          {
+            "id": 124,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/124.webp"
+          },
+          {
+            "id": 125,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/125.webp"
+          },
+          {
+            "id": 126,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/126.webp"
+          },
+          {
+            "id": 127,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/127.webp"
+          },
+          {
+            "id": 128,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/128.webp"
+          },
+          {
+            "id": 129,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/129.webp"
+          },
+          {
+            "id": 130,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/130.webp"
+          },
+          {
+            "id": 131,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/131.webp"
+          },
+          {
+            "id": 132,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/132.webp"
+          },
+          {
+            "id": 133,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/133.webp"
+          },
+          {
+            "id": 134,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/134.webp"
+          },
+          {
+            "id": 135,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/135.webp"
+          },
+          {
+            "id": 136,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/136.webp"
+          },
+          {
+            "id": 137,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/137.webp"
+          },
+          {
+            "id": 138,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/138.webp"
+          },
+          {
+            "id": 139,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/139.webp"
+          },
+          {
+            "id": 140,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/140.webp"
+          },
+          {
+            "id": 141,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/141.webp"
+          },
+          {
+            "id": 142,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/142.webp"
+          },
+          {
+            "id": 143,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Airbnb%20Stays/pattern/143.webp"
+          }
+        ]
+      }
+    ],
+    "isCategory": true,
+    "provider": "Airbnb, Inc.",
+    "copyright": "©2021 Airbnb, Inc.",
+    "appstore": "https://apps.apple.com/us/app/airbnb/id401626263",
+    "playstore": "https://play.google.com/store/apps/details?id=com.airbnb.android&hl=en&gl=US",
+    "country": "U.S",
+    "lock": false,
+    "new": true,
+    "new_color": "#FADBE1",
+    "color": "rgba(249, 54, 90, 0.16)"
+  },
+  {
+    "_id": "134",
+    "name": "Walmart Web",
+    "type": "Shopping",
+    "category": [ "Shopping"],
+    "imageUrl": [{
+        "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/logo.webp"
+      },
+      {
+        "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/mockup.webp"
+      },
+      {
+        "pattern": [
+         
+          {
+            "id": 1,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/1.webp"
+          },
+          {
+            "id": 2,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/2.webp"
+          },
+          {
+            "id": 3,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/3.webp"
+          },
+          {
+            "id": 4,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/4.webp"
+          },
+          {
+            "id": 5,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/5.webp"
+          },
+          {
+            "id": 6,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/6.webp"
+          },
+          {
+            "id": 7,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/7.webp"
+          },
+          {
+            "id": 8,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/8.webp"
+          },
+          {
+            "id": 9,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/9.webp"
+          },
+          {
+            "id": 10,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/10.webp"
+          },
+          {
+            "id": 11,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/11.webp"
+          },
+          {
+            "id": 12,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/12.webp"
+          },
+          {
+            "id": 13,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/13.webp"
+          },
+          {
+            "id": 14,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/14.webp"
+          },
+          {
+            "id": 15,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/15.webp"
+          },
+          {
+            "id": 16,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/16.webp"
+          },
+          {
+            "id": 17,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/17.webp"
+          },
+          {
+            "id": 18,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/18.webp"
+          },
+          {
+            "id": 19,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/19.webp"
+          },
+          {
+            "id": 20,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/20.webp"
+          },
+          {
+            "id": 21,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/21.webp"
+          },
+          {
+            "id": 22,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/22.webp"
+          },
+          {
+            "id": 23,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/23.webp"
+          },
+          {
+            "id": 24,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/24.webp"
+          },
+          {
+            "id": 25,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/25.webp"
+          },
+          {
+            "id": 26,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/26.webp"
+          },
+          {
+            "id": 27,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/27.webp"
+          },
+          {
+            "id": 28,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/28.webp"
+          },
+          {
+            "id": 29,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/29.webp"
+          },
+          {
+            "id": 30,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/30.webp"
+          },
+          {
+            "id": 31,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/31.webp"
+          },
+          {
+            "id": 32,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/32.webp"
+          },
+          {
+            "id": 33,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/33.webp"
+          },
+          {
+            "id": 34,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/34.webp"
+          },
+          {
+            "id": 35,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/35.webp"
+          },
+          {
+            "id": 36,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/36.webp"
+          },
+          {
+            "id": 37,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/37.webp"
+          },
+          {
+            "id": 38,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/38.webp"
+          },
+          {
+            "id": 39,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/39.webp"
+          },
+          {
+            "id": 40,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/40.webp"
+          },
+          {
+            "id": 41,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/41.webp"
+          },
+          {
+            "id": 42,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/42.webp"
+          },
+          {
+            "id": 43,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/43.webp"
+          },
+          {
+            "id": 44,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/44.webp"
+          },
+          {
+            "id": 45,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/45.webp"
+          },
+          {
+            "id": 46,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/46.webp"
+          },
+          {
+            "id": 47,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/47.webp"
+          },
+          {
+            "id": 48,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/48.webp"
+          },
+          {
+            "id": 49,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/49.webp"
+          },
+          {
+            "id": 50,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/50.webp"
+          },
+          {
+            "id": 51,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/51.webp"
+          },
+          {
+            "id": 52,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/52.webp"
+          },
+          {
+            "id": 53,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/53.webp"
+          },
+          {
+            "id": 54,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/54.webp"
+          },
+          {
+            "id": 55,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/55.webp"
+          },
+          {
+            "id": 56,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/56.webp"
+          },
+          {
+            "id": 57,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/57.webp"
+          },
+          {
+            "id": 58,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/58.webp"
+          },
+          {
+            "id": 59,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/59.webp"
+          },
+          {
+            "id": 60,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/60.webp"
+          },
+          {
+            "id": 61,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/61.webp"
+          },
+          {
+            "id": 62,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/62.webp"
+          },
+          {
+            "id": 63,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/63.webp"
+          },
+          {
+            "id": 64,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/64.webp"
+          },
+          {
+            "id": 65,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/65.webp"
+          },
+          {
+            "id": 66,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/66.webp"
+          },
+          {
+            "id": 67,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/67.webp"
+          },
+          {
+            "id": 68,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/68.webp"
+          },
+          {
+            "id": 69,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/69.webp"
+          },
+          {
+            "id": 70,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/70.webp"
+          },
+          {
+            "id": 71,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/71.webp"
+          },
+          {
+            "id": 72,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/72.webp"
+          },
+          {
+            "id": 73,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/73.webp"
+          },
+          {
+            "id": 74,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/74.webp"
+          },
+          {
+            "id": 75,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/75.webp"
+          },
+          {
+            "id": 76,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/76.webp"
+          },
+          {
+            "id": 77,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/77.webp"
+          },
+          {
+            "id": 78,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/78.webp"
+          },
+          {
+            "id": 79,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/79.webp"
+          },
+          {
+            "id": 80,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/80.webp"
+          },
+          {
+            "id": 81,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/81.webp"
+          },
+          {
+            "id": 82,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/82.webp"
+          },
+          {
+            "id": 83,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/83.webp"
+          },
+          {
+            "id": 84,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/84.webp"
+          },
+          {
+            "id": 85,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/85.webp"
+          },
+          {
+            "id": 86,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/86.webp"
+          },
+          {
+            "id": 87,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/87.webp"
+          },
+          {
+            "id": 88,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/88.webp"
+          },
+          {
+            "id": 89,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/89.webp"
+          },
+          {
+            "id": 90,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/90.webp"
+          },
+          {
+            "id": 91,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/91.webp"
+          },
+          {
+            "id": 92,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/92.webp"
+          },
+          {
+            "id": 93,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/93.webp"
+          },
+          {
+            "id": 94,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Walmart/pattern/94.webp"
+          }
+        ]
+      }
+    ],
+    "isCategory": true,
+    "provider": "Walmart.",
+    "copyright": "© 2023 Walmart Apollo, LLC.",
+    "appstore": "https://apps.apple.com/us/app/walmart-shopping-grocery/id338137227",
+    "playstore": "https://play.google.com/store/apps/details?id=com.walmart.android&hl=en&gl=US",
+    "web": "https://www.walmart.com/",
+    "country": "U.S",
+    "lock": false,
+    "new": true,
+    "new_color": "#D2EFFB",
+    "color": "rgba(0, 179, 249, 0.16)"
+  },
+  {
+    "_id": "135",
+    "name": "Cats Hotel",
+    "type": "Simulation",
+    "category": [ "Game"],
+    "imageUrl": [{
+        "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Cats%20Hotel/logo.webp"
+      },
+      {
+        "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Cats%20Hotel/mockup.webp"
+      },
+      {
+        "pattern": [
+          {
+            "id": 1,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Cats%20Hotel/pattern/1.webp"
+          },
+          {
+            "id": 2,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Cats%20Hotel/pattern/2.webp"
+          },
+          {
+            "id": 3,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Cats%20Hotel/pattern/3.webp"
+          },
+          {
+            "id": 4,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Cats%20Hotel/pattern/4.webp"
+          },
+          {
+            "id": 5,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Cats%20Hotel/pattern/5.webp"
+          },
+          {
+            "id": 6,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Cats%20Hotel/pattern/6.webp"
+          },
+          {
+            "id": 7,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Cats%20Hotel/pattern/7.webp"
+          },
+          {
+            "id": 8,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Cats%20Hotel/pattern/8.webp"
+          },
+          {
+            "id": 9,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Cats%20Hotel/pattern/9.webp"
+          },
+          {
+            "id": 10,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Cats%20Hotel/pattern/10.webp"
+          },
+          {
+            "id": 11,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Cats%20Hotel/pattern/11.webp"
+          },
+          {
+            "id": 12,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Cats%20Hotel/pattern/12.webp"
+          },
+          {
+            "id": 13,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Cats%20Hotel/pattern/13.webp"
+          },
+          {
+            "id": 14,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Cats%20Hotel/pattern/14.webp"
+          },
+          {
+            "id": 15,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Cats%20Hotel/pattern/15.webp"
+          },
+          {
+            "id": 16,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Cats%20Hotel/pattern/16.webp"
+          },
+          {
+            "id": 17,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Cats%20Hotel/pattern/17.webp"
+          },
+          {
+            "id": 18,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Cats%20Hotel/pattern/18.webp"
+          },
+          {
+            "id": 19,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Cats%20Hotel/pattern/19.webp"
+          },
+          {
+            "id": 20,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Cats%20Hotel/pattern/20.webp"
+          },
+          {
+            "id": 21,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Cats%20Hotel/pattern/21.webp"
+          },
+          {
+            "id": 22,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Cats%20Hotel/pattern/22.webp"
+          },
+          {
+            "id": 23,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Cats%20Hotel/pattern/23.webp"
+          },
+          {
+            "id": 24,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Cats%20Hotel/pattern/24.webp"
+          },
+          {
+            "id": 25,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Cats%20Hotel/pattern/25.webp"
+          },
+          {
+            "id": 26,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Cats%20Hotel/pattern/26.webp"
+          },
+          {
+            "id": 27,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Cats%20Hotel/pattern/27.webp"
+          },
+          {
+            "id": 28,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Cats%20Hotel/pattern/28.webp"
+          },
+          {
+            "id": 29,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Cats%20Hotel/pattern/29.webp"
+          },
+          {
+            "id": 30,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Cats%20Hotel/pattern/30.webp"
+          },
+          {
+            "id": 31,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Cats%20Hotel/pattern/31.webp"
+          },
+          {
+            "id": 32,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Cats%20Hotel/pattern/32.webp"
+          },
+          {
+            "id": 33,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Cats%20Hotel/pattern/33.webp"
+          },
+          {
+            "id": 34,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Cats%20Hotel/pattern/34.webp"
+          },
+          {
+            "id": 35,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Cats%20Hotel/pattern/35.webp"
+          },
+          {
+            "id": 36,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Cats%20Hotel/pattern/36.webp"
+          },
+          {
+            "id": 37,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Cats%20Hotel/pattern/37.webp"
+          },
+          {
+            "id": 38,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Cats%20Hotel/pattern/38.webp"
+          },
+          {
+            "id": 39,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Cats%20Hotel/pattern/39.webp"
+          },
+          {
+            "id": 40,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Cats%20Hotel/pattern/40.webp"
+          },
+          {
+            "id": 41,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Cats%20Hotel/pattern/41.webp"
+          },
+          {
+            "id": 42,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Cats%20Hotel/pattern/42.webp"
+          },
+          {
+            "id": 43,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Cats%20Hotel/pattern/43.webp"
+          },
+          {
+            "id": 44,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Cats%20Hotel/pattern/44.webp"
+          },
+          {
+            "id": 45,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Cats%20Hotel/pattern/45.webp"
+          },
+          {
+            "id": 46,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Cats%20Hotel/pattern/46.webp"
+          },
+          {
+            "id": 47,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Cats%20Hotel/pattern/47.webp"
+          },
+          {
+            "id": 48,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Cats%20Hotel/pattern/48.webp"
+          },
+          {
+            "id": 49,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Cats%20Hotel/pattern/49.webp"
+          },
+          {
+            "id": 50,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Cats%20Hotel/pattern/50.webp"
+          },
+          {
+            "id": 51,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Cats%20Hotel/pattern/51.webp"
+          }
+        ]
+      }
+    ],
+    "isCategory": true,
+    "provider": "Sergei Melkomukov.",
+    "copyright": "© 2021 Ohayo Games.",
+    "appstore": "https://apps.apple.com/us/app/cats-hotel-the-grand-meow/id1506820867",
+    "playstore": "https://play.google.com/store/apps/details?id=com.ohayoo.meowtel.cats.home&hl=en&gl=US",
+    "country": "Russia",
+    "lock": false,
+    "new": true,
+    "new_color": "#F9F1D3",
+    "color": "rgba(244, 191, 0, 0.16)"
   }
 ]
