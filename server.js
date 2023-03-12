@@ -39,7 +39,7 @@ app.get("/api/data-app", (req, res) => {
       .filter((item) => item.name.toLowerCase().includes(search.toLowerCase()))
       .filter((item) => {
         if (category === "All") {
-          return item;
+          return !item.category.includes("Game");
         } else {
           const categoryItem = item.category;
           for (const i of categoryItem) {
