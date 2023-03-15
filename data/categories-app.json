@@ -4366,7 +4366,7 @@
   },
   {
     "_id": "16",
-    "name": "Tiket.com",
+    "name": "Tiket.com Flights",
     "type": "Ticket",
     "category": [ "Travel"],
     "imageUrl": [{
@@ -12202,7 +12202,7 @@
   },
   {
     "_id": "47",
-    "name": "Traveloka",
+    "name": "Traveloka Flights",
     "type": "Flight",
     "category": ["Travel"],
     "imageUrl": [{
@@ -16041,7 +16041,7 @@
   },
   {
     "_id": "57",
-    "name": "Pegipegi",
+    "name": "Pegipegi Hotels",
     "type": "Ticket",
     "category": ["Travel"],
     "imageUrl": [{
