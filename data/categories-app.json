@@ -40699,6 +40699,7 @@
     "country": "Hongkong",
     "lock": false,
     "new": true,
+    "contributor": "Dang Le",
     "new_color": "#F9E2D3",
     "color": "rgba(244, 102, 0, 0.16)"
   },
@@ -40834,6 +40835,7 @@
     "country": "Kuwait",
     "lock": false,
     "new": true,
+    "contributor": "Alaa Adil",
     "new_color": "#F9E2D3",
     "color": "rgba(244, 102, 0, 0.16)"
   },
