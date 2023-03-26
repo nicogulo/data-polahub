@@ -41824,5 +41824,184 @@
     "new": true,
     "new_color": "#E2F4DC",
     "color": "rgba(99, 211, 59, 0.16)"
+  },
+  {
+    "_id": "144",
+    "name": "Careem",
+    "type": "Ride Hailing",
+    "category": [ "Travel"],
+    "imageUrl": [{
+        "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Careem/logo.webp"
+      },
+      {
+        "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Careem/mockup.webp"
+      },
+      {
+        "pattern": [
+          {
+            "id": 0,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Careem/pattern/0.webp"
+          },
+          {
+            "id": 1,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Careem/pattern/1.webp"
+          },
+          {
+            "id": 2,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Careem/pattern/2.webp"
+          },
+          {
+            "id": 3,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Careem/pattern/3.webp"
+          },
+          {
+            "id": 4,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Careem/pattern/4.webp"
+          },
+          {
+            "id": 5,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Careem/pattern/5.webp"
+          },
+          {
+            "id": 6,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Careem/pattern/6.webp"
+          },
+          {
+            "id": 7,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Careem/pattern/7.webp"
+          },
+          {
+            "id": 8,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Careem/pattern/8.webp"
+          },
+          {
+            "id": 9,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Careem/pattern/9.webp"
+          },
+          {
+            "id": 10,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Careem/pattern/10.webp"
+          },
+          {
+            "id": 11,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Careem/pattern/11.webp"
+          },
+          {
+            "id": 12,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Careem/pattern/12.webp"
+          },
+          {
+            "id": 13,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Careem/pattern/13.webp"
+          },
+          {
+            "id": 14,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Careem/pattern/14.webp"
+          },
+          {
+            "id": 15,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Careem/pattern/15.webp"
+          },
+          {
+            "id": 16,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Careem/pattern/16.webp"
+          },
+          {
+            "id": 17,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Careem/pattern/17.webp"
+          },
+          {
+            "id": 18,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Careem/pattern/18.webp"
+          },
+          {
+            "id": 19,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Careem/pattern/19.webp"
+          },
+          {
+            "id": 20,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Careem/pattern/20.webp"
+          },
+          {
+            "id": 21,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Careem/pattern/21.webp"
+          },
+          {
+            "id": 22,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Careem/pattern/22.webp"
+          },
+          {
+            "id": 23,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Careem/pattern/23.webp"
+          }
+        ]
+      }
+    ],
+    "isCategory": true,
+    "provider": "CAREEM NETWORKS FZ LLC.",
+    "copyright": "© 2023 Careem Networks FZ, LLC",
+    "appstore": "https://apps.apple.com/us/app/careem-ride-delivery-pay/id592978487",
+    "playstore": "https://play.google.com/store/apps/details?id=com.careem.acma&hl=en",
+    "country": "UEA",
+    "lock": false,
+    "new": true,
+    "new_color": "#E2F4DC",
+    "color": "rgba(99, 211, 59, 0.16)"
+  },
+  {
+    "_id": "145",
+    "name": "Octopus",
+    "type": "Waste Management",
+    "category": [ "Lifestyle"],
+    "imageUrl": [{
+        "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Vidio/logo.webp"
+      },
+      {
+        "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Vidio/mockup.webp"
+      },
+      {
+        "pattern": [
+         
+        ]
+      }
+    ],
+    "isCategory": true,
+    "provider": "Octopus Waste Management PTE. LTD.",
+    "copyright": "© Octopus Waste Management PTE. LTD.",
+    "appstore": "https://apps.apple.com/us/app/octopus-sampah-jadi-berharga/id1515879876",
+    "playstore": "https://play.google.com/store/apps/details?id=com.octopus.customer&hl=id&gl=US",
+    "country": "Indonesia",
+    "lock": true,
+    "new": false,
+    "new_color": "#D2EFFB",
+    "color": "rgba(0, 179, 249, 0.16)"
+  },
+  {
+    "_id": "146",
+    "name": "Octopus",
+    "type": "Waste Management",
+    "category": [ "Lifestyle"],
+    "imageUrl": [{
+        "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Vidio/logo.webp"
+      },
+      {
+        "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Vidio/mockup.webp"
+      },
+      {
+        "pattern": [
+         
+        ]
+      }
+    ],
+    "isCategory": true,
+    "provider": "Octopus Waste Management PTE. LTD.",
+    "copyright": "© Octopus Waste Management PTE. LTD.",
+    "appstore": "https://apps.apple.com/us/app/octopus-sampah-jadi-berharga/id1515879876",
+    "playstore": "https://play.google.com/store/apps/details?id=com.octopus.customer&hl=id&gl=US",
+    "country": "Indonesia",
+    "lock": true,
+    "new": false,
+    "new_color": "#D2EFFB",
+    "color": "rgba(0, 179, 249, 0.16)"
   }
 ]
