@@ -44,16 +44,16 @@
     "name": "Entertaiment",
     "imageActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/active/monitor-mobbile.svg",
     "imageInActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/normal/monitor-mobbile.svg",
-    "status": null,
-    "isNew": false
+    "status": "NEW",
+    "isNew": true
   },
   {
     "_id": "8",
     "name": "Finance",
     "imageActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/active/wallet.svg",
     "imageInActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/normal/wallet.svg",
-    "status": "NEW",
-    "isNew": true
+    "status": null,
+    "isNew": false
   },
   {
     "_id": "9",
