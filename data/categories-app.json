@@ -42075,7 +42075,7 @@
     "playstore": "https://play.google.com/store/apps/details?id=com.careem.acma&hl=en",
     "country": "UEA",
     "lock": false,
-    "new": true,
+    "new": false,
     "contributor": "Alaa Adil",
     "new_color": "#E2F4DC",
     "color": "rgba(99, 211, 59, 0.16)"
@@ -42419,7 +42419,7 @@
     "playstore": "https://play.google.com/store/apps/details?id=com.bank_hijra&hl=id&gl=US",
     "country": "Indonesia",
     "lock": false,
-    "new": true,
+    "new": false,
     "contributor": "Rudi",
     "new_color": "#D2EFFB",
     "color": "rgba(0, 179, 249, 0.16)"
@@ -42799,7 +42799,7 @@
     "playstore": "https://play.google.com/store/apps/details?id=com.btpn.dc&hl=en_US",
     "country": "Indonesia",
     "lock": false,
-    "new": true,
+    "new": false,
     "contributor": "Rudi",
     "new_color": "#D2EFFB",
     "color": "rgba(0, 179, 249, 0.16)"
@@ -43075,7 +43075,7 @@
     "playstore": "https://play.google.com/store/apps/details?id=com.etsy.android&hl=en_US",
     "country": "Indonesia",
     "lock": false,
-    "new": true,
+    "new": false,
     "contributor": "Rhasya Rizqi",
     "new_color": "#F9E2D3",
     "color": "rgba(244, 102, 0, 0.16)"
