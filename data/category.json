@@ -44,8 +44,8 @@
     "name": "Entertaiment",
     "imageActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/active/monitor-mobbile.svg",
     "imageInActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/normal/monitor-mobbile.svg",
-    "status": "NEW",
-    "isNew": true
+    "status": null,
+    "isNew": false
   },
   {
     "_id": "8",
@@ -158,8 +158,8 @@
     "name": "Social",
     "imageActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/active/messages.svg",
     "imageInActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/normal/messages.svg",
-    "status": null,
-    "isNew": false
+    "status": "NEW",
+    "isNew": true
   },
 
   {
