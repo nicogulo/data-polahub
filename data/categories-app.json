@@ -1254,7 +1254,7 @@
     "playstore": "https://play.google.com/store/apps/details?id=com.tokopedia.tkpd&hl=in&gl=US",
     "country": "Indonesia",
     "lock": false,
-    "new": false,
+    "new": true,
     "contributor": "Rhasya Rizqi",
     "new_color": "#E2F4DC",
     "color": "rgba(99, 211, 59, 0.16)"
@@ -46215,7 +46215,7 @@
     "playstore": "https://play.google.com/store/apps/details?id=id.majoo.lite",
     "country": "Indonesia",
     "lock": false,
-    "new": true,
+    "new": false,
     "contributor": "Rhasya Rizqi",
     "new_color": "#E2F4DC",
     "color": "rgba(99, 211, 59, 0.16)"
@@ -46415,7 +46415,7 @@
     "playstore": "https://play.google.com/store/apps/details?id=com.baraka.app",
     "country": "Saudi Arabia",
     "lock": false,
-    "new": true,
+    "new": false,
     "contributor": "Rhasya Rizqi",
     "new_color": "#E2F4DC",
     "color": "rgba(99, 211, 59, 0.16)"
@@ -46755,7 +46755,7 @@
     "playstore": "https://play.google.com/store/apps/details?id=wp.wattpad&hl=id&gl=US",
     "country": "Canada",
     "lock": false,
-    "new": true,
+    "new": false,
     "contributor": "Rhasya Rizqi",
     "new_color": "#F9E2D3",
     "color": "rgba(244, 102, 0, 0.16)"
@@ -46808,7 +46808,7 @@
     "web": "https://stripe.com/",
     "country": "Indonesia",
     "lock": false,
-    "new": true,
+    "new": false,
     "contributor": "Rhasya Rizqi",
     "new_color": "#D2EFFB",
     "color": "rgba(0, 179, 249, 0.16)"
