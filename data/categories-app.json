@@ -10,8 +10,7 @@
       {
         "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Tokopedia/mockup.webp"
       },
-      [
-        {
+      {
           "pattern": [
             {
               "id": 1,
@@ -1246,8 +1245,7 @@
               "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Tokopedia/pattern/308.webp"
             }
           ]
-        }
-      ]
+      }
     ],
     "isCategory": true,
     "provider": "PT Tokopedia",
