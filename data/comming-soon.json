@@ -126,5 +126,34 @@
         "new": false,
         "new_color": "#D2EFFB",
         "color": "rgba(0, 179, 249, 0.16)"
+      },
+      {
+        "_id": "161",
+        "name": "Baemin",
+        "type": "F&B Delivery",
+        "category": [ "Food & Drink"],
+        "imageUrl": [{
+            "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Vidio/logo.webp"
+          },
+          {
+            "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Vidio/mockup.webp"
+          },
+          {
+            "pattern": [
+             
+            ]
+          }
+        ],
+        "isCategory": true,
+        "provider": "WOOWA BROTHERS VIETNAM COMPANY LIMITED.",
+        "copyright": "© 2022 Woowa Brothers Asia Holdings Pte. Ltd.",
+        "appstore": "https://apps.apple.com/vn/app/baemin-food-delivery-app/id1458845623",
+        "playstore": "https://play.google.com/store/apps/details?id=com.woowahan.vn.baemin&hl=en_SG&gl=US",
+        "country": "Vietnam",
+        "lock": false,
+        "new": true,
+        "contributor": "Dang Le",
+        "new_color": "#D2EFFB",
+        "color": "rgba(0, 179, 249, 0.16)"
       }
 ]
