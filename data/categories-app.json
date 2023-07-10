@@ -3913,7 +3913,7 @@
     "playstore": "https://play.google.com/store/apps/details?id=com.bukalapak.android&hl=in&gl=US",
     "country": "Indonesia",
     "lock": false,
-    "new": false,
+    "new": true,
     "contributor": "Rhasya Rizqi",
     "new_color": "#FADBE1",
     "color": "rgba(249, 54, 90, 0.16)"
@@ -8396,7 +8396,7 @@
     "playstore": "https://play.google.com/store/apps/details?id=com.shopee.id&hl=in&gl=US",
     "country": "Singapore",
     "lock": false,
-    "new": true,
+    "new": false,
     "contributor": "Rhasya Rizqi",
     "new_color": "#F9E2D3",
     "color": "rgba(244, 102, 0, 0.16)"
