@@ -3591,7 +3591,7 @@
     "color": "rgba(99, 211, 59, 0.16)"
   },
   {
-    "_id": "8",
+    "_id": "162",
     "name": "Bukalapak",
     "type": "Marketplace",
     "category": ["Shopping"],
@@ -3605,303 +3605,895 @@
         "pattern": [
           {
             "id": 1,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/1.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/1.webp"
           },
           {
             "id": 2,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/2.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/2.webp"
           },
           {
             "id": 3,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/3.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/3.webp"
           },
           {
             "id": 4,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/4.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/4.webp"
           },
           {
             "id": 5,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/5.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/5.webp"
           },
           {
             "id": 6,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/6.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/6.webp"
           },
           {
             "id": 7,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/7.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/7.webp"
           },
           {
             "id": 8,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/8.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/8.webp"
           },
           {
             "id": 9,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/9.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/9.webp"
           },
           {
             "id": 10,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/10.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/10.webp"
           },
           {
             "id": 11,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/11.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/11.webp"
           },
           {
             "id": 12,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/12.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/12.webp"
           },
           {
             "id": 13,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/13.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/13.webp"
           },
           {
             "id": 14,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/14.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/14.webp"
           },
           {
             "id": 15,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/15.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/15.webp"
           },
           {
             "id": 16,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/16.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/16.webp"
           },
           {
             "id": 17,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/17.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/17.webp"
           },
           {
             "id": 18,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/18.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/18.webp"
           },
           {
             "id": 19,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/19.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/19.webp"
           },
           {
             "id": 20,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/20.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/20.webp"
           },
           {
             "id": 21,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/21.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/21.webp"
           },
           {
             "id": 22,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/22.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/22.webp"
           },
           {
             "id": 23,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/23.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/23.webp"
           },
           {
             "id": 24,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/24.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/24.webp"
           },
           {
             "id": 25,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/25.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/25.webp"
           },
           {
             "id": 26,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/26.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/26.webp"
           },
           {
             "id": 27,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/27.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/27.webp"
           },
           {
             "id": 28,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/28.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/28.webp"
           },
           {
             "id": 29,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/29.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/29.webp"
           },
           {
             "id": 30,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/30.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/30.webp"
           },
           {
             "id": 31,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/31.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/31.webp"
           },
           {
             "id": 32,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/32.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/32.webp"
           },
           {
             "id": 33,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/33.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/33.webp"
           },
           {
             "id": 34,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/34.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/34.webp"
           },
           {
             "id": 35,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/35.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/35.webp"
           },
           {
             "id": 36,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/36.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/36.webp"
           },
           {
             "id": 37,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/37.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/37.webp"
           },
           {
             "id": 38,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/38.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/38.webp"
           },
           {
             "id": 39,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/39.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/39.webp"
           },
           {
             "id": 40,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/40.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/40.webp"
           },
           {
             "id": 41,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/41.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/41.webp"
           },
           {
             "id": 42,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/42.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/42.webp"
           },
           {
             "id": 43,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/43.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/43.webp"
           },
           {
             "id": 44,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/44.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/44.webp"
           },
           {
             "id": 45,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/45.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/45.webp"
           },
           {
             "id": 46,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/46.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/46.webp"
           },
           {
             "id": 47,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/47.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/47.webp"
           },
           {
             "id": 48,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/48.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/48.webp"
           },
           {
             "id": 49,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/49.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/49.webp"
           },
           {
             "id": 50,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/50.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/50.webp"
           },
           {
             "id": 51,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/51.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/51.webp"
           },
           {
             "id": 52,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/52.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/52.webp"
           },
           {
             "id": 53,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/53.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/53.webp"
           },
           {
             "id": 54,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/54.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/54.webp"
           },
           {
             "id": 55,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/55.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/55.webp"
           },
           {
             "id": 56,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/56.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/56.webp"
           },
           {
             "id": 57,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/57.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/57.webp"
           },
           {
             "id": 58,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/58.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/58.webp"
           },
           {
             "id": 59,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/59.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/59.webp"
           },
           {
             "id": 60,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/60.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/60.webp"
           },
           {
             "id": 61,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/61.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/61.webp"
           },
           {
             "id": 62,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/62.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/62.webp"
           },
           {
             "id": 63,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/63.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/63.webp"
           },
           {
             "id": 64,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/64.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/64.webp"
           },
           {
             "id": 65,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/65.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/65.webp"
           },
           {
             "id": 66,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/66.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/66.webp"
           },
           {
             "id": 67,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/67.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/67.webp"
           },
           {
             "id": 68,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/68.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/68.webp"
           },
           {
             "id": 69,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/69.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/69.webp"
           },
           {
             "id": 70,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/70.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/70.webp"
           },
           {
             "id": 71,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/71.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/71.webp"
           },
           {
             "id": 72,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/72.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/72.webp"
           },
           {
             "id": 73,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/73.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/73.webp"
           },
           {
             "id": 74,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/74.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/74.webp"
           },
           {
             "id": 75,
-            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern/75.webp"
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/75.webp"
+          },
+          {
+            "id": 76,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/76.webp"
+          },
+          {
+            "id": 77,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/77.webp"
+          },
+          {
+            "id": 78,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/78.webp"
+          },
+          {
+            "id": 79,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/79.webp"
+          },
+          {
+            "id": 80,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/80.webp"
+          },
+          {
+            "id": 81,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/81.webp"
+          },
+          {
+            "id": 82,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/82.webp"
+          },
+          {
+            "id": 83,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/83.webp"
+          },
+          {
+            "id": 84,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/84.webp"
+          },
+          {
+            "id": 85,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/85.webp"
+          },
+          {
+            "id": 86,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/86.webp"
+          },
+          {
+            "id": 87,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/87.webp"
+          },
+          {
+            "id": 88,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/88.webp"
+          },
+          {
+            "id": 89,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/89.webp"
+          },
+          {
+            "id": 90,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/90.webp"
+          },
+          {
+            "id": 91,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/91.webp"
+          },
+          {
+            "id": 92,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/92.webp"
+          },
+          {
+            "id": 93,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/93.webp"
+          },
+          {
+            "id": 94,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/94.webp"
+          },
+          {
+            "id": 95,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/95.webp"
+          },
+          {
+            "id": 96,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/96.webp"
+          },
+          {
+            "id": 97,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/97.webp"
+          },
+          {
+            "id": 98,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/98.webp"
+          },
+          {
+            "id": 99,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/99.webp"
+          },
+          {
+            "id": 100,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/100.webp"
+          },
+          {
+            "id": 101,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/101.webp"
+          },
+          {
+            "id": 102,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/102.webp"
+          },
+          {
+            "id": 103,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/103.webp"
+          },
+          {
+            "id": 104,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/104.webp"
+          },
+          {
+            "id": 105,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/105.webp"
+          },
+          {
+            "id": 106,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/106.webp"
+          },
+          {
+            "id": 107,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/107.webp"
+          },
+          {
+            "id": 108,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/108.webp"
+          },
+          {
+            "id": 109,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/109.webp"
+          },
+          {
+            "id": 110,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/110.webp"
+          },
+          {
+            "id": 111,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/111.webp"
+          },
+          {
+            "id": 112,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/112.webp"
+          },
+          {
+            "id": 113,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/113.webp"
+          },
+          {
+            "id": 114,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/114.webp"
+          },
+          {
+            "id": 115,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/115.webp"
+          },
+          {
+            "id": 116,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/116.webp"
+          },
+          {
+            "id": 117,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/117.webp"
+          },
+          {
+            "id": 118,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/118.webp"
+          },
+          {
+            "id": 119,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/119.webp"
+          },
+          {
+            "id": 120,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/120.webp"
+          },
+          {
+            "id": 121,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/121.webp"
+          },
+          {
+            "id": 122,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/122.webp"
+          },
+          {
+            "id": 123,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/123.webp"
+          },
+          {
+            "id": 124,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/124.webp"
+          },
+          {
+            "id": 125,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/125.webp"
+          },
+          {
+            "id": 126,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/126.webp"
+          },
+          {
+            "id": 127,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/127.webp"
+          },
+          {
+            "id": 128,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/128.webp"
+          },
+          {
+            "id": 129,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/129.webp"
+          },
+          {
+            "id": 130,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/130.webp"
+          },
+          {
+            "id": 131,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/131.webp"
+          },
+          {
+            "id": 132,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/132.webp"
+          },
+          {
+            "id": 133,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/133.webp"
+          },
+          {
+            "id": 134,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/134.webp"
+          },
+          {
+            "id": 135,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/135.webp"
+          },
+          {
+            "id": 136,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/136.webp"
+          },
+          {
+            "id": 137,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/137.webp"
+          },
+          {
+            "id": 138,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/138.webp"
+          },
+          {
+            "id": 139,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/139.webp"
+          },
+          {
+            "id": 140,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/140.webp"
+          },
+          {
+            "id": 141,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/141.webp"
+          },
+          {
+            "id": 142,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/142.webp"
+          },
+          {
+            "id": 143,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/143.webp"
+          },
+          {
+            "id": 144,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/144.webp"
+          },
+          {
+            "id": 145,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/145.webp"
+          },
+          {
+            "id": 146,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/146.webp"
+          },
+          {
+            "id": 147,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/147.webp"
+          },
+          {
+            "id": 148,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/148.webp"
+          },
+          {
+            "id": 149,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/149.webp"
+          },
+          {
+            "id": 150,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/150.webp"
+          },
+          {
+            "id": 151,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/151.webp"
+          },
+          {
+            "id": 152,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/152.webp"
+          },
+          {
+            "id": 153,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/153.webp"
+          },
+          {
+            "id": 154,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/154.webp"
+          },
+          {
+            "id": 155,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/155.webp"
+          },
+          {
+            "id": 156,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/156.webp"
+          },
+          {
+            "id": 157,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/157.webp"
+          },
+          {
+            "id": 158,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/158.webp"
+          },
+          {
+            "id": 159,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/159.webp"
+          },
+          {
+            "id": 160,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/160.webp"
+          },
+          {
+            "id": 161,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/161.webp"
+          },
+          {
+            "id": 162,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/162.webp"
+          },
+          {
+            "id": 163,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/163.webp"
+          },
+          {
+            "id": 164,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/164.webp"
+          },
+          {
+            "id": 165,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/165.webp"
+          },
+          {
+            "id": 166,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/166.webp"
+          },
+          {
+            "id": 167,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/167.webp"
+          },
+          {
+            "id": 168,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/168.webp"
+          },
+          {
+            "id": 169,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/169.webp"
+          },
+          {
+            "id": 170,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/170.webp"
+          },
+          {
+            "id": 171,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/171.webp"
+          },
+          {
+            "id": 172,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/172.webp"
+          },
+          {
+            "id": 173,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/173.webp"
+          },
+          {
+            "id": 174,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/174.webp"
+          },
+          {
+            "id": 175,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/175.webp"
+          },
+          {
+            "id": 176,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/176.webp"
+          },
+          {
+            "id": 177,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/177.webp"
+          },
+          {
+            "id": 178,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/178.webp"
+          },
+          {
+            "id": 179,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/179.webp"
+          },
+          {
+            "id": 180,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/180.webp"
+          },
+          {
+            "id": 181,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/181.webp"
+          },
+          {
+            "id": 182,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/182.webp"
+          },
+          {
+            "id": 183,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/183.webp"
+          },
+          {
+            "id": 184,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/184.webp"
+          },
+          {
+            "id": 185,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/185.webp"
+          },
+          {
+            "id": 186,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/186.webp"
+          },
+          {
+            "id": 187,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/187.webp"
+          },
+          {
+            "id": 188,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/188.webp"
+          },
+          {
+            "id": 189,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/189.webp"
+          },
+          {
+            "id": 190,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/190.webp"
+          },
+          {
+            "id": 191,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/191.webp"
+          },
+          {
+            "id": 192,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/192.webp"
+          },
+          {
+            "id": 193,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/193.webp"
+          },
+          {
+            "id": 194,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/194.webp"
+          },
+          {
+            "id": 195,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/195.webp"
+          },
+          {
+            "id": 196,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/196.webp"
+          },
+          {
+            "id": 197,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/197.webp"
+          },
+          {
+            "id": 198,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/198.webp"
+          },
+          {
+            "id": 199,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/199.webp"
+          },
+          {
+            "id": 200,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/200.webp"
+          },
+          {
+            "id": 201,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/201.webp"
+          },
+          {
+            "id": 202,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/202.webp"
+          },
+          {
+            "id": 203,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/203.webp"
+          },
+          {
+            "id": 204,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/204.webp"
+          },
+          {
+            "id": 205,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/205.webp"
+          },
+          {
+            "id": 206,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/206.webp"
+          },
+          {
+            "id": 207,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/207.webp"
+          },
+          {
+            "id": 208,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/208.webp"
+          },
+          {
+            "id": 209,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/209.webp"
+          },
+          {
+            "id": 210,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/210.webp"
+          },
+          {
+            "id": 211,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/211.webp"
+          },
+          {
+            "id": 212,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/212.webp"
+          },
+          {
+            "id": 213,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/213.webp"
+          },
+          {
+            "id": 214,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/214.webp"
+          },
+          {
+            "id": 215,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/215.webp"
+          },
+          {
+            "id": 216,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/216.webp"
+          },
+          {
+            "id": 217,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/217.webp"
+          },
+          {
+            "id": 218,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/218.webp"
+          },
+          {
+            "id": 219,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/219.webp"
+          },
+          {
+            "id": 220,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/220.webp"
+          },
+          {
+            "id": 221,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/221.webp"
+          },
+          {
+            "id": 222,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/222.webp"
+          },
+          {
+            "id": 223,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/Bukalapak/pattern_june%202023_3.26.1/223.webp"
           }
         ]
       }
@@ -3913,7 +4505,7 @@
     "playstore": "https://play.google.com/store/apps/details?id=com.bukalapak.android&hl=in&gl=US",
     "country": "Indonesia",
     "lock": false,
-    "new": false,
+    "new": true,
     "contributor": "Rhasya Rizqi",
     "new_color": "#FADBE1",
     "color": "rgba(249, 54, 90, 0.16)"
@@ -7578,7 +8170,7 @@
     "color": "rgba(0, 179, 249, 0.16)"
   },
   {
-    "_id": "162",
+    "_id": "23",
     "name": "Shopee",
     "type": "Marketplace",
     "category": ["Shopping"],
@@ -8396,7 +8988,7 @@
     "playstore": "https://play.google.com/store/apps/details?id=com.shopee.id&hl=in&gl=US",
     "country": "Singapore",
     "lock": false,
-    "new": true,
+    "new": false,
     "contributor": "Rhasya Rizqi",
     "new_color": "#F9E2D3",
     "color": "rgba(244, 102, 0, 0.16)"
