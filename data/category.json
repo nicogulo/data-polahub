@@ -150,8 +150,8 @@
     "name": "Shopping",
     "imageActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/active/bag.svg",
     "imageInActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/normal/bag.svg",
-    "status": "NEW",
-    "isNew": true
+    "status": null,
+    "isNew": false
   },
   {
     "_id": "asd1293uasdads1",
@@ -175,8 +175,8 @@
     "name": "Travel",
     "imageActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/active/airplane.svg",
     "imageInActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/normal/airplane.svg",
-    "status": null,
-    "isNew": false
+    "status": "NEW",
+    "isNew": true
   },
   {
     "_id": "asd1293uasdads1",
