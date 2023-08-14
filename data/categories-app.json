@@ -3591,7 +3591,7 @@
     "color": "rgba(99, 211, 59, 0.16)"
   },
   {
-    "_id": "162",
+    "_id": "8",
     "name": "Bukalapak",
     "type": "Marketplace",
     "category": ["Shopping"],
@@ -4505,7 +4505,7 @@
     "playstore": "https://play.google.com/store/apps/details?id=com.bukalapak.android&hl=in&gl=US",
     "country": "Indonesia",
     "lock": false,
-    "new": true,
+    "new": false,
     "contributor": "Rhasya Rizqi",
     "new_color": "#FADBE1",
     "color": "rgba(249, 54, 90, 0.16)"
@@ -48362,6 +48362,926 @@
     "lock": false,
     "new": false,
     "contributor": "Dang Le",
+    "new_color": "#D2EFFB",
+    "color": "rgba(0, 179, 249, 0.16)"
+  },
+  {
+    "_id": "162",
+    "name": "MyBluebird",
+    "type": "Taxi",
+    "category": [ "Travel"],
+    "imageUrl": [{
+        "icon": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/logo.webp"
+      },
+      {
+        "card": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/mockup.webp"
+      },
+      {
+        "pattern": [
+          {
+            "id": 1,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/1.webp"
+          },
+          {
+            "id": 2,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/2.webp"
+          },
+          {
+            "id": 3,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/3.webp"
+          },
+          {
+            "id": 4,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/4.webp"
+          },
+          {
+            "id": 5,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/5.webp"
+          },
+          {
+            "id": 6,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/6.webp"
+          },
+          {
+            "id": 7,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/7.webp"
+          },
+          {
+            "id": 8,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/8.webp"
+          },
+          {
+            "id": 9,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/9.webp"
+          },
+          {
+            "id": 10,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/10.webp"
+          },
+          {
+            "id": 11,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/11.webp"
+          },
+          {
+            "id": 12,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/12.webp"
+          },
+          {
+            "id": 13,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/13.webp"
+          },
+          {
+            "id": 14,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/14.webp"
+          },
+          {
+            "id": 15,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/15.webp"
+          },
+          {
+            "id": 16,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/16.webp"
+          },
+          {
+            "id": 17,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/17.webp"
+          },
+          {
+            "id": 18,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/18.webp"
+          },
+          {
+            "id": 19,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/19.webp"
+          },
+          {
+            "id": 20,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/20.webp"
+          },
+          {
+            "id": 21,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/21.webp"
+          },
+          {
+            "id": 22,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/22.webp"
+          },
+          {
+            "id": 23,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/23.webp"
+          },
+          {
+            "id": 24,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/24.webp"
+          },
+          {
+            "id": 25,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/25.webp"
+          },
+          {
+            "id": 26,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/26.webp"
+          },
+          {
+            "id": 27,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/27.webp"
+          },
+          {
+            "id": 28,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/28.webp"
+          },
+          {
+            "id": 29,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/29.webp"
+          },
+          {
+            "id": 30,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/30.webp"
+          },
+          {
+            "id": 31,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/31.webp"
+          },
+          {
+            "id": 32,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/32.webp"
+          },
+          {
+            "id": 33,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/33.webp"
+          },
+          {
+            "id": 34,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/34.webp"
+          },
+          {
+            "id": 35,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/35.webp"
+          },
+          {
+            "id": 36,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/36.webp"
+          },
+          {
+            "id": 37,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/37.webp"
+          },
+          {
+            "id": 38,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/38.webp"
+          },
+          {
+            "id": 39,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/39.webp"
+          },
+          {
+            "id": 40,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/40.webp"
+          },
+          {
+            "id": 41,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/41.webp"
+          },
+          {
+            "id": 42,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/42.webp"
+          },
+          {
+            "id": 43,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/43.webp"
+          },
+          {
+            "id": 44,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/44.webp"
+          },
+          {
+            "id": 45,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/45.webp"
+          },
+          {
+            "id": 46,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/46.webp"
+          },
+          {
+            "id": 47,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/47.webp"
+          },
+          {
+            "id": 48,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/48.webp"
+          },
+          {
+            "id": 49,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/49.webp"
+          },
+          {
+            "id": 50,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/50.webp"
+          },
+          {
+            "id": 51,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/51.webp"
+          },
+          {
+            "id": 52,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/52.webp"
+          },
+          {
+            "id": 53,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/53.webp"
+          },
+          {
+            "id": 54,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/54.webp"
+          },
+          {
+            "id": 55,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/55.webp"
+          },
+          {
+            "id": 56,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/56.webp"
+          },
+          {
+            "id": 57,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/57.webp"
+          },
+          {
+            "id": 58,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/58.webp"
+          },
+          {
+            "id": 59,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/59.webp"
+          },
+          {
+            "id": 60,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/60.webp"
+          },
+          {
+            "id": 61,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/61.webp"
+          },
+          {
+            "id": 62,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/62.webp"
+          },
+          {
+            "id": 63,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/63.webp"
+          },
+          {
+            "id": 64,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/64.webp"
+          },
+          {
+            "id": 65,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/65.webp"
+          },
+          {
+            "id": 66,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/66.webp"
+          },
+          {
+            "id": 67,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/67.webp"
+          },
+          {
+            "id": 68,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/68.webp"
+          },
+          {
+            "id": 69,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/69.webp"
+          },
+          {
+            "id": 70,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/70.webp"
+          },
+          {
+            "id": 71,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/71.webp"
+          },
+          {
+            "id": 72,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/72.webp"
+          },
+          {
+            "id": 73,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/73.webp"
+          },
+          {
+            "id": 74,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/74.webp"
+          },
+          {
+            "id": 75,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/75.webp"
+          },
+          {
+            "id": 76,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/76.webp"
+          },
+          {
+            "id": 77,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/77.webp"
+          },
+          {
+            "id": 78,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/78.webp"
+          },
+          {
+            "id": 79,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/79.webp"
+          },
+          {
+            "id": 80,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/80.webp"
+          },
+          {
+            "id": 81,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/81.webp"
+          },
+          {
+            "id": 82,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/82.webp"
+          },
+          {
+            "id": 83,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/83.webp"
+          },
+          {
+            "id": 84,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/84.webp"
+          },
+          {
+            "id": 85,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/85.webp"
+          },
+          {
+            "id": 86,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/86.webp"
+          },
+          {
+            "id": 87,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/87.webp"
+          },
+          {
+            "id": 88,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/88.webp"
+          },
+          {
+            "id": 89,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/89.webp"
+          },
+          {
+            "id": 90,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/90.webp"
+          },
+          {
+            "id": 91,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/91.webp"
+          },
+          {
+            "id": 92,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/92.webp"
+          },
+          {
+            "id": 93,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/93.webp"
+          },
+          {
+            "id": 94,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/94.webp"
+          },
+          {
+            "id": 95,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/95.webp"
+          },
+          {
+            "id": 96,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/96.webp"
+          },
+          {
+            "id": 97,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/97.webp"
+          },
+          {
+            "id": 98,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/98.webp"
+          },
+          {
+            "id": 99,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/99.webp"
+          },
+          {
+            "id": 100,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/100.webp"
+          },
+          {
+            "id": 101,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/101.webp"
+          },
+          {
+            "id": 102,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/102.webp"
+          },
+          {
+            "id": 103,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/103.webp"
+          },
+          {
+            "id": 104,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/104.webp"
+          },
+          {
+            "id": 105,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/105.webp"
+          },
+          {
+            "id": 106,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/106.webp"
+          },
+          {
+            "id": 107,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/107.webp"
+          },
+          {
+            "id": 108,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/108.webp"
+          },
+          {
+            "id": 109,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/109.webp"
+          },
+          {
+            "id": 110,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/110.webp"
+          },
+          {
+            "id": 111,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/111.webp"
+          },
+          {
+            "id": 112,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/112.webp"
+          },
+          {
+            "id": 113,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/113.webp"
+          },
+          {
+            "id": 114,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/114.webp"
+          },
+          {
+            "id": 115,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/115.webp"
+          },
+          {
+            "id": 116,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/116.webp"
+          },
+          {
+            "id": 117,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/117.webp"
+          },
+          {
+            "id": 118,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/118.webp"
+          },
+          {
+            "id": 119,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/119.webp"
+          },
+          {
+            "id": 120,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/120.webp"
+          },
+          {
+            "id": 121,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/121.webp"
+          },
+          {
+            "id": 122,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/122.webp"
+          },
+          {
+            "id": 123,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/123.webp"
+          },
+          {
+            "id": 124,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/124.webp"
+          },
+          {
+            "id": 125,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/125.webp"
+          },
+          {
+            "id": 126,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/126.webp"
+          },
+          {
+            "id": 127,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/127.webp"
+          },
+          {
+            "id": 128,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/128.webp"
+          },
+          {
+            "id": 129,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/129.webp"
+          },
+          {
+            "id": 130,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/130.webp"
+          },
+          {
+            "id": 131,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/131.webp"
+          },
+          {
+            "id": 132,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/132.webp"
+          },
+          {
+            "id": 133,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/133.webp"
+          },
+          {
+            "id": 134,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/134.webp"
+          },
+          {
+            "id": 135,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/135.webp"
+          },
+          {
+            "id": 136,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/136.webp"
+          },
+          {
+            "id": 137,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/137.webp"
+          },
+          {
+            "id": 138,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/138.webp"
+          },
+          {
+            "id": 139,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/139.webp"
+          },
+          {
+            "id": 140,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/140.webp"
+          },
+          {
+            "id": 141,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/141.webp"
+          },
+          {
+            "id": 142,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/142.webp"
+          },
+          {
+            "id": 143,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/143.webp"
+          },
+          {
+            "id": 144,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/144.webp"
+          },
+          {
+            "id": 145,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/145.webp"
+          },
+          {
+            "id": 146,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/146.webp"
+          },
+          {
+            "id": 147,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/147.webp"
+          },
+          {
+            "id": 148,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/148.webp"
+          },
+          {
+            "id": 149,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/149.webp"
+          },
+          {
+            "id": 150,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/150.webp"
+          },
+          {
+            "id": 151,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/151.webp"
+          },
+          {
+            "id": 152,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/152.webp"
+          },
+          {
+            "id": 153,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/153.webp"
+          },
+          {
+            "id": 154,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/154.webp"
+          },
+          {
+            "id": 155,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/155.webp"
+          },
+          {
+            "id": 156,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/156.webp"
+          },
+          {
+            "id": 157,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/157.webp"
+          },
+          {
+            "id": 158,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/158.webp"
+          },
+          {
+            "id": 159,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/159.webp"
+          },
+          {
+            "id": 160,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/160.webp"
+          },
+          {
+            "id": 161,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/161.webp"
+          },
+          {
+            "id": 162,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/162.webp"
+          },
+          {
+            "id": 163,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/163.webp"
+          },
+          {
+            "id": 164,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/164.webp"
+          },
+          {
+            "id": 165,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/165.webp"
+          },
+          {
+            "id": 166,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/166.webp"
+          },
+          {
+            "id": 167,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/167.webp"
+          },
+          {
+            "id": 168,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/168.webp"
+          },
+          {
+            "id": 169,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/169.webp"
+          },
+          {
+            "id": 170,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/170.webp"
+          },
+          {
+            "id": 171,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/171.webp"
+          },
+          {
+            "id": 172,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/172.webp"
+          },
+          {
+            "id": 173,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/173.webp"
+          },
+          {
+            "id": 174,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/174.webp"
+          },
+          {
+            "id": 175,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/175.webp"
+          },
+          {
+            "id": 176,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/176.webp"
+          },
+          {
+            "id": 177,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/177.webp"
+          },
+          {
+            "id": 178,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/178.webp"
+          },
+          {
+            "id": 179,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/179.webp"
+          },
+          {
+            "id": 180,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/180.webp"
+          },
+          {
+            "id": 181,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/181.webp"
+          },
+          {
+            "id": 182,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/182.webp"
+          },
+          {
+            "id": 183,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/183.webp"
+          },
+          {
+            "id": 184,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/184.webp"
+          },
+          {
+            "id": 185,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/185.webp"
+          },
+          {
+            "id": 186,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/186.webp"
+          },
+          {
+            "id": 187,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/187.webp"
+          },
+          {
+            "id": 188,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/188.webp"
+          },
+          {
+            "id": 189,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/189.webp"
+          },
+          {
+            "id": 190,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/190.webp"
+          },
+          {
+            "id": 191,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/191.webp"
+          },
+          {
+            "id": 192,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/192.webp"
+          },
+          {
+            "id": 193,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/193.webp"
+          },
+          {
+            "id": 194,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/194.webp"
+          },
+          {
+            "id": 195,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/195.webp"
+          },
+          {
+            "id": 196,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/196.webp"
+          },
+          {
+            "id": 197,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/197.webp"
+          },
+          {
+            "id": 198,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/198.webp"
+          },
+          {
+            "id": 199,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/199.webp"
+          },
+          {
+            "id": 200,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/200.webp"
+          },
+          {
+            "id": 201,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/201.webp"
+          },
+          {
+            "id": 202,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/202.webp"
+          },
+          {
+            "id": 203,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/203.webp"
+          },
+          {
+            "id": 204,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/204.webp"
+          },
+          {
+            "id": 205,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/205.webp"
+          },
+          {
+            "id": 206,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/206.webp"
+          },
+          {
+            "id": 207,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/207.webp"
+          },
+          {
+            "id": 208,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/208.webp"
+          },
+          {
+            "id": 209,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/209.webp"
+          },
+          {
+            "id": 210,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/210.webp"
+          },
+          {
+            "id": 211,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/211.webp"
+          },
+          {
+            "id": 212,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/212.webp"
+          },
+          {
+            "id": 213,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/213.webp"
+          },
+          {
+            "id": 214,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/214.webp"
+          },
+          {
+            "id": 215,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/215.webp"
+          },
+          {
+            "id": 216,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/216.webp"
+          },
+          {
+            "id": 217,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/217.webp"
+          },
+          {
+            "id": 218,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/218.webp"
+          },
+          {
+            "id": 219,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/219.webp"
+          },
+          {
+            "id": 220,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/220.webp"
+          },
+          {
+            "id": 221,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/221.webp"
+          },
+          {
+            "id": 222,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/222.webp"
+          },
+          {
+            "id": 223,
+            "name": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/app/MyBluebird/pattern_august%202023_6.3.2/223.webp"
+          }
+        ]
+      }
+    ],
+    "isCategory": true,
+    "provider": "BLUE BIRD, PT TBK.",
+    "copyright": "© 2023 Blue Bird Group.",
+    "appstore": "https://apps.apple.com/id/app/mybluebird-taxi/id476533261",
+    "playstore": "https://play.google.com/store/apps/details?id=com.seatech.bluebird&hl=en_US",
+    "country": "Indonesia",
+    "lock": false,
+    "new": true,
+    "contributor": "Rhasya Rizqi",
     "new_color": "#D2EFFB",
     "color": "rgba(0, 179, 249, 0.16)"
   }
