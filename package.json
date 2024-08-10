@@ -7,5 +7,6 @@
     "cors": "^2.8.5",
     "express": "3.x",
     "mongoose": "^5.12.13"
-  }
+  },
+  "stack": "heroku-24"
 }
