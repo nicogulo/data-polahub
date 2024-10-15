@@ -64,14 +64,6 @@
     "isNew": false
   },
   {
-    "_id": "10",
-    "name": "Game",
-    "imageActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/active/gameboy-active.svg",
-    "imageInActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/normal/gameboy.svg",
-    "status": null,
-    "isNew": false
-  },
-  {
     "_id": "asd1293uasdads1",
     "name": "Health",
     "imageActive": "https://ndbqcbbgigoygotysyae.supabase.co/storage/v1/object/public/category/active/heart.svg",
